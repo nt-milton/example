@@ -1,0 +1,8 @@
+{
+    "Id": "232142",
+    "Arn": "test/arn",
+    "MasterAccountArn": "some-arn",
+    "MasterAccountId": "id73jda3",
+    "MasterAccountEmail": "test@test.com",
+    "name": "Organization Name"
+}

@@ -1,0 +1,11 @@
+{
+  "id":"57a10deb4772616473010000",
+  "object":"event",
+  "type":"token.deauthorized",
+  "created_at":"2016-08-02T21:17:31Z",
+  "data":{
+    "object":{
+      "access_code":"57a10deb4772616473010000"
+    }
+  }
+}

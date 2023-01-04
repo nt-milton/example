@@ -1,0 +1,2661 @@
+{
+    "expand": "schema,names",
+    "startAt": 0,
+    "maxResults": 2,
+    "total": 2,
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "14517",
+            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/14517",
+            "key": "LK-2248",
+            "changelog": {
+                "startAt": 0,
+                "maxResults": 28,
+                "total": 28,
+                "histories": [
+                    {
+                        "id": "94210",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-11T09:45:18.624-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10003",
+                                "toString": "Blocked"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "92192",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:52:23.792-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17, 18",
+                                "fromString": "3...2...1...Blast Off!, Sprint 09",
+                                "to": "18",
+                                "toString": "Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "91844",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:45:34.139-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17",
+                                "fromString": "3...2...1...Blast Off!",
+                                "to": "17, 18",
+                                "toString": "3...2...1...Blast Off!, Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "90072",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T17:06:09.907-0500",
+                        "items": [
+                            {
+                                "field": "Story Points",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10028",
+                                "from": null,
+                                "fromString": "5",
+                                "to": null,
+                                "toString": "2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "90061",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T17:06:05.503-0500",
+                        "items": [
+                            {
+                                "field": "summary",
+                                "fieldtype": "jira",
+                                "fieldId": "summary",
+                                "from": null,
+                                "fromString": "Laika Actions: streamline and automate release process",
+                                "to": null,
+                                "toString": "[Spike] Laika Actions: streamline and automate release process"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "82680",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-05T09:30:26.645-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10000",
+                                "fromString": "Backlog",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74617",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:21:18.909-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16, 17",
+                                "fromString": "Trick or Treat, Sprint 08 | 10/28 - 11/10",
+                                "to": "17",
+                                "toString": "Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74531",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:19:31.548-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16",
+                                "fromString": "Trick or Treat",
+                                "to": "16, 17",
+                                "toString": "Trick or Treat, Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "72527",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-22T09:44:19.719-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked lower"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "71483",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-20T09:47:51.397-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10000",
+                                "toString": "Backlog"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "69454",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-15T14:35:55.589-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10000",
+                                "fromString": "Backlog",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "67786",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-12T23:16:35.206-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked lower"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "67784",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-12T23:16:34.952-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "9",
+                                "fromString": "Placeholder for Q1 2021",
+                                "to": "16",
+                                "toString": "Sprint 07 | 10/14 - 10/27"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "61949",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-21T18:07:36.331-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked lower"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "61944",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-21T18:07:36.021-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "",
+                                "fromString": "",
+                                "to": "9",
+                                "toString": "Placeholder for Q4"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "61919",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-21T18:05:09.032-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked higher"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "61917",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-21T18:05:08.701-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "13",
+                                "fromString": "Placeholder for Q5",
+                                "to": "",
+                                "toString": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59552",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:53:35.123-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked lower"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59548",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:53:34.547-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "",
+                                "fromString": "",
+                                "to": "13",
+                                "toString": "Placeholder for Q5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59539",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:49:31.738-0400",
+                        "items": [
+                            {
+                                "field": "summary",
+                                "fieldtype": "jira",
+                                "fieldId": "summary",
+                                "from": null,
+                                "fromString": "Laika Actions to streamline and automate release process",
+                                "to": null,
+                                "toString": "Laika Actions: streamline and automate release process"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59538",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:49:15.060-0400",
+                        "items": [
+                            {
+                                "field": "summary",
+                                "fieldtype": "jira",
+                                "fieldId": "summary",
+                                "from": null,
+                                "fromString": "Implement Laika Actions",
+                                "to": null,
+                                "toString": "Laika Actions to streamline and automate release process"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59529",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:40:22.700-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked higher"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59528",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:40:05.248-0400",
+                        "items": [
+                            {
+                                "field": "Story Points",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10028",
+                                "from": null,
+                                "fromString": null,
+                                "to": null,
+                                "toString": "5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59520",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-10T11:33:52.557-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked higher"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59408",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-09T13:01:02.013-0400",
+                        "items": [
+                            {
+                                "field": "Link",
+                                "fieldtype": "jira",
+                                "from": null,
+                                "fromString": null,
+                                "to": "LK-2563",
+                                "toString": "This issue is duplicated by LK-2563"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "58712",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-02T16:34:21.183-0400",
+                        "items": [
+                            {
+                                "field": "assignee",
+                                "fieldtype": "jira",
+                                "fieldId": "assignee",
+                                "from": null,
+                                "fromString": null,
+                                "to": "5efb9ade7295050bad6664a6",
+                                "toString": "Kenneth Diaz",
+                                "tmpFromAccountId": null,
+                                "tmpToAccountId": "5efb9ade7295050bad6664a6"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "58636",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-09-02T15:44:39.854-0400",
+                        "items": [
+                            {
+                                "field": "issuetype",
+                                "fieldtype": "jira",
+                                "fieldId": "issuetype",
+                                "from": "10002",
+                                "fromString": "Task",
+                                "to": "10001",
+                                "toString": "Story"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "50740",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-07-09T16:30:12.288-0400",
+                        "items": [
+                            {
+                                "field": "description",
+                                "fieldtype": "jira",
+                                "fieldId": "description",
+                                "from": null,
+                                "fromString": null,
+                                "to": null,
+                                "toString": "Have a YAML file in our backend project that the pipeline reads to execute jobs or specific Django commands.\n\nThe problem we’re trying to solve is to provide an automated way to run Django commands for feature-specific needs like migrations, data changes, etc."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fields": {
+                "statuscategorychangedate": "2020-11-11T09:45:18.578-0500",
+                "issuetype": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issuetype/10001",
+                    "id": "10001",
+                    "description": "Functionality or a feature expressed as a user goal.",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/viewavatar?size=medium&avatarId=10315&avatarType=issuetype",
+                    "name": "Story",
+                    "subtask": false,
+                    "avatarId": 10315
+                },
+                "timespent": null,
+                "customfield_10030": [],
+                "project": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/project/10000",
+                    "id": "10000",
+                    "key": "LK",
+                    "name": "Laika",
+                    "projectTypeKey": "software",
+                    "simplified": false,
+                    "avatarUrls": {
+                        "48x48": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?pid=10000&avatarId=10512",
+                        "24x24": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10512",
+                        "16x16": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10512",
+                        "32x32": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10512"
+                    }
+                },
+                "customfield_10031": null,
+                "customfield_10032": null,
+                "customfield_10033": null,
+                "fixVersions": [],
+                "aggregatetimespent": null,
+                "customfield_10034": null,
+                "resolution": null,
+                "customfield_10035": null,
+                "customfield_10036": null,
+                "customfield_10037": null,
+                "customfield_10028": 2.0,
+                "customfield_10029": null,
+                "resolutiondate": null,
+                "workratio": -1,
+                "lastViewed": null,
+                "watches": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2248/watchers",
+                    "watchCount": 1,
+                    "isWatching": false
+                },
+                "created": "2020-07-09T16:28:14.497-0400",
+                "customfield_10020": [
+                    {
+                        "id": 18,
+                        "name": "Sprint 09",
+                        "state": "active",
+                        "boardId": 13,
+                        "goal": "Kick off Reports\nNew Documents finishing touches\nFinish Dashboard",
+                        "startDate": "2020-11-11T02:54:49.344Z",
+                        "endDate": "2020-11-24T14:54:00.000Z"
+                    }
+                ],
+                "customfield_10021": null,
+                "customfield_10022": null,
+                "customfield_10023": null,
+                "priority": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/priority/3",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "labels": [],
+                "customfield_10016": null,
+                "customfield_10017": null,
+                "customfield_10018": {
+                    "hasEpicLinkFieldDependency": false,
+                    "showField": false,
+                    "nonEditableReason": {
+                        "reason": "PLUGIN_LICENSE_ERROR",
+                        "message": "The Parent Link is only available to Jira Premium users."
+                    }
+                },
+                "customfield_10019": "0|i00ui4:zzzzx",
+                "aggregatetimeoriginalestimate": null,
+                "timeestimate": null,
+                "versions": [],
+                "issuelinks": [
+                    {
+                        "id": "13222",
+                        "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issueLink/13222",
+                        "type": {
+                            "id": "10002",
+                            "name": "Duplicate",
+                            "inward": "is duplicated by",
+                            "outward": "duplicates",
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issueLinkType/10002"
+                        },
+                        "inwardIssue": {
+                            "id": "14943",
+                            "key": "LK-2563",
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/14943",
+                            "fields": {
+                                "summary": "Implement continuous database integration",
+                                "status": {
+                                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/status/10009",
+                                    "description": "",
+                                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/statuses/generic.png",
+                                    "name": "Archived",
+                                    "id": "10009",
+                                    "statusCategory": {
+                                        "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/statuscategory/3",
+                                        "id": 3,
+                                        "key": "done",
+                                        "colorName": "green",
+                                        "name": "Done"
+                                    }
+                                },
+                                "priority": {
+                                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/priority/4",
+                                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/priorities/low.svg",
+                                    "name": "Low",
+                                    "id": "4"
+                                },
+                                "issuetype": {
+                                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issuetype/10001",
+                                    "id": "10001",
+                                    "description": "Functionality or a feature expressed as a user goal.",
+                                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/viewavatar?size=medium&avatarId=10315&avatarType=issuetype",
+                                    "name": "Story",
+                                    "subtask": false,
+                                    "avatarId": 10315
+                                }
+                            }
+                        }
+                    }
+                ],
+                "assignee": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                    "accountId": "5efb9ade7295050bad6664a6",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                    },
+                    "displayName": "Kenneth Diaz",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "updated": "2020-11-11T09:45:18.578-0500",
+                "status": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/status/10003",
+                    "description": "",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/statuses/generic.png",
+                    "name": "Blocked",
+                    "id": "10003",
+                    "statusCategory": {
+                        "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                },
+                "components": [],
+                "customfield_10050": null,
+                "customfield_10051": null,
+                "timeoriginalestimate": null,
+                "customfield_10052": null,
+                "customfield_10053": null,
+                "description": {
+                    "version": 1,
+                    "type": "doc",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Have a YAML file in our backend project that the pipeline reads to execute jobs or specific Django commands."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "The problem we’re trying to solve is to provide an automated way to run Django commands for feature-specific needs like migrations, data changes, etc."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "customfield_10054": null,
+                "customfield_10010": null,
+                "customfield_10014": "LK-2184",
+                "customfield_10015": null,
+                "customfield_10005": null,
+                "customfield_10049": null,
+                "customfield_10006": null,
+                "customfield_10007": null,
+                "security": null,
+                "customfield_10008": null,
+                "customfield_10009": null,
+                "aggregatetimeestimate": null,
+                "summary": "[Spike] Laika Actions: streamline and automate release process",
+                "creator": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                    "accountId": "5da95aa6a539480c3b2eca40",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                    },
+                    "displayName": "Ronald Zúñiga",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "subtasks": [],
+                "customfield_10040": null,
+                "customfield_10041": null,
+                "customfield_10042": null,
+                "reporter": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                    "accountId": "5da95aa6a539480c3b2eca40",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                        "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                    },
+                    "displayName": "Ronald Zúñiga",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "customfield_10043": null,
+                "customfield_10000": "{}",
+                "customfield_10044": null,
+                "aggregateprogress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "customfield_10001": null,
+                "customfield_10045": null,
+                "customfield_10002": null,
+                "customfield_10046": null,
+                "customfield_10047": null,
+                "customfield_10003": null,
+                "customfield_10048": null,
+                "customfield_10004": null,
+                "customfield_10038": null,
+                "customfield_10039": null,
+                "environment": null,
+                "duedate": null,
+                "progress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "votes": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2248/votes",
+                    "votes": 0,
+                    "hasVoted": false
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "15441",
+            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/15441",
+            "key": "LK-2940",
+            "changelog": {
+                "startAt": 0,
+                "maxResults": 20,
+                "total": 20,
+                "histories": [
+                    {
+                        "id": "94194",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-11T09:45:10.336-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "93453",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T23:54:31.238-0500",
+                        "items": [
+                            {
+                                "field": "Epic Link",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10014",
+                                "from": null,
+                                "fromString": null,
+                                "to": "14438",
+                                "toString": "LK-2184"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "92318",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:52:24.649-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17, 18",
+                                "fromString": "3...2...1...Blast Off!, Sprint 09",
+                                "to": "18",
+                                "toString": "Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "91853",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:45:34.172-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17",
+                                "fromString": "3...2...1...Blast Off!",
+                                "to": "17, 18",
+                                "toString": "3...2...1...Blast Off!, Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "89956",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T16:01:08.626-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "88218",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-09T19:44:37.890-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10005",
+                                "fromString": "Testing",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "85438",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5e3084003940fb0cad67a2f3",
+                            "accountId": "5e3084003940fb0cad67a2f3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/32"
+                            },
+                            "displayName": "Dominique Carvajal",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-06T15:21:20.043-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10061",
+                                "fromString": "Testing on Dev",
+                                "to": "10005",
+                                "toString": "Testing"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84832",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-06T12:44:33.480-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10061",
+                                "toString": "Testing on Dev"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83852",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-05T15:58:15.061-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10001",
+                                "fromString": "Selected for Development",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "82696",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-05T09:30:30.202-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10001",
+                                "toString": "Selected for Development"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "78629",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-03T09:38:58.305-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10061",
+                                "fromString": "Testing on Dev",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75279",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-29T09:51:25.373-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10061",
+                                "toString": "Testing on Dev"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75172",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-28T17:06:44.838-0400",
+                        "items": [
+                            {
+                                "field": "Story Points",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10028",
+                                "from": null,
+                                "fromString": null,
+                                "to": null,
+                                "toString": "3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74883",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-28T09:46:50.640-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74657",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:21:20.101-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16, 17",
+                                "fromString": "Trick or Treat, Sprint 08 | 10/28 - 11/10",
+                                "to": "17",
+                                "toString": "Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74544",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:19:31.682-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16",
+                                "fromString": "Trick or Treat",
+                                "to": "16, 17",
+                                "toString": "Trick or Treat, Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73830",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:42:14.759-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10000",
+                                "fromString": "Backlog",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73828",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:42:08.675-0400",
+                        "items": [
+                            {
+                                "field": "summary",
+                                "fieldtype": "jira",
+                                "fieldId": "summary",
+                                "from": null,
+                                "fromString": "Update Dev and Staging backend Pipelines",
+                                "to": null,
+                                "toString": "Update Dev and Staging backend/FE Pipelines"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73827",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:41:55.240-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked higher"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73824",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:41:55.044-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "",
+                                "fromString": "",
+                                "to": "16",
+                                "toString": "Trick or Treat"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fields": {
+                "statuscategorychangedate": "2020-11-05T15:58:15.029-0500",
+                "issuetype": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issuetype/10001",
+                    "id": "10001",
+                    "description": "Functionality or a feature expressed as a user goal.",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/viewavatar?size=medium&avatarId=10315&avatarType=issuetype",
+                    "name": "Story",
+                    "subtask": false,
+                    "avatarId": 10315
+                },
+                "timespent": null,
+                "customfield_10030": [],
+                "project": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/project/10000",
+                    "id": "10000",
+                    "key": "LK",
+                    "name": "Laika",
+                    "projectTypeKey": "software",
+                    "simplified": false,
+                    "avatarUrls": {
+                        "48x48": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?pid=10000&avatarId=10512",
+                        "24x24": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10512",
+                        "16x16": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10512",
+                        "32x32": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10512"
+                    }
+                },
+                "customfield_10031": null,
+                "customfield_10032": null,
+                "customfield_10033": null,
+                "fixVersions": [],
+                "customfield_10034": null,
+                "aggregatetimespent": null,
+                "resolution": null,
+                "customfield_10035": null,
+                "customfield_10036": null,
+                "customfield_10037": null,
+                "customfield_10028": 3.0,
+                "customfield_10029": null,
+                "resolutiondate": null,
+                "workratio": -1,
+                "lastViewed": "2020-11-10T16:58:03.003-0500",
+                "watches": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2940/watchers",
+                    "watchCount": 1,
+                    "isWatching": false
+                },
+                "created": "2020-10-27T09:41:52.279-0400",
+                "customfield_10020": [
+                    {
+                        "id": 18,
+                        "name": "Sprint 09",
+                        "state": "active",
+                        "boardId": 13,
+                        "goal": "Kick off Reports\nNew Documents finishing touches\nFinish Dashboard",
+                        "startDate": "2020-11-11T02:54:49.344Z",
+                        "endDate": "2020-11-24T14:54:00.000Z"
+                    }
+                ],
+                "customfield_10021": null,
+                "customfield_10022": null,
+                "priority": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/priority/3",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "customfield_10023": null,
+                "labels": [],
+                "customfield_10016": null,
+                "customfield_10017": null,
+                "customfield_10018": {
+                    "hasEpicLinkFieldDependency": false,
+                    "showField": false,
+                    "nonEditableReason": {
+                        "reason": "PLUGIN_LICENSE_ERROR",
+                        "message": "The Parent Link is only available to Jira Premium users."
+                    }
+                },
+                "customfield_10019": "0|i00ui4:zzzzzx",
+                "timeestimate": null,
+                "aggregatetimeoriginalestimate": null,
+                "versions": [],
+                "issuelinks": [],
+                "assignee": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                    "accountId": "5efb9ade7295050bad6664a6",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                    },
+                    "displayName": "Kenneth Diaz",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "updated": "2020-11-11T09:45:10.318-0500",
+                "status": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/status/3",
+                    "description": "",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/statuses/inprogress.png",
+                    "name": "In Progress",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                },
+                "components": [],
+                "customfield_10050": null,
+                "customfield_10051": null,
+                "timeoriginalestimate": null,
+                "customfield_10052": null,
+                "description": null,
+                "customfield_10053": null,
+                "customfield_10054": null,
+                "customfield_10010": null,
+                "customfield_10014": "LK-2184",
+                "customfield_10015": null,
+                "customfield_10049": null,
+                "customfield_10005": null,
+                "customfield_10006": null,
+                "customfield_10007": null,
+                "security": null,
+                "customfield_10008": null,
+                "aggregatetimeestimate": null,
+                "customfield_10009": null,
+                "summary": "Update Dev and Staging backend/FE Pipelines",
+                "creator": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                    "accountId": "5d5160594f89c40d98d681f9",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                    },
+                    "displayName": "Sébastien Theunissen",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "subtasks": [],
+                "customfield_10040": null,
+                "customfield_10041": null,
+                "customfield_10042": null,
+                "reporter": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                    "accountId": "5d5160594f89c40d98d681f9",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                    },
+                    "displayName": "Sébastien Theunissen",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "customfield_10043": null,
+                "aggregateprogress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "customfield_10000": "{}",
+                "customfield_10044": null,
+                "customfield_10001": null,
+                "customfield_10045": null,
+                "customfield_10046": null,
+                "customfield_10002": null,
+                "customfield_10003": null,
+                "customfield_10047": null,
+                "customfield_10048": null,
+                "customfield_10004": null,
+                "customfield_10038": null,
+                "customfield_10039": null,
+                "environment": null,
+                "duedate": null,
+                "progress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "votes": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2940/votes",
+                    "votes": 0,
+                    "hasVoted": false
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "15442",
+            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/15441",
+            "key": "LK-2945",
+            "changelog": {
+                "startAt": 0,
+                "maxResults": 20,
+                "total": 20,
+                "histories": [
+                    {
+                        "id": "94194",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-11T09:45:10.336-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "93453",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5dbc3d6508ee050c31803afa",
+                            "accountId": "5dbc3d6508ee050c31803afa",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5dbc3d6508ee050c31803afa/316476e4-3f55-4bc7-9fe7-da8880af1ec7/32"
+                            },
+                            "displayName": "Sam Li",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T23:54:31.238-0500",
+                        "items": [
+                            {
+                                "field": "Epic Link",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10014",
+                                "from": null,
+                                "fromString": null,
+                                "to": "14438",
+                                "toString": "LK-2184"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "92318",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:52:24.649-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17, 18",
+                                "fromString": "3...2...1...Blast Off!, Sprint 09",
+                                "to": "18",
+                                "toString": "Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "91853",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5f7130b360299600768260e3",
+                            "accountId": "5f7130b360299600768260e3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5f7130b360299600768260e3/81485036-0ee9-4960-88f1-700256ab57f2/32"
+                            },
+                            "displayName": "Braxton Bragg",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T21:45:34.172-0500",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "17",
+                                "fromString": "3...2...1...Blast Off!",
+                                "to": "17, 18",
+                                "toString": "3...2...1...Blast Off!, Sprint 09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "89956",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-10T16:01:08.626-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "88218",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-09T19:44:37.890-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10005",
+                                "fromString": "Testing",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "85438",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5e3084003940fb0cad67a2f3",
+                            "accountId": "5e3084003940fb0cad67a2f3",
+                            "avatarUrls": {
+                                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/48",
+                                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/24",
+                                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/16",
+                                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e3084003940fb0cad67a2f3/4b2eb7d9-9723-4751-a65a-59ef2caa2460/32"
+                            },
+                            "displayName": "Dominique Carvajal",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-06T15:21:20.043-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10061",
+                                "fromString": "Testing on Dev",
+                                "to": "10005",
+                                "toString": "Testing"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84832",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-06T12:44:33.480-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10061",
+                                "toString": "Testing on Dev"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83852",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-05T15:58:15.061-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10001",
+                                "fromString": "Selected for Development",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "82696",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-05T09:30:30.202-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10001",
+                                "toString": "Selected for Development"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "78629",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-11-03T09:38:58.305-0500",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10061",
+                                "fromString": "Testing on Dev",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75279",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                            "accountId": "5efb9ade7295050bad6664a6",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                                "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                            },
+                            "displayName": "Kenneth Diaz",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-29T09:51:25.373-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10004",
+                                "fromString": "Code Review",
+                                "to": "10061",
+                                "toString": "Testing on Dev"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75172",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-28T17:06:44.838-0400",
+                        "items": [
+                            {
+                                "field": "Story Points",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10028",
+                                "from": null,
+                                "fromString": null,
+                                "to": null,
+                                "toString": "3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74883",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-28T09:46:50.640-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "3",
+                                "fromString": "In Progress",
+                                "to": "10004",
+                                "toString": "Code Review"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74657",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:21:20.101-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16, 17",
+                                "fromString": "Trick or Treat, Sprint 08 | 10/28 - 11/10",
+                                "to": "17",
+                                "toString": "Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "74544",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5da95aa6a539480c3b2eca40",
+                            "accountId": "5da95aa6a539480c3b2eca40",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "24x24": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "16x16": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png",
+                                "32x32": "https://secure.gravatar.com/avatar/8ed1138e313f41924fc9a0464e3e31aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRZ-6.png"
+                            },
+                            "displayName": "Ronald Zúñiga",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T22:19:31.682-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "16",
+                                "fromString": "Trick or Treat",
+                                "to": "16, 17",
+                                "toString": "Trick or Treat, Sprint 08 | 10/28 - 11/10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73830",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:42:14.759-0400",
+                        "items": [
+                            {
+                                "field": "status",
+                                "fieldtype": "jira",
+                                "fieldId": "status",
+                                "from": "10000",
+                                "fromString": "Backlog",
+                                "to": "3",
+                                "toString": "In Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73828",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:42:08.675-0400",
+                        "items": [
+                            {
+                                "field": "summary",
+                                "fieldtype": "jira",
+                                "fieldId": "summary",
+                                "from": null,
+                                "fromString": "Update Dev and Staging backend Pipelines",
+                                "to": null,
+                                "toString": "Update Dev and Staging backend/FE Pipelines"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73827",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:41:55.240-0400",
+                        "items": [
+                            {
+                                "field": "Rank",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10019",
+                                "from": "",
+                                "fromString": "",
+                                "to": "",
+                                "toString": "Ranked higher"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73824",
+                        "author": {
+                            "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                            "accountId": "5d5160594f89c40d98d681f9",
+                            "avatarUrls": {
+                                "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                                "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                            },
+                            "displayName": "Sébastien Theunissen",
+                            "active": true,
+                            "timeZone": "America/New_York",
+                            "accountType": "atlassian"
+                        },
+                        "created": "2020-10-27T09:41:55.044-0400",
+                        "items": [
+                            {
+                                "field": "Sprint",
+                                "fieldtype": "custom",
+                                "fieldId": "customfield_10020",
+                                "from": "",
+                                "fromString": "",
+                                "to": "16",
+                                "toString": "Trick or Treat"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fields": {
+                "statuscategorychangedate": "2020-11-05T15:58:15.029-0500",
+                "issuetype": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issuetype/10001",
+                    "id": "10001",
+                    "description": "Functionality or a feature expressed as a user goal.",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/viewavatar?size=medium&avatarId=10315&avatarType=issuetype",
+                    "name": "Story",
+                    "subtask": false,
+                    "avatarId": 10315
+                },
+                "timespent": null,
+                "customfield_10030": [],
+                "project": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/project/10000",
+                    "id": "10000",
+                    "key": "LK",
+                    "name": "Laika",
+                    "projectTypeKey": "software",
+                    "simplified": false,
+                    "avatarUrls": {
+                        "48x48": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?pid=10000&avatarId=10512",
+                        "24x24": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10512",
+                        "16x16": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10512",
+                        "32x32": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10512"
+                    }
+                },
+                "customfield_10031": null,
+                "customfield_10032": null,
+                "customfield_10033": null,
+                "fixVersions": [],
+                "customfield_10034": null,
+                "aggregatetimespent": null,
+                "resolution": null,
+                "customfield_10035": null,
+                "customfield_10036": null,
+                "customfield_10037": null,
+                "customfield_10028": 3.0,
+                "customfield_10029": null,
+                "resolutiondate": null,
+                "workratio": -1,
+                "lastViewed": "2020-11-10T16:58:03.003-0500",
+                "watches": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2940/watchers",
+                    "watchCount": 1,
+                    "isWatching": false
+                },
+                "created": "2020-10-27T09:41:52.279-0400",
+                "customfield_10020": [
+                    {
+                        "id": 18,
+                        "name": "Sprint 09",
+                        "state": "active",
+                        "boardId": 13,
+                        "goal": "Kick off Reports\nNew Documents finishing touches\nFinish Dashboard",
+                        "startDate": "2020-11-11T02:54:49.344Z",
+                        "endDate": "2020-11-24T14:54:00.000Z"
+                    }
+                ],
+                "customfield_10021": null,
+                "customfield_10022": null,
+                "priority": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/priority/3",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "customfield_10023": null,
+                "labels": [],
+                "customfield_10016": null,
+                "customfield_10017": null,
+                "customfield_10018": {
+                    "hasEpicLinkFieldDependency": false,
+                    "showField": false,
+                    "nonEditableReason": {
+                        "reason": "PLUGIN_LICENSE_ERROR",
+                        "message": "The Parent Link is only available to Jira Premium users."
+                    }
+                },
+                "customfield_10019": "0|i00ui4:zzzzzx",
+                "timeestimate": null,
+                "aggregatetimeoriginalestimate": null,
+                "versions": [],
+                "issuelinks": [],
+                "assignee": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5efb9ade7295050bad6664a6",
+                    "accountId": "5efb9ade7295050bad6664a6",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "24x24": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "16x16": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png",
+                        "32x32": "https://secure.gravatar.com/avatar/35ae4d69309b721c99fe2c98ea492ca9?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKD-5.png"
+                    },
+                    "displayName": "Kenneth Diaz",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "updated": "2020-11-11T09:45:10.318-0500",
+                "status": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/status/3",
+                    "description": "",
+                    "iconUrl": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/images/icons/statuses/inprogress.png",
+                    "name": "In Progress",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                },
+                "components": [],
+                "customfield_10050": null,
+                "customfield_10051": null,
+                "timeoriginalestimate": null,
+                "customfield_10052": null,
+                "description": null,
+                "customfield_10053": null,
+                "customfield_10054": null,
+                "customfield_10010": null,
+                "customfield_10014": "LK-2184",
+                "customfield_10015": null,
+                "customfield_10049": null,
+                "customfield_10005": null,
+                "customfield_10006": null,
+                "customfield_10007": null,
+                "security": null,
+                "customfield_10008": null,
+                "aggregatetimeestimate": null,
+                "customfield_10009": null,
+                "summary": "Update Dev and Staging backend/FE Pipelines",
+                "creator": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/user?accountId=5d5160594f89c40d98d681f9",
+                    "accountId": "5d5160594f89c40d98d681f9",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "24x24": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "16x16": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png",
+                        "32x32": "https://secure.gravatar.com/avatar/9cd7d401f3b449cfeddfd9d7a1b49a37?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FST-3.png"
+                    },
+                    "displayName": "Sébastien Theunissen",
+                    "active": true,
+                    "timeZone": "America/New_York",
+                    "accountType": "atlassian"
+                },
+                "subtasks": [],
+                "customfield_10040": null,
+                "customfield_10041": null,
+                "customfield_10042": null,
+                "reporter": null,
+                "customfield_10043": null,
+                "aggregateprogress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "customfield_10000": "{}",
+                "customfield_10044": null,
+                "customfield_10001": null,
+                "customfield_10045": null,
+                "customfield_10046": null,
+                "customfield_10002": null,
+                "customfield_10003": null,
+                "customfield_10047": null,
+                "customfield_10048": null,
+                "customfield_10004": null,
+                "customfield_10038": null,
+                "customfield_10039": null,
+                "environment": null,
+                "duedate": null,
+                "progress": {
+                    "progress": 0,
+                    "total": 0
+                },
+                "votes": {
+                    "self": "https://api.atlassian.com/ex/jira/2445026d-c140-48a0-8fee-5d48aaec7592/rest/api/3/issue/LK-2940/votes",
+                    "votes": 0,
+                    "hasVoted": false
+                }
+            }
+        }
+    ]
+}

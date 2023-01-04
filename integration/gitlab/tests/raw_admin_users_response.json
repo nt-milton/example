@@ -1,0 +1,11 @@
+{
+  "data": {
+    "users": {
+      "nodes": [
+        {
+          "id": "gid://gitlab/User/2471369"
+        }
+      ]
+    }
+  }
+}

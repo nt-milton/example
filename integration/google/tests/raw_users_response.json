@@ -1,0 +1,173 @@
+{
+    "kind": "admin#directory#users",
+    "etag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/WYnqg8bPOIsDOff8vQflmxdJ8VY\"",
+    "nextPageToken": "dfafdfdsfdsfdsfsdfdsfdsfdsfsd",
+    "users": [
+        {
+            "kind": "admin#directory#user",
+            "id": "103043315594614939856",
+            "etag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/nxJPWgpvALRCxQJT9n7ivcP7OJ4\"",
+            "primaryEmail": "danny@heylaika.com",
+            "name": {
+                "givenName": "Danny",
+                "familyName": "Chacón",
+                "fullName": "Danny Chacón"
+            },
+            "isAdmin": true,
+            "isDelegatedAdmin": false,
+            "lastLoginTime": "2020-11-03T14:21:30.000Z",
+            "creationTime": "2020-07-23T15:11:32.000Z",
+            "agreedToTerms": true,
+            "suspended": false,
+            "archived": false,
+            "changePasswordAtNextLogin": false,
+            "ipWhitelisted": false,
+            "emails": [
+                {
+                    "address": "dany.chacon@gmail.com",
+                    "type": "work"
+                },
+                {
+                    "address": "danny@heylaika.com",
+                    "primary": true
+                },
+                {
+                    "address": "danny@heylaika.com.test-google-a.com"
+                }
+            ],
+            "nonEditableAliases": [
+                "danny@heylaika.com.test-google-a.com"
+            ],
+            "customerId": "C02y42vyn",
+            "orgUnitPath": "/",
+            "isMailboxSetup": true,
+            "isEnrolledIn2Sv": true,
+            "isEnforcedIn2Sv": true,
+            "includeInGlobalAddressList": true
+        },
+        {
+            "kind": "admin#directory#user",
+            "id": "109287231859442825475",
+            "etag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/LStBgB3VIb41Zx8XdeB0G2xaMHk\"",
+            "primaryEmail": "ronald@heylaika.com",
+            "name": {
+                "givenName": "Ronald",
+                "familyName": "Zúñiga",
+                "fullName": "Ronald Zúñiga"
+            },
+            "isAdmin": true,
+            "isDelegatedAdmin": false,
+            "lastLoginTime": "2020-11-08T02:04:17.000Z",
+            "creationTime": "2019-10-09T15:08:50.000Z",
+            "agreedToTerms": true,
+            "suspended": false,
+            "archived": false,
+            "changePasswordAtNextLogin": false,
+            "ipWhitelisted": false,
+            "emails": [
+                {
+                    "address": "ronald@heylaika.com",
+                    "primary": true
+                },
+                {
+                    "address": "ronald@heylaika.com.test-google-a.com"
+                }
+            ],
+            "nonEditableAliases": [
+                "ronald@heylaika.com.test-google-a.com"
+            ],
+            "customerId": "C02y42vyn",
+            "orgUnitPath": "/",
+            "isMailboxSetup": true,
+            "isEnrolledIn2Sv": true,
+            "isEnforcedIn2Sv": true,
+            "includeInGlobalAddressList": true,
+            "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIPynsa5hbjxgAEiC3ZjYXJkX3Bob3RvKihiOTE4Y2E5OGE3NmNlNDg1Nzg4YjY2NmVhZDk1NjYyODNjYzJmYTlmMAEDfo_JdzcRbateCNFfcMvHfC5y0A",
+            "thumbnailPhotoEtag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/f94doyoHsibBUNMBUfXHUEHr3cw\""
+        },
+        {
+            "kind": "admin#directory#user",
+            "id": "114496349593149367447",
+            "etag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/u93xou8vN64WQ7dw_MQeaP-yu5U\"",
+            "primaryEmail": "sam@heylaika.com",
+            "name": {
+                "givenName": "Sam",
+                "familyName": "Li",
+                "fullName": "Sam Li"
+            },
+            "isAdmin": true,
+            "isDelegatedAdmin": false,
+            "lastLoginTime": "2020-11-06T20:26:16.000Z",
+            "creationTime": "2019-07-08T17:06:49.000Z",
+            "agreedToTerms": true,
+            "suspended": false,
+            "archived": false,
+            "changePasswordAtNextLogin": false,
+            "ipWhitelisted": false,
+            "emails": [
+                {
+                    "address": "sam@heylaika.com",
+                    "primary": true
+                },
+                {
+                    "address": "sam@heylaika.com.test-google-a.com"
+                }
+            ],
+            "nonEditableAliases": [
+                "sam@heylaika.com.test-google-a.com"
+            ],
+            "customerId": "C02y42vyn",
+            "orgUnitPath": "/",
+            "isMailboxSetup": true,
+            "isEnrolledIn2Sv": true,
+            "isEnforcedIn2Sv": true,
+            "includeInGlobalAddressList": true,
+            "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECJfJr7zmpNiWyQEiC3ZjYXJkX3Bob3RvKihiZTFlNmRmMmQxMGE4Zjc2Y2IxMmNkZmMxNmFkYzM0MmNkYjE2YTMwMAF_VfJ6cV1nLR1FURYnz6XTEOB2NQ",
+            "thumbnailPhotoEtag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/_7Ob_-DXG6NMFlo8jOZr5lQINCc\""
+        },
+        {
+            "kind": "admin#directory#user",
+            "id": "115602337442250165067",
+            "etag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/89v4rs92SHJhD6xgjAmUwl8aT94\"",
+            "primaryEmail": "tomas@heylaika.com",
+            "name": {
+                "givenName": "Tomas",
+                "familyName": " Soley",
+                "fullName": "Tomas Soley"
+            },
+            "isAdmin": true,
+            "isDelegatedAdmin": false,
+            "lastLoginTime": "2020-11-04T21:21:31.000Z",
+            "creationTime": "2020-07-23T15:12:22.000Z",
+            "agreedToTerms": true,
+            "suspended": false,
+            "archived": false,
+            "changePasswordAtNextLogin": false,
+            "ipWhitelisted": false,
+            "emails": [
+                {
+                    "address": "tomassoley@gmail.com",
+                    "type": "work"
+                },
+                {
+                    "address": "tomas@heylaika.com",
+                    "primary": true
+                },
+                {
+                    "address": "tomas@heylaika.com.test-google-a.com"
+                }
+            ],
+            "nonEditableAliases": [
+                "tomas@heylaika.com.test-google-a.com"
+            ],
+            "customerId": "C02y42vyn",
+            "orgUnitPath": "/",
+            "isMailboxSetup": true,
+            "isEnrolledIn2Sv": true,
+            "isEnforcedIn2Sv": true,
+            "includeInGlobalAddressList": true,
+            "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECMuW5PjS56jD2AEiC3ZjYXJkX3Bob3RvKihlZjAyOTg5MDM1ZTQzZmRjYzlkZmUwNWNjYmY4MzdhMjQ0OWMwOGYyMAHExLGJZRdIhZOJA08XnUsIAyMjDA",
+            "thumbnailPhotoEtag": "\"PNA2ZR3TS-DeL8kB7gQOm1H5qhZ72uyN90kw26wJK68/7UNUkBfwF4wpjyIcf4aPe99k2os\""
+        }
+    ]
+}

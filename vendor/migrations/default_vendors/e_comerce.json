@@ -1,0 +1,1522 @@
+{
+  "id": 1880,
+  "name": "E-Commerce",
+  "vendors": [
+    {
+      "id": 292,
+      "name": "MailChimp",
+      "description": "Email marketing, ads, landing pages, and CRM tools to grow your business on your terms. Get the word out with email, social ads, and make your life easier with automation. It's easy, and you can start for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mailchimp.com",
+      "website": "mailchimp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mailchimp.com/help/about-mailchimp-the-eu-swiss-privacy-shield-and-the-gdpr/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mailchimp.com/legal/privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mailchimp.com/legal/privacy/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://mailchimp.com/about/security/"
+        }
+      ],
+      "categories": [
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 846,
+      "name": "Swagbucks",
+      "description": "Swagbucks.com is a rewards and loyalty-program operator operated by Prodege LLC, and based in El Segundo, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/swagbucks.com",
+      "website": "swagbucks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2122, "name": "Virtual Currency" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2206, "name": "Gift Card" }
+      ]
+    },
+    {
+      "id": 467,
+      "name": "ShareASale",
+      "description": "ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shareasale.com",
+      "website": "shareasale.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Skillshare",
+      "description": "Skillshare is an American online learning community for people who want to learn from educational videos.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/skillshare.com",
+      "website": "skillshare.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2227, "name": "EdTech" },
+        { "id": 2111, "name": "Education" },
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 2455, "name": "Peer to Peer" }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "LiveChat",
+      "description": "LiveChat is an online customer service software with live support, help desk software, and web analytics capabilities.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/livechatinc.com",
+      "website": "livechatinc.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.livechatinc.com/enterprise"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.livechatinc.com/enterprise/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Odoo",
+      "description": "The Community version is the open source version, while the Enterprise version supplements the Community edition with proprietary features and services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/odoo.com",
+      "website": "odoo.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.odoo.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2004, "name": "Human Resources" }
+      ]
+    },
+    {
+      "id": 554,
+      "name": "LoopNet",
+      "description": "LoopNet is an online marketplace for commercial property with more than 8 million registered members and 5 million unique monthly visitors.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/loopnet.com",
+      "website": "loopnet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2011, "name": "Commercial Real Estate" },
+        { "id": 1839, "name": "Real Estate" }
+      ]
+    },
+    {
+      "id": 647,
+      "name": "FastSpring",
+      "description": "FastSpring is a software as a service company that offers a full service e-commerce platform for companies that sell software and other online digital products.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fastspring.com",
+      "website": "fastspring.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://fastspring.com/risk-management-and-compliance/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1862, "name": "EBooks" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1950, "name": "E-Commerce Platforms" }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "PrestaShop",
+      "description": "PrestaShop is a freemium, open source e-commerce solution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/prestashop.com",
+      "website": "prestashop.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.prestashop.com/it/informativa-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 828,
+      "name": "cleverbridge",
+      "description": "cleverbridge is a global ecommerce solutions company providing billing and payment solutions for monetizing digital goods and online services",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cleverbridge.com",
+      "website": "cleverbridge.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2233, "name": "Subscription Service" }
+      ]
+    },
+    {
+      "id": 1202,
+      "name": "Affirm",
+      "description": "Founded in 2012 by PayPal co-founder Max Levchin, Affirm offers an easy way to pay over over time for the things you love—through merchants like Wayfair and Casper, and through the Affirm mobile app. Unlike credit cards, we tell you up front exactly wh...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/affirm.com",
+      "website": "affirm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2159, "name": "Consumer Lending" },
+        { "id": 2052, "name": "Personal Finance" },
+        { "id": 1942, "name": "Fashion" }
+      ]
+    },
+    {
+      "id": 760,
+      "name": "LiveHelpNow",
+      "description": "Customer service software with Bot driven automations featuring Live Chat, SMS, Support Ticket, Knowledge base integrated systems for call centers of any size. Help Desk Software enabling all communication channels to your customers in a single solutio...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/livehelpnow.net",
+      "website": "livehelpnow.net",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://www.livehelpnow.net/" }
+      ],
+      "categories": [
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 1092,
+      "name": "Klaviyo",
+      "description": "Klaviyo is a growth marketing platform created for online businesses — featuring powerful marketing automation and a revenue-driving email platform. Klaviyo helps brands understand their customers and build unlimited, real, quality relationships.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/klaviyo.com",
+      "website": "klaviyo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.klaviyo.com/privacy/policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.klaviyo.com/privacy/policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.klaviyo.com/privacy/dpa" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.klaviyo.com/terms-of-service"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2043, "name": "Shopping" }
+      ]
+    },
+    {
+      "id": 377,
+      "name": "TradeGecko",
+      "description": "TradeGecko is a Singapore based software-as-a-service company that develops online inventory and order management software targeted at SMEs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tradegecko.com",
+      "website": "tradegecko.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tradegecko.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2018, "name": "Supply Chain Management" },
+        { "id": 2000, "name": "Transportation" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 978,
+      "name": "Vidyard",
+      "description": "Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vidyard.com",
+      "website": "vidyard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Nexmo",
+      "description": "Nexmo, a Vonage Company, is a global cloud communications platform leader providing innovative APIs & SDKs for voice, text, messaging & phone verification.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nexmo.com",
+      "website": "nexmo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "FullStory",
+      "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fullstory.com",
+      "website": "fullstory.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "SellerCloud",
+      "description": "SellerCloud - an ecommerce solution helping online retailers up efficiency & grow business. 50 integrated channels to reach customers & generate sales.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sellercloud.com",
+      "website": "sellercloud.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2001, "name": "Retail Technology" }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Chargebee",
+      "description": "Chargebee's subscription billing platform powers end-to-end recurring billing for subscription businesses with smart automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chargebee.com",
+      "website": "chargebee.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://www.chargebee.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://www.chargebee.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.chargebee.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.chargebee.com/security/" },
+        {
+          "protocolId": 8,
+          "sourceUrl": "https://www.chargebee.com/docs/eu-gdpr.html"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.chargebee.com/security/"
+        },
+        { "protocolId": 11, "sourceUrl": "https://www.chargebee.com/security/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 770,
+      "name": "Volusion",
+      "description": "Create your online store w/ a FREE 14-day trial of our award-winning ecommerce software. Shown to sell 4x more than other hosted shopping carts!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/volusion.com",
+      "website": "volusion.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.volusion.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 820,
+      "name": "Yotpo",
+      "description": "Yotpo is an eCommerce marketing platform with the most advanced solutions for customer reviews, visual marketing, loyalty, and referrals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/yotpo.com",
+      "website": "yotpo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.yotpo.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.yotpo.com/privacy-policy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.yotpo.com/pricing/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.yotpo.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Salsify",
+      "description": "Salsify's Product Experience Management (PXM) platform enables brands to deliver the product experiences consumers demand. Next gen PIM. Free Demo!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salsify.com",
+      "website": "salsify.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.salsify.com/gdpr" },
+        { "protocolId": 5, "sourceUrl": "https://www.salsify.com/gdpr" },
+        { "protocolId": 7, "sourceUrl": "https://www.salsify.com/gdpr" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.salsify.com/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.salsify.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Leanplum",
+      "description": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a single mobile marketing platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leanplum.com",
+      "website": "leanplum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2219, "name": "Intelligent Systems" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1950, "name": "E-Commerce Platforms" }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Chargify",
+      "description": "Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying your Subscription Billing today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chargify.com",
+      "website": "chargify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.chargify.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1929, "name": "Billing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1848, "name": "Financial Services" }
+      ]
+    },
+    {
+      "id": 971,
+      "name": "Sailthru",
+      "description": "Sailthru is the largest sender of personalized email in the world. Visit us online to see our extensive email marketing and marketing automation services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sailthru.com",
+      "website": "sailthru.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sailthru.com/marketing-blog/gdpr-notice-know-sailthru-can-help/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sailthru.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sailthru.com/legal/acceptable-use-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.sailthru.com/legal/agreements/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Maropost",
+      "description": "Maropost simplifies customer engagement with a unified platform designed to connect companies with their customers at every step of their journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maropost.com",
+      "website": "maropost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://trust.maropost.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 761,
+      "name": "Stitch Labs",
+      "description": "Stitch is built for high-growth commerce brands looking to scale their operations. Manage your multi-channel inventory and orders, fulfillment, purchasing, 3PLs and warehouses, and cost tracking —all in one centralized platform. From now on, things wil...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/stitchlabs.com",
+      "website": "stitchlabs.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2001, "name": "Retail Technology" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1828, "name": "Wholesale" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 1034,
+      "name": "ChannelAdvisor",
+      "description": "ChannelAdvisor Corp. is an e-commerce company based in Morrisville, North Carolina.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/channeladvisor.com",
+      "website": "channeladvisor.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2340, "name": "Marketplace" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 956,
+      "name": "Lithium Technologies",
+      "description": "Lithium Technologies is a San Francisco-based provider of software that allows businesses to connect with their customers on social media and digital channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lithium.com",
+      "website": "lithium.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1816, "name": "Social CRM" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2148, "name": "Communities" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 721,
+      "name": "Kenshoo",
+      "description": "Digital advertising technology platform designed to connect marketers and customers across the leading publishers for search, social and e-commerce.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kenshoo.com",
+      "website": "kenshoo.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://kenshoo.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1912, "name": "Social Media Advertising" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1890, "name": "Mobile Advertising" }
+      ]
+    },
+    {
+      "id": 1025,
+      "name": "PowerReviews",
+      "description": "PowerReviews enables connected commerce by amplifying user-generated content and consumer feedback to improve the customer experience.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/powerreviews.com",
+      "website": "powerreviews.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1832, "name": "Retail" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 924,
+      "name": "Sift",
+      "description": "Digital Trust & Safety enables your business to grow, innovate, introduce new products, features, and business models – without increased risk.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sift.com",
+      "website": "sift.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 848,
+      "name": "Unleashed Software",
+      "description": "Unleashed Software is a New Zealand-based software-as-a-service company that provides cloud based inventory management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unleashedsoftware.com",
+      "website": "unleashedsoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1988, "name": "Small and Medium Businesses" }
+      ]
+    },
+    {
+      "id": 705,
+      "name": "Liferay",
+      "description": "Build portals, intranets, websites and connected experiences on the most extensible digital experience platform around. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liferay.com",
+      "website": "liferay.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 5,
+          "sourceUrl": " https://www.liferay.com/legal/cloud-services-data"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.liferay.com/legal/cloud-services-data"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.liferay.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2378, "name": "Online Portals" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2352, "name": "CMS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1950, "name": "E-Commerce Platforms" }
+      ]
+    },
+    {
+      "id": 463,
+      "name": "FreeAgent",
+      "description": "FreeAgent is cloud-based accounting software targeted at small businesses and their accountants.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/freeagent.com",
+      "website": "freeagent.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.freeagent.com/company/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Talkable",
+      "description": "Talkable enables e-commerce companies to easily launch referral marketing programs",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkable.com",
+      "website": "talkable.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 858,
+      "name": "Kentico",
+      "description": "0 community sites. NET and Microsoft SQL Server for development via its Portal Engine, using Visual Studio, or through Microsoft MVC.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kentico.com",
+      "website": "kentico.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Usabilla",
+      "description": "Collect user feedback and improve your websites, apps and emails with Usabilla's Voice of Customer Solutions. Want to see what Usabilla can do for you? Let us show you with our free, personalized demo and get an inside look at our advanced functionalit...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/usabilla.com",
+      "website": "usabilla.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://usabilla.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://usabilla.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Evergage",
+      "description": "The company was founded as Apptegic in 2010 by Karl Wirth and Greg Hinkle, who met while working at Red Hat.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/evergage.com",
+      "website": "evergage.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 977,
+      "name": "Clicktale",
+      "description": "Clicktale taps into the wisdom and behavior of millions of visitors so that businesses can deliver the best digital experiences and drive amazing business results. Complex behavioral patterns are synthesized based on millisecond-level actions such as h...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clicktale.com",
+      "website": "clicktale.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.clicktale.com/company/privacy-shield/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/general-data-protection-regulation-gdpr/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.clicktale.com/company/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Miva",
+      "description": "Miva, Inc. is a privately owned ecommerce shopping cart software and hosting company with headquarters in San Diego, California and a data center in Tampa, Florida.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/miva.com",
+      "website": "miva.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Episerver",
+      "description": "Episerver is a global software company offering web content management, digital commerce, and digital marketing, through the Episerver Digital Experience Cloud software platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/episerver.com",
+      "website": "episerver.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.episerver.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.episerver.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.episerver.com/legal/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Rakuten",
+      "description": "Where's your stuff? Find out with the best online shopping app for Android & iOS that tracks all your packages, purchases, price drops.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/slice.com",
+      "website": "slice.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2437, "name": "Consumer" },
+        { "id": 2043, "name": "Shopping" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 1100,
+      "name": "Riskified",
+      "description": "Riskified turns shoppers into customers. Grow revenue, improve customer experience, eliminate fraudulent chargeback costs & prevent ATO. Learn more here.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/riskified.com",
+      "website": "riskified.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.riskified.com/tos/" }
+      ],
+      "categories": [
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1845, "name": "Risk Management" }
+      ]
+    },
+    {
+      "id": 623,
+      "name": "ROKT",
+      "description": "Get the max return on investment every time a customer engages your marketing offer using Rokt’s transaction marketing platform.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "rokt.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://rokt.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 860,
+      "name": "Deem",
+      "description": "Deem Work Fource is a corporate travel booking software that saves your \r  travelers time booking, saves you money on air, hotel and ground - and \r  helps you both get more done in less time, with more choice. Request a demo \r  today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/deem.com",
+      "website": "deem.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2434, "name": "Business Travel" },
+        { "id": 2000, "name": "Transportation" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2193, "name": "Cloud Infrastructure" }
+      ]
+    },
+    {
+      "id": 421,
+      "name": "OpenSesame",
+      "description": "OpenSesame Inc. is a Portland based educational technology company that provides an online marketplace for buying and selling SCORM e-learning courses focused primarily on employee training.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/opensesame.com",
+      "website": "opensesame.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.opensesame.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.opensesame.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2227, "name": "EdTech" },
+        { "id": 2111, "name": "Education" }
+      ]
+    },
+    {
+      "id": 688,
+      "name": "Inbenta",
+      "description": "Inbenta is a global leader in AI and NLU for Enterprise Search, Ecommerce Search, Chatbots, Support Ticketing, and Knowledge Management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/inbenta.com",
+      "website": "inbenta.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.inbenta.com/en/compliance/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.inbenta.com/en/compliance/overview/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.inbenta.com/en/compliance/certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 2332, "name": "Virtual Assistant" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2012, "name": "Travel" },
+        { "id": 1959, "name": "Semantic Search" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 962,
+      "name": "GBG Loqate",
+      "description": "Enhance data quality Address Verification and ZIP Code Validation. Bath Cleansing of location data is also available from Loqate, a GBG solution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/loqate.com",
+      "website": "loqate.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.loqate.com/en-us/our-platform/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.loqate.com/en-us/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1930, "name": "Professional Services" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1963, "name": "Location Based Services" },
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 859,
+      "name": "IgnitionOne",
+      "description": "Follow us on Twitter @ignitionone!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ignitionone.com",
+      "website": "ignitionone.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://ignitionone.com/services-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://ignitionone.com/services-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1911, "name": "Test and Measurement" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 655,
+      "name": "Sellsy",
+      "description": "Sellsy est une solution française de gestion d'entreprise. CRM, facturation, comptabilité et support sont intégrés sur une même interface intuitive.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sellsy.com",
+      "website": "sellsy.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://go.sellsy.com/en/legacy-information/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "TurnTo Networks",
+      "description": "The most innovative customer content application suite including Community Q&A, Ratings & Reviews, Checkout Comments, and Visual Reviews",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/turntonetworks.com",
+      "website": "turntonetworks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 990,
+      "name": "SiteSpect",
+      "description": "SiteSpect is the A/B testing and optimization solution where you can test your ideas, discover insights, and personalize the entire customer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sitespect.com",
+      "website": "sitespect.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1911, "name": "Test and Measurement" }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Pax8",
+      "description": "Pax8 is the leading value-added cloud distributor offering top cloud products and solutions to the IT channel.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "pax8.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2340, "name": "Marketplace" }
+      ]
+    },
+    {
+      "id": 873,
+      "name": "Ensighten",
+      "description": "Client-side detection and prevention of unauthorized leakage and data theft. Assess and monitor privacy risk to protect against malicious JavaScript attacks",
+      "isClaimed": false,
+      "logo": null,
+      "website": "ensighten.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 919,
+      "name": "Moxie",
+      "description": "Be there for your online customers. Moxie's customer engagement software solves customer struggles, increases revenue, and boosts customer satisfaction. See how our innovative technology - including Kbot Digital Guidance, Live Chat, Web Self-Service, a...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gomoxie.com",
+      "website": "gomoxie.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.gomoxie.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.gomoxie.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.gomoxie.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Kooomo",
+      "description": "Make selling easier with Kooomo's® cloud commerce systems. See how our digital commerce platform showcases your products and help reach more...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kooomo.com",
+      "website": "kooomo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1950, "name": "E-Commerce Platforms" }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "TECSYS",
+      "description": "TECSYS is a leader in warehouse management software with innovative supply chain management solutions for Healthcare, Government, and High-Volume Distribution industries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tecsys.com",
+      "website": "tecsys.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2018, "name": "Supply Chain Management" },
+        { "id": 1832, "name": "Retail" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2316, "name": "Enterprise" }
+      ]
+    },
+    {
+      "id": 1185,
+      "name": "VeraSafe",
+      "description": "VeraSafe provides trust seals, website security scanning, privacy certification and PCI scanning for websites worldwide. http://www.VeraSafe.com",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/verasafe.com",
+      "website": "verasafe.com",
+      "vendorToProtocols": [],
+      "categories": [{ "id": 1880, "name": "E-Commerce" }]
+    },
+    {
+      "id": 773,
+      "name": "Cognitev",
+      "description": "Cognition is what drives human progress. Understanding the meaning of the data our minds process every second is one of our brain's most powerful functions. At Cognitev we try to bring this to machines using the power of Artificial Intelligence.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cognitev.com",
+      "website": "cognitev.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 1110,
+      "name": "Shopify",
+      "description": "Shopify Inc. is a Canadian e-commerce company headquartered in Ottawa, Ontario.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "website": "shopify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://help.shopify.com/pdf/soc3.pdf"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.shopify.com/en/manual/your-account/GDPR/GDPR-overview"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 707,
+      "name": "2Checkout",
+      "description": "Accept payments online, anytime, anywhere. 2Checkout.com is an online payment processing service that helps you accept credit cards, PayPal, and debit cards.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/2checkout.com",
+      "website": "2checkout.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.2checkout.com/legal/privacy-shield-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.2checkout.com/privacy.php"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.2checkout.com/legal/privacy-shield-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1897, "name": "Payments" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 2202, "name": "Mobile Payments" }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Adverity",
+      "description": "\"Adverity is connecting data from marketing tools and sources across all channels and enables a more efficient reporting, better decision making and an improved marketing performance.    Our clients - both brands and agencies - leverage the platform to...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "adverity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Apptivo",
+      "description": "Apptio is a Bellevue, Washington-based company founded in 2007 that develops technology business management software as a service applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptivo.com",
+      "website": "apptivo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 805,
+      "name": "Blurb",
+      "description": "Blurb is an American self-publishing platform that enables their users to create, self-publish, promote, share, and sell their own print and ebooks.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/blurb.com",
+      "website": "blurb.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.blurb.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://www.blurb.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.blurb.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "CallPage",
+      "description": "CallPage assists you in converting your website visitors into happy customers. Generate sales calls and leads, and move deals faster through the pipeline.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/callpage.io",
+      "website": "callpage.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Bluehost",
+      "description": "Bluehost is a web hosting company owned by Endurance International Group.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluehost.com",
+      "website": "bluehost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://my.bluehost.com/hosting/help/gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1902, "name": "Communications Infrastructure" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 2187, "name": "Web Hosting" }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Brightpearl",
+      "description": "Brightpearl is the omnichannel retail management system that puts your \r  orders, inventory, financials, POS and CRM in one place.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brightpearl.com",
+      "website": "brightpearl.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2001, "name": "Retail Technology" },
+        { "id": 2078, "name": "Point of Sale" }
+      ]
+    }
+  ]
+}

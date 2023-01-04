@@ -1,0 +1,1051 @@
+[
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"\"ntp.in_sync\".over(\"*\").last(2).count_by_status()",
+      "message":"Triggers if any host's clock goes out of sync with the time given by NTP. The offset threshold is configured in the Agent's `ntp.yaml` file.\n\nPlease read the [KB article](https://docs.datadoghq.com/agent/faq/network-time-protocol-ntp-offset-issues) on NTP Offset issues for more details on cause and resolution.",
+      "matching_downtimes":[
+
+      ],
+      "id":13256661,
+      "multi":true,
+      "name":"[Auto] Clock in sync with NTP",
+      "created":"2019-11-13T15:35:32.355671+00:00",
+      "created_at":1573659332000,
+      "creator":{
+         "id":1500142,
+         "handle":"support-laika",
+         "name":"Datadog Support",
+         "email":"support-user-prod@datadoghq.com"
+      },
+      "org_id":344792,
+      "modified":"2019-11-13T15:35:32.355671+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-06-09T22:07:03+00:00",
+      "overall_state":"OK",
+      "type":"service check",
+      "options":{
+         "thresholds":{
+            "warning":1,
+            "ok":1,
+            "critical":1
+         },
+         "silenced":{
+
+         }
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"env:staging service:laika-app -admin status:error -\\\"Not Found\\\" -graphql.execution.utils -monitor.* -integration.* -library.* -@module:(audit* OR auditee* OR fieldwork* OR auditor* OR report* OR library* OR dataroom* OR vendor* OR monitor* OR pentest* OR integration* OR objects* OR organization* OR seeder* OR feature* OR certification* OR control* OR user OR policy* OR evidence* OR document* OR drive* OR \\\"Error sending email\\\") -\\\"User matching query does not exist.\\\" -\\\"Error to update policy with ID\\\" -\\\"Error to create published policy with ID\\\" -\\\"Cannot update organization vendor\\\" -\\\"User Another user exists with the same email address\\\" -\\\"/user/magic_link\\\" -\\\"ddtrace/contrib/aioredis/patch.py\\\" -\\\"ddtrace.internal.writer\\\"\").index(\"*\").rollup(\"count\").last(\"5m\") >= 1",
+      "message":"@slack-staging-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":15987747,
+      "multi":false,
+      "name":"Error triggered in staging environment",
+      "created":"2020-02-24T12:42:20.793477+00:00",
+      "created_at":1582548140000,
+      "creator":{
+         "id":1500143,
+         "handle":"ronald@heylaika.com",
+         "name":"Ronald Zúñiga",
+         "email":"ronald@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-05-25T02:21:02.010733+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T23:27:57+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"env:production -admin status:error -\\\"Not Found\\\" -graphql.execution.utils -monitor.* -integration.* -objects.* -library.* -dashboard.* -@module:(audit* OR auditee* OR fieldwork* OR auditor* OR report* OR library* OR dataroom* OR vendor* OR monitor* OR pentest* OR integration* OR objects* OR organization* OR seeder* OR feature* OR certification* OR control* OR user* OR policy* OR evidence* OR document* OR drive* OR sso* OR auth OR program* OR Search) -\\\"User matching query does not exist.\\\" -\\\"Error to update policy with ID\\\" -\\\"Error to create published policy with ID\\\" -\\\"Cannot update organization vendor\\\" -\\\"User Another user exists with the same email address\\\" -\\\"Signature has expired\\\" -\\\"while decoding jwt token \\'NoneType\\' object has no attribute \\'id\\'\\\" -\\\"/user/magic_link\\\" -\\\"/user/user_idp\\\" -\\\"Error getting token unverified header: Not enough segments\\\" -\\\"Invalid number of rows\\\" -\\\"error trying to decode okta token\\\" -\\\"at /usr/local/lib/python3.9/dist-packages/ddtrace/\\\" -\\\"ddtrace.internal.writer\\\" -\\\"/evidence/export\\\" -\\\"/fieldwork/generate-report\\\" -\\\"/auditor/get-draft-report-pdf\\\" -\\\"User Cannot invite user\\\" -\\\"User duplicate key value violates unique constraint\\\" -\\\"/policy\\\" -\\\"error while decoding jwt token async Token with unexpected key\\\" -\\\"The \\'draft_report\\' attribute has no file associated with it.\\\" -\\\"/auditee/get-uploaded-draft-report\\\" -\\\"Failed to upload key: Okta error\\\" -\\\"Error validating the username for SSO\\\" -\\\"error trying to create okta user\\\" -\\\"User Cannot get users\\\" -/training/* -/user/get_user_status* -\\\"Error calling AddActionItemEvidence.mutate: list index out of range\\\" -\\\"Organization has no drive\\\" -\\\"\\'NoneType\\' object has no attribute \\'credentials\\'\\\"\").index(\"main\").rollup(\"count\").last(\"5m\") >= 1",
+      "message":"@slack-production-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":15987790,
+      "multi":false,
+      "name":"Error found in production",
+      "created":"2020-02-24T12:44:00.700533+00:00",
+      "created_at":1582548240000,
+      "creator":{
+         "id":1500143,
+         "handle":"ronald@heylaika.com",
+         "name":"Ronald Zúñiga",
+         "email":"ronald@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-20T21:28:52.174422+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T22:39:41+00:00",
+      "overall_state":"No Data",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "new_host_delay":300,
+         "on_missing_data":"show_and_notify_no_data",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"dev -admin status:error -\\\"Not Found\\\" -graphql.execution.utils -integration.* -objects.* -library.* -@module:(audit* OR auditee* OR fieldwork* OR auditor* OR report* OR library* OR dataroom* OR vendor* OR monitor* OR integration* OR objects* OR organization* OR seeder* OR feature* OR certification* OR control* OR user OR policy* OR evidence* OR document* OR drive* OR sso*) -\\\"User matching query does not exist.\\\" -\\\"Error to update policy with ID\\\" -\\\"Error to create published policy with ID\\\" -\\\"Cannot update organization vendor\\\" -\\\"User Another user exists with the same email address\\\" -\\\"Signature has expired\\\" -\\\"ddtrace/contrib/aioredis/patch.py\\\" -\\\"ddtrace.internal.writer\\\"\").index(\"*\").rollup(\"count\").last(\"5m\") >= 1",
+      "message":"@slack-development-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":15987954,
+      "multi":false,
+      "name":"Error found in development",
+      "created":"2020-02-24T12:54:33.855117+00:00",
+      "created_at":1582548873000,
+      "creator":{
+         "id":1500143,
+         "handle":"ronald@heylaika.com",
+         "name":"Ronald Zúñiga",
+         "email":"ronald@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-05-25T02:20:29.168504+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-25T00:45:25+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+         "probe_dc:aws:us-east-2",
+         "probe_dc:aws:us-west-2",
+         "probe_dc:aws:us-west-1",
+         "check_type:api",
+         "check_status:live"
+      ],
+      "deleted":"None",
+      "query":"no_query",
+      "message":"@slack-production-alerts \n{{#is_alert}}{{value}} {{/is_alert}}",
+      "matching_downtimes":[
+
+      ],
+      "id":34963400,
+      "multi":false,
+      "name":"heylaika.com is {{#is_alert}}not {{/is_alert}}working",
+      "created":"2021-05-05T20:49:43.603656+00:00",
+      "created_at":1620247783000,
+      "creator":{
+         "id":1864466,
+         "handle":"kenneth@heylaika.com",
+         "name":"Kenneth Diaz",
+         "email":"kenneth@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2021-10-13T21:15:30.412310+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-09-20T18:39:20+00:00",
+      "overall_state":"OK",
+      "type":"synthetics alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "include_tags":true,
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "renotify_interval":10
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+         "probe_dc:aws:us-east-2",
+         "probe_dc:aws:us-west-2",
+         "probe_dc:aws:us-west-1",
+         "check_type:api",
+         "check_status:live"
+      ],
+      "deleted":"None",
+      "query":"no_query",
+      "message":"@slack-production-alerts \n{{#is_alert}}{{value}} {{/is_alert}}",
+      "matching_downtimes":[
+
+      ],
+      "id":34963912,
+      "multi":false,
+      "name":"audit.heylaika.com is {{#is_alert}}not {{/is_alert}}working",
+      "created":"2021-05-05T20:59:17.806671+00:00",
+      "created_at":1620248357000,
+      "creator":{
+         "id":1864466,
+         "handle":"kenneth@heylaika.com",
+         "name":"Kenneth Diaz",
+         "email":"kenneth@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2021-10-13T21:27:32.098524+00:00",
+      "priority":"None",
+      "overall_state_modified":"2021-10-13T21:27:52+00:00",
+      "overall_state":"OK",
+      "type":"synthetics alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "include_tags":true,
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "renotify_interval":10
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+         "probe_dc:aws:us-east-2",
+         "probe_dc:aws:us-west-2",
+         "probe_dc:aws:us-west-1",
+         "check_type:api",
+         "check_status:live"
+      ],
+      "deleted":"None",
+      "query":"no_query",
+      "message":"@slack-production-alerts \n{{#is_alert}}{{value}} {{/is_alert}}",
+      "matching_downtimes":[
+
+      ],
+      "id":49553666,
+      "multi":false,
+      "name":"cep.heylaika.com is {{#is_alert}}not {{/is_alert}}working",
+      "created":"2021-10-13T17:51:35.020527+00:00",
+      "created_at":1634147495000,
+      "creator":{
+         "id":3189809,
+         "handle":"milton.baltodano@heylaika.com",
+         "name":"Milton  Baltodano",
+         "email":"milton.baltodano@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2021-12-02T19:29:27.865185+00:00",
+      "priority":"None",
+      "overall_state_modified":"2021-12-02T19:30:26+00:00",
+      "overall_state":"OK",
+      "type":"synthetics alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "include_tags":true,
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "renotify_interval":10
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+         "probe_dc:aws:us-east-2",
+         "probe_dc:aws:us-west-2",
+         "probe_dc:aws:us-west-1",
+         "check_type:api",
+         "check_status:live"
+      ],
+      "deleted":"None",
+      "query":"no_query",
+      "message":"@slack-production-alerts \n{{#is_alert}}{{value}} {{/is_alert}}",
+      "matching_downtimes":[
+
+      ],
+      "id":49623201,
+      "multi":false,
+      "name":"app.heylaika.com is {{#is_alert}}not {{/is_alert}}working",
+      "created":"2021-10-13T20:55:23.509549+00:00",
+      "created_at":1634158523000,
+      "creator":{
+         "id":3189809,
+         "handle":"milton.baltodano@heylaika.com",
+         "name":"Milton  Baltodano",
+         "email":"milton.baltodano@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2021-10-13T21:29:11.199740+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-06-14T04:58:21+00:00",
+      "overall_state":"OK",
+      "type":"synthetics alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "include_tags":true,
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "renotify_interval":10
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"\\\"unapplied migration\\\" env:dev\").index(\"*\").rollup(\"count\").last(\"5m\") > 1",
+      "message":"Unapplied migrations @slack-development-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":59935016,
+      "multi":false,
+      "name":"Migrations-Dev",
+      "created":"2022-01-06T17:06:06.391658+00:00",
+      "created_at":1641488766000,
+      "creator":{
+         "id":1864466,
+         "handle":"kenneth@heylaika.com",
+         "name":"Kenneth Diaz",
+         "email":"kenneth@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-01-06T17:33:26.124165+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-21T21:50:27+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "enable_logs_sample":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "include_tags":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"\\\"unapplied migration\\\" env:staging\").index(\"*\").rollup(\"count\").last(\"5m\") > 1",
+      "message":"Unapplied migrations @slack-staging-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":59935505,
+      "multi":false,
+      "name":"Migrations Staging",
+      "created":"2022-01-06T17:15:09.269774+00:00",
+      "created_at":1641489309000,
+      "creator":{
+         "id":1864466,
+         "handle":"kenneth@heylaika.com",
+         "name":"Kenneth Diaz",
+         "email":"kenneth@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-01-06T17:26:30.329478+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T17:44:35+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "enable_logs_sample":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "include_tags":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"env:production \\\"unapplied migration\\\"\").index(\"*\").rollup(\"count\").last(\"5m\") > 1",
+      "message":"Unapplied migrations  @slack-production-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":59936922,
+      "multi":false,
+      "name":"Migrations Prod",
+      "created":"2022-01-06T17:33:19.979483+00:00",
+      "created_at":1641490399000,
+      "creator":{
+         "id":1864466,
+         "handle":"kenneth@heylaika.com",
+         "name":"Kenneth Diaz",
+         "email":"kenneth@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-01-06T17:33:19.979483+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-09-28T00:13:12+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":false,
+         "locked":false,
+         "silenced":{
+
+         },
+         "enable_logs_sample":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "include_tags":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:error (@module:(library* OR dataroom* OR Search*) OR library?*)\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"@slack-spacejam-alerts\n\nENVIRONMENT: {{env.name}} \n{{log.message}}",
+      "matching_downtimes":[
+
+      ],
+      "id":60817620,
+      "multi":true,
+      "name":"Error found in SpaceJam (Library | Dataroom)",
+      "created":"2022-01-13T17:51:19.268705+00:00",
+      "created_at":1642096279000,
+      "creator":{
+         "id":2157255,
+         "handle":"bryan@heylaika.com",
+         "name":"Bryan Azofeifa",
+         "email":"bryan@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-06-17T22:25:53.136694+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-21T17:26:30+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) (@module:(organization* OR user* OR training* OR policy) OR \\\"User duplicate key value violates unique constraint\\\" OR \\\"User matching query does not exist.\\\" OR \\\"User Another user exists with the same email address\\\" OR \\\"Training matching query does not exist\\\" OR \\\"User Cannot invite user\\\" OR \\\"User Cannot get users\\\" OR /training/*)\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"**ENVIRONMENT**: {{env.name}}\n{{log.message}} @slack-onepiece-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":60909177,
+      "multi":true,
+      "name":"Error found in OnePiece (User/People | Organization | Training | Welcome/Goodbye | Procedures | Permissions)",
+      "created":"2022-01-14T17:53:04.047686+00:00",
+      "created_at":1642182784000,
+      "creator":{
+         "id":2253976,
+         "handle":"roiner@heylaika.com",
+         "name":"Roiner Camacho",
+         "email":"roiner@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-06T19:28:55.443972+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T23:48:28+00:00",
+      "overall_state":"No Data",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "on_missing_data":"show_and_notify_no_data",
+         "enable_lo gs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) ((@module:(monitor* or pentest*) or monitor.* or pentest.*) OR monitor.*) env:production\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"**ENVIRONMENT**: {{env.name}}\n{{log.message}} @slack-Laika-decepticons-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":61385893,
+      "multi":true,
+      "name":"Error found in Decepticons Prod (Monitor)",
+      "created":"2022-01-19T00:13:07.810907+00:00",
+      "created_at":1642551187000,
+      "creator":{
+         "id":1962111,
+         "handle":"danny@heylaika.com",
+         "name":"Danny Chacón",
+         "email":"danny@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-05-19T17:35:57.258985+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-19T00:20:44+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"-admin status:error env:produccion (@module:(organization* OR seeder* OR feature* OR certification* OR control* OR user OR sso* OR backends*) OR \\\"/user/magic_link\\\" OR \\\"/user/user_idp\\\" OR \\\"Error getting token unverified header: Not enough segments\\\" OR \\\"error trying to decode okta token\\\" OR \\\"error while decoding jwt token async\\\" OR \\\"Error getting token unverified header: Not enough segments\\\" OR \\\"error while decoding jwt token async Token with unexpected key\\\" OR \\\"Failed to upload key: Okta error\\\" OR \\\"seeder_control_action_items\\\" OR \\\"Error validating the username for SSO\\\" OR \\\"\\'NoneType\\' object has no attribute \\'credentials\\'\\\" OR \\\"error trying to create okta user\\\" OR /user/get_user_status*) -\\\"Error calling Query.resolve_api_tokens\\\"\").index(\"main\").rollup(\"count\").last(\"5m\") >= 1",
+      "message":"{{log.message}} @slack-mandalorians-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":61526052,
+      "multi":false,
+      "name":"Error found in Mandalorians",
+      "created":"2022-01-19T18:56:57.599133+00:00",
+      "created_at":1642618617000,
+      "creator":{
+         "id":2041328,
+         "handle":"loengry@heylaika.com",
+         "name":"Loengry Sequeira",
+         "email":"loengry@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-20T21:37:15.416506+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-20T16:17:42+00:00",
+      "overall_state":"No Data",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "new_host_delay":300,
+         "on_missing_data":"show_and_notify_no_data",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":true,
+         "escalation_message":"",
+         "restriction_query":"None"
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:(laika-app OR laika-celery-worker-long) -admin status:(error OR warn) (@module:(integration* OR objects*) OR integration.* OR objects.*) env:production\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"@slack-autobots-alerts \n**ENVIRONMENT**: {{env.name}}\n{{log.message}}",
+      "matching_downtimes":[
+
+      ],
+      "id":61715794,
+      "multi":true,
+      "name":"Error found in Autobots (Integrations | Objects) - PROD",
+      "created":"2022-01-20T16:28:12.040762+00:00",
+      "created_at":1642696092000,
+      "creator":{
+         "id":1589444,
+         "handle":"otto@heylaika.com",
+         "name":"Otto Zuñiga",
+         "email":"otto@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-19T21:45:04.312294+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T14:27:04+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "on_missing_data":"default",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) @module:(audit* OR auditee* OR fieldwork* OR auditor* OR report*) -\\\"Invalid audit stage to return a draft report file\\\" -\\\"must have at least one attachment\\\" -\\\"Unable to rename attachment, file name already exists\\\" -\\\"Fetch cannot be run after ERs are Laika Reviewed\\\" -\\\"Evidence matching query does not exist\\\" -\\\"Audit draft report file hasn\\'t been generated yet\\\" -\\\"Lead Auditor role already exist in the team. Please select another role.\\\" -\\\"Tests with Exceptions Noted or Not Tested must have notes\\\" -\\\"Error calling AddAuditeePopulationCompletenessAccuracy.mutate Max number of files exceeded\\\" -\\\"Audit matching query does not exist\\\" -\\\"Attachment name is too long\\\" -\\\"Uploaded Draft Report file not found\\\" -\\\"The \\'draft_report\\' attribute has no file associated with it.\\\" -\\\"This file name already exists. Use a different name\\\" -\\\"Unable to rename completeness and accuracy, name already exists\\\" -\\\"Audit already is assigned to a given auditor\\\" -\\\"/fieldwork/attachment/export\\\"\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"**ENVIRONMENT**: {{env.name}}\n{{log.message}} @slack-frozen-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":61717049,
+      "multi":true,
+      "name":"Error found in Frozen (Audits | Jarvis)",
+      "created":"2022-01-20T16:50:26.687779+00:00",
+      "created_at":1642697426000,
+      "creator":{
+         "id":1589447,
+         "handle":"dominique@heylaika.com",
+         "name":"Dominique Carvajal",
+         "email":"dominique@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-06T23:04:41.829969+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T21:37:59+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "on_missing_data":"default",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) (@module:vendor* OR drive* OR \\\"Cannot update organization vendor\\\" OR \\\"/evidence/export\\\")\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"**ENVIRONMENT**: {{env.name}}\n{{log.message}} @slack-rebel-alliance-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":62997418,
+      "multi":true,
+      "name":"Error found in Rebel Alliance (Vendor | Drive)",
+      "created":"2022-02-03T20:53:34.672702+00:00",
+      "created_at":1643921614000,
+      "creator":{
+         "id":2785861,
+         "handle":"laurens.ortiz@heylaika.com",
+         "name":"Laurens Ortiz",
+         "email":"laurens.ortiz@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-06-16T16:56:09.966097+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-25T01:34:28+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) -@module:(blueprint* OR library*) (@module:(policy* OR control* OR certification* OR evidence* OR document* OR program* OR dashboard*) OR \\\"Error to update policy with ID\\\" OR \\\"Error to create published policy with ID\\\" OR \\\"/policy\\\" OR \\\"Error calling AddActionItemEvidence.mutate: list index out of range\\\") -\\\"file name already exists\\\" -\\\"Control matching query does not exist\\\" -\\\"Policy matching query does not exist\\\" -(\\\"Policy with ID\\\" \\\"does not exist\\\") -\\\"Document name is too long\\\" -\\\"Task matching query does not exist\\\" -\\\"Control with that name already exists\\\" -\\\"MissingPolicyOAA\\\"\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"@slack-heylaika-knights-alerts \n\n**ENVIRONMENT**: {{env.name}}\n\n{{log.message}}",
+      "matching_downtimes":[
+
+      ],
+      "id":63755496,
+      "multi":true,
+      "name":"Error found in Knights (Policy | Controls | Certification | Evidence | Document)",
+      "created":"2022-02-09T19:45:06.472082+00:00",
+      "created_at":1644435906000,
+      "creator":{
+         "id":1962110,
+         "handle":"tomas@heylaika.com",
+         "name":"Tomas  Soley",
+         "email":"tomas@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-09-21T15:29:45.345244+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T22:43:06+00:00",
+      "overall_state":"No Data",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "on_missing_data":"show_and_notify_no_data",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:laika-app -admin status:(error OR warn) ((@module:(monitor* or pentest*) or monitor.* or pentest.*) OR monitor.*) -env:production\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"**ENVIRONMENT**: {{env.name}}\n{{log.message}} @slack-Laika-decepticons-alerts-testing",
+      "matching_downtimes":[
+
+      ],
+      "id":71992888,
+      "multi":true,
+      "name":"Error found in Decepticons Testing (Monitor)",
+      "created":"2022-05-19T17:25:32.580107+00:00",
+      "created_at":1652981132000,
+      "creator":{
+         "id":3529998,
+         "handle":"david.corredor@heylaika.com",
+         "name":"David Corredor",
+         "email":"david.corredor@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-05-19T17:36:17.472262+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T23:30:59+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "timeout_h":0,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "notify_no_data":false,
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"logs(\"service:(laika-app OR laika-celery-worker-long) -admin status:(error OR warn) (@module:(integration* OR objects*) OR integration.* OR objects.*) -env:production\").index(\"*\").rollup(\"count\").by(\"env\").last(\"5m\") >= 1",
+      "message":"@slack-autobots-alerts-tests \n**ENVIRONMENT**: {{env.name}}\n{{log.message}}",
+      "matching_downtimes":[
+
+      ],
+      "id":74257933,
+      "multi":true,
+      "name":"Error found in Autobots (Integrations | Objects) - Testing environments",
+      "created":"2022-06-16T20:42:33.209777+00:00",
+      "created_at":1655412153000,
+      "creator":{
+         "id":1589444,
+         "handle":"otto@heylaika.com",
+         "name":"Otto Zuñiga",
+         "email":"otto@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-21T15:31:11.355321+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-24T23:12:43+00:00",
+      "overall_state":"OK",
+      "type":"log alert",
+      "options":{
+         "notify_audit":true,
+         "renotify_interval":0,
+         "include_tags":true,
+         "thresholds":{
+            "critical":1.0
+         },
+         "silenced":{
+
+         },
+         "on_missing_data":"default",
+         "enable_logs_sample":true,
+         "groupby_simple_monitor":false,
+         "escalation_message":"",
+         "restriction_query":"None",
+         "new_group_delay":60
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+         "service:postgres",
+         "env:production"
+      ],
+      "deleted":"None",
+      "query":"percentile(last_5m):median_9(p99:trace.postgres.query{env:production,service:postgres}) > 0.1",
+      "message":"`postgres` 99th percentile latency is too high. @slack-heylaika-production-database-alerts",
+      "matching_downtimes":[
+
+      ],
+      "id":81042534,
+      "multi":false,
+      "name":"Service postgres has a high p99 latency on env:production",
+      "created":"2022-08-24T16:42:25.086435+00:00",
+      "created_at":1661359345000,
+      "creator":{
+         "id":2157255,
+         "handle":"bryan@heylaika.com",
+         "name":"Bryan Azofeifa",
+         "email":"bryan@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-08-25T15:46:17.482498+00:00",
+      "priority":"None",
+      "overall_state_modified":"2022-10-25T00:10:56+00:00",
+      "overall_state":"OK",
+      "type":"query alert",
+      "options":{
+         "notify_audit":false,
+         "silenced":{
+            "env:production,service:postgres":1666695600
+         },
+         "include_tags":true,
+         "thresholds":{
+            "critical":0.1
+         },
+         "require_full_window":false,
+         "new_host_delay":300,
+         "notify_no_data":false,
+         "renotify_interval":0
+      }
+   },
+   {
+      "restricted_roles":"None",
+      "tags":[
+
+      ],
+      "deleted":"None",
+      "query":"error-tracking-traces(\"env:dev\").rollup(\"count\").by(\"@issue.id\").last(\"5m\") > 25",
+      "message":"@david.corredor@heylaika.com @steven@heylaika.com",
+      "matching_downtimes":[
+
+      ],
+      "id":100871593,
+      "multi":true,
+      "name":"TEST MONITOR DAVID ALERT WITH EMAIL (ERROR TRACKING)",
+      "created":"2022-10-25T01:40:39.709178+00:00",
+      "created_at":1666662039000,
+      "creator":{
+         "id":3529998,
+         "handle":"david.corredor@heylaika.com",
+         "name":"David Corredor",
+         "email":"david.corredor@heylaika.com"
+      },
+      "org_id":344792,
+      "modified":"2022-10-25T01:40:39.709178+00:00",
+      "priority":"None",
+      "overall_state_modified":"None",
+      "overall_state":"No Data",
+      "type":"error-tracking alert",
+      "options":{
+         "notify_audit":false,
+         "silenced":{
+
+         },
+         "enable_logs_sample":true,
+         "thresholds":{
+            "critical":25.0,
+            "warning":24.0
+         },
+         "new_host_delay":300,
+         "on_missing_data":"default",
+         "include_tags":true,
+         "groupby_simple_monitor":false,
+         "restriction_query":"None"
+      }
+   }
+]

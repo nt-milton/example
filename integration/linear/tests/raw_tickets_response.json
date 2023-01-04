@@ -1,0 +1,52 @@
+{
+   "data":{
+      "project":{
+         "issues":{
+            "nodes":[
+               {
+                  "id":"7e0f6ddd-2239-4658-9982-7f2d6658ebab",
+                  "title":"Welcome to Linear 👋",
+                  "description": false,
+                  "identifier":"HEY-8",
+                  "startedAt":false,
+                  "url":"https://linear.app/heylaika/issue/HEY-8/welcome-to-linear-👋",
+                  "project":{
+                     "name":"Second Project"
+                  },
+                  "assignee":false,
+                  "creator":false,
+                  "state":{
+                     "name":"Todo",
+                     "position":1
+                  },
+                  "cycle":false
+               },
+               {
+                  "id":"520e7692-d162-426c-ae07-db86fb8fd709",
+                  "title":"Customize views with View Options and Filters",
+                  "description":false,
+                  "identifier":"HEY-7",
+                  "startedAt":false,
+                  "url":"https://linear.app/heylaika/issue/HEY-7/customize-views-with-view-options-and-filters",
+                  "project":{
+                     "name":"Second Project"
+                  },
+                  "assignee":{
+                     "name":"Dev Team"
+                  },
+                  "creator":false,
+                  "state":{
+                     "name":"Todo",
+                     "position":1
+                  },
+                  "cycle":false
+               }
+            ],
+            "pageInfo":{
+               "hasNextPage":false,
+               "endCursor":"520e7692-d162-426c-ae07-db86fb8fd709"
+            }
+         }
+      }
+   }
+}

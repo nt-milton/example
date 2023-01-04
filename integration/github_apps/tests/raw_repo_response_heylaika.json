@@ -1,0 +1,37 @@
+{
+  "data": {
+    "organization": {
+      "name": "heylaika",
+      "repositories": {
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHODu-ArA==",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "name": "laika-web",
+            "owner": {
+              "name": "heylaika"
+            },
+            "isDisabled": false,
+            "isPrivate": true,
+            "updatedAt": "2021-01-22T18:04:20Z",
+            "createdAt": "2020-01-14T21:48:30Z",
+            "url": "https://github.com/heylaika/laika-web"
+          },
+          {
+            "name": "laika-app",
+            "owner": {
+              "name": "heylaika"
+            },
+            "isDisabled": false,
+            "isPrivate": true,
+            "updatedAt": "2021-01-22T18:04:20Z",
+            "createdAt": "2020-01-14T21:48:30Z",
+            "url": "https://github.com/heylaika/laika-app"
+          }
+        ]
+      }
+    }
+  }
+}

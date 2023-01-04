@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Expired Link!</title>
+  <style>
+      section {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+      }
+
+        .header {
+            background: #ffffff;
+            padding: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .header img {
+            width: 95px;
+        }
+
+        .content {
+            flex: 100%;
+            background: #f8fafd;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: auto;
+            box-sizing: border-box;
+            min-height: 500px;
+        }
+
+        .content p {
+            margin: 0;
+        }
+
+        .content .title {
+            font-family: roboto, sans-serif;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 18px;
+            line-height: 21px;
+            color: #3b2552;
+            margin-top: 16px;
+            text-align: center;
+            }
+
+        .content .subtitle {
+            font-family: roboto, sans-serif;
+
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 24px;
+            color: #5d637a;
+            margin-top: 20px;
+        }
+
+        .footer {
+            padding: 15px;
+            text-align: center;
+            background: #f8fafd;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .footer p {
+            font-family: roboto, sans-serif;
+            font-size: 10px;
+            line-height: 16px;
+            margin: 0;
+            color: #8f859a;
+        }
+ </style>
+
+
+</head>
+<body>
+<section>
+
+    <div class='header'>
+        <img src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-header.png" alt="Laika logo header">
+    </div>
+    
+    <div class='content'>
+        <img src="https://laika-static-documents.s3.amazonaws.com/Supporting+Images/Project_work_2.png" alt="Expired Link" />
+        <p class='title'>
+            This link is expired!
+        </p>
+        <p class='subtitle'>
+            Please contact the sender at {{ company_name }} to request a new link.
+        </p>
+    </div>
+    
+    <div class='footer'>
+        <p>
+            The contents of this e-mail message and any attachments are confidential and may be legally privileged. If you are not the intended recipient, notify the sender by replying to this e-mail and delete this message and its attachments, if any.
+        </p>
+        <p>To ensure delivery to your inbox, add concierge@heylaika.com and support@heylaika.com to your address book</p>
+    </div>
+        
+    </section>
+</body>
+</html>

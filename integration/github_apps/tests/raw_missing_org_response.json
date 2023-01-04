@@ -1,0 +1,13 @@
+{
+  "data": {
+    "viewer": {
+      "organizations": {
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHODu-ArA==",
+          "hasNextPage": false
+        },
+        "nodes": []
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "error": {
+        "code": "Authentication_RequestFromNonPremiumTenantOrB2CTenant",
+        "message": "Neither tenant is B2C or tenant doesn't have premium license",
+        "innerError": {
+            "date": "2021-09-03T15:33:13",
+            "request-id": "7b4993d0-a37f-4b23-bd45-ad5db2483722",
+            "client-request-id": "7b4993d0-a37f-4b23-bd45-ad5db2483722"
+        }
+    }
+}

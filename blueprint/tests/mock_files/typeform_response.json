@@ -1,0 +1,110 @@
+[
+    {
+        "type": "boolean",
+        "field": {
+            "id": "DKaZQZ7ZQ4x",
+            "ref": "is_compliance_poc",
+            "type": "yes_no"
+        },
+        "boolean": false
+    },
+    {
+        "type": "email",
+        "email": "test+compliance@heylaika.com",
+        "field": {
+            "id": "SfrUlDQrgSvO",
+            "ref": "primary_contact_email_address",
+            "type": "email"
+        }
+    },
+    {
+        "text": "Compliance",
+        "type": "text",
+        "field": {
+            "id": "GKSvU35IVhE6",
+            "ref": "primary_contact_first_name",
+            "type": "short_text"
+        }
+    },
+    {
+        "text": "Contact",
+        "type": "text",
+        "field": {
+            "id": "7aVzfrDU7Cu4",
+            "ref": "primary_contact_last_name",
+            "type": "short_text"
+        }
+    },
+    {
+        "type": "boolean",
+        "field": {
+            "id": "I28xw3Z2ZQ4x",
+            "ref": "is_hr_poc",
+            "type": "yes_no"
+        },
+        "boolean": false
+    },
+    {
+        "type": "email",
+        "email": "test+hr@heylaika.com",
+        "field": {
+            "id": "J2usvKZ71hRk",
+            "ref": "primary_hr_contact_email_address",
+            "type": "email"
+        }
+    },
+    {
+        "text": "HR",
+        "type": "text",
+        "field": {
+            "id": "rOQIrrilrAv0",
+            "ref": "primary_hr_contact_first_name",
+            "type": "short_text"
+        }
+    },
+    {
+        "text": "Contact",
+        "type": "text",
+        "field": {
+            "id": "DJITZoBp5OuS",
+            "ref": "primary_hr_contact_last_name",
+            "type": "short_text"
+        }
+    },
+    {
+        "type": "boolean",
+        "field": {
+            "id": "I3IjFua6fTzx",
+            "ref": "is_technical_poc",
+            "type": "yes_no"
+        },
+        "boolean": false
+    },
+    {
+        "text": "test+technical@heylaika.com",
+        "type": "text",
+        "field": {
+            "id": "J2usvKZ71hRk",
+            "ref": "primary_technical_contact_email_address",
+            "type": "short_text"
+        }
+    },
+    {
+        "text": "Technical",
+        "type": "text",
+        "field": {
+            "id": "gHCwBLuYHPMO",
+            "ref": "primary_technical_contact_first_name",
+            "type": "short_text"
+        }
+    },
+    {
+        "text": "Contact",
+        "type": "text",
+        "field": {
+            "id": "L4sp3AtYOvc9",
+            "ref": "primary_technical_contact_last_name",
+            "type": "short_text"
+        }
+    }
+]

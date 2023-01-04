@@ -1,0 +1,26 @@
+{% extends "admin/base_site.html" %}
+{% load i18n admin_urls admin_modify static %}
+
+{% block extrastyle %}
+    {{ block.super }}
+    <link rel="stylesheet" type="text/css" href="{% static "admin/css/forms.css" %}"/>
+{% endblock %}
+
+{% block title %} Dry Monitor Run {% endblock %}
+
+{% block branding %}
+<h1 id="site-name">{% trans 'Laika Admin' %}</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+  <a href="{% url 'admin:index' %}">{% trans 'Home' %}</a> ›
+  <a href="{% url 'admin:app_list' app_label='monitor' %}">Monitor</a> ›
+  <a href="/admin/monitor/organizationmonitor">Organization Monitors</a> ›
+  {% trans 'Dry Monitor Run' %} {{ original|truncatewords:"18" }}
+</div>
+{% endblock %}
+
+{% block content %}{% endblock %}

@@ -1,0 +1,51 @@
+{
+    "count": 1,
+    "value": [
+        {
+            "user": {
+                "subjectKind": "user",
+                "metaType": "member",
+                "domain": "23c84fd4-9e41-423e-a69c-70a30af22ccc",
+                "principalName": "DiegoS@8g0k51.onmicrosoft.com",
+                "mailAddress": "DiegoS@8g0k51.onmicrosoft.com",
+                "origin": "aad",
+                "originId": "76f7d8d5-7d26-454d-8cd5-8e10e880b55d",
+                "displayName": "Diego Siciliani",
+                "_links": {
+                    "self": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Users/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    },
+                    "memberships": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Memberships/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    },
+                    "membershipState": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/MembershipStates/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    },
+                    "storageKey": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/StorageKeys/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    },
+                    "avatar": {
+                        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    }
+                },
+                "url": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Users/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+                "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "extensions": [],
+            "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+            "accessLevel": {
+                "licensingSource": "account",
+                "accountLicenseType": "express",
+                "msdnLicenseType": "none",
+                "licenseDisplayName": "Basic",
+                "status": "active",
+                "statusMessage": "",
+                "assignmentSource": "unknown"
+            },
+            "lastAccessedDate": "2022-09-28T16:06:08.7481748Z",
+            "dateCreated": "2022-09-22T00:59:59.806456Z",
+            "projectEntitlements": [],
+            "groupAssignments": []
+        }
+    ]
+}

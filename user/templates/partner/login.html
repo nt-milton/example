@@ -1,0 +1,39 @@
+{% extends "partner/base_portal.html" %}
+{% block content %}
+    <script>
+        let loaded = false
+        function load() {
+            loaded = true
+        }
+        function verify() {
+            if (window.location.pathname === '/partner/login' && !loaded) {
+                location.reload()
+            }
+            loaded = false
+        }
+        window.addEventListener('load', load)
+        window.addEventListener('pageshow', verify)
+    </script>
+    <div class="container-fluid" style="max-width: 800px;">
+        <h2>Partner</h2>
+        <form action="/partner/auth" method="post">
+            {% csrf_token %}
+
+            <div class="mb-3">
+                <label for="username" class="form-label">User:</label>
+                <input name="username" type="text" class="form-control" required data-test-id="username"
+                       value=""/><br/>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password:</label>
+                <input name="password" type="password" class="form-control" required data-test-id="password"
+                       value=""/><br/>
+            </div>
+            <div class="input-group has-validation">
+              <input type="submit" value="Login" class="btn btn-primary {% if error %}is-invalid{% endif %}"
+                     data-test-id="submit"/>
+              <div  class="invalid-feedback">Invalid credentials.</div>
+            </div>
+        </form>
+    </div>
+{% endblock %}

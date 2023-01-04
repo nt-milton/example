@@ -1,0 +1,2236 @@
+{
+  "id": 1812,
+  "name": "Mobile",
+  "vendors": [
+    {
+      "id": 1191,
+      "name": "AT&T",
+      "description": "AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/att.com",
+      "website": "att.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.business.att.com/learn/tech-advice/what-is-the-general-data-protection-regulation.html"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2474, "name": "Service Industry" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1841, "name": "Wireless" }
+      ]
+    },
+    {
+      "id": 426,
+      "name": "TeamViewer",
+      "description": "TeamViewer is a proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/teamviewer.com",
+      "website": "teamviewer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.teamviewer.com/en/trust-center/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 846,
+      "name": "Swagbucks",
+      "description": "Swagbucks.com is a rewards and loyalty-program operator operated by Prodege LLC, and based in El Segundo, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/swagbucks.com",
+      "website": "swagbucks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2206, "name": "Gift Card" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2122, "name": "Virtual Currency" }
+      ]
+    },
+    {
+      "id": 1066,
+      "name": "Cloudinary",
+      "description": "Manage web and mobile media assets with the leading cloud service: image and video upload, storage, manipulation, optimization and digital asset management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudinary.com",
+      "website": "cloudinary.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://cloudinary.com/privacy" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://cloudinary.com/blog/yet_another_gdpr_blog_post"
+        },
+        { "protocolId": 7, "sourceUrl": "https://cloudinary.com/trust" },
+        { "protocolId": 5, "sourceUrl": "https://cloudinary.com/trust" }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2101, "name": "Photography" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 811,
+      "name": "Codecademy",
+      "description": "Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript, Ruby, SQL, C++, and Sass, as well as markup languages HTML and CSS.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/codecademy.com",
+      "website": "codecademy.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1916, "name": "Training" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Wave HQ",
+      "description": "Wave is a company that provides a suite of financial services and online software for small businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/waveapps.com",
+      "website": "waveapps.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://my.waveapps.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1102,
+      "name": "InVision",
+      "description": "InVision is the digital product design platform used to make the world’s best customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/invisionapp.com",
+      "website": "invisionapp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 1010,
+      "name": "Photobucket",
+      "description": "Photobucket is an American image hosting and video hosting website, web services suite, and online community.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/photobucket.com",
+      "website": "photobucket.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2101, "name": "Photography" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1147,
+      "name": "OneSignal",
+      "description": "The world's leader for Mobile Push Notifications, Web Push, and In-App Messaging. Trusted by 600k businesses to send 4 billion Push Notifications per day.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onesignal.com",
+      "website": "onesignal.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 1153,
+      "name": "Venmo",
+      "description": "Venmo is a mobile payment service owned by PayPal.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/venmo.com",
+      "website": "venmo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1972, "name": "Finance" },
+        { "id": 1897, "name": "Payments" }
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Formstack",
+      "description": "Formstack is a data management system that helps users collect information through various types of online forms, including surveys, job applications, event registrations, and payment forms.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/formstack.com",
+      "website": "formstack.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.formstack.com/data-security"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.formstack.com/features/security"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.formstack.com/data-security"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.formstack.com/data-security"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2480, "name": "Document Preparation" },
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1822, "name": "Cloud Data Services" }
+      ]
+    },
+    {
+      "id": 1042,
+      "name": "Kahoot!",
+      "description": "Kahoot! is a game-based learning platform, used as educational technology in schools and other educational institutions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kahoot.com",
+      "website": "kahoot.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://kahoot.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2449, "name": "Gaming" },
+        { "id": 2227, "name": "EdTech" }
+      ]
+    },
+    {
+      "id": 1211,
+      "name": "Zeplin",
+      "description": "Connected space for product teams. Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zeplin.io",
+      "website": "zeplin.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1861, "name": "Developer Tools" }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "HelloSign",
+      "description": "Automate and manage your most important business transactions with the HelloSign platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hellosign.com",
+      "website": "hellosign.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.hellosign.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://www.hellosign.com/privacy" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.hellosign.com/trust/compliance/gdpr"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.hellosign.com/trust/compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1967, "name": "Legal" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2301, "name": "E-Signature" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Helpshift",
+      "description": "Helpshift enables brands to deliver superior digital customer service digital channels with messaging-based support and AI-powered automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/helpshift.com",
+      "website": "helpshift.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 574,
+      "name": "TSheets",
+      "description": "TSheets is a web-based and mobile time tracking and employee scheduling app .",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tsheets.com",
+      "website": "tsheets.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2295, "name": "Data Storage" }
+      ]
+    },
+    {
+      "id": 964,
+      "name": "HotSchedules",
+      "description": "Create schedules faster, forecast labor, control food costs with employee scheduling, manage labor tasks and store inventory with software by HotSchedules.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hotschedules.com",
+      "website": "hotschedules.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Quip",
+      "description": "Quip is a collaborative productivity software suite for mobile and the Web.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/quip.com",
+      "website": "quip.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://quip.com/security" },
+        { "protocolId": 1, "sourceUrl": "https://quip.com/security" },
+        { "protocolId": 2, "sourceUrl": "https://quip.com/about/privacy" },
+        { "protocolId": 3, "sourceUrl": "https://quip.com/security" },
+        { "protocolId": 4, "sourceUrl": "https://quip.com/security" },
+        { "protocolId": 11, "sourceUrl": "https://quip.com/security" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1854, "name": "Mobile Devices" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 737,
+      "name": "TeamSnap",
+      "description": "The #1 sports team management app makes communication and organization a breeze. Clubs and leagues love us too. Try it now.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/teamsnap.com",
+      "website": "teamsnap.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.teamsnap.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.teamsnap.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1990, "name": "Sports" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2437, "name": "Consumer" }
+      ]
+    },
+    {
+      "id": 1029,
+      "name": "Vonage",
+      "description": "Vonage is a publicly held business cloud communications provider.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vonage.com",
+      "website": "vonage.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.vonage.com/business/perspectives/10-steps-contact-centres-should-take-to-prepare-for-gdpr/"
+        },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://www.vonage.com/business/resources/newsroom/press-releases/vonage-achieves-high-level-compliance-with-hitrust-certification/"
+        }
+      ],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Nexmo",
+      "description": "Nexmo, a Vonage Company, is a global cloud communications platform leader providing innovative APIs & SDKs for voice, text, messaging & phone verification.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nexmo.com",
+      "website": "nexmo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2106, "name": "SMS" }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Intercom",
+      "description": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/intercom.com",
+      "website": "intercom.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.intercom.com/blog/announcing-soc-2-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Jobber",
+      "description": "Jobber’s field service scheduling software and app is the best way to organize your service business. Quote, schedule, invoice, and get paid—all in one place. Our easy-to-use app powers your sales, operations, and customer service—try Jobber for free t...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getjobber.com",
+      "website": "getjobber.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 770,
+      "name": "Volusion",
+      "description": "Create your online store w/ a FREE 14-day trial of our award-winning ecommerce software. Shown to sell 4x more than other hosted shopping carts!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/volusion.com",
+      "website": "volusion.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.volusion.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Humanity",
+      "description": "Humanity is easy to use employee scheduling software that helps your business manage shifts, schedules, payroll, time clocking and more online.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/humanity.com",
+      "website": "humanity.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.humanity.com/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://www.humanity.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.humanity.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 652,
+      "name": "Mixpanel",
+      "description": "Mixpanel is a business analytics service company. Its toolset contains in-app A/B tests and user survey forms.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mixpanel.com",
+      "website": "mixpanel.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mixpanel.com/legal/privacy-shield-frameworks/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mixpanel.com/legal/gdpr-faq/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mixpanel.com/legal/privacy-shield-frameworks/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1975, "name": "Web Browsers" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Keeper Security",
+      "description": "In 2018, Keeper was named \"Best Password Manager\" by PC Mag and nominated Editors' Choice with an \"Excellent\" rating.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/keepersecurity.com",
+      "website": "keepersecurity.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://keepersecurity.com/privacypolicy.html"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://keepersecurity.com/security.html"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://keepersecurity.com/privacypolicy.html"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://keepersecurity.com/GDPR.html"
+        },
+        {
+          "protocolId": 14,
+          "sourceUrl": "https://keepersecurity.com/security.html"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://keepersecurity.com/security.html"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://keepersecurity.com/GDPR.html"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://keepersecurity.com/security.html"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://keepersecurity.com/GDPR.html"
+        }
+      ],
+      "categories": [
+        { "id": 2177, "name": "iOS" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2014, "name": "Consumer Electronics" },
+        { "id": 1996, "name": "Browser Extensions" },
+        { "id": 1932, "name": "Cloud Security" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2195, "name": "Android" }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Leanplum",
+      "description": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a single mobile marketing platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leanplum.com",
+      "website": "leanplum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2219, "name": "Intelligent Systems" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 971,
+      "name": "Sailthru",
+      "description": "Sailthru is the largest sender of personalized email in the world. Visit us online to see our extensive email marketing and marketing automation services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sailthru.com",
+      "website": "sailthru.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sailthru.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.sailthru.com/legal/agreements/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sailthru.com/legal/acceptable-use-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sailthru.com/marketing-blog/gdpr-notice-know-sailthru-can-help/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Maropost",
+      "description": "Maropost simplifies customer engagement with a unified platform designed to connect companies with their customers at every step of their journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maropost.com",
+      "website": "maropost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://trust.maropost.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1897, "name": "Payments" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Iterable",
+      "description": "Iterable empowers growth marketers to create world-class user engagement campaigns throughout the full lifecycle, and across all channels. Marketers segment users, build workflows, automate touchpoints, and test strategies at scale without engineering ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/iterable.com",
+      "website": "iterable.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://iterable.com/trust/gdpr-commitment/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://iterable.com/trust/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Dialpad",
+      "description": "Get business VoIP with Dialpad and connect your team with a cloud phone system that makes business communications easier and more efficient. Try for free!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dialpad.com",
+      "website": "dialpad.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.dialpad.com/trust/" }
+      ],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2463, "name": "Call Center" },
+        { "id": 2372, "name": "Unified Communications" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2013, "name": "Meeting Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Onshape",
+      "description": "Onshape Inc. develops the only product design platform that combines 3D CAD, PDM, collaboration and analytics tools in the cloud. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onshape.com",
+      "website": "onshape.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.onshape.com/privacy-center/gdpr"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.onshape.com/privacy-center/gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.onshape.com/privacy-center/gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2075, "name": "CAD" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2265, "name": "Mechanical Engineering" }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Pendo.io",
+      "description": "Pendo provides software product managers and teams with a powerful integrated platform to better understand and improve the product experience. Without requiring any engineering resources, organizations can use Pendo to extend their product to capture ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pendo.io",
+      "website": "pendo.io",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.pendo.io/privacypolicy/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.pendo.io/support/trust/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.pendo.io/support/trust/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.pendo.io/solutions/enterprise/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.pendo.io/privacypolicy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.pendo.io/solutions/enterprise/"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2173, "name": "Guides" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2310, "name": "Product Management" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Punchh",
+      "description": "Headquartered in Mountain View, CA, Punchh is the leading fully-integrated, transformative marketing solution for restaurants. Punchh’s Restaurant Marketing CloudTM helps restaurants engage customers across any channel or interaction, predict consumer ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/punchh.com",
+      "website": "punchh.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://punchh.com/privacy_policy" }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 885,
+      "name": "Sencha",
+      "description": "Sencha Touch is a user interface JavaScript library, or web framework, specifically built for the Mobile Web.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sencha.com",
+      "website": "sencha.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sencha.com/legal/privacy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.sencha.com/legal/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "CleverTap",
+      "description": "CleverTap is a SaaS based mobile analytics and mobile marketing company based in Mountain View, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clevertap.com",
+      "website": "clevertap.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://clevertap.com/about-us/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 1023,
+      "name": "PlanGrid",
+      "description": "Mobile construction management software giving builders real-time access to blueprints, punch lists, daily reports, submittals and more. For iPhone, iPad, Android, and Windows.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/plangrid.com",
+      "website": "plangrid.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.plangrid.com/press/privacy-and-security-certification-september-2018/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://blog.plangrid.com/2018/09/understanding-value-security-certifications-construction-software/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.plangrid.com/privacy-shield/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.plangrid.com/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 1918, "name": "Construction" },
+        { "id": 2082, "name": "Green Building" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2195, "name": "Android" },
+        { "id": 2478, "name": "Building Maintenance" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Nexonia",
+      "description": "Nexonia Expenses is a simple, highly configurable, cloud-based web and mobile expense report management solution that’s tailored to fit your company’s unique needs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nexonia.com",
+      "website": "nexonia.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.nexonia.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2226, "name": "FinTech" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Databox",
+      "description": "Business Analytics platform built to help you understand what’s going on with your business. KPIs from cloud services, spreadsheets, database in one place.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/databox.com",
+      "website": "databox.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Sauce Labs",
+      "description": "The world's largest continuous testing cloud of web and mobile applications. Access web browsers, mobile emulators, simulators, and real mobile devices.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/saucelabs.com",
+      "website": "saucelabs.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://saucelabs.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://saucelabs.com/blog/should-i-use-a-public-or-a-private-mobile-cloud"
+        }
+      ],
+      "categories": [
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2410, "name": "Usability Testing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 618,
+      "name": "PubNub",
+      "description": "PubNub is a global Data Stream Network and realtime infrastructure-as-a-service company based in San Francisco, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pubnub.com",
+      "website": "pubnub.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.pubnub.com/company/press-releases/2017/pubnub-achieves-soc-2-type-ii-compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.pubnub.com/privacy-policy/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.pubnub.com/blog/were-soc-2-type-i-compliant/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.pubnub.com/learn/glossary/what-is-privacy-shield-certification/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.pubnub.com/blog/what-is-hipaa-and-why-it-matters-at-pubnub/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.pubnub.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 352,
+      "name": "WalkMe",
+      "description": "WalkMe owned by WalkMe Inc. is a software-as-a-service company that helps users navigate the features of other web-based services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/walkme.com",
+      "website": "walkme.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2173, "name": "Guides" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2310, "name": "Product Management" }
+      ]
+    },
+    {
+      "id": 866,
+      "name": "Plivo",
+      "description": "Voice & SMS API Platform: Plivo enables businesses and developers to tap into powerful Voice and SMS capabilities without carrier lock-in.     ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/plivo.com",
+      "website": "plivo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2108, "name": "Audio" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2106, "name": "SMS" }
+      ]
+    },
+    {
+      "id": 1243,
+      "name": "Abacus",
+      "description": "Abacus real time expense reporting software is the easiest way to reimburse your team, reconcile corporate cards, and implement your expense policy.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/abacus.com",
+      "website": "abacus.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2550, "name": "Technology" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2549, "name": "Information Technology & Services" }
+      ]
+    },
+    {
+      "id": 1206,
+      "name": "Snap",
+      "description": "Snap Inc. is an American technology and camera company, founded on September 16, 2011, by Evan Spiegel and Bobby Murphy based in Santa Monica, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/snap.com",
+      "website": "snap.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.snap.com/en-US/privacy/privacy-shield"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.snap.com/en-US/privacy/privacy-shield"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2101, "name": "Photography" }
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Instabug",
+      "description": "Instabug empowers mobile teams to release with confidence through comprehensive bug and crash reports, in-app surveys, and real-time user feedback.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/instabug.com",
+      "website": "instabug.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Housecall Pro",
+      "description": "Housecall Pro is the #1 rated, all-in-one software to run your Home Services Business. Grow your business by 30% and get paid in minutes when you join the other thousands of home service companies using Housecall Pro.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/housecallpro.com",
+      "website": "housecallpro.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 2070, "name": "Home Renovation" },
+        { "id": 2329, "name": "Home Improvement" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Moxtra",
+      "description": "Powering client portals for digital business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/moxtra.com",
+      "website": "moxtra.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://moxtra.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://moxtra.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://moxtra.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2195, "name": "Android" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "ClickSoftware",
+      "description": "ClickSoftware Technologies is a privately held company, headquartered in Burlington, Massachusetts and Petah Tikva, Israel, that offers automated mobile workforce management and service optimization solutions for enterprise and small businesses, both f...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clicksoftware.com",
+      "website": "clicksoftware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-privacy-policy/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Usabilla",
+      "description": "Collect user feedback and improve your websites, apps and emails with Usabilla's Voice of Customer Solutions. Want to see what Usabilla can do for you? Let us show you with our free, personalized demo and get an inside look at our advanced functionalit...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/usabilla.com",
+      "website": "usabilla.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://usabilla.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://usabilla.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 1065,
+      "name": "Lookout",
+      "description": "Lookout is a private IT security company headquartered in San Francisco, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lookout.com",
+      "website": "lookout.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://www.lookout.com/compliance" },
+        { "protocolId": 9, "sourceUrl": "https://www.lookout.com/compliance" },
+        { "protocolId": 7, "sourceUrl": "https://www.lookout.com/compliance" },
+        { "protocolId": 2, "sourceUrl": "https://www.lookout.com/compliance" }
+      ],
+      "categories": [
+        { "id": 1932, "name": "Cloud Security" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2107, "name": "Network Security" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 868,
+      "name": "LevelUp",
+      "description": "LevelUp is an American mobile ordering and mobile payments platform created by Boston, Massachusetts–based start-up SCVNGR.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thelevelup.com",
+      "website": "thelevelup.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2055, "name": "Restaurants" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2123, "name": "Hospitality" },
+        { "id": 2438, "name": "Food and Beverage" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 756,
+      "name": "SocialChorus",
+      "description": "The SocialChorus workforce communications platform offers one place to plan, create, publish, and measure employee communications. Give your workforce a simple yet powerful, branded mobile and desktop employee experience.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/socialchorus.com",
+      "website": "socialchorus.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.socialchorus.com/security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.socialchorus.com/security/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 765,
+      "name": "MobileIron",
+      "description": "MobileIron Inc. is an American software company specializing in security for mobile devices, apps, and cloud services, including enterprise mobility management and mobile device management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mobileiron.com",
+      "website": "mobileiron.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.mobileiron.com/en/legal/mobileiron-privacy-shield-policy-statement"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.mobileiron.com/en/legal/mobileiron-privacy-shield-policy-statement"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.mobileiron.com/en/certifications-and-uptime"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.mobileiron.com/en/certifications-and-uptime"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1854, "name": "Mobile Devices" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Repsly",
+      "description": "Repsly, Inc. is a B2B software as a service (SaaS) company focused on providing mobile CRM and workforce tracking system for field teams. With customers in over 40 countries, Repsly works with organizations with field representatives that visit establi...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/repsly.com",
+      "website": "repsly.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 742,
+      "name": "EngineerBabu",
+      "description": "EngineerBabu is an award winning IT company that provides web and mobile development services to StartUps, SMEs, Agencies as well as Enterprises",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/engineerbabu.com",
+      "website": "engineerbabu.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 1037,
+      "name": "EventMobi",
+      "description": "Mobile event apps for events, conferences & meetings. Create an incredible event experience. Available on all devices. Free 14 day trial.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/eventmobi.com",
+      "website": "eventmobi.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.eventmobi.com/hc/en-us/articles/360001454567-EventMobi-Data-Processing-Addendum"
+        }
+      ],
+      "categories": [{ "id": 1812, "name": "Mobile" }]
+    },
+    {
+      "id": 140,
+      "name": "Lucidchart",
+      "description": "At Lucid, we help millions connect the dots and bring big ideas to life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/golucid.co",
+      "website": "golucid.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2305, "name": "Mobile Apps" }
+      ]
+    },
+    {
+      "id": 462,
+      "name": "DoubleDutch",
+      "description": "DoubleDutch creates mobile applications designed to capture and surface data from events and conferences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/doubledutch.me",
+      "website": "doubledutch.me",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://doubledutch.me/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://doubledutch.me/privacy/" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://doubledutch.me/doubledutch-gdpr-readiness/"
+        }
+      ],
+      "categories": [
+        { "id": 1818, "name": "Events" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Everbridge",
+      "description": "Everbridge is a software company that provides an end-to-end 'critical event management and threat assessment platform' to manage the full lifecycle of a critical event.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/everbridge.com",
+      "website": "everbridge.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Trumpia",
+      "description": "Trumpia was ranked 46th in Software Companies, 33rd in the Los Angeles Metro Area, 80th in Top 100 California Companies, and 515th overall for the Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trumpia.com",
+      "website": "trumpia.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1906, "name": "Internet of Things" }
+      ]
+    },
+    {
+      "id": 640,
+      "name": "ProntoForms",
+      "description": "ProntoForms offers the leading low-code platform for mobile forms for all businesses. Start a free trial of our customizable mobile forms solution today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/prontoforms.com",
+      "website": "prontoforms.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.prontoforms.com/product/privacy-and-compliance"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://support.prontoforms.com/hc/en-us/articles/360027350032-Security-Frequently-Asked-Questions"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.prontoforms.com/product/privacy-and-compliance"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.prontoforms.com/product/privacy-and-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2195, "name": "Android" }
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "FieldAware",
+      "description": "Field Service Management Software from FieldAware helps mid-size and enterprise businesses streamline field service operations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fieldaware.com",
+      "website": "fieldaware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "Marchex",
+      "description": "Marchex, Inc. is a Seattle-based public company, founded in 2003, with just under 300 employees.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marchex.com",
+      "website": "marchex.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 720,
+      "name": "ThreatMetrix",
+      "description": "Enable robust, intuitive cyber security and risk management through data science innovation and a revolutionary global shared intelligence model.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/threatmetrix.com",
+      "website": "threatmetrix.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.threatmetrix.com/processor-terms/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.threatmetrix.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.threatmetrix.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2069, "name": "Cyber Security" }
+      ]
+    },
+    {
+      "id": 1234,
+      "name": "Hexnode",
+      "description": "Hexnode is a software company headquartered in San Francisco specializing in providing Unified Endpoint Management solution worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hexnode.com",
+      "website": "hexnode.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.hexnode.com/gdpr/" },
+        { "protocolId": 7, "sourceUrl": "https://www.hexnode.com/gdpr/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.hexnode.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2552, "name": "Networking" },
+        { "id": 2550, "name": "Technology" },
+        { "id": 2549, "name": "Information Technology & Services" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1237,
+      "name": "Hexnode",
+      "description": "Hexnode is a software company headquartered in San Francisco specializing in providing Unified Endpoint Management solution worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hexnode.com",
+      "website": "hexnode.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2552, "name": "Networking" },
+        { "id": 2550, "name": "Technology" },
+        { "id": 2549, "name": "Information Technology & Services" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1089,
+      "name": "Vlocity",
+      "description": "Vlocity Industry Cloud CRM Apps deliver the superior, industry-specific, digital and omnichannel customer experiences to transform your business. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vlocity.com",
+      "website": "vlocity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 877,
+      "name": "TrackVia",
+      "description": "Workflow software for business. With TrackVia's low-code platform, deliver customized web & mobile workflow apps quickly & easily.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trackvia.com",
+      "website": "trackvia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.trackvia.com/about-us/trackvia-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 676,
+      "name": "GoSpotCheck",
+      "description": "Our software helps teams perfect merchandising, increase sales, reduce labor and expenses, ensure safety and quality, & improve profitability from the field.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gospotcheck.com",
+      "website": "gospotcheck.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.gospotcheck.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.gospotcheck.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 1972, "name": "Finance" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1832, "name": "Retail" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "VenturePact",
+      "description": "Find & Engage vetted Web, Mobile, Virtual Reality and Internet of Things developers & designers. Ensure success with automated code reviews & vetted teams.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/venturepact.com",
+      "website": "venturepact.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2195, "name": "Android" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Kooomo",
+      "description": "Make selling easier with Kooomo's® cloud commerce systems. See how our digital commerce platform showcases your products and help reach more...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kooomo.com",
+      "website": "kooomo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1052,
+      "name": "Pindrop",
+      "description": "Pindrop Security is an American information security company that provides risk scoring for phone calls to detect fraud and authenticate callers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pindrop.com",
+      "website": "pindrop.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2001, "name": "Retail Technology" },
+        { "id": 2108, "name": "Audio" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 1845, "name": "Risk Management" }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Mobilewalla",
+      "description": "Mobilewalla is the only mobile consumer intelligence platform that observes, captures, and analyzes the behavior of consumers. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mobilewalla.com",
+      "website": "mobilewalla.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2281, "name": "DSP" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "DecisionPoint",
+      "description": "DecisionPoint offers workforce management solutions for a wide variety of industries, with software and services that can improve business operations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/decisionpt.com",
+      "website": "decisionpt.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1857, "name": "RFID" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 424,
+      "name": "Ivy Mobility",
+      "description": "Industry cloud solutions built for retail execution, direct store delivery and distribution to empower FMCG & CPG Digital transformation, mobile software",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ivymobility.com",
+      "website": "ivymobility.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 217,
+      "name": "AppsFlyer",
+      "description": "AppsFlyer is a SaaS mobile marketing analytics and attribution platform, headquartered in Herzilya, Israel.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appsflyer.com",
+      "website": "appsflyer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.appsflyer.com/blog/appsflyer-approach-to-security-and-privacy"
+        },
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2177, "name": "iOS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2195, "name": "Android" }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Braze",
+      "description": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/braze.com",
+      "website": "braze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified "
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.braze.com/perspectives/article/hipaa-compliance"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1110,
+      "name": "Shopify",
+      "description": "Shopify Inc. is a Canadian e-commerce company headquartered in Ottawa, Ontario.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "website": "shopify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://help.shopify.com/pdf/soc3.pdf"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.shopify.com/en/manual/your-account/GDPR/GDPR-overview"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Airship",
+      "description": "Deliver meaningful messages at every stage of the customer lifecycle with the Customer Engagement Platform built for enterprise brands. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/airship.com",
+      "website": "airship.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.airship.com/legal/data-processing-addendum/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.airship.com/legal/gdpr-compliance-faq/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Bridgit",
+      "description": "Bridgit makes construction less complicated with our field-focused and resource planning solutions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bridgitsolutions.com",
+      "website": "bridgitsolutions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1918, "name": "Construction" },
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 862,
+      "name": "Aerohive Networks",
+      "description": "Aerohive aims at reducing the cost & complexity of today’s networks with cloud-enabled, distributed intelligence-based, Wi-Fi solutions. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/aerohive.com",
+      "website": "aerohive.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.aerohive.com/cloud-technology/data-privacy-gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1841, "name": "Wireless" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 949,
+      "name": "Axway Appcelerator",
+      "description": "Appcelerator is a privately held mobile technology company based in San Jose, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appcelerator.com",
+      "website": "appcelerator.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "http://www.appcelerator.com/company/" }
+      ],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Appsee",
+      "description": "Appsee is a mobile app analytics platform that offers you powerful, qualitative analytics tools that enable you to track and optimize the UX in your app.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appsee.com",
+      "website": "appsee.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.appsee.com/gdpr" },
+        { "protocolId": 4, "sourceUrl": "https://www.appsee.com/gdpr" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://blog.appsee.com/4-healthy-practices-when-creating-medical-apps/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.appsee.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 731,
+      "name": "Attendify",
+      "description": "Build elegant event apps and registration pages to elevate the entire attendee experience and put your event data to work. Start creating your event for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/attendify.com",
+      "website": "attendify.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://attendify.com/dpa/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1840, "name": "Private Social Networking" },
+        { "id": 1818, "name": "Events" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 806,
+      "name": "CELUM",
+      "description": "CELUM provides the foundation for the creation, administration, distribution and monetization of content. ✓ Over 800 customers in 35 countries ✓ Analysts tested",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celum.com",
+      "website": "celum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2467, "name": "Sales" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Celtra",
+      "description": "Celtra's Creative Management Platform (CMP) is a cloud-based, self-service software for managing the entire creative lifecycle of digital advertising — improving advertising effectiveness while reducing operational costs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celtra.com",
+      "website": "celtra.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Amplitude",
+      "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products.",
+      "isClaimed": false,
+      "logo": "data:image/jpeg;base64, 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",
+      "website": "amplitude.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://amplitude.com/blog/2018/04/24/amplitude-gdpr"
+        },
+        { "protocolId": 7, "sourceUrl": "https://amplitude.com/pricing" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://amplitude.com/blog/2018/04/24/amplitude-gdpr"
+        },
+        { "protocolId": 1, "sourceUrl": "https://amplitude.com/pricing" }
+      ],
+      "categories": [
+        { "id": 2310, "name": "Product Management" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Beekeeper",
+      "description": "We offer the #1 employee communications app for mobile workplace collaboration. Reach your entire workforce with all the employee engagement tools you need in one internal communications platform. Optimized for non-desk workers, Beekeeper’s digital wor...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/beekeeper.io",
+      "website": "beekeeper.io",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.beekeeper.io/en" },
+        { "protocolId": 1, "sourceUrl": "https://www.beekeeper.io/en" }
+      ],
+      "categories": [
+        { "id": 2372, "name": "Unified Communications" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 603,
+      "name": "APROPLAN",
+      "description": "The APROPLAN application brings together all the site stakeholders around the objectives of deadlines, budget and compliance. Available on iOs and Android.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/aproplan.com",
+      "website": "aproplan.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2177, "name": "iOS" },
+        { "id": 1918, "name": "Construction" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Any.do",
+      "description": "Any.do is a platform designed to increase productivity and management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/any.do",
+      "website": "any.do",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.any.do/legal/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 2332, "name": "Virtual Assistant" },
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2195, "name": "Android" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    }
+  ]
+}

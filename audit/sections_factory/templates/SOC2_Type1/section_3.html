@@ -1,0 +1,624 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style type="text/css" media="screen,print">
+        .pb_before {
+            page-break-before: always !important;
+        }
+
+        .pb_after {
+            page-break-after: always !important;
+        }
+        thead {
+            display: table-header-group;
+        }
+        tfoot {
+            display: table-row-group;
+        }
+        body {
+            font-family: Arial !important;
+            line-height: 1.63 !important;
+        }
+        tr, td, th, tbody, thead, tfoot {
+            page-break-inside: avoid !important;
+        }
+    </style>
+    <title>Draft Report</title>
+  </head>
+  <body>
+    <h1 id="mcetoc_1fiubplrmme" class="pb_before">
+        <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px;"><strong>Section III: </strong><strong>{{ client }}</strong><strong>&rsquo;s Description of its </strong><strong>{{ client }} System</strong><strong> as of </strong><strong>{{ as_of_date|date:'F d, Y' }}</strong></span>
+    </h1>
+
+    <p><span style="font-size: 12pt;"><strong>Overview of Operations</strong></span></p>
+    <p><span style="font-size: 10pt;">{% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %} (&ldquo;{{ client }}&rdquo; or &ldquo;the Company&rdquo;) is a software as a service company. {{ client }} offers a software as a service application to <span style="font-weight: 400; background: yellow;">{Purpose}</span>.</span></p>
+    <p><span style="font-size: 10pt;">The system description in this section of the report details the {{ client }} System. Any other Company services are not within the scope of this report. The accompanying description includes only the policies, procedures, and control activities at the Company and does not include the policies, procedures, and control activities at any subservice organizations (see below for further discussion of the subservice organization).</span></p>
+    <p><span style="font-size: 12pt;"><strong>Service Commitments and System Requirements</strong></span></p>
+    <p><span style="font-size: 10pt;">Commitments are declarations made by management to customers regarding the performance of the {{ client }} System. {{ LCL_13 }} Changes to any commitments are communicated to customers.</span></p>
+    <p><span style="font-size: 10pt;">System requirements are specifications regarding how {{ client }} should function to meet the Company&rsquo;s principal commitments to user entities. System requirements are specified in the Company&rsquo;s policies and procedures.</span></p>
+    <p><span style="font-size: 10pt;">The Company&rsquo;s principal service commitments and system requirements related to the {{ client }} System include the following:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="commitments-and-requirements-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; border-color: #000000; border-style: none; text-align:left">
+                <th style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="commitments-and-requirements-th1">
+                    <p><span style="font-size: 10pt;"><strong>Trust Services Category</strong></span></p>
+                </th>
+                <th style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="commitments-and-requirements-th2">
+                    <p><span style="font-size: 10pt;"><strong>Service Commitments</strong></span></p>
+                </th>
+                <th style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="commitments-and-requirements-th3">
+                    <p><span style="font-size: 10pt;"><strong>System Requirements</strong></span></p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if 'Security' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; font-size: 10pt;">Security</span></p>
+                </td>
+                <td style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-size: 10pt;">{{ client }} will take reasonable precautions to protect customer data.</span></p>
+                </td>
+                <td style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Identity and access control</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Security monitoring and reporting</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Threat management</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Security incident response</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Security awareness training</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Third party provider controls (vendor risk management)</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Change control procedures</span></li>
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'Confidentiality' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; font-size: 10pt;">Confidentiality</span></p>
+                </td>
+                <td style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-size: 10pt;">{{ client }} will not use proprietary information except in performance of Services and will not divulge any proprietary information to any third party, unless permitted.</span></p>
+                </td>
+                <td style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Data Retention and Disposal</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-size: 10pt;">Data Classification</span></li>
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'Availability' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; font-size: 10pt;">Availability</span></p>
+                </td>
+                <td style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-size: 10pt;">{{ client }} will make services available 99.9%, measured monthly, excluding holidays and weekends and scheduled maintenance.</span></p>
+                </td>
+                <td style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">BC/DR plan and procedures</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-size: 10pt;">Data backups</span></li>
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'Process Integrity' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; font-size: 10pt;">Processing Integrity</span></p>
+                </td>
+                <td style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">&nbsp;</td>
+                <td style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Data Validation Procedures</span></li>
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'Privacy' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 15.9125%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; font-size: 10pt;">Privacy</span></p>
+                </td>
+                <td style="width: 37.4167%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">&nbsp;</td>
+                <td style="width: 39.7535%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Privacy Policy</span></li>
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+        </tbody>
+    </table>
+    <p><span style="font-size: 12pt;"><strong>The Components of the System Used to Provide the Service</strong></span></p>
+    <p><span style="font-size: 10pt;">The boundaries of the {{ client }} System are the specific aspects of the Company&rsquo;s infrastructure, software, people, procedures, and data necessary to provide its services and that directly support the services provided to customers. Any infrastructure, software, people, procedures, and data that indirectly support the services provided to customers are not included within the boundaries of the {{ client }} System.&nbsp;</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The components that directly support the services provided to customers are described in the subsections below.</span></p>
+    <p><span style="font-size: 10pt;"><strong>INFRASTRUCTURE</strong></span></p>
+    <p><span style="font-size: 10pt;">The Company utilizes {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} to provide the resources to host the {{ client }} System. The Company leverages the experience and resources of {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} to quickly and securely scale as necessary to meet current and future demand. However, the Company is responsible for designing and configuring the architecture within {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} to ensure security and resiliency requirements are met.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The in-scope hosted infrastructure also consists of multiple supporting tools, as shown in the table below:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="infrastructure-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; text-align:left">
+                <th style="border: 1px solid #000000; width: 93.2292%; padding-left: 10px; padding-right: 10px;" colspan="4" id="infrastructure-th">
+                    <p><span style="color: #000000; font-size: 12pt;"><strong>Infrastructure</strong><strong>&nbsp;</strong></span></p>
+                </th>
+            </tr>
+            <tr style="background-color: #ecf0f1;">
+                <td style="border: 1px solid #000000; width: 30.7458%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Production Tool</span></p>
+                </td>
+                <td style="border: 1px solid #000000; width: 29.7373%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Business Function</span></p>
+                </td>
+                <td style="border: 1px solid #000000; width: 15.5497%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Hosted Location&nbsp;</span></p>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid #000000; width: 30.7458%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Example Text</span></span></p>
+                </td>
+                <td style="border: 1px solid #000000; width: 29.7373%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Example Text</span></span></p>
+                </td>
+                <td style="border: 1px solid #000000; width: 15.5497%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Example Text</span></span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>SOFTWARE</strong></span></p>
+    <p><span style="font-size: 10pt;">Software consists of the programs and software that support the {{ client }} System. The list of software and ancillary software used to build, support, secure, maintain, and monitor the {{ client }} System include the following applications, as shown in the table below:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="software-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; text-align:left">
+                <th style="border: 1px solid #000000; width: 97.0788%; padding-left: 10px; padding-right: 10px;" colspan="2" id="software-th">
+                    <p><span style="color: #000000; font-size: 12pt;"><strong>Software</strong></span></p>
+                </th>
+            </tr>
+            <tr style="background-color: #ecf0f4;">
+                <th style="border: 1px solid #000000; width: 38.6168%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Production Application</span></p>
+                </th>
+                <th style="border: 1px solid #000000; width: 58.462%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Business Function&nbsp;</span></p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid #000000; width: 38.6168%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Example Text</span></span></p>
+                </td>
+                <td style="border: 1px solid #000000; width: 58.462%; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Example Text</span></span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>PEOPLE</strong></span></p>
+    <p><span style="font-size: 10pt;">The Company develops, manages, and secures the {{ client }} System via separate departments. The responsibilities of these departments are defined in the following table:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="people-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; text-align:left">
+                <th style="width: 97.9456%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" colspan="2" id="people-th">
+                    <p><span style="color: #000000; font-size: 12pt;"><strong>People</strong></span></p>
+                </th>
+            </tr>
+            <tr style="border-color: #000000; border-style: none; background-color: #ecf0f1;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Group/Role Name&nbsp;</span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Function</span></p>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Executive Management (CEO/CTO)</span></span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Responsible for overseeing company-wide activities, establishing and accomplishing goals, and managing objectives.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Technical Development (Developers)</span></span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Responsible for the development, testing, deployment, and maintenance of new code for {{ client }} System.</span></span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Operations</span></span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Responsible for finance and accounting</span></span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Marketing</span></span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Responsible for content and design</span></span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 27.6794%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Commercial</span></span></p>
+                </td>
+                <td style="width: 70.2662%; border: 1px solid #000000; border-image: initial; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;"><span style="background: yellow;">Responsible for sales/ partnerships</span></span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>PROCEDURES</strong></span></p>
+    <p><span style="font-size: 10pt;">Procedures include the automated and manual procedures involved in the operation of the {{ client }} System. Procedures are developed and documented by the respective teams for a variety of processes. These procedures are drafted in alignment with the overall information security policies and are updated and approved as necessary for changes in the business, but no less than annually.</span></p>
+    <p><span style="font-size: 10pt;">The following table details the procedures as they relate to the operation of the {{ client }} System:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="procedures-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; border-color: #000000; border-style: none; text-align:left">
+                <th style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="procedures-th1">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Procedure&nbsp;</span></p>
+                </th>
+                <th style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="procedures-th2">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Description</span></p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Logical and Physical Access</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the Company restricts logical and physical access, provides and removes that access, and prevents unauthorized access.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">System Operations</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the Company manages the operation of the system and detects and mitigates processing deviations, including logical and physical security deviations.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Configuration and Change Management</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the Company identifies the need for changes, makes the changes using a controlled change management process, and prevents unauthorized changes from being made.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Risk and Compliance</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the entity identifies, selects, and develops risk mitigation activities arising from potential business disruptions and the use of vendors and business partners.</span></p>
+                </td>
+            </tr>
+            {% if 'Availability' in  TSC_list %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Data Backup and Storage</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the Company manages data backups to allow for data restorations to occur if needed.</span></p>
+                </td>
+            </tr>
+            {% endif %}
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Business Continuity and Disaster Recovery (BC/DR)</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the Company identifies the steps to be taken in the event of a disaster to help resume business operations.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Data Classification and Handling</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the company classifies data included in the service and the procedures for handling the data.</span></p>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="width: 32.3177%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">Incident Response Plan</span></p>
+                </td>
+                <td style="width: 62.8328%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">How the company identifies the steps to be taken in the event of a security incident.</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>DATA</strong></span></p>
+    <p><span style="font-size: 10pt;">Data refers to transaction streams, files, data stores, tables, and output used or processed by the Company. Through the application programming interface (API), the customer or end-user defines and controls the data they load into and store in the {{ client }} System production network. Once stored in the environment, the data is accessed remotely from customer systems via the Internet.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Customer data is managed, processed, and stored in accordance with relevant data protection and other regulations and with specific requirements formally established in client contracts.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The Company has deployed secure methods and protocols for transmission of confidential or sensitive information over public networks. Database&rsquo;s housing sensitive customer data are encrypted at rest.</span></p>
+    <p><span style="font-size: 10pt;"><strong>SYSTEM INCIDENTS</strong></span></p>
+    <p><span style="font-size: 10pt;">There were no identified significant system incidents that (a) were the result of controls that were not suitably designed or operating effectively to achieve one or more of the service commitments and system requirements or (b) otherwise resulted in a significant failure in the achievement of one or more of those service commitments and system requirements as of {{ as_of_date|date:'F d, Y' }}.&nbsp;&nbsp;</span></p>
+    <p><span style="font-size: 12pt;"><strong>The Applicable Trust Services Criteria and Related Controls</strong></span></p>
+    <p><span style="font-size: 10pt;"><strong>APPLICABLE TRUST SERVICES CRITERIA</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The Trust Services Categories that are in scope for the purposes of this report are as follows:</span></p>
+    <ul>
+        {% if 'Security' in  TSC_list %}
+        <li aria-level="1"><span style="font-size: 10pt;"><span style="font-weight: 600;">Security:</span> Information and systems are protected against unauthorized access, unauthorized disclosure of information, and damage to systems that could compromise the confidentiality of information or systems and affect the entity's ability to meet its objectives.</span></li>
+        {% endif %}
+        {% if 'Confidentiality' in  TSC_list %}
+        <li aria-level="1"><span style="font-size: 10pt;"><span style="font-weight: 600;">Confidentiality:</span> Information designated as confidential is protected to meet the entity's objectives.</span></li>
+        {% endif %}
+        {% if 'Availability' in  TSC_list %}
+        <li aria-level="1"><span style="font-size: 10pt;"><span style="font-weight: 600;">Availability: </span>Information and systems are available for operation and use to meet the entity&rsquo;s objectives.</span></li>
+        {% endif %}
+        {% if 'Process Integrity' in  TSC_list %}
+        <li aria-level="1"><span style="font-size: 10pt;"><span style="font-weight: 600;">Processing integrity: </span>System processing is complete, valid, accurate, timely, and authorized to meet the entity&rsquo;s objectives.</span></li>
+        {% endif %}
+        {% if 'Privacy' in  TSC_list %}
+        <li aria-level="1"><span style="font-size: 10pt;"><span style="font-weight: 600;">Privacy: </span>Personal information is collected, used, retained, disclosed, and disposed to meet the entity&rsquo;s objectives.</span></li>
+        {% endif %}
+    </ul>
+    <p><span style="font-size: 10pt;">Many of the criteria used to evaluate a system are shared amongst all categories; for example, the criteria related to risk assessment apply to the {{ TSCs }} {{ category_copy }}. As a result, the criteria for the {{ TSCs }} {{ category_copy }} are organized into (a) the criteria that are applicable to all categories (common criteria) and (b) criteria applicable only to a single category. The common criteria constitute the complete set of criteria for the security category. For the {{ category_copy }} of {{ TSCs }}, a complete set of criteria is comprised of all the common criteria and all the criteria applicable to the category being reported on.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The common criteria are organized as follows:</span></p>
+
+    <ol>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Control environment: The criteria relevant to how the entity is structured and the processes the entity has implemented to manage and support people within its operating units. This includes criteria addressing accountability, integrity, ethical values, qualifications of personnel, and the environment in which they function.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Communication and information: The criteria relevant to how the entity communicates its policies, processes, procedures, commitments, and requirements to authorized users and other parties of the system and the obligations of those parties and users to the effective operation of the system.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Risk assessment: The criteria relevant to how the entity (i) identifies potential risks that would affect the entity&rsquo;s ability to achieve its objectives, (ii) analyzes those risks, (iii) develops responses to those risks including the design and implementation of controls and other risk mitigating actions, and (iv) conducts ongoing monitoring of risks and the risk management process.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Monitoring activities: The criteria relevant to how the entity monitors the system, including the suitability and design and operating effectiveness of the controls, and acts to address deficiencies identified.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Control activities: The criteria relevant to the actions established through policies and procedures that help ensure that management&rsquo;s directives to mitigate risks to the achievement of objectives are carried out.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Logical and physical access controls: The criteria relevant to how the entity restricts logical and physical access, provides and removes that access, and prevents unauthorized access.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">System operations: The criteria relevant to how the entity manages the operation of system(s) and detects and mitigates processing deviations, including logical and physical security deviations.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Change management: The criteria relevant to how the entity identifies the need for changes, makes the changes using a controlled change management process, and prevents unauthorized changes from being made.</span></li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Risk mitigation: The criteria relevant to how the entity identifies, selects, and develops risk mitigation activities arising from potential business disruptions and the use of vendors and business partners.</span></li>
+    </ol>
+
+    <p><span style="font-size: 10pt;">This report is focused solely on the {{ TSCs }} {{ category_copy }}.&nbsp;</span></p>
+    <p><strong>CONTROL ENVIRONMENT</strong></p>
+    <p><span style="font-size: 10pt;"><strong>INTEGRITY AND ETHICAL VALUES</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }} places emphasis on ethics and communication within the organization. Management communicates and oversees the implementation of the Code of Business Ethics and Conduct to new and current employees via the Employee Handbook. The Employee Handbook contains Code of Conduct information and defines employee expectations. Employees receive the handbook upon hire and sign the Employee Acknowledgement form to confirm that they have received, read, and understand the contents, including the Code of Conduct.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The handbook contains employment provisions, including details on confidential information, internet and email use, job fulfillment of duties, and conduct. Use of company property and conflict of interest are also covered in the document.</span></p>
+    <p><span style="font-size: 10pt;">{{ client }} commits to the highest level of integrity in dealing with its customers, vendors, and workforce. This commitment to integrity is promulgated with established policies that cover a variety of business and integrity objectives.&nbsp;</span></p>
+    <p><span style="font-size: 10pt;">As part of the compliance effort, {{ client }} maintains a complete inventory list of all third parties. Such third parties are contractually required to maintain relevant elements of information security policy requirements, and to report cyber security incidents, in a timely manner.</span></p>
+    <p><span style="font-size: 10pt;"><strong>OVERSIGHT AND AUTHORITY</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }} has a Risk Committee tasked with governance and oversight. {{ LCL_5 }} The committee is chaired by the Chief Risk Officer and comprised of members as determined by the Board of Directors.</span></p>
+    <p><span style="font-size: 10pt;"><strong>ORGANIZATIONAL STRUCTURE</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }}&rsquo;s organizational structure provides a framework for planning, executing and controlling business operations. The organizational structure assigns roles and responsibilities to provide for adequate staffing, efficiency of operations and the segregation of duties. Roles and responsibilities are formally documented and include responsibilities for the oversight and implementation of the security and control environment.&nbsp; Management has also established authority and appropriate lines of reporting for key personnel. {{ client }} follows a structured on-boarding process to assist new employees as they become familiar with processes, systems, policies and procedures. {{ client }} places emphasis on ethics and communication within the organization.&nbsp;</span></p>
+    <p><span style="font-size: 10pt;"><strong>MANAGEMENT&rsquo;S PHILOSOPHY AND OPERATING STYLE</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }}&rsquo;s senior management takes a hands-on approach to running the business. Senior management is heavily involved in all phases of the business operations. The senior management team remains in close contact with all personnel and consistently emphasizes appropriate behavior to all personnel and key vendor personnel.</span></p>
+    <p><span style="font-size: 10pt;"><strong>AUTHORITY AND RESPONSIBILITY</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Management and employees are assigned appropriate levels of authority and responsibility to facilitate effective internal control.</span></p>
+    <p><span style="font-size: 10pt;"><strong>HUMAN RESOURCES</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Upon hiring, and annually thereafter, all employees must successfully complete training courses covering basic information security practices that support the functioning of an effective risk management program. The training courses are designed to assist employees in identifying and responding to social engineering attacks (phishing, pharming, and tailgating) and in avoiding inappropriate security practices (for example, writing down passwords or leaving sensitive material unattended).&nbsp;</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">If an employee is found to be violating company policies, additional training is provided, or other disciplinary actions are taken.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Employees with job responsibilities that fall directly within the incident response program have additional requirements to complete technical and job-specific training throughout the year. Additionally, those employees who have direct access to customer and employee data will receive specific training around incident management, information handling, and data protection.</span></p>
+    <p><span style="font-size: 10pt;">When on-boarding new personnel, background checks are performed by {{ client }} management, where available.&nbsp;</span></p>
+    <p><span style="font-size: 10pt;"><strong>COMMUNICATION AND INFORMATION</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }} has various IT policies such as the IT security policy to ensure that employees understand their individual roles and responsibilities concerning processing as well as controls to ensure that significant events are communicated in a timely manner. These policies include formal and informal training programs and the use of email, instant messaging, and other mechanisms to communicate time-sensitive information and processes for security and system availability purposes that notify key personnel in the event of problems. Policies and supporting documents (and any changes to those documents) help users understand how the System relates to their roles and responsibilities and are communicated to all users by the Company&rsquo;s Security organization.</span></p>
+    <p><span style="font-size: 10pt;">{{ client }} has also published documentation describing the security features of the service, internal security-related processes and controls, and conformity to regulatory requirements.</span></p>
+    <p><span style="font-size: 10pt;"><strong>RISK ASSESSMENT AND MITIGATION</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }}&rsquo;s Risk Committee has performed a risk assessment during the design and implementation of the control objectives and related controls described in this report. As part of its risk assessment, the Risk Committee identified the threats and vulnerabilities relevant to the security of {{ client }} business operations and rated the risk posed by each identified vulnerability. This rating allowed for the design and implementation of controls to mitigate the most significant risks to the security of {{ client }}&rsquo;s service.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The risk assessments are performed by the Risk Committee annually, at a minimum, or in response to any major updates to the product, client base, or business plan.&nbsp;&nbsp;&nbsp;</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">When conducting a risk assessment, the Risk Committee first identifies threats and vulnerabilities relevant to the security of business operations. The Risk Committee then &ndash; for each identified vulnerability &ndash; considers:</span></p>
+
+    <ul>
+        <li aria-level="1"><span style="font-weight: 400; font-size: 10pt;">The likelihood of impact (i.e., the likelihood of the vulnerability being exploited), and</span></li>
+    </ul>
+    <ul>
+        <li aria-level="1"><span style="font-weight: 400; font-size: 10pt;">The severity of impact (i.e., how damaging an exploitation of the vulnerability would be).</span></li>
+    </ul>
+
+    <p><span style="font-weight: 400; font-size: 10pt;">These estimations of impact potential and impact severity are then used in conjunction to establish a risk ranking for each vulnerability.</span></p>
+    <p><span style="font-size: 10pt;"><strong>MONITORING</strong></span></p>
+    <p><span style="font-size: 10pt;">The systems within the boundary are configured to prevent and detect vulnerabilities. In addition to daily oversight and monthly reviews of logs and other usage of virtual infrastructure, management provides monitoring and audit logging in the form of preventive, detective, and corrective reporting. Relevant output from monitoring and detection mechanisms are distributed at monthly meetings with executive and management personnel. Security testing, both automated and manual, occurs at regular intervals. {{ LCL_46 }} {{ LCL_20 }} Vulnerabilities identified are ranked by the security team and management and remediated based on the Company&rsquo;s vulnerability management policies and procedures.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">{{ LCL_45 }}</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The Company utilizes a distributed approach in order to scale the security monitoring function by using a combination of commercially available tools, custom code, and an instant messaging platform. The Company has created a system that provides for the determination of attributions for most critical security-relevant events and target notifications to the staff with the authority and the context necessary to vet that security alert. The interface of this system allows the targeted staff member to either resolve the security alert if they can do so safely or to escalate to the security team if response is required.</span></p>
+    <p><span style="font-size: 10pt;"><strong>CONTROL ACTIVITIES</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Information Security: An Information Security Policy has been formally documented and implemented to provide policies and procedures governing the protection of confidential and sensitive information. The Information Security Policy is communicated and distributed to employees upon hire. In the event of a significant change to the Information Security Policy, a communication is sent to all new and existing employees regarding the changes.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The Information Security Policy is reviewed and updated on an annual basis. The Information Security Policy defines information security responsibilities for all personnel. Where security responsibilities apply, roles are related to the policy and procedures that define their activity within their associated responsibilities. Security awareness training is provided to all employees upon hire and on an annual basis thereafter to ensure that personnel understand their security roles and responsibilities.</span></p>
+    <p><span style="font-size: 10pt;">{{ client }} also communicates security roles and responsibilities to vendors and other third parties. Marketing and contractual materials that describe the services and scope of work provided to clients are documented and maintained to ensure that employees, contractors, vendors, and clients understand their roles and responsibilities.</span></p>
+    <p><span style="font-size: 10pt;"><strong>LOGICAL AND PHYSICAL ACCESS</strong></span></p>
+    <p><span style="font-size: 10pt;">Access management processes exist so that {{ client }} employee and contractor user accounts are added, modified, or disabled in a timely manner and are reviewed on a <span style="background: yellow;">quarterly</span> basis. In addition, password configuration settings for user authentication to the {{ client }} System are managed in compliance with {{ client }}&rsquo;s Password Policy which is part of the Information Security Policy.</span></p>
+    <p><span style="font-size: 10pt;">Users must be approved for logical access by senior management prior to receiving access to the {{ client }} System. Management authorization is required before employment is offered and access is provided. Users must also be assigned a unique ID before being allowed access to system components. User IDs are authorized and implemented as part of the new hire on-boarding process. Access rights and privileges are granted to user IDs based on the principle of least privilege and Role-Based Access Control (RBAC) protocols. Access is limited to that which is required for the performance of job duties for individual users, and generic access by {{ client }} employees is not allowed.</span></p>
+    <p><span style="font-size: 10pt;"><strong>SYSTEM OPERATIONS</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">An Incident Response Policy and Procedures manual has been formally documented and implemented to guide preparation, detection, response, analysis and repair, communication, follow-up, and training for any class of security breach or incident. The responsibilities in the event of a breach, the steps of a breach, and the importance of information security are defined for all employees. The Incident Response Team employs industry-standard diagnosis procedures (such as incident identification, registration and verification, as well as initial incident classification and prioritizing actions) to drive resolution during business-impacting events.</span></p>
+    <p><span style="font-size: 10pt;">{{ client }} reviews, triages, and communicates all incident alerts to {{ client }} whereupon the Incident Response Team starts the incident response process. Post-mortems are convened after any significant operational issue, regardless of external impact. Documentation of the investigation is conducted to determine that the root cause is captured and that preventative actions may be taken for the future.</span></p>
+    <p><span style="font-size: 10pt;"><strong>CHANGE MANAGEMENT</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">A Configuration and Change Management Policy has been formally documented and implemented to guide the processes of change request, documentation, review, evaluation, approval, scheduling, testing, and implementation. Changes that may affect system availability and system security are communicated to management and any partners who may be affected via email.</span></p>
+    <p><span style="font-size: 10pt;">System configuration standards are formally documented and implemented to ensure that all systems and network devices are properly and securely configured. CIS and NIST hardening standards, as well as configurations in {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} are used as a basis for {{ client }}&rsquo;s system configuration standards.</span></p>
+    <p><span style="font-size: 10pt;">Secure Software Development: {{ client }} applies a systematic approach to software development so that changes to customer impacting services are reviewed, tested, approved, and well communicated. Prior to deployment to production environments, changes are:&nbsp;</span></p>
+
+    <ul>
+        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Developed: in a development environment that is segregated from the production environment. Customer content is not used in test and development environments.&nbsp;</span></li>
+        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Reviewed: reviewed by peers for technical aspects and appropriateness.&nbsp;</span></li>
+        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Tested: to confirm the changes will behave as expected when applied and not adversely impact performance.&nbsp;</span></li>
+        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Approved: by authorized team members to provide appropriate oversight and understanding of business impact.&nbsp;</span></li>
+    </ul>
+
+    {% if 'Availability' in  TSC_list %}
+    <p><span style="font-size: 10pt;"><strong>AVAILABILITY</strong></span></p>
+    <p><span style="font-size: 10pt;">{{ client }} uses {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} to host the {{ client }} System. {{ client }} uses multiple availability zones (AZ&rsquo;s) to allow the resumption of service in the case of an AZ outage. The Technical Development team is responsible for performing daily backups of the {{ client }} System including application data, critical data necessary to presume the in-scope services, customer data and sensitive data. The engineering team monitors backups for any errors using logging tools and uses notification tools to alert the team if an error is triggered and action is required to be taken.</span></p>
+    {% endif %}
+
+    {% if 'Confidentiality' in  TSC_list %}
+    <p><span style="font-size: 10pt;"><strong>CONFIDENTIALITY</strong></span></p>
+    <p><span style="font-size: 10pt;">The confidentiality category refers to the protection of customer information as committed by the Company&rsquo;s service level agreements. The confidentiality of the {{ client }} System is dependent on many aspects of the Company&rsquo;s operations. The risks that would prevent the Company from meeting its confidentiality commitments and requirements are diverse. The Company has designed its controls to address both internal and external confidentiality risks specifically related to protection from improper use and disclosure (including the monitoring of vendor services), as well as the proper retention and disposal of confidential customer information.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Confidentiality risks are addressed through policies and procedures covering the use, retention, and disposal of confidential data, data classification policies and procedures, confidentiality and information sharing agreements, remote access and transmission restrictions, and vendor risk assessments.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">In evaluating the suitability of the design of confidentiality controls, the Company considers the likely causes of improper disclosure or handling of confidential information and the commitments and requirements related to confidentiality.</span></p>
+    {% endif %}
+
+    {% if 'Process Integrity' in  TSC_list %}
+    <p><span style="font-size: 10pt;"><strong>PROCESSING INTEGRITY</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">What is the process to cover completeness and accuracy of the data for input into the system? Are there any coded logic or validation checks to determine that inputs are made properly? How are the outputs determined to be complete, accurate, and timely in accordance with commitments for processing?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">What is the process to validate the financial system information to completed debit or credit transactions? Is there any automation to the transaction processing? Are there any portals or dashboards for customers to see reports for transactional information? How long are historical customer data/transactions kept?</span></p>
+    {% endif %}
+
+    {% if 'Privacy' in  TSC_list %}
+    <p><span style="font-size: 10pt;"><strong>PRIVACY</strong></span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Use the Company privacy policy as a basis and make sure the following areas are covered:</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How are data subjects provided the notice and choice of the use of their personal information? Is explicit consent required? If implicit, how is that basis for consent determined?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Does the data subject have the ability to opt-in or opt-out? If yes, how?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How is the PII collected and ultimately disposed of?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How do you determine that the PII is only used for its intended purpose?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How can a data subject access and view the PII related to them?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How are modifications or amendments (or deletions) to the data subject PII made if requested?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">What is the policy regarding use of third parties? Is consent needed for that as well? If explicit consent is needed, how do you ensure it is obtained prior to disclosing to the third party? How is third-party compliance assessed (interval and method)?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">Are incidents handled differently if the data subject PII is breached? If yes, explain.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">How is the quality of data subject PII determined and monitored?</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">What is the process for the Company to determine that it is maintaining its privacy commitments?</span></p>
+    {% endif %}
+
+    <p><span style="font-size: 10pt;"><strong>COMPLEMENTARY USER ENTITY CONTROLS (CUECs)</strong></span></p>
+    <p><span style="font-size: 10pt;">The Company&rsquo;s controls related to {{ client }} cover only a portion of overall internal control for each user entity of {{ client }}. It is not feasible for the service commitments, system requirements, and applicable criteria related to the system to be achieved solely by the Company. Therefore, each user entity&rsquo;s internal control should be evaluated in conjunction with the Company&rsquo;s controls and the related tests and results described in Section 4 of this report, taking into account the related complementary user entity controls (CUECs) identified for the specific criterion. In order for user entities to rely on the controls reported herein, each user entity must evaluate its own internal control environment to determine whether the identified CUECs have been implemented and are operating effectively.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The CUECs presented should not be regarded as a comprehensive list of all controls that should be employed by user entities. Management of user entities is responsible for the following:</span></p>
+
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="complementary-user-entity-controls-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; border-color: #000000; border-style: none; text-align:left">
+                <th style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="complementary-user-entity-controls-th1">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Criteria&nbsp;</span></p>
+                </th>
+                <th style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="complementary-user-entity-controls-th2">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Complementary User Entity Controls (CUECs)</span></p>
+                </th>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC2.1</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">User entities have policies and procedures to report any material changes to their overall control environment that may adversely affect services being performed by the Company according to contractually specified time frames</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Controls to provide reasonable assurance that the Company is notified of changes in:</span></li>
+                        <ul>
+                            <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400; font-size: 10pt;">User entity vendor security requirements</span></li>
+                            <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400; font-size: 10pt;">The authorized user list</span></li>
+                        </ul>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC2.3</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">It is the responsibility of the user entity to have policies and procedures to:</span></li>
+                        <ul>
+                            <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400; font-size: 10pt;">Inform their employees and users that their information or data is being used and stored by the Company</span></li>
+                            <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400; font-size: 10pt;">Determine how to file inquiries, complaints, and disputes to be passed on to the Company</span></li>
+                        </ul>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC6.1</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">User entities grant access to the Company&rsquo;s system to authorized and trained personnel</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">User entities deploy physical security and environmental controls for all devices and access points residing at their operational facilities, including remote employees or at-home agents for which the user entity allows connectivity</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC6.6</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">Controls to provide reasonable assurance that policies and procedures are deployed over user IDs and passwords that are used to access services provided by the Company.</span></li>
+                    </ul>
+                </td>
+            </tr>
+        </thead>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>SUBSERVICE ORGANIZATIONS AND COMPLEMENTARY SUBSERVICE ORGANIZATION CONTROLS (CSOCs)</strong></span></p>
+    <p><span style="font-size: 10pt;">The Company uses {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} as {% if sso_cloud_providers_quantity <= 1 %} a {% endif %} subservice organization(s) for data center colocation services. The Company&rsquo;s controls related to {{ client }} cover only a portion of the overall internal control for each user entity of {{ client }}. The description does not extend to the colocation services for IT infrastructure provided by the subservice organization. Section 4 of this report and the description of the system only cover the Trust Services Criteria and related controls of the Company and exclude the related controls of {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %}.&nbsp;&nbsp;</span></p>
+    <p><span style="font-size: 10pt;">Although the subservice organization has been carved out for the purposes of this report, certain service commitments, system requirements, and applicable criteria are intended to be met by controls at the subservice organization. Complementary subservice organization controls (CSOCs) are expected to be in place at {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} related to physical security and environmental protection, as well as backup, recovery, and redundancy controls related to availability. {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} physical security controls mitigate the risk of fires, power loss, climate, and temperature variability.</span></p>
+    <p><span style="font-size: 10pt;">The Company management receives and reviews the {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} SOC 2 report annually. In addition, through its operational activities, Company management monitors the services performed by {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} to determine whether operations and controls expected to be implemented are functioning effectively. Management also has communication with the subservice organization to monitor compliance with the service agreement, stay informed of changes planned at the hosting facility, and relay any issues or concerns to {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} management.</span></p>
+    <p><span style="font-size: 10pt;">It is not feasible for the service commitments, system requirements, and applicable criteria related to {{ client }} to be achieved solely by the Company. Therefore, each user entity&rsquo;s internal control must be evaluated in conjunction with the Company&rsquo;s controls and related tests and results described in Section 4 of this report, taking into account the related CSOCs expected to be implemented at {% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} as described below</span></p>
+    <table style="border-collapse: collapse; width: 100%; border: 1px solid #000000;" aria-label="complementary-subservice-organization-controls-table">
+        <thead>
+            <tr style="background-color: #c2e0f4; border-color: #000000; border-style: none; text-align:left">
+                <th style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="complementary-subservice-organization-controls-th1">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Criteria&nbsp;</span></p>
+                </th>
+                <th style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" id="complementary-subservice-organization-controls-th2">
+                    <p><span style="font-weight: 600; color: #000000; font-size: 10pt;">Complementary Subservice Organization Controls (CSOCs)</span></p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC6.4</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for restricting data center access to authorized personnel</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for the 24/7 monitoring of data centers by closed circuit cameras and security personnel</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC6.5</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for securely decommissioning and physically destroying production assets in its control</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="border-color: #000000; border-style: none;">
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;">
+                    <p><span style="font-weight: 400; font-size: 10pt;">CC7.2</span></p>
+                </td>
+                <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px;" >
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for the installation of fire suppression and detection and environmental monitoring systems at the data centers</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for protecting data centers against a disruption in power supply to the processing environment by an uninterruptible power supply (UPS)</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-size: 10pt;">{% if sso_cloud_provider == 'sso_cloud_provider' %} <span style="background: yellow;">{{ sso_cloud_provider }}</span> {% else %} {{ sso_cloud_provider }} {% endif %} {% if sso_cloud_providers_quantity > 1 %} are {% else %} is {% endif %} responsible for overseeing the regular maintenance of environmental protections at data centers.</span></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><span style="font-size: 10pt;"><strong>SPECIFIC CRITERIA NOT RELEVANT TO THE SYSTEM</strong></span></p>
+    <p><span style="font-size: 10pt;">There were no specific {{ TSCs }} Trust Services Criteria as set forth in TSP section 100, <em>2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy</em> (AICPA, Trust Services Criteria) that were not relevant to the system as presented in this report.</span></p>
+    <p><span style="font-size: 10pt;"><strong>REPORT USE</strong></span></p>
+    <p><span style="font-size: 10pt;">The description does not omit or distort information relevant to {{ client }} while acknowledging that the description is prepared to meet the common needs of a broad range of users and may not, therefore, include every aspect of the system that each individual user may consider important to their particular needs.<br /></span></p>
+  </body>
+</html>

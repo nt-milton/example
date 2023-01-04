@@ -1,0 +1,18 @@
+{
+  "queryType": "flat",
+  "queryResultType": "workItem",
+  "asOf": "2022-10-26T21:10:36.557Z",
+  "columns": [
+    {
+      "referenceName": "System.Id",
+      "name": "ID",
+      "url": "https://dev.azure.com/Laika-compliance-test/_apis/wit/fields/System.Id"
+    }
+  ],
+  "workItems": [
+    {
+      "id": 1,
+      "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/wit/workItems/1"
+    }
+  ]
+}

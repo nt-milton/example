@@ -1,0 +1,15 @@
+<p style="color: #3598db;">----------------------------------------------------------------------------------------------------------</p>
+<p style="color: #3598db;"><strong>Automated Evidence (Run #{{run_id}}, {% now "m/d/Y, h:m:s" %})</strong></p>
+{% for attachment in automated_attachments %}
+    <ol style="color: #3598db;">
+    {% for question in attachment %}
+        <li {% if question.answer is None %} style="color: black;" {% endif %}>
+            <strong>{{question.question}}</strong>
+            <ol type="a">
+                <li {% if question.answer is None %} style="color: black;" {% endif %}> {% if question.answer is not None %} {{question.answer}} {% endif %}</li>
+            </ol>
+        </li>
+    {% endfor%}
+    </ol>
+    <br />
+{% endfor %}

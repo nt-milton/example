@@ -1,0 +1,14 @@
+{% extends 'admin/change_list.html' %}
+{% load i18n admin_urls %}
+
+{% block object-tools-items %}
+    <form id="sync-from-airtable" method="POST" action="sync_from_airtable/">
+        {% csrf_token %}
+            <button
+                    class="button btn btn-high btn-success"
+                    type="submit"
+                    style="background-color: #ba2121; padding: 8px">
+                Update Blueprint
+            </button>
+    </form>
+{% endblock object-tools-items %}

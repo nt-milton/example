@@ -1,0 +1,42 @@
+[{
+    "id": "testid1",
+    "applicant": {
+        "id": "mockid1",
+        "first_name": "test",
+        "last_name": "applicant",
+        "middle_name": "vetty",
+        "middle_name_exists": true,
+        "email": "test@heylaika.com"     
+    },
+    "package": {
+        "id": "packageid1",
+        "name": "Test Package",
+        "price": 19.99,
+        "renewal_cost_per_year": null,
+        "checks": [
+            {
+            "name": "Criminal County",
+            "code": "crimcounty"
+            },
+            {
+            "name": "Terrorist Watchlist",
+            "code": "gstw"
+            },
+            {
+            "name": "National Criminal",
+            "code": "natcrim"
+            },
+            {
+            "name": "Sex Offender",
+            "code": "sexof"
+            },
+            {
+            "name": "SSN Trace",
+            "code": "ssntrace"
+            }
+        ],
+        "renewals": null,
+        "extra_docs": null 
+    },
+    "status": "in_progress"
+}]

@@ -1,0 +1,5 @@
+AZURE_DEVOPS_SYSTEM = 'Azure DevOps'
+API_VERSION = 'api-version=7.1-preview'
+AZURE_DEVOPS_DBASE_DEV_API = 'https://dev.azure.com'
+AZURE_DEVOPS_VSAEX_API_ULR = 'https://vsaex.dev.azure.com'
+API_VERSION_4_1 = 'api-version=4.1'

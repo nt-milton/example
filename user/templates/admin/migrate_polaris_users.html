@@ -1,0 +1,44 @@
+{% extends "admin/base_site.html" %}
+{% load i18n admin_urls admin_modify static %}
+
+{% block extrastyle %}
+    {{ block.super }}
+    <link rel="stylesheet" type="text/css" href="{% static "admin/css/forms.css" %}"/>
+{% endblock %}
+
+{% block title %}Migrate Polaris Users | {% trans 'Django site admin' %}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">{% trans 'Laika Admin' %}</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+    <a href="{% url 'admin:index' %}">{% trans 'Home' %}</a> ›
+    <a href="/admin/user/user">{% trans 'Users' %}</a> ›
+    {% trans 'Migrate Polaris Users' %} {{ original|truncatewords:"18" }}
+</div>
+{% endblock %}
+
+{% block nav_sidebar %}
+    {% include 'admin/nav_sidebar.html' %}
+{% endblock %}
+
+{% block content %}
+    <div id="content-main">
+        <h2>
+            This functionality is meant for Polaris users created in Cognito
+        </h2>
+        <h3>
+            Please be sure about using this! It's meant for managers and developers
+        </h3>
+        <br /><br />
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input type="submit" value="Save">
+        </form>
+    </div>
+{% endblock %}

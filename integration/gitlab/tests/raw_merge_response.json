@@ -1,0 +1,78 @@
+{
+  "data": {
+    "group": {
+      "projects": {
+        "nodes": [
+          {
+            "mergeRequests": {
+              "pageInfo": {
+                "endCursor": "eyJpZCI6IjgzODcyMTEwIiwiY3JlYXRlZF9hdCI6IjIwMjEtMDEtMDYgMTk6MzE6NDEuMjMzNDQ3MDAwIFVUQyJ9",
+                "hasNextPage": false
+              },
+              "nodes": [
+                {
+                  "iid": "31",
+                  "state": "opened",
+                  "approved": true,
+                  "title": "Ui-test",
+                  "webUrl": "https://gitlab.com/test-group/test-app/-/merge_requests/31",
+                  "targetBranch": "develop",
+                  "sourceBranch": "UI",
+                  "approvalsRequired": 0,
+                  "approvalsLeft": 0,
+                  "author": {
+                    "name": "Jeffrey Martinez",
+                    "username": "test - username"
+                  },
+                  "approvedBy": {
+                    "nodes": []
+                  },
+                  "updatedAt": "2021-01-06T20:30:46Z",
+                  "createdAt": "2021-01-06T19:31:41Z",
+                  "project": {
+                    "id": "gid://gitlab/Project/1",
+                    "name": "test-app"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "mergeRequests": {
+              "pageInfo": {
+                "endCursor": "eyJpZCI6IjgzODcyMTEwIiwiY3JlYXRlZF9hdCI6IjIwMjEtMDEtMDYgMTk6MzE6NDEuMjMzNDQ3MDAwIFVUQyJ9",
+                "hasNextPage": false
+              },
+              "nodes": [
+                {
+                  "iid": "32",
+                  "state": "opened",
+                  "approved": true,
+                  "title": "Ui-test",
+                  "webUrl": "https://gitlab.com/test-group/test-app/-/merge_requests/31",
+                  "targetBranch": "develop",
+                  "sourceBranch": "UI",
+                  "approvalsRequired": 0,
+                  "approvalsLeft": 0,
+                  "author": {
+                    "name": "Jeffrey Martinez",
+                    "username": "test - username"
+                  },
+                  "approvedBy": {
+                    "nodes": []
+                  },
+                  "updatedAt": "2021-01-06T20:30:46Z",
+                  "createdAt": "2021-01-06T19:31:41Z",
+                  "project": {
+                    "id": "gid://gitlab/Project/1",
+                    "name": "test-app"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

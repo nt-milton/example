@@ -1,0 +1,18 @@
+[
+  {
+    "avatar": {
+      "avatarType": "laika_avatar",
+      "avatarUuid": null
+    },
+    "dateCreated": "2018-11-06T21:19:55.101Z",
+    "id": "2",
+    "isEarlyAdopter": false,
+    "name": "Laika organization",
+    "require2FA": false,
+    "slug": "heylaika",
+    "status": {
+      "id": "active",
+      "name": "active"
+    }
+  }
+]

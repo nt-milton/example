@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "etag": "BwXE5KYxAE0=",
+  "bindings": [
+    {
+      "role": "roles/actions.Viewer",
+      "members": [
+        "deleted:serviceAccount:c1-964@compelling-pen-312222.iam.gserviceaccount.com?uid=117342703538790796256"
+      ]
+    },
+    {
+      "role": "roles/cloudfunctions.serviceAgent",
+      "members": [
+        "serviceAccount:service-123123123@gcf-admin-robot.iam.gserviceaccount.com"
+      ]
+    },
+    {
+      "role": "roles/editor",
+      "members": [
+        "serviceAccount:from-otto-account@appspot.gserviceaccount.com"
+      ]
+    },
+    {
+      "role": "roles/owner",
+      "members": [
+        "user:otto@heylaika.com"
+      ]
+    },
+    {
+      "role": "roles/pubsub.serviceAgent",
+      "members": [
+        "serviceAccount:service-123123123@gcp-sa-pubsub.iam.gserviceaccount.com"
+      ]
+    },
+    {
+      "role": "roles/viewer",
+      "members": [
+        "serviceAccount:laika-integration-otto-1@from-otto-account.iam.gserviceaccount.com",
+        "serviceAccount:laika-integration-otto-with-te@from-otto-account.iam.gserviceaccount.com",
+        "serviceAccount:sa-from-otto-account@from-otto-account.iam.gserviceaccount.com",
+        "user:jeffrey@heylaika.com",
+        "user:laurens.ortiz@heylaika.com",
+        "user:pablo.gonzales@heylaika.com"
+      ]
+    },
+    {
+      "role": "projects/txt-api/roles/CustomRole",
+      "members": [
+        "serviceAccount:mothership-logging@txt-api.iam.gserviceaccount.com",
+        "user:otto@heylaika.com"
+      ]
+    }
+  ]
+}

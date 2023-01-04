@@ -1,0 +1,63 @@
+[
+  {
+    "id": "00ub0oNGTSWTBKOLGLNR",
+    "status": "STAGED",
+    "created": "2013-07-02T21:36:25.344Z",
+    "activated": null,
+    "statusChanged": null,
+    "lastLogin": null,
+    "lastUpdated": "2013-07-02T21:36:25.344Z",
+    "passwordChanged": "2013-07-02T21:36:25.344Z",
+    "profile": {
+      "firstName": "Isaac",
+      "lastName": "Brock",
+      "email": "isaac.brock@example.com",
+      "login": "isaac.brock@example.com",
+      "mobilePhone": "555-415-1337"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://${yourOktaDomain}/api/v1/users/00ub0oNGTSWTBKOLGLNR"
+      }
+    }
+  },
+  {
+    "id": "00ub0oNGTSWTBKOLGLNR",
+    "status": "ACTIVE",
+    "created": "2013-06-24T16:39:18.000Z",
+    "activated": "2013-06-24T16:39:19.000Z",
+    "statusChanged": "2013-06-24T16:39:19.000Z",
+    "lastLogin": "2013-06-24T17:39:19.000Z",
+    "lastUpdated": "2013-07-02T21:36:25.344Z",
+    "passwordChanged": "2013-07-02T21:36:25.344Z",
+    "profile": {
+      "firstName": "Eric",
+      "lastName": "Judy",
+      "email": "eric.judy@example.com",
+      "secondEmail": "eric@example.org",
+      "login": "eric.judy@example.com",
+      "mobilePhone": "555-415-2011"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "The stars are projectors?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://${yourOktaDomain}/api/v1/users/00ub0oNGTSWTBKOLGLNR"
+      }
+    }
+  }
+]

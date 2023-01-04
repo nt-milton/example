@@ -1,0 +1,17 @@
+{
+  "account": {
+    "id": 1,
+    "username": "test",
+    "realName": null,
+    "email": "test@test.com",
+    "preferences": {
+      "language": "en",
+      "dateFormat": "dd/MM/yyyy",
+      "region": "Atlantic",
+      "timezone": "Atlantic/St_Helena",
+      "isDisableRelativeDates": false
+    },
+    "accessLevel": "FullAccess",
+    "privilegeSet": "ENROLLMENT_ONLY"
+  }
+}

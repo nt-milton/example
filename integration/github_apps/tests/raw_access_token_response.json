@@ -1,0 +1,13 @@
+{
+  "token": "token",
+  "expires_at": "2021-08-19T20:56:30Z",
+  "permissions": {
+    "members": "read",
+    "organization_administration": "read",
+    "actions": "read",
+    "administration": "read",
+    "metadata": "read",
+    "pull_requests": "read"
+  },
+  "repository_selection": "all"
+}

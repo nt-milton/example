@@ -1,0 +1,17 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#groups(displayName,id)",
+    "value": [
+        {
+            "displayName": "Test-group-1",
+            "id": "43243424-a0dc-42ec-9ce7-28b91d59563e"
+        },
+        {
+            "displayName": "Test-group-2",
+            "id": "9f90c6bb-aaaf-4261-9091-bfb0171933c4"
+        },
+        {
+            "displayName": "Test-group-3",
+            "id": "ae42e96e-2a9f-4e4c-b9cb-ba5f410246a2"
+        }
+    ]
+}

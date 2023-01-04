@@ -1,0 +1,59 @@
+{
+  "kind": "admin#directory#tokenList",
+  "etag": "\"ApAxKM7VN_7bjOIbRu5ZTulmDYQVVJU0pk3qj_GxGmA/lZaXGw-70lvA1iZ7ry5_QYd6S1o\"",
+  "items": [
+    {
+      "kind": "admin#directory#token",
+      "etag": "\"ApAxKM7VN_7bjOIbRu5ZTulmDYQVVJU0pk3qj_GxGmA/QYX7xSTvRIMMNgdCzJvqQsssabM\"",
+      "clientId": "198146192950-9ccqkc4ntn6750jljjl36bo1qjlj9n9n.apps.googleusercontent.com",
+      "displayText": "Laika Staging",
+      "anonymous": false,
+      "nativeApp": false,
+      "userKey": "109707573884988226053",
+      "scopes": [
+        "https://www.googleapis.com/auth/admin.directory.orgunit.readonly",
+        "https://www.googleapis.com/auth/admin.directory.user.readonly"
+      ]
+    },
+    {
+      "kind": "admin#directory#token",
+      "etag": "\"ApAxKM7VN_7bjOIbRu5ZTulmDYQVVJU0pk3qj_GxGmA/m8Osf9OTxfCnnyqkzTTnb2iB-Aw\"",
+      "clientId": "555213542263-1rjk63rufhksh0o9rc9tl16058nkvq73.apps.googleusercontent.com",
+      "displayText": "Laika",
+      "anonymous": false,
+      "nativeApp": false,
+      "userKey": "109707573884988226053",
+      "scopes": [
+        "https://www.googleapis.com/auth/admin.directory.orgunit.readonly",
+        "https://www.googleapis.com/auth/admin.directory.user.readonly"
+      ]
+    },
+    {
+      "kind": "admin#directory#token",
+      "etag": "\"ApAxKM7VN_7bjOIbRu5ZTulmDYQVVJU0pk3qj_GxGmA/ttB7KgN6opsiEavRjkCptsVvgng\"",
+      "clientId": "1032199425885-oq9scukspijc682n7k2erv386nc58que.apps.googleusercontent.com",
+      "displayText": "Asana",
+      "anonymous": false,
+      "nativeApp": false,
+      "userKey": "109707573884988226053",
+      "scopes": [
+        "https://www.googleapis.com/auth/userinfo.profile",
+        "https://www.googleapis.com/auth/userinfo.email",
+        "openid"
+      ]
+    },
+    {
+      "kind": "admin#directory#token",
+      "etag": "\"ApAxKM7VN_7bjOIbRu5ZTulmDYQVVJU0pk3qj_GxGmA/lxvuTKtFAwIx6KyzZoyFW13iN30\"",
+      "clientId": "77185425430.apps.googleusercontent.com",
+      "displayText": "Google Chrome",
+      "anonymous": false,
+      "nativeApp": false,
+      "userKey": "109707573884988226053",
+      "scopes": [
+        "https://www.google.com/accounts/OAuthLogin"
+      ]
+    }
+  ]
+}
+

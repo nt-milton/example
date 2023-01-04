@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en"
+  style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #cccccc;margin: 0;">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ title }}</title>
+</head>
+
+<body
+  style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #cccccc;margin: 0;padding: 24px;">
+  <table role="presentation" style="background-color: #ffffff;border-collapse: separate;max-width: 600px; margin: 0 auto;">
+    <tbody>
+      <tr>
+        <td colspan="3" class="header"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;text-align: center;padding-top: 24px;padding-bottom: 24px;">
+          <img alt="Laika Logo" src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-header.png"
+            style="width: 95px;max-width: 95px;height: auto;display: block;margin: 0 auto;">
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="3" class="hero"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #f8fafd;padding-top: 24px;padding-bottom: 24px;text-align: center;">
+          <img alt="Invite hero background" src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/invite-hero.png"
+            style="display: block;margin: 0 auto;width: 90%;max-width: 328px;height: auto;">
+          <h3
+            style="margin: 0;mso-line-height-rule: exactly;color: #736B92;font-weight: 300;font-size: 18px;line-height: 21px;text-align: center;padding: 0;">
+            {{ hero_title }}</h3>
+          <h4
+            style="margin: 0;mso-line-height-rule: exactly;font-weight: 300;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;color: #736B92;font-size: 14px;line-height: 18px;padding: 4px 24px;">
+            {{ hero_subtitle }}</h4>
+        </td>
+      </tr>
+      <tr>
+      <td colspan="3" class="header"
+        style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;text-align: center;padding-top: 34px;">
+        <p
+          style="margin: 0 0 28px 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: center;">
+          <strong>{{ name }}</strong> invited you to Laika {% if application %}<strong>{{ application }}</strong>{% endif %}
+        </p>
+      </td>
+      </tr>
+      <tr>
+        <td class="spacer"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;width: 12px;">
+          &nbsp;</td>
+        <td class="contents"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;">
+          <p style="margin: 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: justify;">
+            You have been invited to join Laika, a modern platform for growing companies
+            to manage compliance, obtain security certifications, and build trust with
+            enterprise customers. To get started, click the login button below or use this 
+            <a href="{{ login_link }}">link</a>.
+          </p>
+          <p style="margin: 0;padding: 18px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: justify;">
+            Laika Username: <strong class="highlight" style="font-weight: normal;color: #7AACDE;">{{ username }}</strong><br>
+            Laika Permission: <strong class="highlight" style="font-weight: bold;color: #000000;">{{ role }}</strong>
+          </p>
+          <p style="margin: 10px 0 8px 0;padding: 18px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: center;">
+            <a href="{{ login_link }}"
+              style="display: inline-block;color: #ffffff;text-transform: uppercase;font-weight: bold;font-size: 12px;line-height: 14px;background-color: #4C3068;padding: 14px 32px;min-width: 200px;border-radius: 2px;text-decoration: none!important;">Login
+              to Laika</a>
+          </p>
+          <p style="margin: 0;padding: 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: justify;">
+            Link expires in {{ expire_days }} days. You will be asked to change your password on login.
+          </p>
+          <p class="footer"
+            style="margin: 10px 0;padding: 30px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: center;">
+            <img alt="laika logo" src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-footer.png"
+              style="width: 78px;max-width: 78px;height: auto;">
+          </p>
+          <p class="is-small"
+            style="margin: 0;padding: 18px 0 0 0;color: #9d92a8;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 10px;line-height: 16px;text-align: center;">
+            The contents of this e-mail message and any attachments are confidential and may be legally
+            privileged. If you are not the intended recipient, notify the sender by replying to this e-mail
+            and delete this message and its attachments, if any. To ensure delivery to your inbox,
+            add concierge@heylaika.com and support@heylaika.com to your address book.
+          </p>
+          <p
+            style="margin: 0;padding: 18px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: justify;">
+            &nbsp;</p>
+        </td>
+        <td class="spacer"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;width: 12px;">
+          &nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>

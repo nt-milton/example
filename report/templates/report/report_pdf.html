@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ organization.name }} Report</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Rubik:wght@300;400;500&display=block" rel="stylesheet">
+    <meta name="pdfkit-margin-left" content="0mm" />
+    <meta name="pdfkit-margin-right" content="0mm" />
+    <meta name="pdfkit-margin-bottom" content="35mm" />
+    <meta name="pdfkit-margin-top" content="40mm" />
+    <style>
+        html, body {
+            height: 100%;
+            margin-bottom: 100px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            font-size: 17px;
+            line-height: 29px;
+        }
+        body {
+            display: block;
+            padding: 1px 100px 0;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin: 0;
+            line-height: 25px;
+        }
+        h1, h2, h3 {
+            font-family: 'Rubik', sans-serif;
+            font-weight: 500;
+        }
+        h1 {
+            font-size: 34px;
+            font-weight: 500;
+            line-height: 42px;
+            text-align: left;
+            margin-bottom: 13px;
+        }
+        h2 {
+            font-size: 24px;
+            font-weight: 500;
+            line-height: 36px;
+            margin-bottom: 10px;
+        }
+        h3 {
+            line-height: 29px;
+            margin-bottom: 12px;
+            font-size: 20px;
+            font-family: sans-serif;
+            font-weight: 400;
+        }
+        p {
+            font-size: 17px;
+            font-weight: 300;
+            margin-top: 0;
+            line-height: 30px;
+            margin-bottom: 15px;
+        }
+        p + :not(p):not(ul) {
+            margin-top: 37px;
+        }
+        table {
+            border-collapse: collapse;
+            border: 1px solid #DDDAE0;
+            width: 100%;
+            margin-bottom: 40px;
+        }
+        table th {
+            font-family: 'Rubik', sans-serif;
+            font-weight: 300;
+            text-align: left;
+            font-size: 18px;
+            line-height: 18px;
+        }
+        table th,
+        table td {
+            padding: 15px;
+            border: none;
+            min-width: 170px;
+        }
+        table tbody {
+            font-weight: normal;
+        }
+        table tr td {
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 18px;
+            text-align: left;
+        }
+        table tr {
+            border: 1px solid #DDDAE0;
+        }
+        .new-page {
+            page-break-after: always;
+        }
+        .table-of-contents-container {
+            padding: 0;
+            width: 100%;
+            display: block;
+        }
+        .table-of-contents-container h2 {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            font-size: 30px;
+            margin-top: 65px;
+            margin-bottom: 70px;
+        }
+        .table-of-contents-container > ul {
+            padding: 0;
+        }
+        .table-of-contents-container p {
+            margin-bottom: 5px;
+        }
+        .table-of-contents-container p + :not(p) {
+            margin-bottom: 5px;
+        }
+
+        .table-of-contents-container ul, .table-of-contents-container #contents-list {
+            list-style-type: none;
+            padding-left: 0;
+            margin-top: 6px;
+            color: #000000;
+        }
+        .table-of-contents-container #contents-list a {
+            cursor: pointer;
+            text-decoration: none;
+            color: #000000;
+        }
+        .table-of-contents-container #contents-list {
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 24px;
+        }
+        .table-of-contents-container .contents-label {
+            font-size: 24px;
+            font-weight: 500;
+            line-height: 36px;
+        }
+        .table-of-contents-container ul.nested .contents-label {
+            line-height: 29px;
+            font-size: 18px;
+            font-family: sans-serif;
+            font-weight: 300;
+            padding-left: 15px;
+        }
+        .table-of-contents-container .caret,
+        .table-of-contents-container .caret-down
+        {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <side class="table-of-contents-container new-page">
+        <h2>Table of Contents</h2>
+        <div id="table-of-contents">
+            {# HERE WE INJECT THE TABLE OF CONTENTS #}
+            {{ table_of_contents | safe }}
+        </div>
+    </side>
+    <main class="page-content">
+        {# HERE WE INJECT THE TEMPLATE CONTENT #}
+        {{ report_content | safe }}
+    </main>
+</body>
+</html>
+
+

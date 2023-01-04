@@ -1,0 +1,24 @@
+[
+  {
+    "id": "12339761",
+    "conditions": [],
+    "filters": [],
+    "actions": [],
+    "actionMatch": "all",
+    "filterMatch": "all",
+    "frequency": 5,
+    "name": "testing",
+    "dateCreated": "2022-09-27T20:15:10.185653Z",
+    "owner": "team:1462197",
+    "createdBy": {
+      "id": 1380457,
+      "name": "Laika-Dev",
+      "email": "dev@heylaika.com"
+    },
+    "environment": null,
+    "projects": [
+      "python-otto-testing"
+    ],
+    "type": "rule"
+  }
+]

@@ -1,0 +1,44 @@
+{% extends "admin/monitor/organizationmonitor/base.html" %}
+
+{% block content %}
+{% for result in results %}
+	<h1>{{ result.id }}</h1>
+	<h3>Name</h3>
+	<p>{{ result.name }}</p>
+	<h3>Query for variables</h3>
+	<code>{{ result.query }}</code>
+	<h3>Original query</h3>
+	<code>{{ result.original_query }}</code>
+	<h3>Validation query</h3>
+	{% if result.validation_query %}
+	<code>{{ result.validation_query }}</code>
+	{% else %}
+	<code>N/A</code>
+	{% endif %}
+	<h3>Runner Type</h3>
+	<p>{{ result.runner_type }}</p>
+	<h3>Health condition</h3>
+	<p>{{ result.health_condition }}</p>
+	<h3>Result</h3>
+	{% if result.result.columns and result.result.data %}
+	<table>
+		<caption>Results for the query</caption>
+		<tr>
+			{% for column in result.result.columns %}
+			<th id="{{ column }}">{{ column }}</th>
+			{% endfor %}
+		</tr>
+		{% for data in result.result.data %}
+		<tr>
+			{% for row in data %}
+			<td>{{ row }}</td>
+			{% endfor %}
+		</tr>
+		{% endfor %}
+	</table>
+	{% else %}
+	<p>{{ result.result }}</p>
+	{% endif %}
+	<br>
+{% endfor %}
+{% endblock %}

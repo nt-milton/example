@@ -1,0 +1,696 @@
+Name,subtask_reference_id
+"AA - Unfair, Deceptive, or Abusive Acts or Practices (UDAAP)",
+Acquire the latest SOC 2 report from all of your organization's critical suppliers and/or conduct an assessment of all critical suppliers.,84ff9b7d-2735-430f-ac62-f7d2f540bdab
+"Add the new vendor to your organization's <a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendor List</a> and complete the fields listed under the ""Assessments"" tab.",736a3541-afee-4f13-96c8-4c6970535851
+Advertising & Marketing,
+"Appoint a Data Protection Officer with responsiblities defined in the <a href=""https://app.heylaika.com/policies"" target=""blank"">EU Data Compliance policy</a> ",829de06f-e665-4bbb-a5ec-aed950ec1328
+B - ECOA - Equal Credit Opportunity Act,
+back up your management,
+CAN-SPAM - Controlling the Assault of Non-solicited Pornography and Marketing (CAN-SPAM),
+Complaint Handling,
+"Complete an <a href=""https://app.heylaika.com/documents"" target=""blank"">employee offboarding checklist</a>.",e4c54c08-eabc-4c9f-a624-80bc36f154ff
+"Complete the <a href=""https://app.heylaika.com/documents"" target=""blank"">Contractor Onboarding Checklist</a> for the contractors if they are in a critical function.",0ea54349-91f8-4f0f-b4ae-8317c4190ebc
+"Conduct a background check. For more information and a list of recommended vendors, see How-to Guide.",e8e20bbf-dcdf-4cf8-a0c1-cfa2d092586d
+"Conduct a Business Continuity Plan (BCP) Test (<a href=""https://app.heylaika.com/documents"" target=""blank"">Business Continuity Plan Test</a>). The Test assesses the adequacy of your organization's BCPDR Plan in simulated disaster situations.",14929598-1a89-40de-9788-c5f2f1fe34f4
+Conduct a Data Protection Impact Assessement through the Privacy Committee. See the How to Guide for further details,ee103aab-a34f-45f6-96fe-a9edf2326ad6
+Conduct a Risk Assessment and continue to monitor risk health.,9eba9cd2-2235-4e4d-9dde-e92f7f2dcbcc
+"Conduct a third-party penetration test. For more information, please refer to the <a href=""https://app.heylaika.com/documents"" target=""blank"">Penetration Testing Procedure Template</a>.",25214a06-c546-4290-9e11-32161af02066
+Conduct a third-party port scan and upload the results. More info and vendor recommendations see How-to Guide.,25214a06-c546-4290-9e11-32161af02066
+"Conduct and pass a PCI compliant Vulnerability Scan every quarter. The scans should be completed by a PCI SSC Approved Scanning Vendor (ASV). Laika recommends (<a href=""https://www.mcafeesecure.com/pci-compliance"" target=""blank"">McAfee Secure</a>) for your company's ASV vendor. Upload scan results to this subtask once completed.",d5ce1c55-fbbf-4150-9c84-c05aa709e2ee
+"Conduct and Upload the Business Continuity Plan (BCP) Tests (<a href=""https://app.heylaika.com/documents"" target=""blank"">Business Continuity Plan Test</a>). The Tests assess the adequacy of the BCPDR Plan in simulated disaster situations.",14929598-1a89-40de-9788-c5f2f1fe34f4
+"Conduct and Upload the Business Continuity Plan (BCP) Tests (<a href=""https://app.heylaika.com/documents"" target=""blank"">Business Continuity Plan Test</a>). The Tests assess the adequacy of the BCPDR Plan in simulated disaster situations. As a part of this test, perform a backup restoration test and formally document the results to ensure backups can be relied upon in an emergency.",14929598-1a89-40de-9788-c5f2f1fe34f4
+"Conduct background checks for the contractors if they are in a critical function (for example, if they have access to customer data).",8795d013-2417-477a-907a-e260bddf5c8d
+Conduct employee background checks on all contractors that are in critical functions.,8795d013-2417-477a-907a-e260bddf5c8d
+"Conduct, document, and have the Risk Management Committee upload and review an annual Business Impact Analysis (BIA). See the Resources tab for futher details. ",27d5aac6-41b9-40fa-9820-489ebd8dc514
+"Confirm appropriate guidelines are in place with regard to cryptographic protections in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",710f3711-62e4-41f4-819c-8b6e98c40fec
+Confirm appropriate guidelines are in place with regard to cryptographic protections in the Information Security Policy.,710f3711-62e4-41f4-819c-8b6e98c40fec
+"Confirm appropriate guidelines are in place with regard to endpoint security and Bring Your Own Device (BYOD) in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",
+"Confirm appropriate guidelines are in place with regard to endpoint security in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",40539615-ba55-4d93-85ba-1d6520336c97
+"Confirm appropriate guidelines are in place with regard to password strength and shared credential management in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",d8fcc588-23e9-4aa0-8c08-1eca2eece9f0
+"Confirm appropriate guidelines are in place with regard to password strength and shared credential management in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",d8fcc588-23e9-4aa0-8c08-1eca2eece9f0
+"Confirm appropriate guidelines are in place with regard to password strength and shared credential management in the Information Security Policy. Additionally, ensure that in-scope systems that contain production data or sensitive information passwords meet all of the password attributes documented in the Information Security Policy.",d8fcc588-23e9-4aa0-8c08-1eca2eece9f0
+"Confirm appropriate guidelines are in place with regard to physical and environmental security in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",733ad474-68a9-41f4-82ed-83a31042a956
+"Confirm appropriate guidelines are in place with regard to role and access management in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",43655521-b636-4107-bd9f-25082086fa47
+"Confirm appropriate guidelines are in place with regard to secure software in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security Policy</a>.",
+"Confirm appropriate guidelines are in place with regard to the Business Code of Conduct and employee benefits in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Employee Handbook</a>.",
+"Confirm that E-sign disclosure and consent is displayed as part of the consumer loan application. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+Confirm that TCPA consent is displayed as part of the consumer loan application.,
+"Confirm the organization does not hold any user credentials in non-encrypted form. A strong hashing mechnism with salt or trusted 3rd party authentication vendor is recommended. For more information, see How-to Guide.",40ed9dac-792d-4631-8333-c43895bb2336
+"Confirm the organization does not hold any user credentials in non-encrypted form. A strong hashing mechnism with salt or trusted 3rd party authentication vendor is recommended. For more information, see Overview.",40ed9dac-792d-4631-8333-c43895bb2336
+Create a Board of Directors in the notes section (Annie and Hagit agreed process),
+"Create a Board of Directors using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>).",661308e4-c159-474c-b5cf-78305a31975e
+"Create a Business Continuity and Disaster Recovery Team using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Business Continuity and Disaster Recovery Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",32c6507e-4fd5-4ddd-a390-5530e75617db
+"Create a Business Continuity and Disaster Recovery Team using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Business Continuity and Disaster Recovery Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",32c6507e-4fd5-4ddd-a390-5530e75617db
+"Create a complaint handling procedures. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",9c8ea93e-0320-49a0-a0b9-1d11bf1eda54
+"Create a Credit Freeze Handling procedure. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Create a Data Management Board charter/roster headed by a Chief Privacy Officer using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>).",6495b939-6812-4627-9e89-990926d158f8
+"Create a Military Lending Act procedure. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Create a Privacy Committee charter/roster headed by a Chief Privacy Officer (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>) and record the employees' information responsible for carrying out the Privacy Program.",6495b939-6812-4627-9e89-990926d158f8
+"Create a Privacy Committee using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",ee66bed2-26fb-4b72-afa4-6420a4b55124
+"Create a Privacy Committee using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",ee66bed2-26fb-4b72-afa4-6420a4b55124
+"Create a SCRA procedure. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Create an employee offboarding checklist (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",e4c54c08-eabc-4c9f-a624-80bc36f154ff
+"Create an employee onboarding checklist (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",e4c54c08-eabc-4c9f-a624-80bc36f154ff
+"Create an Incident Response Team using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Incident Response Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",6f8bf046-93a9-4414-9371-a9d4a724cb5a
+"Create an Incident Response Team using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",6f8bf046-93a9-4414-9371-a9d4a724cb5a
+"Create an Incident Response Team using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Incident Response Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",6f8bf046-93a9-4414-9371-a9d4a724cb5a
+"Create an independent Risk Committee using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",0f8fc0f5-eae8-42e9-b8a2-7c2d29067c48
+"Create an independent Risk Committee using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",0f8fc0f5-eae8-42e9-b8a2-7c2d29067c48
+"Create and upload a company Personnel and Data Classification Schema (<a href=""https://app.heylaika.com/documents"" target=""blank"">Personnel and Data Classification Schema</a>). The Schema segregates company data into tiered classification levels and assigns a owner for each tier. For more information and recommendations, see How-to Guide.",072b9db7-5866-46ed-9818-d3cd4170c004
+"Create and upload a company Personnel and Data Classification Schema (<a href=""https://app.heylaika.com/documents"" target=""blank"">Personnel and Data Classification Schema</a>). The Schema segregates company data into tiered classification levels and assigns a owner for each tier. Include Privelaged Accounts, what data they have access to, and which employees have access to these accounts as well. For more information and recommendations, see How-to Guide.",a1121e7e-12f2-4bbf-8c93-882b871e0fdc
+"Create and upload a Network Architecture Diagram that shows where company data is processed and stored, what endpoints are involved, and what protections are in place. For more information and recommendations, see How-to Guide.",d6e6871f-6b79-4591-8b35-ccd443320816
+"Create and upload a Network Architecture Diagram that shows where company data is processed and stored, what endpoints are involved, and what protections are in place. For more information and recommendations, see Overview.",d6e6871f-6b79-4591-8b35-ccd443320816
+"Create and upload an organizational hierarchy chart with job descriptions for critical positions. For tool recommendations, see How-to Guide.",eb4986da-0236-483c-8873-f515a87dce84
+"Create and upload an organizational hierarchy chart with job descriptions for critical positions. For tool recommendations, see Overview and Resources pages.",eb4986da-0236-483c-8873-f515a87dce84
+"Create and upload Dataflow Diagrams that show where sensitive and scoped data is received, processed, stored, transmitted, and then destroyed. For more information and recommendations, see How-to Guide.",29136b4a-cc10-49b3-b0df-441a8439ea87
+"Create and upload Dataflow Diagrams that show where sensitive and scoped data is received, processed, stored, transmitted, and then destroyed. For more information and recommendations, see Overview.",29136b4a-cc10-49b3-b0df-441a8439ea87
+"Create and upload documentation describing the borrower onboarding process.
+ - What information is the borrower required to provide? How do they provide it?
+ - What role do outside parties play in completing this process (i.e. Financial Advisors / Lenders)?
+ - Are there any approvals or acknowledgements required from the borrower before proceeding?
+ - How does this process vary if loans are being transferred from a different bank?",
+"Create and upload documentation describing the disbursement, settlement, and collections processes and procedures.",
+"Create and upload documentation describing the loan collateral protection processes and procedures.
+ - Loan cannot be funded until collateral is secured
+ - Overlending is prevented
+ - Changes to the loan are communicated appropriately and in a timely manner",
+"Create, maintain, and upload a Firewall Configuration List, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Firewall Standard</a>), that includes the business justification and documented approval for all services, protocols and ports permitted, and that all other traffic is denied by default (accomplished through bitdefender, Azure and GSuite to some extent)",bcb6adbc-5979-4ec0-ab15-d70272b9ce9c
+Designate a BSA/AML Compliance Officer,
+Develop a BSA/AML risk assessment,
+Develop and document a Testing process that include data validation checkpoints for accuracy and timeliness,e7da2743-86ff-4f0b-97c8-10ee9a181eac
+Display credit freeze notification as part of the consumer loan application process.,
+"Document and upload an example contract or contract template (MSA, EULA, Terms of Service, etc.) your organization has with customers detailing your commitments.",53b2e258-98a1-4feb-96e5-a6ef1f469ba2
+"Document and upload your organization's contractual obligations to third-parties as Service Level Agreements (<a href=""https://app.heylaika.com/documents"" target=""blank"">SLAs, RPOs, RTOs</a>).",
+"Document business justification rationale, risk details, and vendor status for each vendor by filling in the appropriate fields on the (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Laika Vendor Module</a>).",18562077-5f90-4f58-808b-515c9f637f15
+"Document data validation process demonstrating how data, coming from the dispensary point of sale system, is validated for data quality and integrity.(evidence) If there is a process where invalid data is sent back to the dispensary for remediation, upload evidence of that workflow. (Processing Integrity Control) (Process flow diagram that shows how this moves- brief outline )",
+Document system outputs from the in-scope transactional system is focused on accuracy.,c64c0561-73ab-4e27-a5c1-d7554031aff4
+Document that system output from in scope systems is transactional in nature and focused on accuracy.,c64c0561-73ab-4e27-a5c1-d7554031aff4
+Document third party data validation service flow into Saphe Compliance Platform (via API).,
+"Document workflow in which legislation or rules surrounding a change in cannabis compliance are ingested, reviewed and approved for applicability prior to being loaded to the Compliance Rules Engine. (Processing Integrity Control)",
+E - Electronic Funds Transfer Act (Reg E),
+Electronic Signatures in Global and National Commercial Act (E-sign Act),
+Enable Multi-factor authentication if it is available on the new system.,94f1259b-2c70-457c-8e6f-6515d7eb7b10
+"Enable Multi-factor authentication on all major IT systems and upload screenshots of MFA in place, including but not limited to email providers, file sharing systems, CRMs, cloud service providers and communication tools. In addition, ensure the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Users</a> table correctly reflects the MFA settings of each user.",94f1259b-2c70-457c-8e6f-6515d7eb7b10
+"Enable Multi-factor authentication on all major IT systems, including but not limited to email providers, file sharing systems, CRMs, cloud service providers and communication tools.",94f1259b-2c70-457c-8e6f-6515d7eb7b10
+"Encypt all ePHI / PII and sensitive data in transit. We suggest starting by examing all channels through which sensitive data is transmitted (http, ftp, email, fax) and implement appropriate encryption mechanism. For more information, see How-to Guide.",05a8d1cc-8334-410d-b46a-81d5eb42614d
+"Encypt all ePHI / PII and sensitive data in transit. We suggest starting by examing all channels through which sensitive data is transmitted (http, ftp, email, fax) and implement appropriate encryption mechanism. For more information, see Overview.",05a8d1cc-8334-410d-b46a-81d5eb42614d
+"Encypt ePHI / PII and sensitive data at rest. We suggest starting by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see How-to Guide.",1b5d7a4c-695c-4028-800c-40497c1c9c09
+"Encypt ePHI / PII and sensitive data at rest. We suggest starting by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see Overview.",1b5d7a4c-695c-4028-800c-40497c1c9c09
+"Encypt sensitive data at rest. Start by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see How-to Guide.",adf335d1-b626-45c3-bc2b-d6b24e77da37
+"Encypt sensitive data at rest. We suggest starting by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see How-to Guide.",adf335d1-b626-45c3-bc2b-d6b24e77da37
+"Encypt sensitive data in transit. We suggest starting by examing all channels through which sensitive data is transmitted (http, ftp, email, fax) and implement appropriate encryption mechanism. For more information, see How-to Guide.",461d35e8-5204-4405-9117-b62eb009866f
+"Enforce strong passwords. Refer to <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy, Section 5.4 ""Password Policy""</a>.",63244f12-2854-4661-909b-95b5098b58e7
+"Ensure a counteroffer notice is properly displayed to the consumer in the loan application process, when applicable. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Ensure a notice is issues to the consumer, if their loan is denied. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Ensure additional document requests are made to the consumers, when applicable during the loan application process. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Ensure all workstations and mobile devices (organization issued or BYOD) that have access to organization data have password set up and are properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>",c594d0e3-b463-4088-8fcf-a7a27d3f9793
+Ensure all workstations and mobile devices (organization issued or BYOD) that have access to organization data have password set up.,c594d0e3-b463-4088-8fcf-a7a27d3f9793
+"Ensure an approval notice is properly displayed to the laon applicants, when applicable. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Ensure company executives & loan servicers are aware of guidance around <a href=""https://www.ffiec.gov/pdf/authentication_guidance.pdf"" target=""blank"">Authentication in an Internet Banking Environment</a>.",
+"Ensure company executives & loan servicers are aware of regulatory guidance around <a href=""https://www.govinfo.gov/content/pkg/CFR-2005-title28-vol2/pdf/CFR-2005-title28-vol2-part58.pdf"" target=""blank"">Bankcruptcy Act </a>.",
+"Ensure consumer would recieve confirmation if they choose to withdraw their application. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+Ensure that at least 12 months history of your organization's static code analysis reports are being retained (5/15/20 - 5/15/21).,c742af0b-7dde-42c5-a6c4-634d6a5dcde6
+Ensure that at least 6 months history of your organization's static code analysis reports are being retained.,c742af0b-7dde-42c5-a6c4-634d6a5dcde6
+Ensure that at least 6 months history of your organization's static code analysis reports are being retained. (In Github),c742af0b-7dde-42c5-a6c4-634d6a5dcde6
+"Ensure that CAN-SPAM consent is displayed as part of the consumer loan application process. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"Ensure that changes to production or release management procedure includes, proof of filing the ticket, QA or testing of change and approval of change. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Change Management Procedure template available</a>).",
+Ensure that the responsibilities of 'Peach' throughout these processes are clearly documented/communicated and that the associated risks are addressed by management. Refer to the 'Third-Party Management' task for additional information.,
+"Ensure that your monitoring software is notifying your team every time a system performance, capacity, or changing resource utilization alert is triggered.",f37b28b0-58c0-4ecc-b7d7-2fe2aea91bb7
+Ensure that your organization's incident alert system is notifying your team every time an alert is triggered. Set up an incident alert system to monitor production app environment for software or systems operated by your organization.,435c1c02-0f9f-432e-af23-093251dd5736
+Ensure tools for monitoring & logging user activity and suspicious behavior are active within your organization's environment,0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Ensure tools for monitoring system performance, capacity, and changing resource utilization needs are active within your organization's environment",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Establish (<a href=""https://app.heylaika.com/policies"" target=""blank"">Regulation E Error Resolution Guideline</a>) procedures.",
+"Establish a (<a href=""https://app.heylaika.com/policies"" target=""blank"">Regulation E policy</a>).",
+Establish a BSA/AML Compliance Policy,
+Establish a BSA/AML training program,
+Establish a customer verification process as part of the Customer Identification Program,
+Establish a policy to comply with the savings portion of Reg D,
+Establish a process to convert savings to money market accounts to DDAs,
+Establish a process to ensure that checks are being held for the correct number of days depending on the situation,
+Establish a process to ensure that the disclosure portions of Reg E are followed,
+Establish a process to ensure UDAAP compliance,
+Establish a process to provide adequate customer notice,
+Establish a program to comply with the advertising portions of Reg DD,
+Establish a program to comply with the statement portion of Reg DD,
+Establish a program to ensure compliance with the disclosure portions of Reg DD,
+Establish a program to ensure compliance with the federal benefits garnishment statutes,
+Establish a program to ensure that the disclosure portions of Reg CC are followed,
+Establish a program to ensure that UDAAP is properly trained to all personel who are covered under the reg,
+Establish a quarterly cadence for the Privacy Committee to meet and assign an individual to take meeting minutes.,561a6e44-7ebc-4a2a-af2c-1e7e79640b7f
+Establish a quarterly cadence for the Risk Committee to meet and assign an individual to take meeting minutes.,93121ee3-4112-4c06-a477-40787db96eae
+Establish account opening procedures for Customer Identification Program,
+Establish Customer Due Diligence (CDD) procedures,
+Establish Customer Identification Procedures,
+Establish OFAC procedures for identifying suspect accounts and transactions,
+Establish OFAC procedures for new accounts,
+Establish OFAC procedures for updating OFAC lists,
+"Establish procedures to identify, monitor and report suspicious activity",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+Establish process so consumers are able to easily opt in or out for overdraft protection,
+Establish process to ensure that error resolution portions of the regulation are followed,
+Establish process to ensure that the periodic statement portion of the regulation is followed,
+Establish program to ensure compliace with CAN-SPAM,
+Establish program to ensure compliance with all provisions of the TCPA,
+Establish program to ensure compliance with e-sign act,
+Establish program to ensure compliance with FCRA,
+Establish program to ensure compliance with the authorization portion of the regulation,
+Establish program to ensure compliance with the foreign remittance portions of Reg E,
+Establish program to ensure that customers are properly notified about holds on items,
+Establish record retention and record keeping requirements,
+Establish recordkeeping and retention requirements for CIP,
+Establish roles and responsibilities process,
+"Gather compliance certification documentation (SOC 2 Report, ISO certification, etc) from your organization's critical third-party vendors and upload them to the appropriate  (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendor Documents</a>). Review the compliance certification documentation for all critical vendors and once complete add a note that the report was reviewed and the date reviewed under the “Assessment” tab.",84ff9b7d-2735-430f-ac62-f7d2f540bdab
+"Gather compliance certification documentation (SOC2 Report, ISO certification, etc) from your organization's critical third-party vendors and upload them to the appropriate (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendor Documents</a>)",84ff9b7d-2735-430f-ac62-f7d2f540bdab
+"Have the new employee acknowledge your organization's Employee Handbook. Laika can add this to your organization's <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>.",46e238ac-445b-4cae-9fe2-0f12e3b5ea5f
+"Have the new employee complete required compliance training. Direct employees to Laika's <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>.",46e238ac-445b-4cae-9fe2-0f12e3b5ea5f
+"Have the new new employee acknowledge your organization's Employee Handbook. Laika can add this to your organization's <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>.",46e238ac-445b-4cae-9fe2-0f12e3b5ea5f
+"Hold a Privacy Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">here</a>.",6200f19d-829d-4c44-bea8-1010e6caeb85
+"Hold a Privacy Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization/teams"" target=""blank"">here</a>.",6200f19d-829d-4c44-bea8-1010e6caeb85
+"Hold a Risk Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">here</a>.",da9700f5-c3c2-4998-9878-279bca9c1751
+"Hold a Risk Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization/teams"" target=""blank"">here</a>.",da9700f5-c3c2-4998-9878-279bca9c1751
+"If applicable, create a Credit Report Dispute procedure. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"If applicable, ensure ACH Authorization is disclosed during the lending application process. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",
+"If applicable, implement expiration dates/time-outs/locks on all accounts and sessions. Privileged accounts should have stricter expiration times.",4c102552-13ae-4e67-b089-797cbb4b5ee7
+"If applicable, review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Flood Policy</a>.",
+"If applicable, review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">HMDA Policy</a>.",
+"If applicable, upload a screenshot of a terminated user's access being disabled",
+"If your organization hosts its own servers, establish physical controls protecting the servers from environmental damage.",b4a23e6a-9133-4b99-9450-bd5346cdddd3
+"If your organization hosts its own servers, upload documentation of the controls implemented to protect them.",b4a23e6a-9133-4b99-9450-bd5346cdddd3
+If your organization relies on a Third Party cloud service solution review their provided documentation for how they protect servers from environmental damage.,7f22e559-a9fc-4e4e-8c92-8fac59a7a20d
+"If your organization relies on a Third-Party cloud service provider, upload documentation of how they protect their servers from environmental damage.",7f22e559-a9fc-4e4e-8c92-8fac59a7a20d
+"Implement a configuration management tool to enforce baseline configurations on systems and devices. 
+-Examples of configuration management tools include  (e.g., Docker, Ansible, SaltStack, Chef, Puppet, PowerShell DSC) 
+-If the service is hosted in AWS, implement the AWS tools including AWS CloudFormation templates, AWS Systems Manager State Manager, AWS OpsWork and AWS Config
+",f70d6312-abaa-43c3-b916-8cddd909c71b
+"Implement a manual and/or automated process for data management. The process should include: 
+ 1) The ability to modify and delete records retroactively 
+ 2) Reflection of the current data set on collection 
+ 3) Creation, use, dissemination, retention, maintenance, and disclosure of data.",2fdb5eb5-2801-4954-961e-d04f211acf63
+"Implement a manual and/or automated process for data management. The process should include: 
+1) The ability to modify and delete records retroactively 
+2) Reflection of the current data set on collection 
+3) Creation, use, dissemination, retention, maintenance, and disclosure of data.",2fdb5eb5-2801-4954-961e-d04f211acf63
+"Implement a method to document and track customer data disposal activity ensuring that the following pieces of information are captured:
+ - Data Type 
+ - Date of Purge
+ - Date of Customer Expiration
+ - Date of Customer Removal Request
+ - Date that applicable data reached the end of it's retention requirements (Note: Based on Legal, Regulatory, and/or contractual obligations)
+ - Steps taken to ensure removal",ccf02a4a-10d3-4a9a-b6de-8902a98f7bee
+"Implement a method to document and track customer data disposal activity ensuring that the following pieces of information are captured:
+- Data Type 
+- Date of Purge
+- Date of Customer Expiration
+- Date of Customer Removal Request
+- Date that applicable data reached the end of it's retention requirements (Note: Based on Legal, Regulatory, and/or contractual obligations)
+- Steps taken to ensure removal",ccf02a4a-10d3-4a9a-b6de-8902a98f7bee
+"Implement a process to provide individuals the ability to access their PII / PHI in your system and review, correct, or delete the information. For more information on validating and processing individuals' requests to access their PII / PHI, see the How-to Guide.",f0aee25b-20ac-4b54-8987-25979bb6f7fd
+"Implement a secure system for shared credentials (i.e. password manager) and enforce usage across your organization. For tool recommendations, see How-to Guide.",4f904c7d-868d-4241-8dea-da9ba94b3ee6
+Implement a secure system for shared credentials (i.e. password manager) and enforce usage across your organization. Tools recommendations see How-to Guide.,4f904c7d-868d-4241-8dea-da9ba94b3ee6
+"Implement a System of Records Notices (SORN), or similar record of processing activities, to maintain a record of processing Personal Information (PI) under the organization's responsibility. ",f79b0d07-a1a5-48cc-a0e1-d0806eac1ac1
+"Implement a System of Records Notices (SORN), or similar record of processing activities, to maintain a record of processing Personal Information (PI) under the organization's responsibility. See the How to Guide for further details",f79b0d07-a1a5-48cc-a0e1-d0806eac1ac1
+"Implement an IDS solution such as Alert Logic, or Trend Micro Deep Security on any public-facing AWS servers. Enable event logging within the tool and configure email alert notifications and slack notifications to alert the responsible personnel when security events are detected. 
+ -If the service is hosted in AWS, AWS GuardDuty can be implemented. 
+ -If the service is hosted in Azure, [Azure Security Center or Azure Defender] can be implemented. 
+ -If the service is hosted in Google Cloud, Security Command Center can be implemented.",68c9dcf8-9a73-446c-91c7-03fd60dc6f5d
+"Implement an IDS solution such as Alert Logic, or Trend Micro Deep Security on any public-facing AWS servers. Enable event logging within the tool and configure email alert notifications and slack notifications to alert the responsible personnel when security events are detected.  
+ -If the service is hosted in AWS, AWS GuardDuty can be implemented. 
+ -If the service is hosted in Azure, [Azure Security Center or Azure Defender] can be implemented. 
+ -If the service is hosted in Google Cloud, Security Command Center can be implemented.",68c9dcf8-9a73-446c-91c7-03fd60dc6f5d
+"Implement an IDS solution such as Alert Logic, or Trend Micro Deep Security on any public-facing AWS servers. Enable event logging within the tool and configure email alert notifications and slack notifications to alert the responsible personnel when security events are detected.  
+-If the service is hosted in AWS, AWS GuardDuty can be implemented. 
+-If the service is hosted in Azure, [Azure Security Center or Azure Defender] can be implemented. 
+-If the service is hosted in Google Cloud, Security Command Center can be implemented.",68c9dcf8-9a73-446c-91c7-03fd60dc6f5d
+Implement and upload a secure procurement process for approving the onboarding of new vendors or installing new software on company endpoints. See How-to Guide for more information.,9ae74ae5-3219-4300-86d2-3d3ec8337d0b
+"Implement performance and utilization monitoring tools within your organization's environment. For more information and recommendations, see How-to Guide.",f37b28b0-58c0-4ecc-b7d7-2fe2aea91bb7
+"Implement performance and utilization monitoring tools within your organization's environment. For more information and recommendations, see Overview.",f37b28b0-58c0-4ecc-b7d7-2fe2aea91bb7
+"Implement periodic backups of all critical data to ensure look back availability and recovery capabilities in the event of a disaster. Many cloud service providers offer backups as a standard feature. For more information and recommendations, see How-to Guide.",a5a9e199-78aa-4c06-8dbc-f995214faad8
+"Implement periodic backups of all critical data to ensure look back availability and recovery capabilities in the event of a disaster. Many cloud service providers offer backups as a standard feature. For more information and recommendations, see Overview and Resources pages.",a5a9e199-78aa-4c06-8dbc-f995214faad8
+Implement process for customers to report any suspected errors and issues with the Saphe Compliance Portal and Compliance Reports.,
+Implement processes for ingesting customer risk policies/rules.,
+Implement processes to ensure that only the minimum amount of data or information is collect from external sources and is only used for authorized purposes. Please provide a short narrative of how this is achieved,d6a91e4d-ea12-4d01-a8ca-b3ac1a6018bd
+Implement role based access controls for any software products maintained or owned by your organization.,60b07a7d-7c47-4380-bf2c-d87e9fba4a4a
+"Implement secure data sanitization/disposal procedures for data that is no longer need or has reached the end of its retention period. For more information and recommendations, see How-to Guide.",8d16473b-dd8c-431a-a9ca-60b7e4f2fc13
+"Implement secure data sanitization/disposal procedures for data that is no longer need or has reached the end of its retention period. For more information and recommendations, see Overview and Resources pages.(Eraser)",8d16473b-dd8c-431a-a9ca-60b7e4f2fc13
+"Implement secure data sanitization/disposal procedures for data that is no longer need or has reached the end of its retention period. For more information and recommendations, see Overview.",8d16473b-dd8c-431a-a9ca-60b7e4f2fc13
+"Implement tools for monitoring & logging user activity and suspicious behavior such as unauthorized access to ePHI within your organization's environment. Suspicious logs should trigger a notifcation to the Incident Response Team. For more information and recommendations, see How-to Guide.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Implement tools for monitoring & logging user activity and suspicious behavior such as unauthorized access to ePHI within your organization's environment. Suspicious logs should trigger a notifcation to the Incident Response Team. For more information and recommendations, see Overview and Resources pages.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Implement tools for monitoring & logging user activity and suspicious behavior within your organization's environment. Suspicious logs should trigger a notifcation to the Incident Response Team. For more information and recommendations, see How-to Guide.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Implement tools for monitoring & logging user activity and suspicious behavior within your organization's environment. Suspicious logs should trigger a notifcation to the Incident Response Team. For more information and recommendations, see Overview and Resources pages.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Implement tools for monitoring & logging user activity and suspicious behavior within your organization's environment. Suspicious logs should trigger a notifcation to the Incident Response Team. For more information and recommendations, see Overview.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"In Organization, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",19f9c478-37aa-43cc-b707-dfa5ee48dde1
+"Install endpoint security solutions on all employee workstations and ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>. For more information and recommendations, see How-to Guide. In addition, upload a screenshot of the installed endpoint security solutions in operation on an employee workstations.",f77a25a7-f252-480e-b918-b2e4d0c89291
+"Install endpoint security solutions on all employee workstations and ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>. For more information and recommendations, see Overview and Resources pages. In addition, upload a screenshot of the installed endpoint security solutions in operation on an employee workstations with the accompanying antivirus scanning schedules. (Not necessary to use Objects, please capture screenshot in Hexmode)",f77a25a7-f252-480e-b918-b2e4d0c89291
+"Install endpoint security solutions on all employee workstations and ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>. For more information and recommendations, see Overview and Resources pages. In addition, upload a screenshot of the installed endpoint security solutions in operation on an employee workstations.",f77a25a7-f252-480e-b918-b2e4d0c89291
+"Install endpoint security solutions on all employee workstations and ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>. For more information and recommendations, see Overview. In addition, upload a screenshot of the installed endpoint security solutions in operation on an employee workstations.",f77a25a7-f252-480e-b918-b2e4d0c89291
+"Install endpoint security solutions on all employee workstations. For more information and recommendations, see How-to Guide.",f77a25a7-f252-480e-b918-b2e4d0c89291
+Install firewalls on all end user devices as well as cloud and physical servers. Implement firewalls to prevent disclosure of private IP addresses and routing information from internal networks to the internet. Upload evidence that firewalls are in operation (e.g. screenshot of a firewall notification) ,724ef00e-cb65-4e94-a726-dd1a7b58467c
+"Install firewalls on all end user devices as well as cloud and physical servers. The the extent possible, configure the firewalls to ""Deny all Traffic by Default"" and ""Allow by Exception"".",724ef00e-cb65-4e94-a726-dd1a7b58467c
+"Install firewalls on all end user devices as well as cloud and physical servers. The the extent possible, configure the firewalls to ""Deny all Traffic by Default"" and ""Allow by Exception"". Upload evidence that firewalls are in operation (e.g. screenshot of a firewall notification)",724ef00e-cb65-4e94-a726-dd1a7b58467c
+Military Lending Act (MLA),
+Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.,bcb6adbc-5979-4ec0-ab15-d70272b9ce9c
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.
+ 
+
+ ++ Firewall review",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.
+ 
+
+ Firewall reviews",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.
+ ++ Firewall review",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.
+ ++ Firewalls",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.
+ +++ Firewall review",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations. 
+ ++ Firewall Review",a68644a3-fff7-45f8-ae75-8303a23a8a11
+Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations. + Firewall reviews,a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations. ++
+ Firewall reviews",a68644a3-fff7-45f8-ae75-8303a23a8a11
+Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations. ++ Firewall review,a68644a3-fff7-45f8-ae75-8303a23a8a11
+P - Privacy of Consumer Financial Info,
+"Perform an <a href=""https://app.heylaika.com/documents"" target=""blank"">Incident Response Test</a>. For more information and recommendations, see <a href=""https://laika-static-documents.s3.amazonaws.com/How-to+Guides/Completed/Prepare+for+an+Incident.pdf"" target=""blank"">How-to Guide</a> for qualified incident response tests, including Tabletop Exercises.",eb475545-e2d5-4437-9a80-0aed775c20a7
+"Perform an Incident Response Test. For more information and recommendations, see How-to Guide for qualified incident response tests, including Tabletop Exercises. To accurately record the results, there is a (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",eb475545-e2d5-4437-9a80-0aed775c20a7
+"Perform and upload an Incident Response Test. For more information and recommendations, see How-to Guide for qualified incident response tests, including Tabletop Exercises. To accurately record the results, there is a <a href=""https://app.heylaika.com/documents"" target=""blank"">Incident Response Test template available</a>.",eb475545-e2d5-4437-9a80-0aed775c20a7
+Procedures and all other requirements for Facebook,
+"Procure cross-shredders for all office locations to dispose of paper data securely. For more information and recommendations, see How-to Guide.",cef83844-5805-456e-9183-788920661b57
+Protect your organization's data with cryptographic security controls,710f3711-62e4-41f4-819c-8b6e98c40fec
+Provide evidence of annual review of organization charts to ensure that changes in company structure or additions to the team are documented.,eb4986da-0236-483c-8873-f515a87dce84
+"Provide evidence that data in from the SAP system needs to be complete and accurate. Examples include a process document, diagram, or written description detailing the quality checks in the system and how data is managed.",
+"Provide evidence that data in from the SAP system needs to be complete and accurate. Examples include a process document, diagram, or written description detailing the quality checks in the system and how data is managed. ** NEEDS TO BE A TASK FOR SAP",
+"Provide evidence that data in the system needs to be complete and accurate. Please include a process document, diagram, or written description detailing the quality checks in the system and how data is managed. ",4a27194a-b0ca-488e-9487-777cac5323c4
+Provide evidence that risks identified during the annual risk assessment have been adequately executed or mitigated as necessary. Any risks that have been chosen not to be remediated should have clear reasoning.,f5f7cf56-d87f-4164-bb71-307459c28369
+"Publish the completed <a href=""https://app.heylaika.com/policies"" target=""blank"">Privacy Notice Policy</a> to your organization's website / anywhere data is collected.",399edce5-7c9c-4313-851d-b46f384fbedf
+"Publish the completed privacy notice to your organization's website / anywhere data is collected. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Laika template available</a>).",399edce5-7c9c-4313-851d-b46f384fbedf
+"Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",19f9c478-37aa-43cc-b707-dfa5ee48dde1
+"Record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Include in the Notes Section",19f9c478-37aa-43cc-b707-dfa5ee48dde1
+"Remediate any issues found during the latest vulnerability scan or third-party penetration test. Specifically items ranked 'critical' or 'high'. Refer to <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy, Section 7 ""Vulnerability and Patch Management""</a>.",d66fbf2d-9459-4f10-8e38-f35ccc4f55c6
+"Restrict access to production servers, databases and other systems. Changes to production source code, environmental settings and data need to go through an approval process. For more info, please see How-to guide.",1f8a5ffb-f3ae-4632-a006-cd4b122be40b
+"Review access for every system in the environment using the <a href=""https://app.heylaika.com/documents"" target=""blank"">Access Rights Review Template</a>. For guidance, please see the <a href=""https://app.heylaika.com/documents"" target=""blank"">Access Rights User Accounts Review Procedure</a>.",
+"Review access lists for all in-scope systems (all systems with access to production data) on a quarterly basis and be sure to clearly document the following data points via email, ticket, etc.
+-Date access review occurred
+-Users reviewed
+-Any actions taken (users removed/modified)
+-Formally track any users who were modified or removed
+",
+"Review access logs and access lists on a periodic basis (at least once every 90 days) for every system in the environment. Upload evidence of completed review (meeting minutes, etc.) See How-to Guide for more information.",
+"Review access logs and access lists on a periodic basis (at least once every 90 days) for every system in the environment. Upload evidence of completed review (meeting minutes, etc.) See Overview and Resources pages for more information.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Advertising & Marketing Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">CAN-SPAM Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Complaint Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">E-Sign Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">ECOA Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Fair Debt Collections Practices Act (FDCPA) Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">FCRA Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Privacy of Consumer Financial Information Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Real Estate Settlement Procedures (RESPA) Act Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Red Flags & ID Theft Policy Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Reg E (EFTA) Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Right to Financial Privacy Act Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">SCRA & MLA Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Truth-in-Lending Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">UDAAP Policy</a>.",
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies"" target=""blank"">Configuration and Change Management Policy</a>.",579b298a-a5ff-4d76-bfd7-201598f97bcf
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies"" target=""blank"">Hiring Policy</a>.",70ff14e5-2ddb-4d38-9bec-89ff38fc43c4
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies"" target=""blank"">Incident Response Policy</a>.",f9c54e6b-c191-4b19-8d1f-a0467d58813e
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies"" target=""blank"">Privacy Notice Policy</a>.",af74a33c-4350-4dc4-acd6-da28da554c4e
+"Review your organization's policies. Update and approve changes as necessary. For more information, please refer to the <a href=""https://app.heylaika.com/documents"" target=""blank""> Policies and Procedures Review Procedure Template </a>.",
+Servicemembers Civil Relief Act (SCRA),
+"Set up appropriate role based access controls for critical IT systems, including but not limited to email providers, file sharing systems, CRMs, cloud service providers and communication tools.",54a4af51-631b-4d31-86cd-d667d5535881
+"Set up regular vulnerability scans on critical IT systems (e.g. cloud service providers) and upload the results. For more information and recommendations, see How-to Guide.",d66fbf2d-9459-4f10-8e38-f35ccc4f55c6
+"Set up regular vulnerability scans on critical IT systems (e.g. cloud service providers) and upload the results. For more information and recommendations, see Overview and Resources pages.",d66fbf2d-9459-4f10-8e38-f35ccc4f55c6
+"Setup an incident alert system to monitor production app environment for software or systems operated by your organization. For more information and tool recommendations, see How-to Guide.",435c1c02-0f9f-432e-af23-093251dd5736
+"Setup an incident alert system to monitor production app environment for software or systems operated by your organization. For more information and tool recommendations, see Overview.",435c1c02-0f9f-432e-af23-093251dd5736
+"Setup SDLC management and version control tools to track software changes. For more information and recommendations, see How-to Guide.",1b6a02e2-c09b-4063-a725-9de620a20e3e
+"Setup SDLC management and version control tools to track software changes. For more information and recommendations, see Overview.",1b6a02e2-c09b-4063-a725-9de620a20e3e
+Show approval is captured prior to loading and the review is conducted by a qualified individual. Upload approval documentation to demonstrate a qualified individual is a) reviewing the rules and b) approving prior to loading into the Compliance Rules Engine (provide a bio for approver- showing they are qualified),
+Show data approval workflow prior to dispensary being onboarded to the system. (Processing Integrity Control) (form validation in onboarding),
+Subscribe to industry wide patch and vulnerability updates for up to date information on ongoing cybsecurity and privacy risks as well as general security updates. For more information and recommended distribution list see How-to Guide.,f2b762dc-59f8-45d8-8224-d3746c8dede6
+Subscribe to industry wide patch and vulnerability updates. For more information and recommended distribution list see How-to Guide.,f2b762dc-59f8-45d8-8224-d3746c8dede6
+Telephone Consumer Protection Act of 1991 (TCPA),
+test,
+test your backup,14929598-1a89-40de-9788-c5f2f1fe34f4
+"Turn on email data loss prevention and incident response features. These features are standard on most commonly used email platforms and simply need to be switched on. For more information and recommendations, see How-to Guide.",86ecd1b8-2682-48e3-aa67-d48421fb55c9
+"Turn on email data loss prevention and incident response features. These features are standard on most commonly used email platforms and simply need to be switched on. For more information and recommendations, see Overview and Resources pages. Please complete in GSuite and provide screenshot.",86ecd1b8-2682-48e3-aa67-d48421fb55c9
+"Turn on email data loss prevention and incident response features. These features are standard on most commonly used email platforms and simply need to be switched on. For more information and recommendations, see Overview.",86ecd1b8-2682-48e3-aa67-d48421fb55c9
+Upload a sample alert generated by your organization's incident alert system.,4ac91473-24f0-4bfc-869d-b5f00f9caa1d
+Upload a screenshot of a notification of a time-out/expire user session as evidence.,1013cf56-51d4-41de-8f84-c7e406585eac
+Upload a screenshot of a terminated user's access being disabled,e4c54c08-eabc-4c9f-a624-80bc36f154ff
+Upload a screenshot of the antivirus software's virus signature update configuration installed on employee workstations. (take in Hexmode),e7ef13bb-5809-4941-b9f4-5f26f325588a
+Upload employee offboarding checklist.,e4c54c08-eabc-4c9f-a624-80bc36f154ff
+Upload employee onboarding checklist.,0ea54349-91f8-4f0f-b4ae-8317c4190ebc
+"Upload evidence demonstrating how borrower documents are validated automatically (i.e. OCR).
+ - Identity Documents
+ - Policy Verification Letters",
+"Upload evidence demonstrating how borrower documents are validated manually (i.e. human review).
+ - Identity Documents
+ - Policy Verification Letters",
+Upload evidence demonstrating how loans cannot be funded until collateral is secured.,
+Upload evidence demonstrating how the 'Daily Loan Tape' is generated completely and accurately and provided to the bank securely.,
+"Upload evidence demonstrating how the balance of the loan remains complete and accurate throughout its lifecycle.
+ How does Inclined ensure that the information in the system is correct and reliable?",
+"Upload evidence demonstrating how the loan is managed throughout its lifecycle.
+ Are there any periodic reviews, events, notifications taking place?
+ For example:
+ - Periodic assessment of Current Value
+ - Payment history
+ - Periodic notification from insurance company",
+Upload evidence demonstrating relevant automated processes in place to ensure balances remain complete and accurate.,
+"Upload evidence demonstrating relevant manual processes in place to ensure balances remain complete and accurate.
+ - Reconciliation between the current balance amount and bank disbursement totals (frequency)",
+Upload evidence demonstrating that changes to a loan require documented approval by appropriate parties prior to taking effect.,
+Upload evidence demonstrating that overlending (>95% of collateral) is prevented.,
+Upload evidence demonstrating that the interest accrual calculation is complete and accurate.,
+"Upload evidence demonstrating that the policy assignment process is performed completely, accurately, and in an appropriate manner.
+ - Assignee must be established before funds released
+ - Multiple assignees established appropriately",
+Upload evidence of a Compliance Report. Ensure it captures information around the prospects' risk policies required by each customer.,b70d6925-5135-4241-881a-24b658ec4307
+"Upload evidence of a due diligence questionnaire from the Saphe Compliance Portal. The questionnaire should capture prospect information, including data validation and input edit checks.",880f6790-4a2c-49cb-9d53-613edebaee67
+"Upload evidence of completeness, accuracy, and timeliness of processing procedures.",9e187087-b236-427c-b7b4-7abe97b0662f
+"Upload evidence of how data is securely disposed of (e.g. Secure Wipe program, proof of database overwrite/purge, etc.). For more information and a list of recommended vendors, see How-to Guide.",4a4afb39-65b3-4420-a29b-f51220a3d15a
+Upload evidence of logging and monitoring tools used to identify any errors or issues with Compliance Report processing. Errors and issues identified are investigated and remediated.,74a1fdf3-371e-45aa-bee1-c3483e28bce6
+Upload evidence of prospect screening to ensure compliance with customer's risk policies/rules. Include evidence of Saphe specific processing.,880f6790-4a2c-49cb-9d53-613edebaee67
+"Upload evidence of remediation for a sample high risk identified during the risk assessment. If a full remediation is not in plan, please provide evidence of mitigation or plan in order to remediate. Should the high risk issue be necessary to conduct business, please show evidence of executive level acceptance and sign off of the risk.",f5f7cf56-d87f-4164-bb71-307459c28369
+"Upload evidence of remediation for any gaps identified during the risk assessment. If full remediation has not yet taken place, please provide evidence of mitigation or the plan in place in order to remediate the identified gaps. Ensure that the following information is captured via ticketing system, confluence page, etc.
+ - Ownership/Accountability for remediation
+ - Notes/date that progress was made
+ - Date of remediation",f5f7cf56-d87f-4164-bb71-307459c28369
+"Upload evidence of remediation for any gaps identified during the risk assessment. If full remediation has not yet taken place, please provide evidence of mitigation or the plan in place in order to remediate the identified gaps. Ensure that the following information is captured via ticketing system, confluence page, etc.
+- Ownership/Accountability for remediation
+- Notes/date that progress was made
+- Date of remediation",f5f7cf56-d87f-4164-bb71-307459c28369
+Upload evidence of testing or quality assurance procedures which include error handling of the host system.,506ac862-be9f-4cb1-a2a0-905723362589
+Upload evidence of third party data validation services for information provided by prospects.,b70d6925-5135-4241-881a-24b658ec4307
+Upload evidence that designated user profiles are aligned with SAP.,
+"Upload evidence through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) and if applicable the (<a href=""https://app.heylaika.com/integration/github"" target=""blank"">Github Integration</a>) change implementation ticket (e.g. Github, Azure devops, CircleCI).",19bf3f65-762b-42aa-91f4-e42db95d366e
+"Upload evidence through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) and if applicable the (<a href=""https://app.heylaika.com/integration/Jira"" target=""blank"">JIRA Integration</a>), that demonstrate how software change events are approved and worked on (e.g. JIRA ticket, Asana, code review, security review, release approval, user notification).",0ad86ff7-d8e2-420a-8481-5b40e0c5657b
+"Upload evidence through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) and if applicable the (<a href=""https://app.heylaika.com/integrations/Jira"" target=""blank"">JIRA Integration</a>), that demonstrate how software change events are approved and worked on (e.g. JIRA ticket, Asana, code review, security review, release approval, user notification).",0ad86ff7-d8e2-420a-8481-5b40e0c5657b
+"Upload evidence through <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Users</a> and if applicable the <a href=""https://app.heylaika.com/integration/G%20Suite"" target=""blank"">Gsuite Integration</a>, that show full employee population report (e.g. HR system, Gsuite, etc).",2e21ea5e-9cce-41b6-b610-ad08a90acee3
+"Upload evidence through <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Users</a> and if applicable the <a href=""https://app.heylaika.com/integration/gsuite"" target=""blank"">Gsuite Integration</a>, that show full employee population report (e.g. HR system, Gsuite, etc).",2e21ea5e-9cce-41b6-b610-ad08a90acee3
+Upload evidence to those that firewalls are in operation (e.g. screenshot of a firewall notification),724ef00e-cb65-4e94-a726-dd1a7b58467c
+"Upload evidence to validate that manually entered information is complete and accurate.
+ Examples include (but are not limited to):
+ - Drop-down menus 
+ - Edit checks (or format required fields)
+ - User acknowledgement warnings",4a27194a-b0ca-488e-9487-777cac5323c4
+Upload evidence which reflects data completeness testing of the SAP object within the environment prior to release.,
+Upload evidence which reflects data completeness testing of the SAP object within the environment prior to release. ** SAP SUB TASK **,
+Upload latest background check results.,a43d45dc-12e0-4800-bfbe-36f52872b1ce
+Upload PEN Test Results,2b3249c9-509b-4800-876f-6be626f2a2d6
+"Upload screenshot evidence that full-disk encryption for endpoints has been configured (e.g. with a centrally managed dashboard, etc.) Take screenshot from Hexmode",aef7b123-083c-41ba-8a4b-2372704a2e8d
+"Upload screenshot or evidence of action taken on the received incident alert (e.g. email follow up, meetings/calendar invite with agenda, etc.).",4ac91473-24f0-4bfc-869d-b5f00f9caa1d
+"Upload screenshots and reports that demonstrate how software change event take place (e.g. code review, release approval, user notification).",0ad86ff7-d8e2-420a-8481-5b40e0c5657b
+Upload screenshots of endpoint security solutions in operations on employee workstations.,f77a25a7-f252-480e-b918-b2e4d0c89291
+Upload screenshots of MFA in place on major IT systems.,94f1259b-2c70-457c-8e6f-6515d7eb7b10
+Upload screenshots of secure credential sharing systems in operationsat your organization.,0de95276-690a-4024-b80d-4c731b9fc31b
+"Upload the Board of Directors Log as evidence to this task after the first meeting has been recorded. The log can be added via the Add Evidence button and selecting ""Laika Logs"". ",9c1052c8-7407-4a43-ac18-ef2711f79673
+Upload the completed Privacy Committee charter/roster as evidence.,ee66bed2-26fb-4b72-afa4-6420a4b55124
+"Upload the Incident Response Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",eb475545-e2d5-4437-9a80-0aed775c20a7
+Upload the latest Privacy Committee meeting minutes document as evidence.,6200f19d-829d-4c44-bea8-1010e6caeb85
+Upload the results and documentations of your organization's latest incident response test.,eb475545-e2d5-4437-9a80-0aed775c20a7
+Upload your organization's incident reports from the past 12 months (5/15/20 - 5/15/21).,c2d7daf3-6fc3-4352-a0d7-76d1e1bb39ae
+"Upload your organization's incident reports from the past 6 months through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Incidents</a>).",c2d7daf3-6fc3-4352-a0d7-76d1e1bb39ae
+Upload your organization's incident reports from the past 6 months.,c2d7daf3-6fc3-4352-a0d7-76d1e1bb39ae
+"Upload your organization's latest vulnerability scanning report. Retain 12 months of vulnerability scanning data (5/15/20 - 5/15/21). (<a href=""https://app.heylaika.com/documents"" target=""blank"">Vulnerability Scanning Procedure Template available</a>).",a7203058-948d-480a-9f9c-8c70ffe4c73a
+"Upload your organization's latest vulnerability scanning report. Retain 6 months of vulnerability scanning data. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Vulnerability Scanning Procedure Template available</a>).",a7203058-948d-480a-9f9c-8c70ffe4c73a
+V - FACTA - Fair and Accurate Credit Transactions,
+V - Fair Credit Reporting Act (FCRA),
+Z - Truth In Lending Act,
+"Create and upload a Network Architecture Diagram that shows where company data is processed and stored, what endpoints are involved, and what protections are in place. For more information and recommendations, see Overview and Resources pages.",d6e6871f-6b79-4591-8b35-ccd443320816
+"Create and Upload a comprehensive Network Architecture Diagram that shows the separation between the production and non production environments and shows where company data is processed and stored, what endpoints are involved,and what protections are in place. This network diagram must also include any wireless and guest network components as well.",40582462-207d-494f-9e53-bfb9b0bab0b8
+"Create or upload your Asset Inventory List using (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>). The list should include all onsite, offsite, and public facing assets including personal devices used by employees for work.",3c1a203b-3f8c-4201-83fd-d0363df0a8f9
+"Create or upload your Asset Inventory List using (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) and a procedure to maintain the list, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Asset Inventory Maintenance Procedure</a>). The Procedure document should detail your company's processes for maintaining a list of all assets including those that capture payment card data as well as periodically inspecting the devices.",bce3ee90-826b-4ab0-9161-1faad8fe1553
+"Create and upload Dataflow Diagrams that show where sensitive and scoped data is received, processed, stored, transmitted, and then destroyed. For more information and recommendations, see Overview and Resources pages.",29136b4a-cc10-49b3-b0df-441a8439ea87
+"Create a Business Continuity and Disaster Recovery Team using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Business Continuity and Disaster Recovery Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",32c6507e-4fd5-4ddd-a390-5530e75617db
+"Create and upload an organization emergency contact list (<a href=""https://app.heylaika.com/documents"" target=""blank"">Emergency Contact List</a>).",fca2e932-b155-455e-863e-8231fc9b0427
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Business Continuity & Disaster Recovery Plan</a> ensuring controls mitigating environmental disasters, telecommunications failures, and the failure of offsite resources is accounted for.",9df56149-3c09-40b1-ab1f-d200372c901f
+"Document and upload an example contract or contract template (<a href=""https://app.heylaika.com/documents"" target=""blank"">MSA, EULA, Terms of Service, etc.</a>) your organization has with customers detailing your commitments.",53b2e258-98a1-4feb-96e5-a6ef1f469ba2
+"Implement periodic backups across multiple availability zones or regions for all critical data to ensure look back availability and recovery capabilities in the event of a disaster. Many cloud service providers offer backups as a standard feature. For more information and recommendations, see Overview and Resources pages.",a5a9e199-78aa-4c06-8dbc-f995214faad8
+"Upload a screenshot or system generated report listing of all employees who have access to backups including retrieving back up data and editing of backups (e.g. schedule, retention, etc.)]",0854b315-5387-4b18-8894-b2bcd2a94ccc
+"Conduct and Upload the Business Continuity Plan (BCP) Tests (<a href=“https://app.heylaika.com/documents” target=“blank”>Business Continuity Plan Test</a>). The Tests assess the adequacy of the BCPDR Plan in simulated disaster situations. As a part of this test, perform a backup restoration test and formally document the results to ensure backups can be relied upon in an emergency.",14929598-1a89-40de-9788-c5f2f1fe34f4
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Configuration and Change Management Policy</a> ensuring that it includes guidelines for managing changes to your environment .",579b298a-a5ff-4d76-bfd7-201598f97bcf
+Develop and document an Exception management process. This can be a seperate process than the Software Change Management Procedures or may be included in the same process stemming from the Testing phase,8aab0b5b-7953-41ec-9c16-2bb10f0c4e18
+Develop and document a Testing process that include data validation checkpoints for accuracy and timliness,e7da2743-86ff-4f0b-97c8-10ee9a181eac
+Upload a sample of tests that shows that the accuracy and timeliness of data was validated as part of the testing process,e4e60b80-6ffd-4702-b92d-619516e4cc49
+"Create and upload a Software Change Management Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Change Management Procedure</a>). The Procedure document should detail your company's specific SDLC processes.",c41fda92-f30b-42ba-9ef9-970254476274
+"Create, maintain, and upload a Baseline Configuration List, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Baseline Configuration Standard</a>), that details the baseline configurations (ex. CIS, ISO, SANS, IST, etc.) for each system component in the company.",f2d41734-40df-43a9-933d-2f1db20d960b
+Implement a time synchronization technology such as Network Time Protocol (NTP) across all critical system clocks and times,49a59068-1a0b-49e0-add7-02519048216f
+"Create and upload a Time Synchronization Standard and document it alongside your company's baseline configurations (<a href=""https://app.heylaika.com/documents"" target=""blank"">Baseline Configuration Standard</a>). PCI requires the use of one dedicated central time server.",92f23b46-8629-4ade-97ac-d96412d4eca2
+"Setup SDLC management and version control tools to track software changes. For more information and recommendations, see Overview and Resources pages.",1b6a02e2-c09b-4063-a725-9de620a20e3e
+"Upload Change Request evidence through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) using an (<a href=""https://app.heylaika.com/integration/"" target=""blank"">Integration</a>) if applicable, that demonstrate how software change events are approved and worked on (e.g. JIRA ticket, Asana, code review, security review, release approval, user notification).",0ad86ff7-d8e2-420a-8481-5b40e0c5657b
+"Upload evidence of a sample software release. Please include evidence of approval, testing, notes, and any other applicable content related to the release, as well as notification of completion. Additionally, please add evidence of communication to affected users, as applicable.",467d1ce4-1136-4ab6-8d51-7fd1b6462d24
+"Upload evidence through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects</a>) using an (<a href=""https://app.heylaika.com/integration/"" target=""blank"">Integration</a>) if applicable to populate change implementation tickets (e.g. Github,Gitlab, Bitbucket).",19bf3f65-762b-42aa-91f4-e42db95d366e
+"Implement a configuration management tool to enforce baseline configurations on systems and devices.
+-Examples of configuration management tools include  (e.g., Docker, Ansible, SaltStack, Chef, Puppet, PowerShell DSC)
+-If the service is hosted in AWS, implement the AWS tools including AWS CloudFormation templates, AWS Systems Manager State Manager, AWS OpsWork and AWS Config
+",f70d6312-abaa-43c3-b916-8cddd909c71b
+"Confirm appropriate guidelines are in place with regard to cryptographic protections in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",710f3711-62e4-41f4-819c-8b6e98c40fec
+"Create and upload a Key-Managament Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Key Management Procedure</a>). The Procedure document should detail your company's specifc key-management processes.",bd4dbcc6-72f9-4b7f-8868-14dada0bb580
+"If Sensitive Authentication Data (SAD) or the data used by the issuers of cards to authorize transactions is stored, ensure it is secure, not retained after authorization, and not recoverable after it is deleted.",7902e509-4d92-415d-bbad-95959afa2c14
+"If Sensitive Authentication Data (SAD) or the data used by the issuers of cards to authorize transactions is stored, document and upload a business justification for doing so.",0eb7c476-e15f-4835-8080-b8ac59e1b2df
+"Encypt sensitive data in transit. We suggest starting by examing all channels through which sensitive data is transmitted (http, ftp, email, fax) and implement appropriate encryption mechanism. For more information, see Overview and Resources pages.",461d35e8-5204-4405-9117-b62eb009866f
+"Upload screenshot evidence that full-disk encryption for endpoints has been configured (e.g. with a centrally managed dashboard, etc.)",aef7b123-083c-41ba-8a4b-2372704a2e8d
+Upload a system screenshot of the encryption keys rotation configuration.,2e482fd7-d2c4-4b92-9d9a-f51e5cb79dcc
+"Encypt all ePHI / PII and sensitive data in transit. We suggest starting by examing all channels through which sensitive data is transmitted (http, ftp, email, fax) and implement appropriate encryption mechanism. For more information, see Overview and Resources pages.",05a8d1cc-8334-410d-b46a-81d5eb42614d
+"Upload screenshots of data encryption in operations for data in transit (e.g. screenshots of TLS configuration & certificate, screenshots of SFTP sessions).",7eeccf3a-f8b1-45ca-88d0-7a2ba87affa4
+"Encypt sensitive data at rest. Start by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see Overview and Resources pages.",adf335d1-b626-45c3-bc2b-d6b24e77da37
+"Encypt ePHI / PII and sensitive data at rest. We suggest starting by examing all places where sensitive data is stored (local and remote databases, file systems) and implement appropriate encryption mechanism. For more information, see Overview and Resources pages.",1b5d7a4c-695c-4028-800c-40497c1c9c09
+"Upload screenshots of data encryption settings in a production database (what data is covered, what encryption mechanism is utilized, etc.)",0d85c20f-deed-4893-8483-cb6c5cf99cee
+"Confirm the organization does not hold any user credentials in non-encrypted form. A strong hashing mechnism with salt or trusted 3rd party authentication vendor is recommended. For more information, see Overview and Resources pages.",40ed9dac-792d-4631-8333-c43895bb2336
+Implement strong encryption standards for wireless networks transmitting cardholder data or connected to the cardholder data environment.,89289b31-460f-4c05-a8a7-9422f93193b3
+"Create and upload a Wireless Network Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Wireless Security Procedures</a>), that includes the procedures for detecting authorized and unauthorized access points.",2814c448-38f5-4df3-92b0-cd8d1cb6b744
+Implement encryption algorithms that render Primary Account Number data unreadable by those not directly authorized to view.,514f1556-84ed-4f5e-a301-2789fd05bf3c
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Data Protection and Handling Policy</a>.",7a5c6fe8-62ef-4387-9409-e568577cf344
+"Document your organization's contractual and regulatory data retention and destruction requirements, if any, in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Data Protection and Handling Policy</a> Appendix A.",c4ba2cc5-ee2c-4278-a361-208b4ffb6a67
+"Create and upload a company Personnel and Data Classification Schema (<a href=""https://app.heylaika.com/documents"" target=""blank"">Personnel and Data Classification Schema</a>). The Schema segregates company data into tiered classification levels and assigns a owner for each tier. For more information and recommendations, see Overview and Resources pages.",072b9db7-5866-46ed-9818-d3cd4170c004
+"Create and upload a company Personnel and Data Classification Schema (<a href=""https://app.heylaika.com/documents"" target=""blank"">Personnel and Data Classification Schema</a>). The Schema segregates company data into tiered classification levels and assigns a owner for each tier. Include Privelaged Accounts, what data they have access to, and which employees have access to these accounts as well. For more information and recommendations, see Overview and Resources pages.",a1121e7e-12f2-4bbf-8c93-882b871e0fdc
+"Implement a secure file transfer solution (e.g. GoogleDrive, Sharepoint, Dropbox) for your organization.",d039e42d-b6ef-4c66-ba82-39b1c206ee2d
+"Turn on email data loss prevention and incident response features. These features are standard on most commonly used email platforms and simply need to be switched on. For more information and recommendations, see Overview and Resources pages.",86ecd1b8-2682-48e3-aa67-d48421fb55c9
+"Implement secure data sanitization/disposal procedures for data that is no longer need or has reached the end of its retention period. For more information and recommendations, see Overview and Resources pages.",8d16473b-dd8c-431a-a9ca-60b7e4f2fc13
+"Upload documentation of how data is securely disposed of (e.g. Secure Wipe program, proof of database overwrite/purge, etc.).",4a4afb39-65b3-4420-a29b-f51220a3d15a
+"Procure cross-shredders for all office locations to dispose of paper data securely. For more information and recommendations, see Overview and Resources pages.",cef83844-5805-456e-9183-788920661b57
+Ensure that portable storage devices (e.g. USB drive) are not used to transmit and store sensitive organization data.,32a75f42-ecf5-40ca-8b56-7be49c8a4b9a
+"Implement a method to document and track customer data disposal activity ensuring that the following pieces of information are captured:
+- Data Type
+- Date of Purge
+- Date of Customer Expiration
+- Date of Customer Removal Request
+- Date that applicable data reached the end of it's retention requirements (Note: Based on Legal, Regulatory, and/or contractual obligations)
+- Steps taken to ensure removal",ccf02a4a-10d3-4a9a-b6de-8902a98f7bee
+"Confirm appropriate guidelines are in place with regard to endpoint security in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",40539615-ba55-4d93-85ba-1d6520336c97
+"Install endpoint security solutions on all employee workstations and ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>. For more information and recommendations, see Overview and Resources pages. In addition, upload a screenshot of the installed endpoint security solutions in operation on an employee workstations with the accompanying antivirus scanning schedules.",f77a25a7-f252-480e-b918-b2e4d0c89291
+Upload a screenshot of the antivirus software's virus signature update configuration installed on employee workstations.,e7ef13bb-5809-4941-b9f4-5f26f325588a
+"Install PCI compliant Anti-Virus and an Endpoint Security tool that has PCI compliant configurations detailing the tool cannot be disabled and enforces periodic scans, log generation and retention. Ensure each workstation is properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a> and upload a screenshot of the installed endpoint security solutions in operation on an employee workstations.",fbd7a4dd-561f-4d84-9921-d68b449ba09f
+"Install firewalls on all end user devices as well as cloud and physical servers. To the extent possible, configure the firewalls to ""Deny all Traffic by Default"" and ""Allow by Exception"". Upload evidence that firewalls are in operation (e.g. screenshot of a firewall notification)",724ef00e-cb65-4e94-a726-dd1a7b58467c
+Install firewalls on all end user devices as well as cloud and physical servers. Implement firewalls to prevent disclosure of private IP addresses and routing information from internal networks to the internet. Upload evidence that firewalls are in operation (e.g. screenshot of a firewall notification) ,9d4fe0c4-9529-4bfc-9f23-2add683f546b
+"Upload a screenshot or system generated report that shows external facing components are configured and operating in a least privileged state and to the extent possible, configure the firewalls to ""Deny all Traffic by Default"" and ""Allow by Exception"".",76a38e7a-8e79-4298-9d21-00a75ea6aa01
+"Create, maintain, and upload a Firewall Configuration List, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Firewall Standard</a>), that includes the business justification and documented approval for all services, protocols and ports permitted, and that all other traffic is denied by default",bcb6adbc-5979-4ec0-ab15-d70272b9ce9c
+"Provide evidence of inbound traffic restrictions currently in place on systems (e.g. firewall rules, security group inbound restrictions, firewall rules, etc.). Additionally, please provide evidence of review of rules on a period basis, as applicable.",a68644a3-fff7-45f8-ae75-8303a23a8a11
+"Ensure all workstations and mobile devices that have access to organization data have password set up and are properly recorded and marked in the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Asset Inventory</a>",c594d0e3-b463-4088-8fcf-a7a27d3f9793
+"Confirm appropriate guidelines are in place with regard to password strength and shared credential management in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>. Additionally, ensure that in-scope systems that contain production data or sensitive information passwords meet all of the password attributes documented in the Information Security Policy.",26cbcf4c-8608-474c-96f5-a41fa321c333
+"Ensure that the whistleblower hotline is included within the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Employee Handbook</a> (US applicable).",9c8ea93e-0320-49a0-a0b9-1d11bf1eda54
+"Ensure employee disciplinary procedures incorporate security violation procedures and are included in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Employee Handbook</a>.",c368f494-9f52-4f9d-8df1-392606897a47
+"Using the (<a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>) functionality, create a new training by uploading your organization's Employee Handbook/Code of Conduct and have all employees view and sign off on the training upon onboarding/hiring. If not using the Laika provided Employee Handbook which includes the Code of Conduct, please ensure there are signatures of your organization's Code of Conduct.",46e238ac-445b-4cae-9fe2-0f12e3b5ea5f
+Provide evidence of annual performance evaluations of employees to ensure that job requirements are being met and employees are being adequately assessed based on their responsibilities.,7f2dfb94-e69e-4f03-9c04-e9123d5d8c82
+"Confirm appropriate guidelines are in place with regard to employees working remotely in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",0ca3a4f5-9b4a-41a2-a94e-e486a9d61804
+"Confirm appropriate guidelines are in place with regard to a Clean Desk policy in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",3dac0cec-11f9-4c41-a042-473e72a1b9bf
+"Create and upload an organizational hierarchy chart. For tool recommendations, see Overview and Resources pages.",eb4986da-0236-483c-8873-f515a87dce84
+"Review organization policies and procedures on an annual basis or as significant changes are made, and document the review. Tracking can be accomplished via documenting the versioning number, review date and the reviewer on the policy or procedure itself.",96c3af1a-cf28-4802-a6ef-088c29fcb6d0
+"Upload evidence through <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Users</a> and if applicable through the <a href=""https://app.heylaika.com/integrations/Google%20Workspace"" target=""blank"">Google Workspace Integration</a>, that show full employee population report (e.g. HR system, Gsuite, etc).",2e21ea5e-9cce-41b6-b610-ad08a90acee3
+Complete the job description template or upload a documented job description for all positions supporting the in-scope services within the company.,4bd54761-483b-4b2b-81e8-41e9de54e0f8
+"Create and upload a performance evaluation template that can be completed for current employees on an annual basis. If your organization doesn't want to implement a performance review process, the alternative option is to implement a quiz as a part of the security awareness training for current employees and provide evidence of the employee taking and passing the quiz.",57e4b3c2-29d2-494a-8548-45287e596ba1
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Hiring Policy</a>.",70ff14e5-2ddb-4d38-9bec-89ff38fc43c4
+"Create and upload an employee onboarding checklist (<a href=""https://app.heylaika.com/documents"" target=""blank"">Onboarding Checklist</a>).",0ea54349-91f8-4f0f-b4ae-8317c4190ebc
+Upload a sample new hire contract. The contract should not contained identifiable employee data. Ensure personal information is redacted prior to upload.,a061d673-8ded-4d86-b0ce-61ae9c642a1e
+"Upload full new hire population (system generated, if applicable), for the applications in scope and the supporting environments.",d4e30640-4548-4d37-ae6a-6655ea008cb1
+"Create and upload an employee offboarding checklist (<a href=""https://app.heylaika.com/documents"" target=""blank"">Offboarding Checklist</a>).",e4c54c08-eabc-4c9f-a624-80bc36f154ff
+Provide evidence of access removal (including last log-in date) to in scope applications and the supporting environments within a timely manner of user termination.,191130a0-b145-44a1-ad31-dfe0fa8e7374
+"Upload full terminated employee population (system generated, if applicable) within the past year.",68bd2369-222a-4a4d-9f8f-1b62e863b23b
+Conduct employee background checks on all existing and new full time employees.,e8e20bbf-dcdf-4cf8-a0c1-cfa2d092586d
+Conduct employee background checks on all contractors that are in critical funtions.,8795d013-2417-477a-907a-e260bddf5c8d
+Upload latest background check log confirming all employees have passed background check.,a43d45dc-12e0-4800-bfbe-36f52872b1ce
+"Confirm appropriate guidelines are in place with regard to role and access management in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",43655521-b636-4107-bd9f-25082086fa47
+"Set up appropriate role based access controls and confirm employee access to in scope applications and supporting environments (specifically engineering/change management applications) are appropriate based on job responsibility. Examples of systems include: critical IT systems, email providers, file sharing systems, CRMs, cloud service providers and communication tools.",54a4af51-631b-4d31-86cd-d667d5535881
+Upload screenshots of system setting screens that shows RBAC in place for critical IT systems.,60b07a7d-7c47-4380-bf2c-d87e9fba4a4a
+"Create and upload an Access and Authentication Management Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Access and Authentication Management Procedure</a>). The Procedure document should detail your company's specific process for requesting and granting access to existing systems and prohibition of shared credentials.",031c6ab8-1740-4a86-90da-8b8f1e9fbc3e
+"Review access lists for all in-scope systems (all systems with access to production data) on a quarterly basis and be sure to clearly document the following data points via email, ticket, etc.
+-Date access review occurred
+-Users reviewed
+-Any actions taken (users removed/modified)
+-Formally track any users who were modified or removed
+",474fe1af-9eae-402e-bb46-e32d8c4fa03d
+"Create and upload a Role Based Access List, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Role Based Access Control List</a>), that shows if access is provisioned based on role, responsibility, department, etc.",f9050d7b-0eb1-49e1-bc88-be061c487df7
+"Create and upload a Role Based Access List, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Role Based Access Control List</a>), and include a list of all roles that need access to displays of more than the first six/last four digits of the Primary Acccount Number(includes full PAN) with a legitimate business need for each role to have such access.",14925de3-7e1b-4efb-a919-f208a6742821
+"Confirm appropriate guidelines are in place with regard to password strength and shared credential management in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>. Additionally, ensure that in-scope systems that contain production data or sensitive information passwords meet all of the password attributes documented in the Information Security Policy.",d8fcc588-23e9-4aa0-8c08-1eca2eece9f0
+"Implement a secure system for shared credentials (i.e. password manager) and enforce usage across your organization. For tool recommendations, see Overview and Resources pages.",4f904c7d-868d-4241-8dea-da9ba94b3ee6
+Upload screenshots of secure credential sharing systems in operations at your organization ensuring the lockout threshold is also captured in the screenshot.,0de95276-690a-4024-b80d-4c731b9fc31b
+"Ensure strong password requirements on major IT systems, including but not limited to email providers, file sharing systems, CRMs, cloud service providers and communication tools.",63244f12-2854-4661-909b-95b5098b58e7
+Upload screenshots of password strength settings in operations on major IT systems.,d6a94150-b682-4c4d-b14b-178a8645fe13
+"Enable Multi-factor authentication on all major IT systems and upload screenshots of MFA in place, including but not limited to email providers, file sharing systems, CRMs, cloud service providers and communication tools. In addition, ensure the <a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Users</a> table correctly reflects the MFA settings of each user. For systems/applications that have passwords disabled, provide screenshots of PAM authentication.",94f1259b-2c70-457c-8e6f-6515d7eb7b10
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Incident Response Policy</a>.",f9c54e6b-c191-4b19-8d1f-a0467d58813e
+"Create an Incident Response Team using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets. Upload the Incident Response Team Log as evidence to this task. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",6f8bf046-93a9-4414-9371-a9d4a724cb5a
+Create an incident response email address and publicize it for your organization to receive security alerts from internal and external sources.,f47c06c8-9434-47c9-af31-d181c6f3c419
+"Upload screenshot of methods users/customers can use to report incidents, concerns, issues and complaints. Additionally, upload sample screenshot of a notification from the platform of potential uptime and incidents.",b027f191-7038-44ca-8951-a2fd7db6f216
+"Perform and upload an Incident Response Test. For more information and recommendations, see Overview and Resources pages for qualified incident response tests, including Tabletop Exercises. To accurately record the results, there is a <a href=""https://app.heylaika.com/documents"" target=""blank"">Incident Response Test template available</a>.",eb475545-e2d5-4437-9a80-0aed775c20a7
+"Provide evidence that security incidents are centrally logged and monitored until closure. Upload your organization's incident reports from the past 6 months through (<a href=""https://app.heylaika.com/lob/default"" target=""blank"">Laika Objects Incidents</a>).",c2d7daf3-6fc3-4352-a0d7-76d1e1bb39ae
+"Setup an incident alert system to monitor production app environment for software or systems operated by your organization. For more information and tool recommendations, see Overview and Resources pages.",435c1c02-0f9f-432e-af23-093251dd5736
+"Upload evidence of an email, ticket, or other form of communication indicating an incident alert has surfaced to the responsible team. Otherwise, please provide evidence of configuration showing alerts are adequately configured.",4ac91473-24f0-4bfc-869d-b5f00f9caa1d
+"Upload evidence of action taken on a received incident alert (e.g. email follow up, meetings/calendar invite with agenda, etc.). Include all ticketing information, notifications, and communications of resolution to affected customers if applicable.",05ea6a3e-f45f-452d-a5ed-128069df5d57
+"Confirm appropriate guidelines are in place with regard to monitoring in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",c248b838-c3a6-4511-8026-0a52a866d0ed
+"Implement tools for monitoring & logging user activity, malicious and suspicious behavior such as unauthorized access to in-scope systems that contains production data or sensitive information within your organization's environment. Suspicious logs should trigger a notification to the Incident Response Team and be investigated and documented. For more information and recommendations, see Overview and Resources pages.",0c9d6cae-0e9b-4ba4-b0f7-24005e84294a
+"Implement tools for monitoring & logging user activity, malicious and suspicious behavior such as unauthorized access to in-scope systems that contains production data or sensitive information within your organization's environment. Suspicious logs should trigger a notification to the Incident Response Team and be investigated and documented. For more information and recommendations, see Overview and Resources pages.",1abcfbbe-504b-4967-b6f0-bc33b98348d2
+Upload a screenshot of a sample audit log generated by the implemented monitoring and logging tool.,74a1fdf3-371e-45aa-bee1-c3483e28bce6
+"Upload a screenshot of the IDS/IPS configuration settings, including the personnel that should be alerted.",b0490150-d738-4da3-b457-b65d32b1d52e
+"Upload a sample IDS/IPS alert and how that alert was surfaced to the reviewing personnel such as a Pagerduty alert, Slack message etc",511f77f3-8c0d-4cf3-9170-4eae3dd85837
+Upload a sample triage and remedition of an IDS/IPS alert.,c2ff1193-4c17-4d18-abc1-bbc39247cb6b
+"Implement performance and utilization monitoring tools within your organization's environment. For more information and recommendations, see Overview and Resources pages.",f37b28b0-58c0-4ecc-b7d7-2fe2aea91bb7
+"Implement an IDS solution such as Alert Logic, or Trend Micro Deep Security on any public-facing AWS servers. Enable event logging within the tool and configure email alert notifications and slack notifications to alert the responsible personnel when security events are detected.
+-If the service is hosted in AWS, AWS GuardDuty can be implemented.
+-If the service is hosted in Azure, [Azure Security Center or Azure Defender] can be implemented.
+-If the service is hosted in Google Cloud, Security Command Center can be implemented.",68c9dcf8-9a73-446c-91c7-03fd60dc6f5d
+"Confirm appropriate guidelines are in place with regard to physical and environmental security in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",733ad474-68a9-41f4-82ed-83a31042a956
+"Confirm appropriate guidelines are in place with regard to securely taking organizational assets offsite in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",b3a9e19a-84e9-4a9a-97fc-8ef9cfa44145
+"If your organization hosts its own servers, establish physical controls protecting the servers from environmental damage and upload documentation of the controls implemented.",b4a23e6a-9133-4b99-9450-bd5346cdddd3
+"If your organization relies on a Third Party cloud service solution, review and upload their provided documentation for how they protect servers from environmental damage.",7f22e559-a9fc-4e4e-8c92-8fac59a7a20d
+Confirm controls are in place to physically limit individuals without proper access from entering your organization's secure spaces.,bdbfbb93-a088-48c6-805d-5b8cf7fdc40d
+"If applicable, upload relevant security documentation from office security management or co-working company detailing the physical safeguards in place (e.g. key cards, security guards, etc.)",056fbde2-3adb-4139-9cd6-75ad677a633c
+"Create and upload a Media Protection Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Media Protection Procedure</a>). The Procedure document should detail your company's processes for protecting cardholder data and inspecting the media periodically including but not limited to hard drives, paper reciepts, and reports.",002c44de-e4cf-48f6-94bc-c661af4aead1
+"Create and upload a Physical Access Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Physical Access Procedure</a>). The Procedure document should detail your company's processes for allowing and logging physical access including the authorization and restricting of visitors.",d357cfad-1b21-4722-a4a0-644726d63c46
+"Implement badge readers or equivalent devices to control, monitor, and log physical access to each room containing sensitive cardholder data or individuals working with sensitive data.",4d1a12e4-084d-4a99-8bfc-9cc7bef42340
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Compliance and Risk Management Policy</a>.",aa9b26e9-da51-4705-b7d0-7ef2281bf102
+"Create an independent Risk Committee using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",0f8fc0f5-eae8-42e9-b8a2-7c2d29067c48
+Establish a quarterly cadence for the Risk Committee to meet and assign an individual to take meeting minutes.,93121ee3-4112-4c06-a477-40787db96eae
+"Upload the Risk Committee Log as evidence to this task after the first meeting has been recorded. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",da9700f5-c3c2-4998-9878-279bca9c1751
+"Conduct, document, and have the Risk Management Committee upload and review an annual Business Impact Analysis (BIA). See the Resources tab for futher details. ",27d5aac6-41b9-40fa-9820-489ebd8dc514
+"Conduct, document, and have the Risk Management Committee upload and review an annual HIPAA Assessment that includes a Privacy Assessment, Physical Site Audit, HITECH Subtitle D Reivew, Security Standards Review and Asset and Device Audit (<a href=""https://app.heylaika.com/documents"" target=""blank"">HIPAA Annual Assessment Template</a>).",dfb8c423-5f90-4a2d-88a0-c3c0890a4522
+Conduct and upload a Risk Assessment and establish risk appetite. Ask your Laika concierge manager to see if a risk assessment is included in your subscription.,9eba9cd2-2235-4e4d-9dde-e92f7f2dcbcc
+"Upload evidence of remediation for any gaps identified during the risk assessment. If full remediation has not yet taken place, please provide evidence of mitigation or the plan in place in order to remediate the identified gaps. Ensure that the following information is captured via ticketing system, confluence page, etc.
+- Ownership/Accountability for remediation
+- Notes/date that progress was made
+- Date of remediation",f5f7cf56-d87f-4164-bb71-307459c28369
+"Confirm appropriate guidelines and standards are in place with regard to secure specification, design, development, implementation and modification of systems and services in the <a href=""https://app.heylaika.com/policies"" target=""blank"">Information Security policy</a>.",2dc4de8d-ebf3-4d5b-b547-8147cd49c77c
+"If applicable, implement expiration dates/time-outs/locks on all accounts and sessions. Privileged accounts should have stricter expiration times. Upload a screenshot of a notification of a time-out/expire user session as evidence.",4c102552-13ae-4e67-b089-797cbb4b5ee7
+Implement a system configuration that user accounts and remote access times out after 15 minutes or less of inactivity. Upload a screenshot of a notification of a time-out/expire user session as evidence.,1013cf56-51d4-41de-8f84-c7e406585eac
+Upload evidence of a session time out as applicable to application end users.,d104d3a2-844a-4346-ab85-57680b18cddc
+Upload evidence of a session time out as applicable to the internal support staff.,fc29bc0c-c7b4-48f1-9c75-c60e74d5b2f4
+Upload evidence of a session time out as applicable to privileged users.,973a6d4e-f62b-47aa-bd27-ac1f8d1994d0
+"Setup separate development environment for development, test, and production.",a2ee14e2-09cb-428d-b14f-c74e6b11a4b5
+Upload screenshots or reports in your organization's software development tools or cloud services that show separation of production vs. non-production environments.,908a8bde-a400-4210-b20f-8c3d214c04c6
+"Restrict access to production servers, databases and other systems. Changes to production source code, environmental settings and data need to go through an approval process. For more info, please see Overview and Resources pages.",1f8a5ffb-f3ae-4632-a006-cd4b122be40b
+"Provide evidence that customer-level segregation is in place (ie. to prevent crosstalk between customers). Can show unique customer IDs, separate databases, etc.",f195d0d2-c84d-4d1e-8861-9d6b65abd5ab
+"Upload a screenshot showing that the Information Security Policy is made available to employees, whether via the Laika Portal or your intranet.",65c57269-57af-4c99-a452-ba90b94baf6d
+"Upload screenshot showing that all company wide policies and procedures are made available to employees, whether via Laika portal or document repository. Screenshot should be of ""Published"" Policies.",a46e03ab-f736-466d-8366-042789988bdc
+"Using the (<a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>) functionality, create a new training by uploading your organization's Information Security Policy and have all employees view and sign off on the training upon onboarding/hiring.",fbfcd0a1-b9dc-40c7-9396-75a0ed231574
+"Conduct Security Awareness and Incident Response Training for all employees. Direct employees to Laika <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a> for the training.",68ff990d-eee1-41b4-bd86-eb272375a937
+"Upload the final Security Awareness and Incident Response Training Log as evidence to this task once all employees have taken the training. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",b089cac5-6b5c-49f2-8592-93c0d83a8f74
+"Conduct Secure Coding Training for all engineers. Direct employees to Laika <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a> for the training.",5d446c19-4cae-46d9-9b33-cc768137d7e2
+"Upload the final Secure Coding Training Log as evidence to this task once all engineers have taken the training. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",a411b9f5-b8d7-4b23-b29c-56d888ac6efd
+"Conduct HIPAA Training for all employees. Direct employees to Laika <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a> for the training.",693854fc-0551-4e20-b9a0-ba002377f056
+"If your company is a Shared Hosting Provider (one who hosts multiple clients on one server),ensure that each entity on your server only runs processes that have access to that entity’s cardholder data environment, restrict each entity’s access and privileges to its own cardholder data environment only, ensure logging and audit trails are enabled and unique to each entity’s cardholder data environment, and enable processes to provide for timely forensic investigation in the event of a compromise to any hosted merchant or service provider.",4798e120-66fd-4bd6-a4ff-ac5af7f7ef24
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Supplier Risk Management Policy</a> ensuring it includes guidelines for approving vendors.",ca114431-90c8-4d5a-83ff-be646985fa08
+"Gather compliance certification documentation (SOC 2 Report, ISO certification, etc) from your organization's critical third-party vendors and upload them to the appropriate  (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendor Documents</a>). Review the compliance certification documentation for all critical vendors and once complete add a note that the report was reviewed and the date reviewed under the “Assessment” tab.",84ff9b7d-2735-430f-ac62-f7d2f540bdab
+"Utilize a <a href=""https://app.heylaika.com/documents"" target=""blank"">Business Associate Agreement (BAA)</a> template with both clients and third parties whenever PHI may be shared.",1b3d7e0d-fe5b-4bdb-9ec3-2bdfec083362
+Implement and upload a secure procurement process for approving the onboarding of new vendors or installing new software on company endpoints. See Overview and Resources pages for more information.,9ae74ae5-3219-4300-86d2-3d3ec8337d0b
+"Add all Vendors your organization currently uses, plans to use, or are reviewing for use here: (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendors</a>). Ensure you include all high risk suppliers including vendors of software, assets, and services (e.g. cloud service providers).",736a3541-afee-4f13-96c8-4c6970535851
+"Document Business Justification rationale, Risk Details, and Vendor Status for each vendor by selecting each Vendor and filling in the appropriate details here: (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendors</a>)",18562077-5f90-4f58-808b-515c9f637f15
+"When applicable, implement a secure contracting process with third parties by including minimum secure clauses and non-disclosure agreements (<a href=""https://app.heylaika.com/documents"" target=""blank"">Third-Party Contract Clauses</a>) in all contracts.",4ce82c64-2ff8-42e1-ad59-126a4b305f23
+Upload a sample Business Impact Analysis and/or risk assessment performed for a third party vendor or supplier. Include contract and evidence of reviewed terms.,880f6790-4a2c-49cb-9d53-613edebaee67
+Upload an example contract your organization has with a Third Party detailing the relevant security clauses.,b70d6925-5135-4241-881a-24b658ec4307
+"Create and upload a Vulnerability Management Procedure, (<a href=""https://app.heylaika.com/documents"" target=""blank"">Vulnerability Management Procedure</a>). The Procedure document should detail your company's processes for conducting scans as well as using external sources to remain up to date on potential security vulnerability information.",cd4658cd-0444-47b3-a341-b933beb316a5
+"Set up regular vulnerability scans on critical IT systems (e.g. cloud service providers) and upload the results highlighting any major remediation that was required as a result. For more information and recommendations, see Overview and Resources pages.",d66fbf2d-9459-4f10-8e38-f35ccc4f55c6
+"Conduct and pass a PCI compliant Vulnerability Scan every quarter. The scans should be completed by a PCI SSC Approved Scanning Vendor (ASV). Laika recommends (<a href=""https://www.mcafeesecure.com/pci-compliance"" target=""blank"">McAfee Secure</a>) for your company's ASV vendor. Upload scan results to this subtask once completed highlighting any major remediation that was required as a result.",d5ce1c55-fbbf-4150-9c84-c05aa709e2ee
+Upload a system screenshot of the vulnerability scan schedule configuration (what cadence scans are to be conducted).,a7203058-948d-480a-9f9c-8c70ffe4c73a
+Conduct a third-party port scan and upload the results. More info and vendor recommendations see Overview and Resources pages.,25214a06-c546-4290-9e11-32161af02066
+Conduct and pass a PCI compliant Penetration Test once a year. The Penetration Test is compliant with PCI if it covers all segmentation controls/methods in place and is performed by a qualified internal or qualified external third-party. Upload test results to this subtask once completed.,2b3249c9-509b-4800-876f-6be626f2a2d6
+"Confirm appropriate guidelines are in place with regard to threat and vulnerability management in the <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy</a>.",771aaf44-ac79-4d0d-9b6c-1f78d9bbe27c
+Subscribe to industry wide patch and vulnerability updates. For more information and recommended distribution list see Overview and Resources pages.,f2b762dc-59f8-45d8-8224-d3746c8dede6
+Subscribe to industry wide patch and vulnerability updates for up to date information on ongoing cybsecurity and privacy risks as well as general security updates. For more information and recommended distribution list see Overview and Resources pages.,9251a7f1-067a-495d-a1d7-32f1522c2d04
+"Review and rate your application against <a href=""https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"" target=""blank"">OWASP Top 10</a>.",e817c61c-1712-42d9-a6ab-2d728333ca71
+Conduct a static code analysis and upload the latest report. The report is used to surface and address code quality and security issues.,c742af0b-7dde-42c5-a6c4-634d6a5dcde6
+Implement a method to document and track the remediation of all identified Critical and High vulnerabilities ensuring that remediation is completed within the specified timeline (Note: Patch Management procedures should detail the remediation timelines based on criticality). Tracking of remediation should use a ticketing system or other formal documentation such as email.,527ae0ad-4c59-40b1-826e-90112523c199
+"Create a Board of Directors using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>).",661308e4-c159-474c-b5cf-78305a31975e
+Establish a quarterly cadence for the BoD to meet and assign an individual to take meeting minutes,5a046f9b-b902-4e82-90c6-6af1d89039a7
+"Upload the Board of Directors Log as evidence to this task after the first meeting has been recorded. The log can be added via the Add Evidence button and selecting ""Laika Logs"". ",9c1052c8-7407-4a43-ac18-ef2711f79673
+"Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",19f9c478-37aa-43cc-b707-dfa5ee48dde1
+Create an email account on the organization's domain for each member of the Board of Directors.,c12bcc4f-fb10-40e0-9a04-d8cd0d60db54
+"Provide evidence that data in the system needs to be complete and accurate. Please include a process document, diagram, or written description detailing the quality checks in the system and how data is managed. ",4a27194a-b0ca-488e-9487-777cac5323c4
+Upload evidence showing data completeness testing is being performed within the environment prior to release (ie. examples of checks and balance procedures verifying completeness and accuracy of data).,bd42a7cd-0085-4e8f-af9f-5b492003bf31
+"Upload evidence that designated user profiles are aligned with in scope systems. Systems refers to any applications, databases, and servers that are in-scope.",10ee177f-285e-4861-8790-76ac14c7517f
+"Upload evidence of testing or quality assurance procedures which include error handling of the host system. Provide evidence for a sample error handling incident, if applicable.",506ac862-be9f-4cb1-a2a0-905723362589
+"Upload evidence of completeness, accuracy, and timeliness of processing procedures. An example would include a sample piece of evidence and/or data that is in transit moving through the system at various points and confirming its completeness, accuracy, and timeliness of processing throughout.",9e187087-b236-427c-b7b4-7abe97b0662f
+Document that system output from in scope systems is transactional in nature and focused on accuracy. Upload screenshots/data for an example system output confirming transactional accuracy. This should directly correlate back to the data flow/transaction flow diagrams.,c64c0561-73ab-4e27-a5c1-d7554031aff4
+"Implement a process to provide individuals the ability to access their PII / PHI in your system and review, correct, or delete the information. For more information on validating and processing individuals' requests to access their PII / PHI, see the Overview and Resources pages.",f0aee25b-20ac-4b54-8987-25979bb6f7fd
+"Implement a System of Records Notices (SORN), or similar record of processing activities, to maintain a record of processing Personal Information (PI) under the organization's responsibility. ",f79b0d07-a1a5-48cc-a0e1-d0806eac1ac1
+"Develop and implement an external facing intake process that allows for individuals to request: a copy of their personal data to confirm its accuracy, a report on how their personal data is used, and to remove their personal data if desired.",778275bd-5c7a-4be6-8b2c-30a2dd29eff3
+Implement a process to remove information when it is no longer permitted to be retained or when an individual requests deletion.,f07f8e02-953f-44e7-877d-d9edc315c688
+"Develop and document an Emergency Access Procedure, <a href=""https://app.heylaika.com/documents"" target=""blank"">Emergency Access Procedure</a>, for the accessing of ePHI during a patient emergency that includes revoking access after a pre-determined period of time.",4bf420da-0e5f-4332-992c-9c29522f6f93
+"Implement a mechanism to export Personal Information (PI) in a structured, commonly used and machine-readable format that allows the data subject to transmit the data to another controller without hindrance.",90d9f99e-6087-4101-9e60-7f427ac2a8aa
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Privacy Notice Policy</a>.",af74a33c-4350-4dc4-acd6-da28da554c4e
+"Document the purpose(s) for which Personal Information (PI) is collected, used, maintained and shared in the Privacy Notice Policy.",6afb05d6-880f-49aa-9d66-38152c65af90
+"Publish the completed <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Privacy Notice Policy</a> to your organization's website / anywhere data is collected.",399edce5-7c9c-4313-851d-b46f384fbedf
+"Create a Privacy Committee using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>). Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",ee66bed2-26fb-4b72-afa4-6420a4b55124
+Establish a quarterly cadence for the Privacy Committee to meet and assign an individual to take meeting minutes.,561a6e44-7ebc-4a2a-af2c-1e7e79640b7f
+"Upload the Privacy Committee Log as evidence to this task after the first meeting has been recorded. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",6200f19d-829d-4c44-bea8-1010e6caeb85
+Conduct a Data Protection Impact Assessement through the Privacy Committee.,ee103aab-a34f-45f6-96fe-a9edf2326ad6
+"Review and sign off on your organization's <a href=""https://app.heylaika.com/policies"" target=""blank""> EU Data Compliance policy</a>.",8816abd1-a4e1-4bad-a38b-a9750eddcdf7
+"Appoint a Data Protection Officer with responsiblities defined in the <a href=""https://app.heylaika.com/policies"" target=""blank"">EU Data Compliance policy</a> ",829de06f-e665-4bbb-a5ec-aed950ec1328
+Implement processes to ensure that only the minimum amount of data or information is collect from external sources and is only used for authorized purposes.,d6a91e4d-ea12-4d01-a8ca-b3ac1a6018bd
+"Where possible, implement mechanisms to generate pairwise pseudonymous identifiers with no identifying information about a subscriber to discourage activity tracking and profiling of the subscriber.",6341e986-4767-450d-8029-aa032f5f4252
+"Create a Data Management Board charter/roster headed by a Chief Privacy Officer using (<a href=""https://app.heylaika.com/organization?activeTab=teams"" target=""blank"">Laika Teams</a>).",6495b939-6812-4627-9e89-990926d158f8
+"Implement processes to confirm the accuracy and relevance of Personal Information (PI), as data is obtained and used across the information lifecycle.",6b8d50ac-68f0-45fc-95ff-ecc7dd161142
+"Upload evidence of consent requirements, including language around the rights surrounding individuals privacy legislation (e.g. right to be forgotten).",a66c995f-6249-4c4d-986f-a51cd53d26f5
+Upload evidence showing (a) the type of data that is being collected and (b) how that data will be used prior to granting access to the system. This information should be collected at sign up or retroactively (eg. Pop-up).,62977caf-9011-445a-b822-abc9ba52bca7
+"Implement an internal process to demonstrate that all services provided are equal, whether or not a person has exercised their privacy right. Processes should include language around no retaliation when/if a user elects to exercise their privacy rights.",298899a2-4bee-4fef-ab7d-cab2fdf6378d
+"Implement a manual and/or automated process for data management. The process should include:
+1) The ability to modify and delete records retroactively
+2) Reflection of the current data set on collection
+3) Creation, use, dissemination, retention, maintenance, and disclosure of data.",2fdb5eb5-2801-4954-961e-d04f211acf63
+"Upload evidence demonstrating that data can only be used if authorized by the subject. This includes, but is not limited to, strong role based access controls and limited authorized users based on job responsibility. All changes to authorization must be documented.",6bcb39a2-60cc-4bbc-87c3-4429bc9e9e0f
+Upload evidence for an example change to data preferences.,cba4cd2c-857a-4266-bdc8-7a7e51f02838
+"Ensure work force members understand the organization's mission, objectives, stakeholders and activities, especially as it relates to privacy through documentation and dissemination through Wiki, confluence, intranet, or Laika portal.",df2771e0-1cac-4351-880f-451243cdf137
+Upload evidence of the organization's role as a controller or processor of the company's sensitive data. This may include documentation of different roles depending on various business activities.,59be3961-ae40-4de5-9a8b-46c50a7dc80a
+"Ensure all applications, services, and systems are up to date and are able to sufficiently protect user data as required by the privacy regulation.",d2872731-381e-4b96-96c3-5293f66093f0
+Upload evidence of the incident response plan. Ensure that the plan outlines appropriate steps to identify and respond to potential privacy concerns as highly critical incidents.,e104e186-df98-4890-9316-f778a9a45700
+"Ensure to include privacy issues in the risk register and is considered during the risk assessment process. Privacy risks should be appropriately identified, categorized, and prioritized throughout the risk process.",154eb1d5-c918-42d3-b50e-6cf6a93a9753
+"Implement and upload the Data Subject Access Request (DSAR). Be sure to include the data access requests form that you use to gather access from users, as well as the data subject disclosure form.",fbab08f7-288d-43ae-9b9a-88319ac0f315
+"Include a privacy-driven training course that is provided upon hire and at least annually thereafter. Within the training, there should be specifics around what privacy regulations the firm is specifically subject to, the intentions behind those regulations, and any penalties for non compliance.",77ab7e0d-446e-4d8d-b6cf-c1da98950368
+Create and define a discipline process to address non compliance with the organizations' privacy policies and processes.,a4662d82-b6a8-4ed5-b0ab-ffc227456d69
+"Have the new new employee acknowledge your organization's Employee Handbook. Laika can add this to your organization's <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>.",46e238ac-445b-4cae-9fe2-0f12e3b5ea5f
+"Conduct a background check. For more information and a list of recommended vendors, see How-to Guide.",e8e20bbf-dcdf-4cf8-a0c1-cfa2d092586d
+"Have the new employee complete required compliance training. Direct employees to Laika's <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a>.",cab38cc1-c912-4268-b07f-7d93d1191ab2
+"Conduct background checks for the contractors if they are in a critical function (for example, if they have access to customer data).",8795d013-2417-477a-907a-e260bddf5c8d
+"Complete the <a href=""https://app.heylaika.com/documents"" target=""blank"">Contractor Onboarding Checklist</a> for the contractors if they are in a critical function.",0ea54349-91f8-4f0f-b4ae-8317c4190ebc
+"Complete an <a href=""https://app.heylaika.com/documents"" target=""blank"">employee offboarding checklist</a>.",e4c54c08-eabc-4c9f-a624-80bc36f154ff
+Upload a screenshot of a terminated user's access being disabled,c0259934-3f74-4607-a36a-fb7c80873572
+"Add the new vendor to your organization's <a href=""https://app.heylaika.com/vendors"" target=""blank"">Vendor List</a> and complete the fields listed under the ""Assessments"" tab.",f591895a-0e8e-4ca2-9819-ae86f6ed03c0
+"Document business justification rationale, risk details, and vendor status for each vendor by filling in the appropriate fields on the (<a href=""https://app.heylaika.com/vendors"" target=""blank"">Laika Vendor Module</a>).",18562077-5f90-4f58-808b-515c9f637f15
+"Upload evidence of how data is securely disposed of (e.g. Secure Wipe program, proof of database overwrite/purge, etc.). For more information and a list of recommended vendors, see How-to Guide.",4a4afb39-65b3-4420-a29b-f51220a3d15a
+Enable Multi-factor authentication if it is available on the new system.,94f1259b-2c70-457c-8e6f-6515d7eb7b10
+"Enforce strong passwords. Refer to <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy, Section 5.4 ""Password Policy""</a>.",63244f12-2854-4661-909b-95b5098b58e7
+"Ensure that changes to production or release management procedure includes, proof of filing the ticket, QA or testing of change and approval of change. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Change Management Procedure template available</a>).",8aab0b5b-7953-41ec-9c16-2bb10f0c4e18
+Ensure that at least 6 months history of your organization's static code analysis reports are being retained.,c742af0b-7dde-42c5-a6c4-634d6a5dcde6
+"Upload your organization's latest vulnerability scanning report. Retain 6 months of vulnerability scanning data. (<a href=""https://app.heylaika.com/documents"" target=""blank"">Vulnerability Scanning Procedure Template available</a>).",d66fbf2d-9459-4f10-8e38-f35ccc4f55c6
+"Remediate any issues found during the latest vulnerability scan or third-party penetration test. Specifically items ranked 'critical' or 'high'. Refer to <a href=""https://app.heylaika.com/policies-beta"" target=""blank"">Information Security Policy, Section 7 ""Vulnerability and Patch Management""</a>.",527ae0ad-4c59-40b1-826e-90112523c199
+Ensure that your organization's incident alert system is notifying your team every time an alert is triggered. Set up an incident alert system to monitor production app environment for software or systems operated by your organization.,435c1c02-0f9f-432e-af23-093251dd5736
+Ensure tools for monitoring & logging user activity and suspicious behavior are active within your organization's environment,1abcfbbe-504b-4967-b6f0-bc33b98348d2
+Upload a screenshot of a sample audit log generated by the implemented monitoring and logging tool.,74a1fdf3-371e-45aa-bee1-c3483e28bce6
+Upload your organization's incident reports from the past 6 months.,c2d7daf3-6fc3-4352-a0d7-76d1e1bb39ae
+"Hold a Privacy Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization/teams"" target=""blank"">here</a>.",ee66bed2-26fb-4b72-afa4-6420a4b55124
+"Hold a Risk Committee meeting. Assign an individual to take meeting minutes <a href=""https://app.heylaika.com/organization/teams"" target=""blank"">here</a>.",0f8fc0f5-eae8-42e9-b8a2-7c2d29067c48
+"Review access for every system in the environment using the <a href=""https://app.heylaika.com/documents"" target=""blank"">Access Rights Review Template</a>. For guidance, please see the <a href=""https://app.heylaika.com/documents"" target=""blank"">Access Rights User Accounts Review Procedure</a>.",474fe1af-9eae-402e-bb46-e32d8c4fa03d
+Monitoring and/or audit logs should be reviewed on a quarterly basis. Any discrepancies should be investigated and remediated. Please provide evidence of reviews and any major alerts and remediations.,b7d1341b-f3cd-4a0f-8c6c-3e0af10ac7db
+Acquire the latest SOC 2 report from all of your organization's critical suppliers and/or conduct an assessment of all critical suppliers.,84ff9b7d-2735-430f-ac62-f7d2f540bdab
+"Conduct a Business Continuity Plan (BCP) Test (<a href=""https://app.heylaika.com/documents"" target=""blank"">Business Continuity Plan Test</a>). The Test assesses the adequacy of your organization's BCPDR Plan in simulated disaster situations.",14929598-1a89-40de-9788-c5f2f1fe34f4
+"Perform an <a href=""https://app.heylaika.com/documents"" target=""blank"">Incident Response Test</a>. For more information and recommendations, see <a href=""https://laika-static-documents.s3.amazonaws.com/How-to+Guides/Completed/Prepare+for+an+Incident.pdf"" target=""blank"">How-to Guide</a> for qualified incident response tests, including Tabletop Exercises.",eb475545-e2d5-4437-9a80-0aed775c20a7
+Conduct a Risk Assessment and continue to monitor risk health.,9eba9cd2-2235-4e4d-9dde-e92f7f2dcbcc
+"Conduct Secure Coding Training for all engineers. Direct employees to Laika <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a> for the training.",5d446c19-4cae-46d9-9b33-cc768137d7e2
+"Conduct Security Awareness and Incident Response Training for all employees. Direct employees to Laika <a href=""https://app.heylaika.com/training"" target=""blank"">Training</a> for the training.",68ff990d-eee1-41b4-bd86-eb272375a937
+"Conduct a third-party penetration test. For more information, please refer to the <a href=""https://app.heylaika.com/documents"" target=""blank"">Penetration Testing Procedure Template</a>.",3fa9d3ad-0acf-4bf6-be44-fc2d658c9113
+"Review your organization's policies. Update and approve changes as necessary. For more information, please refer to the <a href=""https://app.heylaika.com/documents"" target=""blank""> Policies and Procedures Review Procedure Template </a>.",65fa611f-53ed-4309-909b-c3a372ac2d06
+Provide evidence of annual performance evaluations of employees to ensure that job requirements are being met and employees are being adequately assessed based on their responsibilities.,7f2dfb94-e69e-4f03-9c04-e9123d5d8c82
+Provide evidence of annual review of organization charts to ensure that changes in company structure or additions to the team are documented.,71e0d76c-ce7e-425e-b953-fd8d5c7353fc
+Provide evidence that risks identified during the annual risk assessment have been adequately executed or mitigated as necessary. Any risks that have been chosen not to be remediated should have clear reasoning.,f5f7cf56-d87f-4164-bb71-307459c28369
+"Create a Board of Directors using (<a href=""https://app.heylaika.com/organization/teams"" target=""blank"">Laika Teams</a>).",661308e4-c159-474c-b5cf-78305a31975e
+Establish a quarterly cadence for the BoD to meet and assign an individual to take meeting minutes,5a046f9b-b902-4e82-90c6-6af1d89039a7
+"Upload the Board of Directors Log as evidence to this task after the first meeting has been recorded. The log can be added via the Add Evidence button and selecting ""Laika Logs"".",9c1052c8-7407-4a43-ac18-ef2711f79673
+"Review the charter provided, record the team members' information responsible for carrying out the team's duties, and record meeting minutes/notes as the team meets.",19f9c478-37aa-43cc-b707-dfa5ee48dde1

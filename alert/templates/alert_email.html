@@ -1,0 +1,159 @@
+{% load alert_dates %}
+{% load alert_mentions %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <style>
+      @media all {
+        /* region: GLOBAL START */
+        html,
+        body, p {
+            margin: 0;
+            padding: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <table
+      align="center"
+      style="background-color: #ffffff;border-collapse: separate;max-width: 600px;border: none;"
+    >
+      <tbody>
+        <tr>
+          <td
+            colspan="3"
+            class="hero"
+            style="border: none;font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;padding-top: 24px;padding-bottom: 24px;text-align: center;"
+          >
+            <img
+              src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-header.png"
+              style="width: 95px;max-width: 95px;height: auto;display: block;margin: 0 auto;"
+            />
+          </td>
+        </tr>
+        <tr>
+        <tr>
+          <td
+            colspan="3"
+            class="hero"
+          >
+          <img
+            src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/new-alerts-banner.png"
+            style="width: 100%;"
+          />
+          </td>
+        </tr>
+
+        {% for alert in alerts %}
+        <tr>
+          <td
+            colspan="3"
+            class="hero"
+            style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 14px;color: #232735;padding: 24px 20px 12px 20px;width: 600px;margin: 0 auto;"
+          >
+            <p
+              style="margin: 0 0 1rem 0; padding: 18px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: justify;"
+            >
+              <span style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;color: #232735;font-weight: bold;">{{ alert.sender_name }}</span> {{ alert.alert_action }}
+              <br />
+            </p>
+           <div style="display: flex;margin: 0;background: #F7F7F7;padding: 2rem 3rem;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: justify;">
+            <div style="display: flex;position: relative;height: fit-content;width: fit-content;align-items: center;box-sizing: border-box;cursor: pointer;margin-right: .5rem">
+              <img
+                src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/avatar-icon.png"
+                style="width: 30px;height: auto;display: block;margin: 0 auto;"
+              />
+            </div>
+            <div style="background-color: #FFF;border: 1px solid #DDDAE0;border-radius: 4px;padding: .5rem 1.3rem 1rem 1.3rem;;width: 400px">
+              <div style="display: flex;">
+                <p style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: justify;font-weight: bold;color:#232735;width: 70%">{{ alert.message_owner }}</p>
+                <p style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;line-height: 24px;text-align: justify;font-weight: 400;color:#5D637A;text-align: right;width: 30%;">{{ alert.created_at|timesince|humanize_date }} ago</p>
+              </div>
+              <div class=comment-body>
+                  <p style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: left;margin-top: .5rem;">
+                  {{ alert.content|highlight_mentions }}
+                  </p>
+              </div>
+            </div>
+          </div>
+          <div style="display: flex;margin-top: .8rem;padding-bottom: 27px;border-bottom: 1px solid #EFECEF;">
+            <img
+                src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/playbook-icon.png"
+                style="width: 20px;height: 20px;display: block;margin-right: 15px;"
+              />
+            <p
+              style="margin: 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 14px;line-height: 24px;text-align: left;"
+            >
+              In {{ alert.page_section }} <span style="font-weight: bold;">{{ alert.entity_name }}</span>
+            </p>
+          </div>
+          </td>
+        </tr>
+        {% endfor %}
+
+        <tr>
+          <td
+            class="contents"
+            style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;text-align: center;padding-top:3rem;"
+          >
+          {% if additional_alerts %}
+          <p
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;padding-bottom:1rem;"
+          >{{ additional_alerts }} additional Alerts available.</p>
+          {% endif %}
+          <a href={{ call_to_action_url }} target="_blank" rel="noopener noreferrer">
+            <button
+              style="background: #4C3068;
+                height: 40px;
+                width: 237px;
+                color: #FFFFFF;
+                font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 12px;
+                line-height: 16px;
+                font-weight: bold;
+                border: none;
+                border-radius: 2px;
+                cursor: pointer;" >
+                VIEW COMMENTS
+            </button>
+            </a>
+            <p
+              class="footer"
+              style="margin: 0;padding: 40px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: center;"
+            >
+              <img
+                src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-footer.png"
+                style="width: 78px;max-width: 78px;height: auto;"
+              />
+            </p>
+            <div
+              style="margin: 1.5rem 0 3rem 0;color: #9d92a8;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;line-height: 20px;text-align: center;"
+            >
+              <p>Copyright ©{% now 'Y' %} Laika Inc.</p>
+              <p>Want to unsubscribe or change how often you receive these emails?</p>
+              <a
+                href="#"
+                style="color: #7AACDE;text-decoration:underline;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;line-height: 20px;text-align: center;"
+              >
+                Update Your Email Preferences
+              </a>
+            </div>
+            
+          </td>
+          <td
+            class="spacer"
+            style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;width: 12px;"
+          >
+            &nbsp;
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

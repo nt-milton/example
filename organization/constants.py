@@ -1,0 +1,85 @@
+from laika.settings import DJANGO_SETTINGS
+
+TIERS = {'PREMIUM': 'PREMIUM', 'STARTER': 'STARTER', 'TEASER': 'TEASER'}
+
+STATES = {'ONBOARDING': 'ONBOARDING', 'ACTIVE': 'ACTIVE'}
+
+FILTER_ATTRIBUTES_TYPE = {
+    'TEXT': 'TEXT',
+    'NUMBER': 'NUMBER',
+    'DATE': 'DATE',
+    'USER': 'USER',
+    'BOOLEAN': 'BOOLEAN',
+    'SINGLE_SELECT': 'SINGLE_SELECT',
+    'JSON': 'JSON',
+}
+
+TEXT, NUMBER, DATE, USER, BOOLEAN, SINGLE_SELECT, JSON = FILTER_ATTRIBUTES_TYPE.values()
+
+EXPIRATION_PERIOD = 30
+
+
+ACTIVE_STATE = 'ACTIVE'
+COMPLETED_STATE = 'COMPLETED'
+
+DATE_TIME_FORMAT = "%m/%d/%Y, %H:%M:%S"
+
+US_EASTERN_TZ = 'US/Eastern'
+
+DEFAULT_PAGE = 1
+DEFAULT_PAGE_SIZE = 20
+
+customer_success_manager_user = 'customer_success_manager_user'
+compliance_architect_user = 'compliance_architect_user'
+contract_sign_date = 'contract_sign_date'
+
+ACTION_ITEM_OFFBOARDING = 'Offboarding'
+
+UPLOAD_ACTION_NEW_ORG = 'Org Creation (Default Content)'
+CONTENT_DESCRIPTION_NEW_ORG = (
+    'Default content for all new organizations, '
+    'including team charters, objects, offboarding'
+    ' checklist, and trainings.'
+)
+HISTORY_STATUS_IN_PROGRESS = 'In Progress'
+HISTORY_STATUS_SUCCESS = 'Successful'
+HISTORY_STATUS_FAILED = 'Failed'
+
+
+DEFAULT_API_TOKEN_USAGE_TYPE = 'INTEGRATION'
+API_TOKEN_USAGE_TYPE = [
+    ('INTEGRATION', 'INTEGRATION'),
+    ('EXCEL', 'EXCEL'),  # Used to authenticate for Excel plugin users.
+]
+
+# Onboarding states:
+# QUESTIONNAIRE -> Step 1
+# ARCHITECT_MEETING -> Step 2
+# AUTOMATE_COMPLIANCE -> Step 3
+QUESTIONNAIRE_LABEL = 'Questionnaire'
+ARCHITECT_MEETING_LABEL = 'Architect Meeting'
+AUTOMATE_COMPLIANCE_LABEL = 'Automate Compliance'
+WAITING_LABEL = 'Waiting'
+QUESTIONNAIRE = 'QUESTIONNAIRE'
+ARCHITECT_MEETING = 'ARCHITECT_MEETING'
+AUTOMATE_COMPLIANCE = 'AUTOMATE_COMPLIANCE'
+WAITING = 'WAITING'
+ONBOARDING_READY = 'READY'
+ONBOARDING_V2_STATE = (
+    (QUESTIONNAIRE, QUESTIONNAIRE_LABEL),
+    (ARCHITECT_MEETING, ARCHITECT_MEETING_LABEL),
+    (AUTOMATE_COMPLIANCE, AUTOMATE_COMPLIANCE_LABEL),
+    (WAITING, WAITING_LABEL),
+)
+
+AIRTABLE_API_KEY = DJANGO_SETTINGS.get('TDDQ_AIRTABLE_API_KEY')
+TDDQ_BASE_ID = DJANGO_SETTINGS.get('TDDQ_BASE_ID')
+TDDQ_RESPONSES_TABLE = 'TDDQ Responses'
+TDDQ_METADATA_TABLE = 'Metadata'
+TDDQ_STRUCTURED_TABLE = 'TDDQ Structured Responses'
+
+ORG_ID = 'Organization ID'
+ORG_NAME = 'Organization Name'
+QUESTION = 'Question'
+QUESTION_RESPONSE = 'Question Response'
+FIELDS = 'fields'

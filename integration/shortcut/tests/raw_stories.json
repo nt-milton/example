@@ -1,0 +1,95 @@
+
+   {
+      "next": null,
+      "data":[
+         {
+            "app_url":"https://app.shortcut.com/laika-test/story/31",
+            "description":"Web App is the best",
+            "archived":false,
+            "started":true,
+            "story_links":[
+
+            ],
+            "entity_type":"story",
+            "labels":[
+
+            ],
+            "external_tickets":[
+
+            ],
+            "mention_ids":[
+
+            ],
+            "member_mention_ids":[
+
+            ],
+            "story_type":"feature",
+            "linked_files":[
+
+            ],
+            "completed_at_override":"None",
+            "started_at":"2021-01-04T14:37:43Z",
+            "completed_at":"None",
+            "name":"Story for web-app",
+            "completed":false,
+            "comments":[
+
+            ],
+            "blocker":false,
+            "branches":[
+
+            ],
+            "epic_id":15,
+            "external_links":[
+
+            ],
+            "previous_iteration_ids":[
+
+            ],
+            "requested_by_id":"5fe0fbb3-88b9-408e-b601-de8890cdddcd",
+            "iteration_id":16,
+            "tasks":[
+
+            ],
+            "started_at_override":"None",
+            "group_id":"None",
+            "workflow_id":"123",
+            "workflow_state_id":500000006,
+            "updated_at":"2021-01-04T14:37:43Z",
+            "pull_requests":[
+
+            ],
+            "group_mention_ids":[
+
+            ],
+            "support_tickets":[
+
+            ],
+            "follower_ids":[
+               "5fe0fbb3-88b9-408e-b601-de8890cdddcd"
+            ],
+            "owner_ids":[
+               "5fe0fbb3-88b9-408e-b601-de8890cdddcd"
+            ],
+            "external_id":"None",
+            "id":31,
+            "estimate":"None",
+            "commits":[
+
+            ],
+            "files":[
+
+            ],
+            "position":22147647488,
+            "blocked":false,
+            "project_id":4,
+            "deadline":"None",
+            "stats":{
+               "num_related_documents":0
+            },
+            "created_at":"2021-01-04T13:31:46Z",
+            "moved_at":"2021-01-04T14:37:43Z"
+         }
+      ],
+      "total":3
+   }

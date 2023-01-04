@@ -1,0 +1,32 @@
+{
+    "value": [
+        {
+            "properties": {
+                "roleName": "Reader",
+                "type": "BuiltInRole",
+                "description": "acr push",
+                "assignableScopes": [
+                    "/"
+                ],
+                "permissions": [
+                    {
+                        "actions": [
+                            "Microsoft.ContainerRegistry/registries/pull/read",
+                            "Microsoft.ContainerRegistry/registries/push/write"
+                        ],
+                        "notActions": [],
+                        "dataActions": [],
+                        "notDataActions": []
+                    }
+                ],
+                "createdOn": "2018-10-29T17:52:32.5201177Z",
+                "updatedOn": "2018-11-13T23:26:19.9749249Z",
+                "createdBy": null,
+                "updatedBy": null
+            },
+            "id": "/subscriptions/TEST-SUBSCRIPTION/providers/Microsoft.Authorization/roleDefinitions/8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
+            "type": "Microsoft.Authorization/roleDefinitions",
+            "name": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+        }
+    ]
+}

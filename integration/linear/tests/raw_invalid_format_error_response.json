@@ -1,0 +1,18 @@
+{
+                "errors": [
+                    {
+                        "message": "Syntax Error: Invalid number, expected digit but got: \"a\".",
+                        "locations": [
+                            {
+                                "line": 4,
+                                "column": 48
+                            }
+                        ],
+                        "extensions": {
+                            "code": "GRAPHQL_PARSE_FAILED",
+                            "type": "graphql error",
+                            "userError": true
+                        }
+                    }
+                ]
+}

@@ -1,0 +1,7 @@
+{
+	"scope": "api read_user read_api read_repository sudo",
+	"created_at": 0,
+	"token_type": "Bearer",
+	"access_token": "_",
+	"refresh_token": "_"
+}

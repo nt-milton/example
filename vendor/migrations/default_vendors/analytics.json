@@ -1,0 +1,3639 @@
+{
+  "id": 1997,
+  "name": "Analytics",
+  "vendors": [
+    {
+      "id": 292,
+      "name": "MailChimp",
+      "description": "Email marketing, ads, landing pages, and CRM tools to grow your business on your terms. Get the word out with email, social ads, and make your life easier with automation. It's easy, and you can start for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mailchimp.com",
+      "website": "mailchimp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mailchimp.com/legal/privacy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mailchimp.com/help/about-mailchimp-the-eu-swiss-privacy-shield-and-the-gdpr/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://mailchimp.com/about/security/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://mailchimp.com/legal/privacy/" }
+      ],
+      "categories": [
+        { "id": 2038, "name": "Email" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Cloudflare",
+      "description": "Cloudflare, Inc. is an American web infrastructure and website security company, providing content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudflare.com",
+      "website": "cloudflare.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.cloudflare.com/compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cloudflare.com/gdpr/introduction/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.cloudflare.com/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudflare.com/privacyshield/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudflare.com/privacyshield/"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2322, "name": "Ad Server" }
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Hotjar",
+      "description": "See how visitors are really using your website, collect user feedback and turn more visitors into customers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hotjar.com",
+      "website": "hotjar.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.hotjar.com/legal/policies/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 626,
+      "name": "SimilarWeb",
+      "description": "Grow your market share and website traffic with SimilarWeb's digital market intelligence platform. Compare any website traffic statistics & analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/similarweb.com",
+      "website": "similarweb.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "ZoomInfo",
+      "description": "ZoomInfo is a subscription-based software as a service company based in Waltham, Massachusetts that sells access to its database of information about business people and companies to sales, marketing and recruiting professionals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zoominfo.com",
+      "website": "zoominfo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.zoominfo.com/business/about-zoominfo/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.zoominfo.com/business/about-zoominfo/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.zoominfo.com/business/about-zoominfo/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 2198, "name": "Content" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 281,
+      "name": "SEMrush",
+      "description": "SEMrush offers solutions for SEO, PPC, content, social media and competitive research. Trusted by over 3,000,000 marketers worldwide",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/semrush.com",
+      "website": "semrush.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.semrush.com/company/legal/data-processing-agreement/"
+        }
+      ],
+      "categories": [
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1959, "name": "Semantic Search" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Wistia",
+      "description": "Wistia Inc. is a video-software company located in Cambridge, Massachusetts.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wistia.com",
+      "website": "wistia.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://wistia.com/privacy" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://wistia.com/support/account/gdpr"
+        },
+        { "protocolId": 2, "sourceUrl": "https://wistia.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1966, "name": "Video Streaming" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1824, "name": "Video" }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Tailwind",
+      "description": "Save time scheduling to Pinterest and Instagram, post at the best times for engagement, grow together with Tribes, get more actionable analytics. Start free!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tailwindapp.com",
+      "website": "tailwindapp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1903, "name": "Social Bookmarking" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 764,
+      "name": "SendGrid",
+      "description": "SendGrid is a Denver, Colorado-based customer communication platform for transactional and marketing email.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sendgrid.com",
+      "website": "sendgrid.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://sendgrid.com/policies/security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://sendgrid.com/policies/security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://sendgrid.com/resource/general-data-protection-regulation-2/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://sendgrid.com/policies/privacy/website-privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://sendgrid.com/policies/privacy/services-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2170, "name": "Business Information Systems" }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Datadog",
+      "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/datadoghq.com",
+      "website": "datadoghq.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.datadoghq.com/legal/privacy/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.datadoghq.com/security/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.datadoghq.com/security/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.datadoghq.com/security/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.datadoghq.com/security/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 957,
+      "name": "Siteimprove",
+      "description": "One suite for improving your website through SEO, Analytics, Accessibility, Data Privacy, and Content Quality. Receive a thorough prioritized list of optimization tasks, and expert recommendations",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/siteimprove.com",
+      "website": "siteimprove.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Serpstat",
+      "description": "Smart and powerful tool for ✓ Backlinks Analysis ✓ Rank Tracking ✓ Keyword Research ✓ Competitor Analysis ✓ Site Audit.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/serpstat.com",
+      "website": "serpstat.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "PitchBook",
+      "description": "PitchBook Data, Inc. is a SaaS company that delivers data, research and technology covering the private capital markets, including venture capital, private equity and M&A transactions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pitchbook.com",
+      "website": "pitchbook.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1972, "name": "Finance" },
+        { "id": 1964, "name": "Venture Capital" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Looker",
+      "description": "Looker is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/looker.com",
+      "website": "looker.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://looker.com/product/security" },
+        { "protocolId": 1, "sourceUrl": "https://looker.com/product/security" },
+        { "protocolId": 2, "sourceUrl": "https://looker.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://looker.com/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://looker.com/product/security" },
+        { "protocolId": 9, "sourceUrl": "https://looker.com/product/security" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://looker.com/product/security"
+        },
+        { "protocolId": 12, "sourceUrl": "https://looker.com/product/security" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Dataquest",
+      "description": "Get the skills you need to become a data scientist, data analyst, or data engineer. Learn Python, R, SQL, Pandas & NumPy, Data Visualization, Data Cleaning and Analysis. Start learning now – 60 free missions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dataquest.io",
+      "website": "dataquest.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2227, "name": "EdTech" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 598,
+      "name": "Socialbakers",
+      "description": "Socialbakers is a global AI-powered social media marketing company offering a marketing software-as-a-service platform called the Socialbakers Suite.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/socialbakers.com",
+      "website": "socialbakers.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 1139,
+      "name": "Sentry",
+      "description": "Open-source error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost workflow efficiency. Improve user experience.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sentry.io",
+      "website": "sentry.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you"
+        },
+        { "protocolId": 2, "sourceUrl": "https://sentry.io/security/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2309, "name": "Web Apps" }
+      ]
+    },
+    {
+      "id": 1050,
+      "name": "Sprinklr",
+      "description": "SMMS: Social media management software for the enterprise. Sprinklr provides enterprise social media marketing and management software including social engagement, social advertising, advocacy marketing, influencer marketing, and customer care through ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sprinklr.com",
+      "website": "sprinklr.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.sprinklr.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.sprinklr.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.sprinklr.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1816, "name": "Social CRM" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Periscope Data",
+      "description": "Periscope Data brings all your data together in a single platform and delivers SQL, Python, and R in one solution. Easily warehouse, analyze, visualize and share data from across your business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/periscopedata.com",
+      "website": "periscopedata.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.periscopedata.com/security"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.periscopedata.com/security"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.periscopedata.com/gdpr" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.periscopedata.com/security"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.periscopedata.com/security"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.periscopedata.com/security"
+        }
+      ],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2295, "name": "Data Storage" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1822, "name": "Cloud Data Services" }
+      ]
+    },
+    {
+      "id": 978,
+      "name": "Vidyard",
+      "description": "Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vidyard.com",
+      "website": "vidyard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1824, "name": "Video" }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Databricks",
+      "description": "Databricks provides a Unified Analytics Platform that accelerates innovation by unifying data science, engineering and business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/databricks.com",
+      "website": "databricks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://databricks.com/privacypolicy"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://databricks.com/privacypolicy"
+        },
+        { "protocolId": 2, "sourceUrl": "https://databricks.com/privacypolicy" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Mode",
+      "description": "Mode is a data analysis platform that combines a powerful, web-based SQL editor with charting and sharing tools. Connect your database and run, save, and share analyses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mode.com",
+      "website": "mode.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://mode.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://mode.com/privacy/" },
+        { "protocolId": 11, "sourceUrl": "https://mode.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://mode.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "FullStory",
+      "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fullstory.com",
+      "website": "fullstory.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Sumo Logic",
+      "description": "Sumo Logic is a cloud-based machine data analytics company focusing on security, operations and BI usecases.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sumologic.com",
+      "website": "sumologic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sumologic.com/press-release/gdpr-netskope/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sumologic.com/privacy-statement/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.sumologic.com/press-release/sumo-logic-announces-successful-hipaa-examination/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sumologic.com/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 1114,
+      "name": "YCharts",
+      "description": "Enabling smarter investment decisions. Email: hello@ycharts.com",
+      "isClaimed": true,
+      "logo": "https://logo.clearbit.com/ycharts.com",
+      "website": "ycharts.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1972, "name": "Finance" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2071, "name": "Stock Exchanges" }
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Klipfolio",
+      "description": "Klipfolio Inc., is a Canadian software company founded in 2001 and headquartered in Ottawa, Ontario.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/klipfolio.com",
+      "website": "klipfolio.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Seismic",
+      "description": "Seismic is the leading B2B sales enablement and marketing enablement software that lets teams find the right sales content and optimize the sales process.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/seismic.com",
+      "website": "seismic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://seismic.com/savo-privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://seismic.com/savo-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 652,
+      "name": "Mixpanel",
+      "description": "Mixpanel is a business analytics service company. Its toolset contains in-app A/B tests and user survey forms.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mixpanel.com",
+      "website": "mixpanel.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mixpanel.com/legal/gdpr-faq/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mixpanel.com/legal/privacy-shield-frameworks/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mixpanel.com/legal/privacy-shield-frameworks/"
+        }
+      ],
+      "categories": [
+        { "id": 1975, "name": "Web Browsers" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Lead Forensics",
+      "description": "Lead Forensics is B2B software for turbo-charged lead generation. Identify B2B sales leads you never knew you had.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leadforensics.com",
+      "website": "leadforensics.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.leadforensics.com/how-lead-forensics-complies-with-gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1861, "name": "Developer Tools" }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Leanplum",
+      "description": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a single mobile marketing platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leanplum.com",
+      "website": "leanplum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2219, "name": "Intelligent Systems" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Tealium",
+      "description": "Tealium is a US American company founded in 2008 in San Diego, California that sells enterprise tag management system and marketing software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tealium.com",
+      "website": "tealium.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://tealium.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://tealium.com/privacy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://tealium.com/privacy/" },
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Chartbeat",
+      "description": "Improve audience engagement, inform editorial decisions, and increase readership. Chartbeat delivers real-time analytics, content intelligence, and transformative newsroom tools for digital media and publishing companies around the world.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chartbeat.com",
+      "website": "chartbeat.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Segment",
+      "description": "Segment is the single platform that collects, translates, and routes your user data to hundreds of analytics & marketing tools with the flip of a switch.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/segment.com",
+      "website": "segment.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://segment.com/security/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://segment.com/docs/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://segment.com/docs/legal/privacy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://segment.com/security/" },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://segment.com/industry/enterprise/"
+        }
+      ],
+      "categories": [
+        { "id": 1991, "name": "Infrastructure" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 921,
+      "name": "SparkPost",
+      "description": "The world’s first predictive email intelligence platform, helping brands predict and optimize email performance  with unprecedented data visibility.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sparkpost.com",
+      "website": "sparkpost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sparkpost.com/policies/privacy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.sparkpost.com/policies/security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sparkpost.com/policies/privacy/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.sparkpost.com/policies/dpa/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sparkpost.com/policies/dpa/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 2170, "name": "Business Information Systems" }
+      ]
+    },
+    {
+      "id": 608,
+      "name": "InsightSquared",
+      "description": "Use data from across your business to optimize revenue operations and achieve predictable growth with InsightSquared’s AI-powered revenue intelligence software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/insightsquared.com",
+      "website": "insightsquared.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Talkwalker",
+      "description": "Talkwalker is an incredibly powerful social media analytics tool & social media monitoring tool recommended by brands and agencies worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkwalker.com",
+      "website": "talkwalker.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.talkwalker.com/legal" }
+      ],
+      "categories": [
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1915, "name": "Text Analytics" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2178, "name": "Reputation" },
+        { "id": 2208, "name": "Social Media Marketing" }
+      ]
+    },
+    {
+      "id": 1034,
+      "name": "ChannelAdvisor",
+      "description": "ChannelAdvisor Corp. is an e-commerce company based in Morrisville, North Carolina.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/channeladvisor.com",
+      "website": "channeladvisor.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.channeladvisor.com/terms/dpa/"
+        }
+      ],
+      "categories": [
+        { "id": 2340, "name": "Marketplace" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2102, "name": "Search Engine" }
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Geckoboard",
+      "description": "Use Geckoboard to build clear, effective data dashboards for your business that keep teams informed, motivated and aligned around your KPIs. Try for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/geckoboard.com",
+      "website": "geckoboard.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.geckoboard.com/hc/en-us/articles/360004169231-EU-data-protection"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.geckoboard.com/hc/en-us/articles/360000450092-How-we-prepared-for-GDPR"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2104, "name": "Data Integration" }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Culture Amp",
+      "description": "Culture Amp, the People & Culture platform, makes it easy to collect, understand, and act on employee feedback. Build a better world of work. Book a demo!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cultureamp.com",
+      "website": "cultureamp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.cultureamp.com/data-privacy/gdpr/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cultureamp.com/data-privacy/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 933,
+      "name": "TIBCO",
+      "description": "TIBCO Software Inc. is an American company that provides integration, analytics and event-processing software for companies to use on-premises or as part of cloud computing environments.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tibco.com",
+      "website": "tibco.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tibco.com/company/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tibco.com/company/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1991, "name": "Infrastructure" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Sisense",
+      "description": "Sisense is a business analytics software company with offices in New York City, San Francisco, Tel Aviv, London, Melbourne, Tokyo, and Scottsdale, Arizona.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sisense.com",
+      "website": "sisense.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Pendo.io",
+      "description": "Pendo provides software product managers and teams with a powerful integrated platform to better understand and improve the product experience. Without requiring any engineering resources, organizations can use Pendo to extend their product to capture ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pendo.io",
+      "website": "pendo.io",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.pendo.io/support/trust/" },
+        { "protocolId": 2, "sourceUrl": "https://www.pendo.io/privacypolicy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.pendo.io/solutions/enterprise/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.pendo.io/privacypolicy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.pendo.io/solutions/enterprise/"
+        },
+        { "protocolId": 11, "sourceUrl": "https://www.pendo.io/support/trust/" }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2173, "name": "Guides" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2310, "name": "Product Management" }
+      ]
+    },
+    {
+      "id": 1184,
+      "name": "Inspectlet",
+      "description": "Inspectlet records videos of your site visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors use your site again. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/inspectlet.com",
+      "website": "inspectlet.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://docs.inspectlet.com/hc/en-us/articles/360002994432-Privacy-Impact-Assessment-under-GDPR"
+        }
+      ],
+      "categories": [{ "id": 1997, "name": "Analytics" }]
+    },
+    {
+      "id": 1004,
+      "name": "Searchmetrics",
+      "description": "The Searchmetrics Suite for enterprise companies is the global leader in SEO marketing and analytics, SEO optimization, social and content marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/searchmetrics.com",
+      "website": "searchmetrics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 799,
+      "name": "NetBase",
+      "description": "NetBase brings you the fastest and most accurate social media analytics platform in the industry.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/netbase.com",
+      "website": "netbase.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://terms.netbase.com/policy/privacy/2019/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1959, "name": "Semantic Search" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 1097,
+      "name": "Sitecore",
+      "description": "Sitecore is a customer experience management company that provides web content management and multichannel marketing automation software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sitecore.com",
+      "website": "sitecore.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 1036,
+      "name": "Curalate",
+      "description": "Connect social to commerce, make social channels shoppable, leverage UGC, & activate influencers with Curalate. Learn how you can make social sell.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/curalate.com",
+      "website": "curalate.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.curalate.com/privacy-shield-notice/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.curalate.com/privacy-shield-notice/"
+        }
+      ],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Reputation.com",
+      "description": "Reputation.com is a business-to-business online reputation management and customer experience management company headquartered in Redwood City, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/reputation.com",
+      "website": "reputation.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.reputation.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.reputation.com/legal/gdpr-data-processing-addendum/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.reputation.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2178, "name": "Reputation" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 930,
+      "name": "Contently",
+      "description": "The highest-rated content marketing solution: expert content strategy, an enterprise content marketing platform, and Global Freelance Talent Network.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/contently.com",
+      "website": "contently.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1998, "name": "Content Creators" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Funnel",
+      "description": "Supports data collection from any marketing or advertising data source and transforms marketing data into automated marketing reports.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/funnel.io",
+      "website": "funnel.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://funnel.io/general-terms-and-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "CleverTap",
+      "description": "CleverTap is a SaaS based mobile analytics and mobile marketing company based in Mountain View, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clevertap.com",
+      "website": "clevertap.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://clevertap.com/about-us/" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 897,
+      "name": "dataxu",
+      "description": "Think of dataxu® as your secret weapon. Our industry-leading technology and team of data scientists and support specialists exist to enable you to fully capitalize on the potential of data-powered marketing.    At dataxu®, your business is our business...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dataxu.com",
+      "website": "dataxu.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2076, "name": "Ad Targeting" }
+      ]
+    },
+    {
+      "id": 417,
+      "name": "InsideSales.com",
+      "description": "InsideSales.com provides you with a revolutionary sales software to improve your sales lead management. Contact us today for a demo and sell more!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/insidesales.com",
+      "website": "insidesales.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.insidesales.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.insidesales.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2027, "name": "Lead Management" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Databox",
+      "description": "Business Analytics platform built to help you understand what’s going on with your business. KPIs from cloud services, spreadsheets, database in one place.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/databox.com",
+      "website": "databox.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2006, "name": "Data Visualization" }
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Heap",
+      "description": "We empower product teams to focus on what matters — building the best products — not wrestling with their product analytics platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/heap.io",
+      "website": "heap.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 2382, "name": "Technical Support" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1025,
+      "name": "PowerReviews",
+      "description": "PowerReviews enables connected commerce by amplifying user-generated content and consumer feedback to improve the customer experience.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/powerreviews.com",
+      "website": "powerreviews.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 808,
+      "name": "Xactly",
+      "description": "Xactly is a leading provider of enterprise-class, cloud-based, incentive compensation solutions for employee and sales performance management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/xactlycorp.com",
+      "website": "xactlycorp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://trust.xactlycorp.com/privacy-policy/?_ga=2.94816220.1300060632.1569365030-5919842.1569365030"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://trust.xactlycorp.com/privacy-policy/?_ga=2.94816220.1300060632.1569365030-5919842.1569365030"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://trust.xactlycorp.com/privacy-policy/?_ga=2.94816220.1300060632.1569365030-5919842.1569365030"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 752,
+      "name": "TrendKite",
+      "description": "TrendKite gives you PR analytics that can keep up with the pace of the industry in the age of Digital PR. Quickly understand and organize the current landscape, finding the influencers and more that you need to meet your goals across channels. Build re...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "trendkite.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1820, "name": "Public Relations" }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Datorama",
+      "description": "Datorama is AI-powered marketing intelligence. Make smarter decisions by connecting and acting on all of your marketing data, investments, and KPIs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/datorama.com",
+      "website": "datorama.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://datorama.com/security/" },
+        { "protocolId": 1, "sourceUrl": "https://datorama.com/security/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 1069,
+      "name": "Snowflake",
+      "description": "Snowflake is the only data warehouse built for the cloud for all your data & all your users. Learn more about our purpose-built SQL cloud data warehouse.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/snowflake.com",
+      "website": "snowflake.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.snowflake.com/wp-content/uploads/2018/07/2018July12-Snowflake-Security-Policy.pdf"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.snowflake.com/legal/snowflake-privacy-shield-statement/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.snowflake.com/wp-content/uploads/2018/07/2018July12-Snowflake-Security-Policy.pdf"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.snowflake.com/legal/snowflake-privacy-shield-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1822, "name": "Cloud Data Services" }
+      ]
+    },
+    {
+      "id": 886,
+      "name": "Demandbase",
+      "description": "Demandbase is the leader in account-based marketing and offers everything you need to identify, target and close bigger deals with your key accounts.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/demandbase.com",
+      "website": "demandbase.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.demandbase.com/privacy-shield/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.demandbase.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 352,
+      "name": "WalkMe",
+      "description": "WalkMe owned by WalkMe Inc. is a software-as-a-service company that helps users navigate the features of other web-based services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/walkme.com",
+      "website": "walkme.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2173, "name": "Guides" },
+        { "id": 2310, "name": "Product Management" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Totango",
+      "description": "Totango is a Customer Success and Customer Retention Software.  We help enterprises drive revenue growth while focusing on the SaaS customer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/totango.com",
+      "website": "totango.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.totango.com/gdpr" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1224,
+      "name": "Stitch",
+      "description": "All your data. Where you want it. In minutes. Stitch is a cloud-first, developer-focused platform for rapidly moving data. Hundreds of data teams rely on Stitch to securely and reliably move their data from SaaS tools and databases into their data ware...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "stitchdata.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.stitchdata.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.stitchdata.com/platform/security/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.stitchdata.com/privacy/" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.stitchdata.com/docs/account-security/security-faq"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2429, "name": "Database" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Redis Labs",
+      "description": "Redis Labs is a private computer software company based in Mountain View, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/redislabs.com",
+      "website": "redislabs.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://redislabs.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Wyng",
+      "description": "A marketing platform for brands & agencies. Build and run social & digital campaigns that drive participation and elevate consumer influence.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wyng.com",
+      "website": "wyng.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.wyng.com/privacy-and-data-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.wyng.com/privacy-and-data-security/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2208, "name": "Social Media Marketing" }
+      ]
+    },
+    {
+      "id": 705,
+      "name": "Liferay",
+      "description": "Build portals, intranets, websites and connected experiences on the most extensible digital experience platform around. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liferay.com",
+      "website": "liferay.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.liferay.com/legal/cloud-services-data"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": " https://www.liferay.com/legal/cloud-services-data"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.liferay.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2352, "name": "CMS" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2378, "name": "Online Portals" }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Perforce Software",
+      "description": "Perforce, legally Perforce Software, Inc., is a Minneapolis, Minnesota-based developer of software used for application development, including version control software, web-based repository management, developer collaboration, application lifecycle man...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/perforce.com",
+      "website": "perforce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Talkable",
+      "description": "Talkable enables e-commerce companies to easily launch referral marketing programs",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkable.com",
+      "website": "talkable.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Logz.io",
+      "description": "Logz.io is an Israel-based company which provides log management and log analysis services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/logz.io",
+      "website": "logz.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 901,
+      "name": "SteelHouse",
+      "description": "Drive new visitors to your site and bring them back to convert across display, mobile, social, and Connected TV — all from a single self-serve online advertising platform.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "steelhouse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Usabilla",
+      "description": "Collect user feedback and improve your websites, apps and emails with Usabilla's Voice of Customer Solutions. Want to see what Usabilla can do for you? Let us show you with our free, personalized demo and get an inside look at our advanced functionalit...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/usabilla.com",
+      "website": "usabilla.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://usabilla.com/privacy/" },
+        { "protocolId": 1, "sourceUrl": "https://usabilla.com/security/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 942,
+      "name": "TrackMaven",
+      "description": "TrackMaven’s marketing analytics platform helps you prove ROI and improve results on 18 digital channels including social, ads, PR, automation, and CRM.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trackmaven.com",
+      "website": "trackmaven.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Chatmeter",
+      "description": "All-In-One Local Brand Management Platform gives enterprises control of Reputation & Local SEO Analytics for Multi-Location Businesses, Chains, & Agencies",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chatmeter.com",
+      "website": "chatmeter.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2178, "name": "Reputation" }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "TapClicks",
+      "description": "TapClicks’ TapAnalytics marketing operations platform is focused on marketing workflow, performance analytics, client reporting and data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tapclicks.com",
+      "website": "tapclicks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.tapclicks.com/industries/hipaa-compliant-marketing-reporting-analytics/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Evergage",
+      "description": "The company was founded as Apptegic in 2010 by Karl Wirth and Greg Hinkle, who met while working at Red Hat.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/evergage.com",
+      "website": "evergage.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1869, "name": "Personalization" }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Showpad",
+      "description": "The Showpad sales enablement platform integrates industry-leading training and coaching software with innovative content solutions, driving increased sales.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/showpad.com",
+      "website": "showpad.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 1916, "name": "Training" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2013, "name": "Meeting Software" },
+        { "id": 2086, "name": "Sales Automation" }
+      ]
+    },
+    {
+      "id": 1007,
+      "name": "MapR Technologies",
+      "description": "MapR was a business software company headquartered in Santa Clara, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mapr.com",
+      "website": "mapr.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mapr.com/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Exponea",
+      "description": "Built on top of a CDP updated in real-time, Exponea combines AI-driven personalization at scale with integrated campaign execution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exponea.com",
+      "website": "exponea.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2321, "name": "B2C" }
+      ]
+    },
+    {
+      "id": 977,
+      "name": "Clicktale",
+      "description": "Clicktale taps into the wisdom and behavior of millions of visitors so that businesses can deliver the best digital experiences and drive amazing business results. Complex behavioral patterns are synthesized based on millisecond-level actions such as h...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clicktale.com",
+      "website": "clicktale.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/general-data-protection-regulation-gdpr/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.clicktale.com/company/privacy-shield/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.clicktale.com/company/data-privacy/security-overview/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.clicktale.com/company/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "MarketMuse",
+      "description": "MarketMuse uses AI and machine learning to help you build content strategies, accelerate content creation, and inform content decisions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marketmuse.com",
+      "website": "marketmuse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 992,
+      "name": "DialogTech",
+      "description": "DialogTech’s AI call tracking and conversation analytics helps digital marketers and agencies track ROI, drive sales, and personalize experiences.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "dialogtech.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.dialogtech.com/about/terms-and-conditions"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.dialogtech.com/about/eu-u-s-privacy-shield-framework-privacy-statement"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 780,
+      "name": "RapidMiner",
+      "description": "RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rapidminer.com",
+      "website": "rapidminer.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 1099,
+      "name": "ThoughtSpot",
+      "description": "ThoughtSpot, Inc. is a technology company that produces business-intelligence analytics search software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thoughtspot.com",
+      "website": "thoughtspot.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 905,
+      "name": "Percolate",
+      "description": "Percolate is the leading Content Marketing Platform for the world’s largest and fastest growing brands. Percolate offers solutions to manage marketing operations, from strategy and planning through development and execution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/percolate.com",
+      "website": "percolate.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://percolate.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://percolate.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2411, "name": "Asset Management" },
+        { "id": 2198, "name": "Content" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 672,
+      "name": "Unmetric",
+      "description": "Get AI powered social media intelligence and analytics on more than 100,000 major brands and benchmark them against your own performance. Get a demo today",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unmetric.com",
+      "website": "unmetric.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2165, "name": "Social Media Management" }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Dataiku",
+      "description": "Dataiku's single, collaborative platform powers both self-service analytics and the operationalization of machine learning models in production.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dataiku.com",
+      "website": "dataiku.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 393,
+      "name": "Practice Ignition",
+      "description": "Send proposals, contracts and payments all in one document—it's a faster and more efficient way to manage client engagements. Practice Ignition makes it super e",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/practiceignition.com",
+      "website": "practiceignition.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Price Intelligently",
+      "description": "Price Intelligently is a value based pricing strategy platform that helps subscription and SaaS companies get their pricing strategy right with data. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/priceintelligently.com",
+      "website": "priceintelligently.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Rakuten",
+      "description": "Where's your stuff? Find out with the best online shopping app for Android & iOS that tracks all your packages, purchases, price drops.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/slice.com",
+      "website": "slice.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2437, "name": "Consumer" },
+        { "id": 2043, "name": "Shopping" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1128,
+      "name": "Fivetran",
+      "description": "Stream data into your warehouse for advanced analytics. Fivetran was built for analysts to access to all their business data. Sign up today for a free trial.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fivetran.com",
+      "website": "fivetran.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://fivetran.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://fivetran.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2529, "name": "Warehousing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Keen",
+      "description": "Keen is the platform for developers that lets you ship custom user-facing metrics quickly and seamlessly with low overhead.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/keen.io",
+      "website": "keen.io",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://keen.io/docs/security/" },
+        { "protocolId": 2, "sourceUrl": "https://keen.io/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2079, "name": "Developer APIs" }
+      ]
+    },
+    {
+      "id": 903,
+      "name": "GoodData",
+      "description": "GoodData is an embedded BI and analytics platform that provides fast, reliable, and easy to use analytics. Built for all of your business users in mind.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gooddata.com",
+      "website": "gooddata.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.gooddata.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.gooddata.com/security-details"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1086,
+      "name": "Cohesity",
+      "description": "Eliminate mass data fragmentation with Cohesity’s modern approach to data management, beginning with backup. Gain instant recovery. Learn more today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cohesity.com",
+      "website": "cohesity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2394, "name": "Data Center" },
+        { "id": 2295, "name": "Data Storage" }
+      ]
+    },
+    {
+      "id": 1172,
+      "name": "Xplenty",
+      "description": "Xplenty is a data integration platform that requires no coding or deployment. Our Big Data processing cloud service brings immediate results to the entire organization: from designing dataflows to scheduling jobs, Xplenty can process both structured an...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/xplenty.com",
+      "website": "xplenty.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.xplenty.com/blog/xplenty-is-commited-to-the-gdpr/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.xplenty.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Sotrender",
+      "description": "Sotrender delivers the best solutions for marketing in social media analytics. Metrics, optimization, competitor comparison, and custom recommendations for Facebook, Twitter, Instagram, and YouTube.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sotrender.com",
+      "website": "sotrender.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Lucidworks",
+      "description": "Lucidworks is a San Francisco, California-based enterprise search technology company offering an application development platform, commercial support, consulting, training and value-add software for open source Apache Lucene and Apache Solr.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lucidworks.com",
+      "website": "lucidworks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2102, "name": "Search Engine" }
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Pathmatics",
+      "description": "Pathmatics digital marketing intelligence platform brings transparency to your competitor's digital ad strategies across social, video, display, and mobile.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pathmatics.com",
+      "website": "pathmatics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Wingify",
+      "description": "Wingify is a software company based in New Delhi and Pune, India. Its products include VWO, an A/B testing and conversion optimization platform, and Pushcrew, a push notification service for web and mobile.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wingify.com",
+      "website": "wingify.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1091,
+      "name": "Dataminr",
+      "description": "Dataminr's clients are the first to know about critical events and breaking information, enabling them to act faster and stay one step ahead.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dataminr.com",
+      "website": "dataminr.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2131, "name": "News" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1905, "name": "Public Safety" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1049,
+      "name": "Turbonomic",
+      "description": "Turbonomic AI-powered Application Resource Management simultaneously optimizes performance, compliance, and cost in real time. Applications are continually resourced, automatically, to perform while satisfying business constraints.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/turbonomic.com",
+      "website": "turbonomic.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2400, "name": "Application Performance Management" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1909, "name": "Virtualization" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "WealthEngine",
+      "description": "WealthEngine offers wealth screening and search, customer segmentation and modeling, donor analysis. Prospecting software integrates with Salesforce, Ellucian.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wealthengine.com",
+      "website": "wealthengine.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2021, "name": "Non Profit" }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Wallarm",
+      "description": "Wallarm's AI powered security platform automates real-time application protection and security testing for websites, microservices, and APIs across public and private clouds.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wallarm.com",
+      "website": "wallarm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://wallarm.com/files/Wallarm%20and%20GDPR.pdf"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1845, "name": "Risk Management" },
+        { "id": 2334, "name": "Compliance" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 1075,
+      "name": "Exabeam",
+      "description": "The Exabeam Security Management Platform provides end-to-end detection, User Event Behavioral Analytics, and SOAR. With Exabeam, Smarter SIEM = Better Security.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exabeam.com",
+      "website": "exabeam.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 946,
+      "name": "Near",
+      "description": "Near's data platform helps businesses leverage intelligence from human mobility data for enrichment and marketing",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/near.co",
+      "website": "near.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1963, "name": "Location Based Services" }
+      ]
+    },
+    {
+      "id": 959,
+      "name": "Logi Analytics",
+      "description": "Logi Analytics, Inc. is a computer software company headquartered in McLean, Virginia, United States with offices in the UK and Ireland.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/logianalytics.com",
+      "website": "logianalytics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Dyspatch",
+      "description": "Dyspatch is an email production platform that helps Enterprise organizations create & change transactional and triggered emails faster.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dyspatch.io",
+      "website": "dyspatch.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "CloudPay",
+      "description": "CloudPay provides managed global payroll services through a unified and elegant cloud solution that ensures consistent & compliant international payroll in 120+ countries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudpay.net",
+      "website": "cloudpay.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 1897, "name": "Payments" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 656,
+      "name": "Vindicia",
+      "description": "Vindicia subscription billing and recurring payment solutions help you optimize online business models leading to higher recurring revenue.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vindicia.com",
+      "website": "vindicia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vindicia.com/solutions/data-privacy-and-gdpr-compliance"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.vindicia.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.vindicia.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1808, "name": "Freemium" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 763,
+      "name": "Mintigo",
+      "description": "Know Who Your Ideal Customers Are & How to Engage With Them. ABM Targeting, Predictive Lead Scoring, Pipeline Generation, & Sales Enablement Powered by AI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mintigo.com",
+      "website": "mintigo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1938, "name": "B2B" }
+      ]
+    },
+    {
+      "id": 758,
+      "name": "J Report",
+      "description": "Business Intelligence and Analytics Software that integrates into your applications. See the most powerful and reliable embedded analytics and reporting software for your enterprise now!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jinfonet.com",
+      "website": "jinfonet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 829,
+      "name": "Qstream",
+      "description": "The only mobile microlearning app that is scientifically proven to increase long-term knowledge retention, change behaviors and impact performance at scale.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/qstream.com",
+      "website": "qstream.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://qstream.com/privacy-policy/" },
+        { "protocolId": 7, "sourceUrl": "https://qstream.com/privacy-policy/" },
+        { "protocolId": 2, "sourceUrl": "https://qstream.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2423, "name": "Pharmaceutical" },
+        { "id": 2366, "name": "Medical Device" },
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 2334, "name": "Compliance" },
+        { "id": 2143, "name": "Corporate Training" },
+        { "id": 2007, "name": "Clinical Trials" },
+        { "id": 1916, "name": "Training" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1180,
+      "name": "Chattermill",
+      "description": "New generation tool helping companies analyse open-ended feedback at scale.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chattermill.io",
+      "website": "chattermill.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2020, "name": "Natural Language Processing" }
+      ]
+    },
+    {
+      "id": 831,
+      "name": "Lattice Engines",
+      "description": "Lattice Engines is a technology provider that delivers predictive marketing and sales cloud applications to business-to-business companies.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lattice-engines.com",
+      "website": "lattice-engines.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.lattice-engines.com/about-us/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 795,
+      "name": "Shareablee",
+      "description": "Shareablee powers the social marketing arms race with data:   http://www.shareablee.com    http://www.youtube.com/user/shareablee",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shareablee.com",
+      "website": "shareablee.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2378, "name": "Online Portals" }
+      ]
+    },
+    {
+      "id": 495,
+      "name": "HG Insights",
+      "description": "HG Insights delivers best in class technographics, giving B2B marketers better insights to analyze markets and deliver precision marketing and sales programs at scale.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hginsights.com",
+      "website": "hginsights.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1891, "name": "Lead Generation" }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "PageFreezer",
+      "description": "Learn how to archive a Website. Easy-to-use web & social media archiving service for regulatory compliance, eDiscovery and corporate heritage.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pagefreezer.com",
+      "website": "pagefreezer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://blog.pagefreezer.com/pagefreezer-achieves-iso-27001-certification"
+        }
+      ],
+      "categories": [
+        { "id": 2166, "name": "Ediscovery" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Exasol",
+      "description": "Exasol is an analytics database management software company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exasol.com",
+      "website": "exasol.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.exasol.com/en/blog/gdpr-help-exasol/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2429, "name": "Database" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Izenda",
+      "description": "Izenda is the leader in embedded analytics & powerful BI. Find out how self-service analytics in your application speeds time to market & boosts ROI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/izenda.com",
+      "website": "izenda.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2302, "name": "Embedded Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Ipro",
+      "description": "Ipro offers proven eDiscovery to Trial software, services, and support – bundled as a solution and deployed the way you want: Cloud, On-Prem, or Desktop",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/iprotech.com",
+      "website": "iprotech.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Onclusive",
+      "description": "Onclusive is an award-winning PR software company that provides PR measurement, analytics, attribution, amplification and social monitoring tools for public relations and marketing communications professionals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onclusive.com",
+      "website": "onclusive.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1820, "name": "Public Relations" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 736,
+      "name": "Galvanize",
+      "description": "Galvanize is a privately owned software as a service company founded and headquartered in Vancouver, British Columbia, Canada.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "acl.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2334, "name": "Compliance" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1845, "name": "Risk Management" }
+      ]
+    },
+    {
+      "id": 798,
+      "name": "Connectleader",
+      "description": "ConnectLeader's Sales Engagement Platform helps reach your best leads fast. Get more dials, increase revenue, and consistently exceed sales quota.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/connectleader.com",
+      "website": "connectleader.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 723,
+      "name": "Gryphon Networks",
+      "description": "Gryphon offers sales performance management software for real-time sales and marketing effectiveness. Improve rep effectiveness by 20% at 855-554-7974.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gryphonnetworks.com",
+      "website": "gryphonnetworks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Nuix",
+      "description": "Nuix Pty Ltd is an Australian technology company that produces a software platform for indexing, searching, analyzing and extracting knowledge from unstructured data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nuix.com",
+      "website": "nuix.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.nuix.com/privacy-policy" },
+        { "protocolId": 7, "sourceUrl": "https://www.nuix.com/privacy-policy" },
+        { "protocolId": 4, "sourceUrl": "https://www.nuix.com/privacy-policy" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2166, "name": "Ediscovery" }
+      ]
+    },
+    {
+      "id": 819,
+      "name": "Panorama Software",
+      "description": "Panorama Software is a Canadian software and consulting company specializing in business intelligence.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/panorama.com",
+      "website": "panorama.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Mobilewalla",
+      "description": "Mobilewalla is the only mobile consumer intelligence platform that observes, captures, and analyzes the behavior of consumers. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mobilewalla.com",
+      "website": "mobilewalla.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2281, "name": "DSP" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 1026,
+      "name": "Sentient Science",
+      "description": "Helping wind energy operators lower their cost of energy with material science-based digitalization.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sentientscience.com",
+      "website": "sentientscience.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2000, "name": "Transportation" },
+        { "id": 2083, "name": "Advanced Materials" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1889, "name": "Energy" }
+      ]
+    },
+    {
+      "id": 882,
+      "name": "Encompass",
+      "description": "encompass Know Your Customer (KYC) software for banking, finance, legal and accountancy. Onboard clients with ease and ensure AML regulation compliance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/encompasscorporation.com",
+      "website": "encompasscorporation.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2334, "name": "Compliance" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 1111,
+      "name": "HubSpot",
+      "description": "HubSpot is a developer and marketer of software products for inbound marketing and sales.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hubspot.com",
+      "website": "hubspot.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://legal.hubspot.com/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://legal.hubspot.com/privacy-policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://legal.hubspot.com/dpa" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Braze",
+      "description": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/braze.com",
+      "website": "braze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.braze.com/perspectives/article/hipaa-compliance"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified "
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Alteryx",
+      "description": "Alteryx is an American computer software company based in Irvine, California, with a development center in Broomfield, Colorado.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/alteryx.com",
+      "website": "alteryx.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 715,
+      "name": "Birst",
+      "description": "Consume enterprise data with easy to use analytics from Birst. Share data across all teams using cloud-based business intelligence and reporting tools.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/birst.com",
+      "website": "birst.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.birst.com/website/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.birst.com/website/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.birst.com/website/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2302, "name": "Embedded Software" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 999,
+      "name": "Askuity",
+      "description": "Ascutney Mountain Resort was a downhill ski area on the western side of Mount Ascutney in Brownsville, Vermont that operated from 1946 until 2010.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/askuity.com",
+      "website": "askuity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 217,
+      "name": "AppsFlyer",
+      "description": "AppsFlyer is a SaaS mobile marketing analytics and attribution platform, headquartered in Herzilya, Israel.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appsflyer.com",
+      "website": "appsflyer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.appsflyer.com/blog/appsflyer-approach-to-security-and-privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2195, "name": "Android" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "BOARD International",
+      "description": "BOARD International SA is a Business Intelligence and Corporate Performance Management software vendor known for its BOARD toolkit.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/board.com",
+      "website": "board.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "CCH® Tagetik",
+      "description": "Discover CCH Tagetik's corporate performance management software solutions for budgeting, planning, consolidation and reporting. Find out more on Tagetik.com",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tagetik.com",
+      "website": "tagetik.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tagetik.com/en/about/privacy-policy"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.tagetik.com/us/about/governance-certifications"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Adverity",
+      "description": "\"Adverity is connecting data from marketing tools and sources across all channels and enables a more efficient reporting, better decision making and an improved marketing performance.    Our clients - both brands and agencies - leverage the platform to...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "adverity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 1046,
+      "name": "AdHawk",
+      "description": "A mobile app that aggregates a company's total digital marketing data into one easy to read dashboard. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tryadhawk.com",
+      "website": "tryadhawk.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.tryadhawk.com/terms" },
+        { "protocolId": 4, "sourceUrl": "https://www.tryadhawk.com/terms" },
+        { "protocolId": 2, "sourceUrl": "https://www.tryadhawk.com/terms" }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 479,
+      "name": "BirdEye",
+      "description": "BirdEye is the all-in-one customer experience software: Online Reviews, Social, Surveys, Insights, Reputation. Get more reviews & customers with no extra work.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/birdeye.com",
+      "website": "birdeye.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://birdeye.com/security/" }
+      ],
+      "categories": [
+        { "id": 2409, "name": "Consumer Reviews" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 925,
+      "name": "Brightcove",
+      "description": "Brightcove, Inc. is a Boston, Massachusetts–based software company that produces an online video platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brightcove.com",
+      "website": "brightcove.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.brightcove.com/en/legal/gdpr-and-brightcove"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.brightcove.com/legal/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.brightcove.com/legal/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Amplitude",
+      "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products.",
+      "isClaimed": false,
+      "logo": "data:image/jpeg;base64, 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",
+      "website": "amplitude.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://amplitude.com/pricing" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://amplitude.com/blog/2018/04/24/amplitude-gdpr"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://amplitude.com/blog/2018/04/24/amplitude-gdpr"
+        },
+        { "protocolId": 1, "sourceUrl": "https://amplitude.com/pricing" }
+      ],
+      "categories": [
+        { "id": 2310, "name": "Product Management" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 284,
+      "name": "BIME Analytics",
+      "description": "BIME delivers a simple-to-use yet powerful data analysis and dashboarding cloud platform accessible everywhere that enables modern organizations to explore, understand and communicate data with style. Its UI combines the visual simplicity and elegance ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bimeanalytics.com",
+      "website": "bimeanalytics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 920,
+      "name": "4C",
+      "description": "4C is building the leading self-service platform for brands to execute video-centric marketing and optimize business outcomes. #4CTheFutureofMedia",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/4cinsights.com",
+      "website": "4cinsights.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2338, "name": "TV" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "Arcadia Data",
+      "description": "Arcadia Data help business users access and analyze #BigData. The first visual analytics and BI platform built for Apache #Hadoop #Kafka and #cloud.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/arcadiadata.com",
+      "website": "arcadiadata.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 937,
+      "name": "Adaptive Insights",
+      "description": "Adaptive Insights, a Workday company, formerly Adaptive Planning, Inc.,",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/adaptiveinsights.com",
+      "website": "adaptiveinsights.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.adaptiveinsights.com/online-privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.adaptiveinsights.com/online-privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.adaptiveinsights.com/products/secure-business-data"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.adaptiveinsights.com/products/secure-business-data"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1972, "name": "Finance" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 807,
+      "name": "Aerospike",
+      "description": "Aerospike is a flash-optimized in-memory open source NoSQL database and the name of the eponymous company that produces it.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/aerospike.com",
+      "website": "aerospike.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.aerospike.com/forms/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.aerospike.com/forms/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2429, "name": "Database" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2061, "name": "Auctions" },
+        { "id": 2048, "name": "Transaction Processing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Agile CRM",
+      "description": "Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and marketing automation for small businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/agilecrm.com",
+      "website": "agilecrm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.agilecrm.com/gdpr-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1816, "name": "Social CRM" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 596,
+      "name": "Ace Metrix",
+      "description": "Ace Metrix is a technology company that measures the impact of video advertising and provides the tools and insights to make better creative.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/acemetrix.com",
+      "website": "acemetrix.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2338, "name": "TV" }
+      ]
+    },
+    {
+      "id": 1067,
+      "name": "Celonis",
+      "description": "Celonis Homepage | World's #1 Process Mining software | Become a Superfluid Enterprise",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celonis.com",
+      "website": "celonis.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.celonis.com/trust-center/compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.celonis.com/trust-center/compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2429, "name": "Database" }
+      ]
+    },
+    {
+      "id": 844,
+      "name": "BrandsEye",
+      "description": "The most accurate data with the world's leading opinion mining company. With human intergrated sentiment analysis and topic discovery, know how people really feel.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brandseye.com",
+      "website": "brandseye.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1842, "name": "Data Mining" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2178, "name": "Reputation" }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "BounceX",
+      "description": "Accurately recognize website traffic in real time. Match anonymous visitors to your CRM. Maximize triggered marketing across channels & devices.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bouncex.com",
+      "website": "bouncex.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.bouncex.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.bouncex.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.bouncex.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Bitly",
+      "description": "Bitly is a URL shortening service and a link management platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bitly.com",
+      "website": "bitly.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://bitly.com/pages/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://bitly.com/pages/privacy" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://bitly.com/pages/why-bitly/enterprise-class"
+        }
+      ],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2047, "name": "Publishing" }
+      ]
+    },
+    {
+      "id": 731,
+      "name": "Attendify",
+      "description": "Build elegant event apps and registration pages to elevate the entire attendee experience and put your event data to work. Start creating your event for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/attendify.com",
+      "website": "attendify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://attendify.com/dpa/" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1818, "name": "Events" },
+        { "id": 1840, "name": "Private Social Networking" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 579,
+      "name": "AT Internet",
+      "description": "AT Internet is a privately held company created in 1996 that provides web analytics services and consulting for websites, mobile sites and mobile applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atinternet.com",
+      "website": "atinternet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "CB Insights",
+      "description": "The CB Insights machine intelligence platform catches every private company financing and angel investment database. Get real-time information on startups, VC firms, angel investors and transactions in the United States. Spot new deals, sales leads, pr...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cbinsights.com",
+      "website": "cbinsights.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2430, "name": "Angel Investment" },
+        { "id": 2429, "name": "Database" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1964, "name": "Venture Capital" }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Appsee",
+      "description": "Appsee is a mobile app analytics platform that offers you powerful, qualitative analytics tools that enable you to track and optimize the UX in your app.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appsee.com",
+      "website": "appsee.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.appsee.com/gdpr" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://blog.appsee.com/4-healthy-practices-when-creating-medical-apps/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.appsee.com/gdpr" },
+        { "protocolId": 7, "sourceUrl": "https://www.appsee.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 1110,
+      "name": "Shopify",
+      "description": "Shopify Inc. is a Canadian e-commerce company headquartered in Ottawa, Ontario.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "website": "shopify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.shopify.com/en/manual/your-account/GDPR/GDPR-overview"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://help.shopify.com/pdf/soc3.pdf"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.shopify.com/legal/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "BizTalk360",
+      "description": "BizTalk360 is the world's first web based production support/monitoring tool for Microsoft BizTalk Server. It addresses various challenges organisations face once their BizTalk application gets to production. The goal of BizTalk360 is to address the co...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/biztalk360.com",
+      "website": "biztalk360.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 783,
+      "name": "Actian",
+      "description": "Ingres was developed at the University of California, Berkeley and commercialized by Relational Technology Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/actian.com",
+      "website": "actian.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.actian.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Airship",
+      "description": "Deliver meaningful messages at every stage of the customer lifecycle with the Customer Engagement Platform built for enterprise brands. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/airship.com",
+      "website": "airship.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.airship.com/legal/gdpr-compliance-faq/"
+        },
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.airship.com/legal/data-processing-addendum/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2171, "name": "Messaging" }
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Calabrio",
+      "description": "Calabrio is an all-in-one WFO platform empowering organizations with customer experience intelligence. Integrated call recording, quality management, workforce management, customer interaction analytics, and reporting. Call today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/calabrio.com",
+      "website": "calabrio.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.calabrio.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.calabrio.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2191, "name": "VoIP" }
+      ]
+    }
+  ]
+}

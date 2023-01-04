@@ -1,0 +1,46 @@
+[
+  {
+    "id": "12392304",
+    "conditions": [
+      {
+        "interval": "1m",
+        "id": "sentry.rules.conditions.event_frequency.EventFrequencyCondition",
+        "value": 2,
+        "comparisonType": "count",
+        "name": "The issue is seen more than 2 times in 1m"
+      }
+    ],
+    "filters": [
+      {
+        "level": "20",
+        "match": "eq",
+        "id": "sentry.rules.filters.level.LevelFilter",
+        "name": "The event's level is equal to info"
+      }
+    ],
+    "actions": [
+      {
+        "targetType": "Member",
+        "id": "sentry.mail.actions.NotifyEmailAction",
+        "targetIdentifier": 1380457,
+        "name": "Send a notification to Member"
+      }
+    ],
+    "actionMatch": "all",
+    "filterMatch": "any",
+    "frequency": 5,
+    "name": "Notify test events Dummy account",
+    "dateCreated": "2022-10-03T22:10:43.995068Z",
+    "owner": "team:1462197",
+    "createdBy": {
+      "id": 1380457,
+      "name": "Laika-Dev",
+      "email": "dev@heylaika.com"
+    },
+    "environment": null,
+    "projects": [
+      "python-otto-testing"
+    ],
+    "type": "rule"
+  }
+]

@@ -1,0 +1,53 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style type="text/css" media="screen,print">
+        .pb_before {
+            page-break-before: always !important;
+        }
+
+        .pb_after {
+            page-break-after: always !important;
+        }
+        thead {
+            display: table-row-group;
+        }
+        tfoot {
+            display: table-row-group;
+        }
+        body {
+            font-family: Arial !important;
+            line-height: 1.63 !important;
+        }
+        tr, td, th, tbody, thead, tfoot {
+            page-break-inside: avoid !important;
+        }
+    </style>
+    <title>Draft Report</title>
+  </head>
+  <body>   
+    <h1 id="mcetoc_1fiubplrmmd" class="pb_before">
+        <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px;"><strong>Section II: Assertion of </strong><strong>{% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}</strong><strong>&rsquo;s Management</strong></span>
+    </h1>
+    <p><span style="font-size: 10pt;">We have prepared the accompanying description of the {{ client }} System &ldquo;{{ client }}&rsquo;s Description of its {{ client }} System as of {{ as_of_date|date:'F d, Y' }}&rdquo; (description), based on the criteria for a description of a service organization&rsquo;s system set forth in DC Section 200, 2018 Description Criteria for a Description of a Service Organization&rsquo;s System in a SOC 2&reg; Report (AICPA, Description Criteria) (description criteria). The description is intended to provide report users with information about the {{ client }} System that may be useful when assessing the risks arising from interactions with the {{ client }} System, particularly information about system controls that {{ client }} has designed, implemented and operated to provide reasonable assurance that its service commitments and system requirements were achieved based on the trust services criteria relevant to {{ TSCs }} (applicable trust services criteria) set forth in TSP Section 100, 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (AICPA, Trust Services Criteria).</span></p>
+
+    <p><span style="font-size: 10pt;">{{ client }} uses a subservice organization for data center colocation services. The description indicates that complementary subservice organization controls that are suitably designed and operating effectively are necessary, along with controls at {{ client }}, to achieve {{ client }}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{ client }}&rsquo;s controls, the applicable trust services criteria, and the types of complementary subservice organization controls assumed in the design of {{ client }}&rsquo;s controls. The description does not disclose the actual controls at the subservice organization.</span></p>
+
+    <p><span style="font-size: 10pt;">The description indicates that complementary user entity controls that are suitably designed and operating effectively are necessary, along with controls at {{ client }}, to achieve {{ client }}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{ client }}&rsquo;s controls, the applicable trust services criteria, and the complementary user entity controls assumed in the design of {{ client }}&rsquo;s controls.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">We confirm, to the best of our knowledge and belief, that&mdash;</span></p>
+    
+    <ol>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The description presents the {{ client }} System that was designed and implemented as of {{ as_of_date|date:'F d, Y' }}, in accordance with the description criteria.</span>
+        </li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The controls stated in the description were suitably designed as of {{ as_of_date|date:'F d, Y' }}, to provide reasonable assurance that {{ client }}&rsquo;s service commitments and system requirements would be achieved based on the applicable trust services criteria, if its controls operated effectively as of that date, and if the subservice organization and user entities applied the complementary controls assumed in the design of {{ client }}&rsquo;s controls as of that date.</span>
+        </li>
+    </ol>
+    
+    <p><span style="font-weight: 400; font-size: 10pt;">{% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}</span><br /></p>
+    
+</body>
+</html>

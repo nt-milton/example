@@ -1,0 +1,31 @@
+{% load i18n %}
+
+<h3>{% blocktrans with filter_title=title %} By {{ filter_title }} {% endblocktrans %}</h3>
+<ul>
+    <li>
+        {% with choices.0 as all_choice %}
+        <form method="GET" action="">
+
+            {% for k, v in all_choice.query_parts %}
+            <input type="hidden" name="{{ k }}" value="{{ v }}" />
+            {% endfor %}
+
+            {% if spec.description %}
+                <p style="font-size:11px;padding: 0;"
+                >{{ spec.description }}</p>
+            {% endif %}
+
+            <input type="text"
+                   value="{{ spec.value|default_if_none:'' }}"
+                   name="{{ spec.parameter_name }}" style="width: 90%"/>
+
+            {% if not all_choice.selected %}
+                <a href="{{ all_choice.query_string }}">
+                    ✖ {% trans 'Remove' %}
+                </a>
+            {% endif %}
+
+        </form>
+        {% endwith %}
+    </li>
+</ul>

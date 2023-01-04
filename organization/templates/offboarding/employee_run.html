@@ -1,0 +1,284 @@
+{% load file_url %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ organization.name }} Report</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Rubik:wght@300;400;500&display=block"
+      rel="stylesheet"
+    />
+    <meta name="pdfkit-margin-left" content="0mm" />
+    <meta name="pdfkit-margin-right" content="0mm" />
+    <meta name="pdfkit-margin-bottom" content="20mm" />
+    <meta name="pdfkit-margin-top" content="20mm" />
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin-bottom: 100px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        font-size: 17px;
+        line-height: 29px;
+      }
+      html{height: 0;}
+      body {
+        display: block;
+        padding: 1px 100px 0;
+      }
+      header {
+        text-align: left;
+        margin-bottom: 50px;
+      }
+      header h1{
+        font-size: 24px;
+      }
+      header p{
+        font-size: 20px;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        margin: 0;
+        line-height: 25px;
+      }
+      h1,
+      h2,
+      h3 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+      }
+      h1 {
+        font-size: 34px;
+        font-weight: 500;
+        line-height: 42px;
+        text-align: left;
+        margin-bottom: 13px;
+        text-align: left;
+        margin: 0 auto;
+      }
+      h2 {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 36px;
+        margin-bottom: 10px;
+      }
+      h3 {
+        line-height: 29px;
+        margin-bottom: 12px;
+        font-size: 20px;
+        font-weight: 400;
+      }
+      h4 {
+        line-height: 29px;
+        margin-bottom: 12px;
+        font-size: 16px;
+      }
+      p {
+        font-size: 17px;
+        font-weight: 300;
+        margin-top: 0;
+        line-height: 30px;
+        margin-bottom: 0;
+      }
+      p strong{
+        font-weight: 700;
+      }
+      p + :not(p):not(ul) {
+        margin-top: 37px;
+      }
+      table {
+        border-collapse: collapse;
+        border: 1px solid #dddae0;
+        width: 100%;
+        margin-bottom: 32px;
+      }
+      table th {
+        font-family: "Rubik", sans-serif;
+        font-weight: 300;
+        text-align: left;
+        font-size: 18px;
+        line-height: 18px;
+      }
+      table th,
+      table td {
+        padding: 15px;
+        border: none;
+        min-width: 170px;
+      }
+      table tbody {
+        font-weight: normal;
+      }
+      table tr td {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        text-align: left;
+      }
+      table tr {
+        border: 1px solid #dddae0;
+      }
+      table tr th {
+        font-weight: 500;
+        font-size: 14px;
+        font-family: "Rubik", sans-serif;
+      }
+      table td{
+        vertical-align: middle;
+        text-align: center;
+      }
+      .new-page {
+        page-break-after: always;
+      }
+      .content {
+        padding: 20px 0;
+      }
+      .vendor-logo-container {
+        display: flex;
+        align-items: center;
+      }
+      .vendor-logo {
+        width: 24px;
+        height: 24px;
+        maring-right: 5px;
+      }
+      .employee-info{
+        margin: 50px 0;
+      }
+      .employee-info{
+        margin: 50px 0;
+      }
+      .not-found{
+        border: 1px solid #C4BECB;
+        padding: 10px; 15px;
+        margin-bottom: 32px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{{ organizationName }}</h1>
+      <p>Offboarding Checklist</p>
+    </header>
+    <hr />
+    <main class="page-content">
+      {# HERE WE INJECT THE TEMPLATE CONTENT #}
+      <section class="employee-info">
+        <p><strong>Employee Name</strong>: <span>{{ fullName }}</span></p>
+        <p><strong>Termination Type</strong>: <span>{{ metadata.terminationType | capfirst}}</span></p>
+        <p><strong>Offboarding Completed By</strong>: <span>{{ metadata.signature.sign }}</span></p>
+        <p><strong>Offboarding Completed Date</strong>: <span>{{ date }}</span></p>
+      </section>
+      <hr />
+      <section class="content">
+        <div>
+          <h4>Laika Integrated Vendors</h4>
+          {% if offboardingRun.integratedVendors %}
+            <table>
+              <tr>
+                <th>Description</th>
+                <th>Status</th>
+                <th>Date</th>
+              </tr>
+              {% for vendor in offboardingRun.integratedVendors %}
+              <tr>
+                <td>
+                  <div class="vendor-logo-container">
+                    {{vendor.vendor.name}}
+                  </div>
+                </td>
+                <td>
+                  {% if vendor.offboarding_state.status == 'completed' %}
+                    No Access Detected
+                    {% else %}
+                    Access Detected
+                  {% endif %}
+                </td>
+                <td>{{vendor.offboarding_state.date}}</td>
+              </tr>         
+              {% endfor %}
+            </table>
+          {% else %}
+          <div class="not-found">
+            <p>No Laika Integrated Vendors were found to offboard</p>
+          </div>
+          {% endif%}  
+        </div>
+        <div>
+          <h4>All Other Vendors</h4>
+          {% if offboardingRun.nonIntegratedVendors %}
+            <table>
+              <tr>
+                <th>Description</th>
+                <th>Status</th>
+                <th>Date</th>
+              </tr>
+
+              {% for vendor in offboardingRun.nonIntegratedVendors %}
+              <tr>
+                <td>
+                  <div class="vendor-logo-container">
+                    {{vendor.vendor.name}}
+                  </div>
+                </td>
+                <td>
+                  {% if vendor.offboarding_state.status == 'completed' %}
+                      Marked as Revoked
+                    {% elif vendor.offboarding_state.status == 'not_applicable' %}
+                      Not Applicable
+                    {% else %}
+                      Pending                  
+                  {% endif %}
+                </td>
+                <td>{{vendor.offboarding_state.date}}</td>
+              </tr>         
+              {% endfor %}
+            </table>
+            {% else %}
+            <div class="not-found">
+              <p>No Vendors were found to offboard</p>
+            </div>
+          {% endif%}  
+      </div>
+      <div>
+        <h4>Offboarding Steps</h4>
+          {% if offboardingRun.steps %}
+            <table>
+              <tr>
+                <th>Description</th>
+                <th>Category</th>
+                <th>Status</th>
+                <th>Date</th>
+              </tr>
+              {% for step_data in offboardingRun.steps %}
+              <tr>
+                <td>{{step_data.step.description}}</td>
+                <td>{{step_data.step.metadata.category.name}}</td>
+                <td>
+                  {% if step_data.offboarding_state.status == 'completed' %}
+                    Completed
+                    {% elif step_data.offboarding_state.status == 'not_applicable' %}
+                    Not Applicable
+                    {% else %}
+                    Pending
+                  {% endif %}
+                </td>
+                <td>{{step_data.offboarding_state.date}}</td>
+              </tr>         
+              {% endfor %}
+          </table>
+          {% else %}
+          <div class="not-found">
+            <p>No Offboarding Steps were configured</p>
+          </div>
+        {% endif %}  
+      </div>
+      </section>
+    </main>
+  </body>
+</html>

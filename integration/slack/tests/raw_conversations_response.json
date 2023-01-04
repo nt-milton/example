@@ -1,0 +1,233 @@
+{
+    "ok": true,
+    "channels": [
+      {
+        "id": "C02ETMGB9HU",
+        "name": "random",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": false,
+        "created": 1632149216,
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "random",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": false,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+          "creator": "U02ETMG9CTY",
+          "last_set": 1632149216
+        },
+        "previous_names": [],
+        "num_members": 11
+      },
+      {
+        "id": "C02F0E07EG2",
+        "name": "general",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": false,
+        "created": 1632149216,
+        "is_archived": false,
+        "is_general": true,
+        "unlinked": 0,
+        "name_normalized": "general",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": false,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+          "creator": "U02ETMG9CTY",
+          "last_set": 1632149216
+        },
+        "previous_names": [],
+        "num_members": 11
+      },
+      {
+        "id": "C02FD3E6PHP",
+        "name": "slack-integration",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": false,
+        "created": 1632149442,
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "slack-integration",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": false,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "This *channel* is for working on a project. Hold meetings, share docs, and make decisions together with your team.",
+          "creator": "U02ETMG9CTY",
+          "last_set": 1632149442
+        },
+        "previous_names": [],
+        "num_members": 11
+      },
+      {
+        "id": "C02FT6FKZ4P",
+        "name": "test-private-laika",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": true,
+        "created": 1633013515,
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "test-private-laika",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": true,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "channel to test messages to private channels",
+          "creator": "U02ETMG9CTY",
+          "last_set": 1633013515
+        },
+        "num_members": 4
+      },
+      {
+        "id": "C02G2UXHR6J",
+        "name": "test2",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": true,
+        "created": 1633035858,
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "test2",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": true,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "num_members": 3
+      },
+      {
+        "id": "C02JMMN2QF2",
+        "name": "private-test",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "is_mpim": false,
+        "is_private": true,
+        "created": 1634309248,
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "private-test",
+        "is_shared": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "pending_shared": [],
+        "parent_conversation": null,
+        "creator": "U02ETMG9CTY",
+        "is_ext_shared": false,
+        "shared_team_ids": [
+          "T02F0DY4YH1"
+        ],
+        "pending_connected_team_ids": [],
+        "is_member": true,
+        "topic": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "purpose": {
+          "value": "",
+          "creator": "",
+          "last_set": 0
+        },
+        "num_members": 3
+      }
+    ],
+    "response_metadata": {
+      "next_cursor": ""
+    }
+  }

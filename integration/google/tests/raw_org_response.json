@@ -1,0 +1,37 @@
+{
+"kind": "directory#orgUnits",
+    "organizationUnits": [
+     {
+    "kind": "directory#orgUnit",
+    "name": "sales",
+    "description": "The corporate sales team",
+    "orgUnitPath": "/corp/sales",
+    "parentOrgUnitPath": "/corp",
+    "blockInheritance": false
+     },
+     {
+    "kind": "directory#orgUnit",
+    "name": "frontline sales",
+    "description": "The frontline sales team",
+    "orgUnitPath": "/corp/sales/frontline sales",
+    "parentOrgUnitPath": "/corp/sales",
+    "blockInheritance": false
+     },
+     {
+    "kind": "directory#orgUnit",
+    "name": "support",
+    "description": "The corporate support team",
+    "orgUnitPath": "/corp/support",
+    "parentOrgUnitPath": "/corp",
+    "blockInheritance": false
+     },
+     {
+    "kind": "directory#orgUnit",
+    "name": "sales_support",
+    "description": "The BEST support team",
+    "orgUnitPath": "/corp/support/sales_support",
+    "parentOrgUnitPath": "/corp/support",
+    "blockInheritance": false
+     }
+  ]
+  }

@@ -1,0 +1,53 @@
+{
+   "totalCount":12,
+   "results":[
+      {
+         "id":"1",
+         "name":"TestCategory"
+      },
+      {
+         "id":"2",
+         "name":"Core Eng"
+      },
+      {
+         "id":"3",
+         "name":"Testsdsf sdfsdf"
+      },
+      {
+         "id":"4",
+         "name":"IST"
+      },
+      {
+         "id":"5",
+         "name":"Community"
+      },
+      {
+         "id":"6",
+         "name":"Simon"
+      },
+      {
+         "id":"7",
+         "name":"IT Test"
+      },
+      {
+         "id":"8",
+         "name":"string"
+      },
+      {
+         "id":"9",
+         "name":"Information Technology"
+      },
+      {
+         "id":"10",
+         "name":"Department of Redundancy Department"
+      },
+      {
+         "id":"11",
+         "name":"Department of metal"
+      },
+      {
+         "id":"12",
+         "name":"Test"
+      }
+   ]
+}

@@ -1,0 +1,238 @@
+[
+    {
+        "restricted_roles": null,
+        "tags": [],
+        "deleted": null,
+        "query": "\"ntp.in_sync\".over(\"*\").last(2).count_by_status()",
+        "message": "@slack-staging-alerts @sns-notification-alerts @test@mail.com Triggers if any host's clock goes out of sync with the time given by NTP. The offset threshold is configured in the Agent's `ntp.yaml` file.\n\nPlease read the [KB article](https://docs.datadoghq.com/agent/faq/network-time-protocol-ntp-offset-issues) on NTP Offset issues for more details on cause and resolution.",
+        "matching_downtimes": [],
+        "id": 13256661,
+        "multi": true,
+        "name": "[Auto] Clock in sync with NTP",
+        "created": "2019-11-13T15:35:32.355671+00:00",
+        "created_at": 1573659332000,
+        "creator": {
+            "id": 1500142,
+            "handle": "support-laika",
+            "name": "Datadog Support",
+            "email": "support-user-prod@datadoghq.com"
+        },
+        "org_id": 344792,
+        "modified": "2019-11-13T15:35:32.355671+00:00",
+        "overall_state_modified": "2020-08-20T19:45:21+00:00",
+        "overall_state": "No Data",
+        "type": "service check",
+        "options": {
+            "thresholds": {
+                "warning": 1,
+                "ok": 1,
+                "critical": 1
+            },
+            "silenced": {}
+        }
+    },
+    {
+        "restricted_roles": null,
+        "tags": [],
+        "deleted": null,
+        "query": "logs(\"-\\\"/admin\\\" -env:dev -service:*dev* status:error -env:production -service:*prod*\").index(\"main\").rollup(\"count\").last(\"5m\") >= 1",
+        "message": "@slack-staging-alerts",
+        "matching_downtimes": [],
+        "id": 15987747,
+        "multi": false,
+        "name": "Error triggered in staging environment",
+        "created": "2020-02-24T12:42:20.793477+00:00",
+        "created_at": 1582548140000,
+        "creator": {
+            "id": 1500143,
+            "handle": "ronald@heylaika.com",
+            "name": "Ronald Z\u00fa\u00f1iga",
+            "email": "ronald@heylaika.com"
+        },
+        "org_id": 344792,
+        "modified": "2020-06-10T01:46:50.622196+00:00",
+        "overall_state_modified": "2020-12-21T15:19:28+00:00",
+        "overall_state": "OK",
+        "type": "log alert",
+        "options": {
+            "notify_audit": true,
+            "locked": false,
+            "timeout_h": 0,
+            "silenced": {},
+            "include_tags": true,
+            "thresholds": {
+                "critical": 1.0
+            },
+            "new_host_delay": 300,
+            "queryConfig": {
+                "logset": {
+                    "name": "main",
+                    "type": "logs",
+                    "dailyLimit": 200000000,
+                    "rateLimited": false,
+                    "scopeId": "60653",
+                    "query": "",
+                    "retention": 15,
+                    "readDataAccess": true,
+                    "id": "60653",
+                    "dailyQuotaDisabled": false
+                },
+                "track": "logs",
+                "timeRange": {
+                    "to": 1591753603253,
+                    "live": true,
+                    "from": 1591738603253
+                },
+                "queryString": "-\"/admin\" -env:dev -service:*dev* status:error -env:production -service:*prod*",
+                "indexes": [
+                    "main"
+                ],
+                "queryIsFailed": false
+            },
+            "notify_no_data": false,
+            "renotify_interval": 0,
+            "enable_logs_sample": true,
+            "aggregation": {
+                "metric": "count",
+                "type": "count",
+                "groupBy": ""
+            }
+        }
+    },
+    {
+        "restricted_roles": null,
+        "tags": [],
+        "deleted": null,
+        "query": "logs(\"-\\\"/admin\\\" -env:dev -service:*dev* status:error -env:staging -service:*staging*\").index(\"main\").rollup(\"count\").last(\"5m\") >= 1",
+        "message": "@slack-production-alerts",
+        "matching_downtimes": [],
+        "id": 15987790,
+        "multi": false,
+        "name": "Error found in production",
+        "created": "2020-02-24T12:44:00.700533+00:00",
+        "created_at": 1582548240000,
+        "creator": {
+            "id": 1500143,
+            "handle": "ronald@heylaika.com",
+            "name": "Ronald Z\u00fa\u00f1iga",
+            "email": "ronald@heylaika.com"
+        },
+        "org_id": 344792,
+        "modified": "2020-06-10T01:46:02.337436+00:00",
+        "overall_state_modified": "2020-12-21T20:28:10+00:00",
+        "overall_state": "OK",
+        "type": "log alert",
+        "options": {
+            "notify_audit": true,
+            "locked": false,
+            "timeout_h": 0,
+            "silenced": {},
+            "include_tags": true,
+            "thresholds": {
+                "critical": 1.0
+            },
+            "new_host_delay": 300,
+            "queryConfig": {
+                "logset": {
+                    "name": "main",
+                    "type": "logs",
+                    "dailyLimit": 200000000,
+                    "rateLimited": null,
+                    "scopeId": "60653",
+                    "query": "",
+                    "retention": 15,
+                    "readDataAccess": true,
+                    "id": "60653",
+                    "dailyQuotaDisabled": false
+                },
+                "track": "logs",
+                "timeRange": {
+                    "to": 1591753544721,
+                    "live": true,
+                    "from": 1591739144721
+                },
+                "queryString": "-\"/admin\" -env:dev -service:*dev* status:error -env:staging -service:*staging*",
+                "indexes": [
+                    "main"
+                ],
+                "queryIsFailed": false
+            },
+            "notify_no_data": false,
+            "renotify_interval": 0,
+            "enable_logs_sample": true,
+            "aggregation": {
+                "metric": "count",
+                "type": "count",
+                "groupBy": ""
+            }
+        }
+    },
+    {
+        "restricted_roles": null,
+        "tags": [],
+        "deleted": null,
+        "query": "logs(\"status:error service:*dev*\").index(\"main\").rollup(\"count\").last(\"5m\") >= 1",
+        "message": "@slack-development-alerts",
+        "matching_downtimes": [],
+        "id": 15987954,
+        "multi": false,
+        "name": "Error found in development",
+        "created": "2020-02-24T12:54:33.855117+00:00",
+        "created_at": 1582548873000,
+        "creator": {
+            "id": 1500143,
+            "handle": "ronald@heylaika.com",
+            "name": "Ronald Z\u00fa\u00f1iga",
+            "email": "ronald@heylaika.com"
+        },
+        "org_id": 344792,
+        "modified": "2020-06-10T01:47:30.097734+00:00",
+        "overall_state_modified": "2020-12-15T22:57:55+00:00",
+        "overall_state": "OK",
+        "type": "log alert",
+        "options": {
+            "notify_audit": true,
+            "locked": false,
+            "timeout_h": 0,
+            "silenced": {},
+            "include_tags": true,
+            "thresholds": {
+                "critical": 1.0
+            },
+            "new_host_delay": 300,
+            "queryConfig": {
+                "logset": {
+                    "name": "main",
+                    "type": "logs",
+                    "dailyLimit": 200000000,
+                    "rateLimited": null,
+                    "scopeId": "60653",
+                    "query": "",
+                    "retention": 15,
+                    "readDataAccess": true,
+                    "id": "60653",
+                    "dailyQuotaDisabled": false
+                },
+                "track": "logs",
+                "timeRange": {
+                    "to": 1591753640884,
+                    "live": true,
+                    "from": 1591739240884
+                },
+                "queryString": "status:error service:*dev*",
+                "indexes": [
+                    "main"
+                ],
+                "queryIsFailed": false
+            },
+            "notify_no_data": false,
+            "renotify_interval": 0,
+            "enable_logs_sample": true,
+            "aggregation": {
+                "metric": "count",
+                "type": "count",
+                "groupBy": ""
+            }
+        }
+    }
+]

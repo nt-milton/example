@@ -1,0 +1,35 @@
+{
+    "settings":
+    {
+        "notificationPreferences":
+        [
+            {
+                "type": "AUDIT_INITIATED",
+                "channel": "C03HQ3YRS3D",
+                "isEnable": true,
+                "description": "When an Audit has been initiated",
+                "notificationTitle": "Audit Notifications Initiated"
+            },
+            {
+                "type": "DRAFT_REPORT_AVAILABLE",
+                "channel": "C03HQ3YRS3D",
+                "isEnable": false,
+                "description": "When a new Audit Draft Report is available for review",
+                "notificationTitle": "Audit Notifications Report"
+            },
+            {
+                "type": "AUDIT_COMPLETE",
+                "channel": "C03HQ3YRS3D",
+                "description": "When an Audit has been completed",
+                "notificationTitle": "Audit Notifications Complete"
+            },
+            {
+                "type": "AUDIT_INITIATED",
+                "channel": "C03HQ3YRS3D",
+                "isEnable": true,
+                "description": "Same channel test",
+                "notificationTitle": "Another audit initiated"
+            }
+        ]
+    }
+}

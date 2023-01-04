@@ -1,0 +1,26 @@
+[
+  {
+    "created_at": "2012-01-01T12:00:00Z",
+    "email": "someone@example.org",
+    "federated": false,
+    "id": "01234567-89ab-cdef-0123-456789abcdef",
+    "identity_provider": {
+      "id": "01234567-89ab-cdef-0123-456789abcdef",
+      "name": "acme",
+      "redacted": false,
+      "owner": {
+        "id": "01234567-89ab-cdef-0123-456789abcdef",
+        "name": "acme",
+        "type": "team"
+      }
+    },
+    "role": "admin",
+    "two_factor_authentication": true,
+    "updated_at": "2012-01-01T12:00:00Z",
+    "user": {
+      "email": "username@example.com",
+      "id": "01234567-89ab-cdef-0123-456789abcdef",
+      "name": "Tina Edmonds"
+    }
+  }
+]

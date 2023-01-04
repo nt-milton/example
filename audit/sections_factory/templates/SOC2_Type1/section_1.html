@@ -1,0 +1,183 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style type="text/css" media="screen,print">
+        .pb_before {
+            page-break-before: always !important;
+        }
+
+        .pb_after {
+            page-break-after: always !important;
+        }
+        thead {
+            display: table-row-group;
+        }
+        tfoot {
+            display: table-row-group;
+        }
+        body {
+            font-family: Arial !important;
+            line-height: 1.63 !important;
+        }
+        tr, td, th, tbody, thead, tfoot {
+            page-break-inside: avoid !important;
+        }
+
+        #signature-placeholder {
+            background: yellow;
+        }
+    </style>
+    <title>Draft Report</title>
+  </head>
+  <body>
+        <div style="height: 1200px;">
+            <div style="position: absolute; left: 700px; top: 0px;">
+                <img
+                    alt="Laika Compliance Logo"
+                    src="https://laika-static-documents.s3.amazonaws.com/Reports/logo-laika-compliance.png"
+                    style="width: auto; height: 42px;"
+                />
+            </div>
+            <div style="height: 1100px; display: table-cell; vertical-align: middle;">
+                <p>
+                    <span style="font-size: 18pt; color: #073763">
+                        <strong>System and Organization Controls (SOC) 2 Type 1 Report for
+                        </strong>
+                    </span>
+                    {% if company_logo %}
+                    <p>
+                        <img
+                            src="{{ company_logo }}"
+                            style="width: 250px;"
+                            alt="company logo"
+                        />
+                    </p>
+                    {% endif %}
+                </p>
+                <p>
+                    <span style="font-weight: 400; color: #073763;">As of {{ as_of_date|date:'F d, Y' }}</span>
+                    <br />
+                </p>
+            </div>
+            <div>
+                <p style="font: 13px 'Arial'; color: #1e3c57; line-height: 24px">
+                    Report on {% firstof company_legal_name client %}'s description of its {{client }} System and on the suitability of the design of its controls relevant to {{ TSCs }} as of {{ as_of_date|date:'F d, Y' }}.
+                </p>
+            </div>
+        </div>
+
+    <div id="cover-delimitator"></div>
+
+    <div class="mce-toc pb_before pb_after">
+        <h2><span style="font: bold 21px 'Arial'; line-height: 24px;">Table of Contents</span></h2>
+        <ul>
+            <li>
+                <a style="font: bold 13px 'Arial'; color: #1e3c57; line-height:16px; text-decoration: none;" href="#mcetoc_1fiubplrmmc">Section I: Independent Service Auditor's Report Provided by Laika Compliance LLC</a>
+            </li>
+            <li>
+                <a style="font: bold 13px 'Arial'; color: #1e3c57; line-height:16px; text-decoration: none;" href="#mcetoc_1fiubplrmmd">Section II: Assertion of {% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}&rsquo;s Management</a>
+            </li>
+            <li>
+                <a style="font: bold 13px 'Arial'; color: #1e3c57; line-height:16px; text-decoration: none;" href="#mcetoc_1fiubplrmme">Section III: {{ client }}&rsquo;s Description of its {{ client }} System as of {{ as_of_date|date:'F d, Y' }}</a>
+            </li>
+            {% if has_criteria %}
+                <li>
+                    <a style="font: bold 13px 'Arial'; color: #1e3c57; line-height:16px; text-decoration: none;" href="#mcetoc_1fiubplrmmf">Section IV: Trust Services Criteria and Related Controls Relevant to the {{ TSCs }} {{ category_copy }}</a>
+                </li>
+            {% endif %}
+        </ul>
+    </div>
+
+    <h1 id="mcetoc_1fiubplrmmc" class="pb_before">
+        <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px;"><strong>Section I: Independent Service Auditor's Report Provided by Laika Compliance LLC</strong></span>
+    </h1>
+    <p>
+        <span style="font-size: 10pt;">
+            To:
+            <span style="font-weight: 400;">
+                {% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}("{{ client }}" or "the Company")
+            </span>
+        </span>
+    </p>
+
+    <p><strong>Scope</strong></p>
+    <p><span style="font-size: 10pt;">We have examined {{ client }}&rsquo;s accompanying description of its {{ client }} System found in Section 3 titled &ldquo;{{ client }}&rsquo;s Description of its {{ client }} System as of {{ as_of_date|date:'F d, Y' }}&rdquo; (description), based on the criteria for a description of a service organization&rsquo;s system set forth in DC Section 200, 2018 Description Criteria for a Description of a Service Organization&rsquo;s System in a SOC 2&reg; Report (AICPA, Description Criteria), (description criteria) and the suitability of the design of controls stated in the description as of {{ as_of_date|date:'F d, Y' }}, to provide reasonable assurance that {{ client }}&rsquo;s service commitments and system requirements were achieved based on the trust services criteria relevant to {{ TSCs }} (applicable trust services criteria) set forth in TSP Section 100, 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (AICPA, Trust Services Criteria).</span></p>
+
+    <p><span style="font-size: 10pt;">The description indicates that certain complementary user entity controls that are suitably designed and operating effectively are necessary, along with controls at {{ client }}, to achieve {{ client }}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{ client }}&rsquo;s controls, the applicable trust services criteria, and the complementary user entity controls assumed in the design of {{ client }}&rsquo;s controls. Our examination did not include such complementary user entity controls and we have not evaluated the suitability of the design or operating effectiveness of such controls.</span></p>
+
+    <p><span style="font-size: 10pt;">{{ client }} uses a subservice organization for data center colocation services. The description indicates that complementary subservice organization controls that are suitably designed and operating effectively are necessary, along with controls at {{ client }} to achieve {{ client }}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{ client }}&rsquo;s controls, the applicable trust services criteria, and the types of complementary subservice organization controls assumed in the design of {{ client }}&rsquo;s controls. The description does not disclose the actual controls at the subservice organization. Our examination did not include the services provided by the subservice organization, and we have not evaluated the suitability of the design or operating effectiveness of such complementary subservice organization controls.</span></p>
+    <p><strong>Service Organization&rsquo;s Responsibilities</strong></p>
+
+    <p><span style="font-size: 10pt;">{{ client }} is responsible for its service commitments and system requirements and for designing, implementing, and operating effective controls within the system to provide reasonable assurance that {{ client }}&rsquo;s service commitments and system requirements were achieved. In Section 2, {{ client }} has provided the accompanying assertion titled &ldquo;Assertion of {% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}&rsquo;s Management&rdquo; (assertion) about the description and the suitability of design of controls stated therein. {{ client }} is also responsible for preparing the description and assertion, including the completeness, accuracy, and method of presentation of the description and assertion; providing the services covered by the description; selecting the applicable trust services criteria and stating the related controls in the description; and identifying the risks that threaten the achievement of the service organization&rsquo;s service commitments and system requirements.</span></p>
+    <p><strong>Service Auditor&rsquo;s Responsibilities</strong></p>
+
+    <p><span style="font-weight: 400; font-size: 10pt;">Our responsibility is to express an opinion on the description and on the suitability of design of controls stated in the description based on our examination. Our examination was conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants. Those standards require that we plan and perform our examination to obtain reasonable assurance about whether, in all material respects, the description is presented in accordance with the description criteria and the controls stated therein were suitably designed to provide reasonable assurance that the service organization&rsquo;s service commitments and system requirements were achieved based on the applicable trust services criteria. We believe that the evidence we obtained is sufficient and appropriate to provide a reasonable basis for our opinion.</span></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">An examination of a description of a service organization&rsquo;s system and the suitability of the design of controls involves:</span></p>
+
+    <ul>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Obtaining an understanding of the system and the service organization&rsquo;s service commitments and system requirements.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Assessing the risks that the description is not presented in accordance with the description criteria and that controls were not suitably designed.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Performing procedures to obtain evidence about whether the description is presented in accordance with the description criteria.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Performing procedures to obtain evidence about whether controls stated in the description were suitably designed to provide reasonable assurance that the service organization achieved its service commitments and system requirements based on the applicable trust services criteria.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Evaluating the overall presentation of the description.</span>
+        </li>
+    </ul>
+
+    <p><span style="font-weight: 400; font-size: 10pt;">Our examination also included performing such other procedures as we considered necessary in the circumstances.</span></p>
+    <p><strong>Inherent Limitations</strong></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">The description is prepared to meet the common needs of a broad range of report users and may not, therefore, include every aspect of the system that individual users may consider important to meet their informational needs. There are inherent limitations in any system of internal control, including the possibility of human error and the circumvention of controls. The projection to the future of any conclusions about the suitability of the design of controls is subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.</span></p>
+    <p><strong>Other matter</strong></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">We did not perform any procedures regarding the operating effectiveness of controls stated in the description and, accordingly, do not express an opinion thereon.</span></p>
+    <p><strong>Opinion</strong></p>
+    <p><span style="font-weight: 400; font-size: 10pt;">In our opinion, in all material respects&mdash;</span></p>
+
+    <ol>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The description presents the {{ client }} System that was designed and implemented as of {{ as_of_date|date:'F d, Y' }}, in accordance with the description criteria.</span>
+        </li>
+        <li style="font-weight: 400; font-size: 10pt;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The controls stated in the description were suitably designed as of {{ as_of_date|date:'F d, Y' }}, to provide reasonable assurance that {{ client }}&rsquo;s service commitments and system requirements would be achieved based on the applicable trust services criteria, if its controls operated effectively as of that date and if the subservice organization and user entities applied the complementary controls assumed in the design of {{ client }}&rsquo;s controls as of that date.</span>
+        </li>
+    </ol>
+
+    <p><strong>Restricted Use</strong></p>
+    <p><span style="font-size: 10pt;">This report is intended solely for the information and use of {{ client }}; user entities of the {{ client }} System as of {{ as_of_date|date:'F d, Y' }}, business partners of {{ client }} subject to risks arising from interactions with the {{ client }} System, practitioners providing services to such user entities and business partners, prospective user entities and business partners, and regulators who have sufficient knowledge and understanding of the following:</span></p>
+    <ul>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The nature of the service provided by the service organization.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">How the service organization&rsquo;s system interacts with user entities, business partners, subservice organizations, and other parties.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Internal control and its limitations.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">Complementary user entity controls and complementary subservice organization controls and how those controls interact with the controls at the service organization to achieve the service organization&rsquo;s service commitments and system requirements.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">User entity responsibilities and how they may affect the user entity&rsquo;s ability to effectively use the service organization&rsquo;s services.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The applicable trust services criteria.</span>
+        </li>
+        <li style="font-weight: 400;" aria-level="1">
+            <span style="font-weight: 400; font-size: 10pt;">The risks that may threaten the achievement of the service organization&rsquo;s service commitments and system requirements and how controls address those risks.</span>
+        </li>
+    </ul>
+
+    <p><span style="font-weight: 400; font-size: 10pt;">This report is not intended to be, and should not be, used by anyone other than these specified parties.</span></p>
+    <p> <span id="signature-placeholder">[Signature]</span><br/> <span style="font-size: 10pt; background: yellow">Arlington, Virginia <br /><span style="font-weight: 400; background: yellow">[Date final audit report is issued]</span></span><br /></p>
+  </body>
+</html>

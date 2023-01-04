@@ -1,0 +1,41 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#directoryObjects(displayName,type)",
+    "value": [
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Global Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Teams Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "SharePoint Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Service Support Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Exchange Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Helpdesk Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "Global Reader"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "displayName": "User Administrator"
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "displayName": "Laika, Inc."
+        }
+    ]
+}

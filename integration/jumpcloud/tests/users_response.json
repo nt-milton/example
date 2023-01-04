@@ -1,0 +1,43 @@
+{
+    "totalCount": 2,
+    "results": [
+        {
+            "_id": "635bedaa1ebe9d28990a48c8",
+            "created": "2022-10-28T14:56:42.372Z",
+            "disableIntroduction": false,
+            "email": "albert@heylaika.com",
+            "enableMultiFactor": false,
+            "firstname": "Alberto",
+            "growthData": {},
+            "lastWhatsNewChecked": "2022-10-28T14:56:42.372Z",
+            "lastname": "Williams",
+            "organization": "fake_organization",
+            "provider": null,
+            "role": "53d133c93e45a58b60be47ea",
+            "usersTimeZone": "EDT",
+            "roleName": "Administrator With Billing",
+            "suspended": false,
+            "sessionCount": 13,
+            "totpEnrolled": false
+        },
+        {
+            "_id": "636e70770c9d42eb305c2c72",
+            "created": "2022-11-11T15:55:35.599Z",
+            "disableIntroduction": false,
+            "email": "albertwilliams.xyz@gmail.com",
+            "enableMultiFactor": false,
+            "firstname": "",
+            "growthData": {},
+            "lastWhatsNewChecked": "2022-11-11T15:55:35.599Z",
+            "lastname": "",
+            "organization": "fake_organization",
+            "provider": null,
+            "role": "5f4fd6954485cfa33af14d14",
+            "usersTimeZone": "EDT",
+            "roleName": "Read Only",
+            "suspended": false,
+            "sessionCount": 0,
+            "totpEnrolled": false
+        }
+    ]
+}

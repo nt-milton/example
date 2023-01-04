@@ -1,0 +1,61 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "principalId": {
+      "type": "string",
+      "defaultValue":"42434-423434-343242",
+      "metadata": {
+        "description": "principalId if the user that will be given reader access to the resourceGroup"
+      }
+    },
+    "readerRoleName": {
+      "type": "string",
+      "allowedValues": [
+                "Reader"
+            ],
+      "defaultValue": "Reader",
+      "metadata": {
+        "description": "Reader role to get access to read all information"
+      }
+    },
+    "readerDataAccessRoleName": {
+      "type": "string",
+      "allowedValues": [
+                "ReaderAndDataAccess"
+            ],
+      "defaultValue": "ReaderAndDataAccess",
+      "metadata": {
+        "description": "Reader and Data Access to get StorageAccount data"
+      }
+    }
+  },
+  "variables": {
+    "readerRoleAssignmentName": "[guid(subscription().id, parameters('principalId'), parameters('readerRoleName'))]",
+    "readerDataRoleAssignmentName": "[guid(subscription().id, parameters('principalId'), parameters('readerDataAccessRoleName'))]",
+    "Reader": "[concat('/subscriptions/', subscription().subscriptionId, '/providers/Microsoft.Authorization/roleDefinitions/', 'acdd72a7-3385-48ef-bd42-f606fba81ae7')]",
+    "ReaderAndDataAccess": "[concat('/subscriptions/', subscription().subscriptionId, '/providers/Microsoft.Authorization/roleDefinitions/', 'c12c1c16-33a1-487b-954d-41c89c60f349')]"
+   },
+  "resources": [
+    {
+      "type": "Microsoft.Authorization/roleAssignments",
+      "apiVersion": "2020-04-01-preview",
+      "name": "[variables('readerRoleAssignmentName')]",
+      "properties": {
+        "roleDefinitionId": "[variables(parameters('readerRoleName'))]",
+        "principalId": "[parameters('principalId')]",
+        "scope": "[subscription().id]"
+      }
+    },
+    {
+      "type": "Microsoft.Authorization/roleAssignments",
+      "apiVersion": "2020-04-01-preview",
+      "name": "[variables('readerDataRoleAssignmentName')]",
+      "properties": {
+        "roleDefinitionId": "[variables(parameters('readerDataAccessRoleName'))]",
+        "principalId": "[parameters('principalId')]",
+        "scope": "[subscription().id]"
+      }
+    }
+  ]
+}

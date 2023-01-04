@@ -1,0 +1,18 @@
+{
+   "data":{
+      "projects":{
+         "nodes":[
+            {
+               "id":"6d579f59-0b8e-426f-9ef3-549d2a49afb4",
+               "name":"Second Project",
+               "description":""
+            },
+            {
+               "id":"6d579f59-0b8e-426f-9ef3-549d2a490d3",
+               "name":"First Project",
+               "description":""
+            }
+         ]
+      }
+   }
+}

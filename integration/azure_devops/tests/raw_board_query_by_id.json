@@ -1,0 +1,67 @@
+{
+  "id": "8854ac07-a164-49dd-af23-557bf1c71802",
+  "name": "Azure Boards Laika Integration",
+  "path": "My Queries/Azure Boards Laika Integration",
+  "createdBy": {
+    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "name": "Diego Siciliani <DiegoS@8g0k51.onmicrosoft.com>",
+    "displayName": "Diego Siciliani",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "_links": {
+      "avatar": {
+        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+      }
+    },
+    "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+    "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+    "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+  },
+  "createdDate": "2022-10-17T16:44:01.51Z",
+  "lastModifiedBy": {
+    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "name": "Diego Siciliani <DiegoS@8g0k51.onmicrosoft.com>",
+    "displayName": "Diego Siciliani",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "_links": {
+      "avatar": {
+        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+      }
+    },
+    "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+    "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+    "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+  },
+  "lastModifiedDate": "2022-10-17T16:44:01.51Z",
+  "queryType": "flat",
+  "isPublic": false,
+  "lastExecutedBy": {
+    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "name": "Diego Siciliani <DiegoS@8g0k51.onmicrosoft.com>",
+    "displayName": "Diego Siciliani",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "_links": {
+      "avatar": {
+        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+      }
+    },
+    "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+    "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+    "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+  },
+  "lastExecutedDate": "2022-10-24T14:45:08.637Z",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/wit/queries/8854ac07-a164-49dd-af23-557bf1c71802"
+    },
+    "html": {
+      "href": "https://dev.azure.com/Laika-compliance-test/web/qr.aspx?pguid=dc6f2e94-a5d8-4add-856f-6e4344aa1e95&qid=8854ac07-a164-49dd-af23-557bf1c71802"
+    },
+    "parent": {
+      "href": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/wit/queries/7bb47100-ff01-4f3e-8158-d50f93cf6702"
+    },
+    "wiql": {
+      "href": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/wit/wiql/8854ac07-a164-49dd-af23-557bf1c71802"
+    }
+  },
+  "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/wit/queries/8854ac07-a164-49dd-af23-557bf1c71802"
+}

@@ -1,0 +1,39 @@
+[
+   {
+      "id": 123,
+      "name": "test",
+      "description": "",
+      "entity_type": "workflow",
+      "project_ids": [
+         4
+      ],
+      "states": [
+         {
+            "description": "",
+            "entity_type": "workflow-state",
+            "verb": "None",
+            "name": "Unscheduled",
+            "num_stories": 0,
+            "type": "unstarted",
+            "updated_at": "2020-12-21T19:46:57Z",
+            "id": 500000006,
+            "num_story_templates": 0,
+            "position": 0,
+            "created_at": "2020-12-21T19:46:57Z"
+         },
+         {
+            "description": "",
+            "entity_type": "workflow-state",
+            "verb": "None",
+            "name": "Completed",
+            "num_stories": 0,
+            "type": "unstarted",
+            "updated_at": "2020-12-21T19:46:57Z",
+            "id": 500000011,
+            "num_story_templates": 0,
+            "position": 0,
+            "created_at": "2020-12-21T19:46:57Z"
+         }
+      ]
+   }
+]

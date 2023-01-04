@@ -1,0 +1,8 @@
+{
+  "errors": [
+    {
+      "message": "The bearer token has expired. If you have a refresh token, please use it to request a new bearer token, otherwise allow the user to re-authenticate.",
+      "help": "For more information on API status codes and how to handle them, read the docs on errors: https://asana.com/developers/documentation/getting-started/errors"
+    }
+  ]
+}

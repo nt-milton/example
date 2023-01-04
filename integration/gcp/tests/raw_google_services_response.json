@@ -1,0 +1,17 @@
+{
+  "services":[{
+    "name": "projects/486509248491/services/sqladmin.googleapis.com",
+    "config": {
+      "name": "sqladmin.googleapis.com",
+      "title": "Cloud SQL Admin API",
+      "documentation": {},
+      "quota": {},
+      "authentication": {},
+      "usage": {},
+      "monitoring": {}
+    },
+    "state": "DISABLED",
+    "parent": "projects/486509248491"
+  }
+    ]
+}

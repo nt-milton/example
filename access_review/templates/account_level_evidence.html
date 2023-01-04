@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Account Access Review - Evidence</title>
+	<style>
+		body { font-family: 'Arial'; }
+		h1 { 
+			font-size: 32px;
+			text-align: center;
+			font-weight: 400;
+			margin-bottom: 20px;
+		}
+		caption {
+			font-size: 20px;
+			color: #434343;
+			font-weight: 200;
+			margin-bottom: 40px;
+		}
+		table {
+			border: 1px solid #000000;
+			width: 100%;
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid #000000;
+			padding: 10px;
+			text-align: left;
+		}
+		th {
+			width: 20%;
+		}
+		.review-status td {
+			text-transform: capitalize;
+		}
+		ul {
+			padding-left: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<h1>Account Access Review - Evidence</h1>
+		<table>
+			<caption>Summary of change</caption>
+			<tr>
+				<th id="access_review_name">Access Review Name</th>
+				<td>{{ access_review_name }}</td>
+			</tr>
+			<tr>
+				<th id="vendor_name">Vendor Name</th>
+				<td>{{ vendor_name }}</td>
+			</tr>
+			<tr>
+				<th id="account_id">Account Name/ID</th>
+				{% if account_name %}
+				<td>{{ account_name }}; {{ account_id }}</td>
+				{% else %}
+				<td>{{ account_id }}</td>
+				{% endif %}
+			</tr>
+			<tr>
+				<th id="email">Email</th>
+				<td><a href="{{ email }}">{{ email }}</a></td>
+			</tr>
+			<tr>
+				<th id="date_of_change">Date of change</th>
+				<td>{{ updated_at }}</td>
+			</tr>
+			<tr class="review-status">
+				<th id="type_of_change">Type of change</th>
+				<td>{{ update_type }}</td>
+			</tr>
+			<tr>
+				<th id="reviewers">Reviewed by</th>
+				<td>
+					<ul>
+					{% for reviewer in reviewers %}
+						<li>{{ reviewer }}</li>
+					{% endfor %}
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th id="access_change">Access Change</th>
+				<td>
+					{% if is_deleted %}
+					The record was deleted
+					{% else %}
+					<ul>
+						<li>
+							Previous state:
+							<ul>
+								<li>{{ update_details.original_state }}</li>
+							</ul>
+						</li>
+						<li>
+							Current state:
+							<ul>
+								<li>{{ update_details.current_state }}</li>
+							</ul>
+						</li>
+					</ul>
+					{% endif %}
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
+

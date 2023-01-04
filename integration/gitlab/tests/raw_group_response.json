@@ -1,0 +1,38 @@
+{
+  "data": {
+        "currentUser": {
+            "groupMemberships": {
+                "pageInfo": {
+                    "endCursor": "eyJpZCI6IjYwMzczMTIifQ",
+                    "hasNextPage": false
+                },
+                "nodes": [
+                    {
+                        "group": {
+                            "fullPath": "laika-test-one",
+                            "fullName": "laika-test-1"
+                        }
+                    },
+                    {
+                        "group": {
+                            "fullPath": "laika-test-two",
+                            "fullName": "laika-test-2"
+                        }
+                    },
+                    {
+                        "group": {
+                            "fullPath": "laika-test-three",
+                            "fullName": "laika-test-3"
+                        }
+                    },
+                    {
+                        "group": {
+                            "fullPath": "laika-test-four",
+                            "fullName": "laika-test-4"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

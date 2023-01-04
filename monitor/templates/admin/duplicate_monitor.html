@@ -1,0 +1,39 @@
+{% extends "admin/base_site.html" %}
+{% load i18n admin_urls admin_modify static %}
+
+{% block extrastyle %}
+    {{ block.super }}
+    <link rel="stylesheet" type="text/css" href="{% static "admin/css/forms.css" %}"/>
+{% endblock %}
+
+{% block title %}Duplicate Monitor | {% trans 'Django site admin' %}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">{% trans 'Laika Admin' %}</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+  <a href="{% url 'admin:index' %}">{% trans 'Home' %}</a> ›
+  <a href="{% url 'admin:app_list' app_label='monitor' %}">Monitor</a> ›
+  <a href="/admin/monitor/monitor">Monitors</a> ›
+  {% trans 'Clone Organization Monitor' %} {{ original|truncatewords:"18" }}
+</div>
+{% endblock %}
+
+{% block content %}
+<form method="post" action="{% url 'clone_monitor' %}">
+    {% csrf_token %}
+    <div>
+        {% for fieldset in adminform %}
+        {% include "admin/includes/fieldset.html" %}
+        {% endfor %}
+    </div>
+    <div class="submit-row">
+        <p class="deletelink-box"><a href="/admin/monitor/monitor/" class="deletelink">Cancel</a></p>
+        <input type="submit" name="apply" value="Duplicate"/>
+    </div>
+</form>
+{% endblock %}

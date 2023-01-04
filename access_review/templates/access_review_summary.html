@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Final Access Review</title>
+	<style>
+		body { font-family: 'Arial'; }
+		h1 { 
+			font-size: 32px;
+			text-align: center;
+			font-weight: 400;
+		}
+		h2 {
+			font-size: 20px;
+			color: #434343;
+			font-weight: 200;
+			margin-bottom: 15px;
+			margin-top: 20px;
+		}
+		p {
+			margin: 0;
+		}
+		table {
+			border: 1px solid #000000;
+			width: 100%;
+			border-collapse: collapse;
+			table-layout: fixed;
+		}
+		table > caption {
+			text-align: left;
+			font-weight: bold;
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+		thead { display: table-row-group; }
+		td {
+			border: 1px solid #000000;
+			padding: 10px;
+			text-align: left;
+			word-wrap: break-word;
+		}
+		ul {
+			padding-left: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<h1>{{ organization_name }} Access Review Summary</h1>
+        <h2>Overview</h2>
+        {{ organization_name }}
+        <p>Access Review Name: {{ access_review_name }}</p>
+        <p>Access Review Start Date: {{ created_at }}</p>
+        <p>Started by: {{ created_by }}</p>
+        <p>Access Review End Date: {{ completed_at }}</p>
+        <p>Ended By: {{ completed_by }}</p>
+        <h2>Purpose</h2>
+        <p>
+            This template is intended to be used as an artifact 
+            for the access review procedure. The requirement is 
+            to review access for the in-scope vendors of {{ organization_name }} 
+            on a {{ frequency_of_review }} basis.
+        </p>
+        <h2>Scope</h2>
+        <p>
+            {{ organization_name }} has marked the following vendors as in scope for the access review.
+            <ul>
+                {% for vendor in vendors %}
+                    <li>Vendor #{{ forloop.counter }}: {{ vendor.name }}</li>
+                {% endfor %}
+            </ul>
+        </p>
+        {% for vendor in vendors %}
+        <h2>Vendor: {{ vendor.name }}</h2>
+        <p>Total accounts reviewed: {{ vendor.number_of_accounts }}</p>
+		</br>
+        <table>
+            <caption>Accounts confirmed with no changes</caption>
+            <thead>
+                <tr>
+                    <td>Account Name/ID</td>
+                    <td>User Email</td>
+                    <td>Reviewed by</td>
+                    <td>User Role/Groups</td>
+                    <td>Time of review</td>
+                    <td>Additional Notes</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for account in vendor.unchanged %}
+                <tr>
+                    <td>{{ account.account_name }}</td>
+                    <td>{{ account.user_email }}</td>
+                    <td>{{ account.reviewed_by }}</td>
+                    <td>{{ account.roles }}</td>
+                    <td>{{ account.time_of_review }}</td>
+                    <td>{{ account.notes }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+		</br>
+        <table>
+            <caption>Accounts modified during access review</caption>
+            <thead>
+                <tr>
+                    <td>Account Name/ID</td>
+                    <td>User Email</td>
+                    <td>Reviewed by</td>
+                    <td>Latest User Role/Groups</td>
+                    <td>Time of modification</td>
+                    <td>Additional Notes</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for account in vendor.modified %}
+                <tr>
+                    <td>{{ account.account_name }}</td>
+                    <td>{{ account.user_email }}</td>
+                    <td>{{ account.reviewed_by }}</td>
+                    <td>{{ account.roles }}</td>
+                    <td>{{ account.time_of_review }}</td>
+                    <td>{{ account.notes }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+		</br>
+        <table>
+            <caption>Accounts revoked during access review</caption>
+            <thead>
+                <tr>
+                    <td>Account Name/ID</td>
+                    <td>User Email</td>
+                    <td>Reviewed by</td>
+                    <td>Date Revoked</td>
+                    <td>Additional Notes</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for account in vendor.revoked %}
+                <tr>
+                    <td>{{ account.account_name }}</td>
+                    <td>{{ account.user_email }}</td>
+                    <td>{{ account.reviewed_by }}</td>
+                    <td>{{ account.time_of_review }}</td>
+                    <td>{{ account.notes }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endfor %}
+	</div>
+</body>
+</html>
+

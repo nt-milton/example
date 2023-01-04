@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="Content-Type" content="text/html charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <style>
+            @media all {
+                /* region: GLOBAL START */
+                html,
+                body, p {
+                    margin: 0;
+                    padding: 0;
+                }
+            }
+        </style>
+        <title>Laika</title>
+    </head>
+<body>
+<table
+        style="background-color: #ffffff;border-collapse: separate;max-width: 600px;border: none;margin-left: auto;margin-right: auto;" aria-label="delegate-integration"
+>
+    <tbody>
+    <tr>
+        <th
+                id="headerImage"
+                colspan="3"
+                class="hero"
+                style="border: none; padding-top: 24px; padding-bottom: 24px; background-image: url(https://laika-static-documents.s3.amazonaws.com/Email+Templates/header-onboarding-documentation.png); background-size: cover;"
+        >
+            <img
+                    src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-header.png"
+                    alt="Header Logo"
+                    style="width: 95px;max-width: 95px;height: auto;display: block;margin: 0 auto;"
+            />
+        </th>
+    </tr>
+    <tr>
+        <td
+                colspan="2"
+                class="hero"
+                style="padding: 50px 20px 12px 20px;width: 600px;margin: 0 auto;"
+        >
+            <div style="display: flex;">
+                <div style="margin-left: 48px;">
+                    <span style="font-family: Rubik, Roboto, Helvetica, Arial, Verdana, sans-serif; color: #232735;font-size:24px;">
+                    </span>
+                    <span style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif; color: #232735;font-size:14px; line-height: 24px; margin-top: 30px; display: block;">
+                        <p style="margin-top: 20px;">
+                            Hello <strong>{{ tech_user_first_name }}</strong>
+                        </p>
+                        <p style="margin-top: 20px;">
+                            As you may know, <strong>{{ organization_name }}</strong> recently partnered up with Laika in order to build and maintain your compliance program.
+                            <br/>
+                            <br/>
+                            Your colleague, <strong>{{ user_first_name }} {{ user_last_name }}</strong>, cc’d, 
+                            indicated that you were the primary technical point of contact for your organization and can answer some questions about how your organization’s infrastructure is configured.
+                            Here’s a <a href={{ call_to_action_url }} target="_blank" rel="noopener" style="color: #3399FF; font-weight: bold">Typeform</a> that you can use to send over those details. If you have any questions, please feel free to reply all to this email and our support team (also cc’d) will be happy to help.
+                        </p>
+                    </span>
+                    <br/>
+                </div>
+            </div>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td
+                class="contents"
+                style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background-color: #ffffff;text-align: center;padding-top:36px;"
+        >
+
+            <a href={{ call_to_action_url }} target="_blank" rel="noopener">
+                <button
+                        style="background: #4C3068;
+                height: 40px;
+                width: 237px;
+                color: #FFFFFF;
+                font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 12px;
+                line-height: 16px;
+                font-weight: bold;
+                border: none;
+                border-radius: 2px;
+                cursor: pointer;">
+                    OPEN TYPEFORM
+                </button>
+            </a>
+            <p
+                    class="footer"
+                    style="margin: 0;padding: 80px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: center;"
+            >
+                <img
+                        src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-footer.png"
+                        alt="Footer Logo"
+                        style="width: 78px;max-width: 78px;height: auto;"
+                />
+            </p>
+            <div
+                style="margin: 1.5rem 0 3rem 0;color: #A1A4B1;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;line-height: 20px;text-align: center;"
+            >
+                <p>The contents of this e-mail message and any attachments are confidential 
+                    and may be legally privileged. If you are not the intended recipient, 
+                    notify the sender by replying to this e-mail and delete this message and 
+                    its attachments, if any. To ensure delivery to your inbox, add 
+                    <a
+                        href="mailto:concierge@heylaika.com"
+                        style="color: #7AACDE;text-decoration:underline;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;"
+                    >
+                        concierge@heylaika.com
+                    </a>
+                    and 
+                    <a
+                        href="mailto:support@heylaika.com"
+                        style="color: #7AACDE;text-decoration:underline;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 12px;line-height: 20px;text-align: center;"
+                    >
+                        support@heylaika.com
+                    </a> 
+                    to your address book.
+                </p>
+            </div>
+
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

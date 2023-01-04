@@ -1,0 +1,1905 @@
+{
+  "id": 2096,
+  "name": "CRM",
+  "vendors": [
+    {
+      "id": 1113,
+      "name": "Salesforce",
+      "description": "Salesforce.com, Inc. is an American cloud computing company headquartered in San Francisco, California. Though its revenue comes from a customer relationship management product, Salesforce also sells commercial applications of social networking through...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesforce.com",
+      "website": "salesforce.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.salesforce.com/company/privacy/"
+        },
+        { "protocolId": 3, "sourceUrl": "https://compliance.salesforce.com/" },
+        { "protocolId": 9, "sourceUrl": "https://compliance.salesforce.com/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://compliance.salesforce.com/en/truste-certified-privacy-seal"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://compliance.salesforce.com/en/privacy-shield"
+        },
+        { "protocolId": 1, "sourceUrl": "https://compliance.salesforce.com/" },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://compliance.salesforce.com/en"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://compliance.salesforce.com/en"
+        },
+        { "protocolId": 15, "sourceUrl": "https://compliance.salesforce.com/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1221,
+      "name": "Okta",
+      "description": "Okta, Inc. is a publicly traded identity and access management company based in San Francisco.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/okta.com",
+      "website": "okta.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.okta.com/gdpr/" },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        { "protocolId": 3, "sourceUrl": "https://www.okta.com/hipaa/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        }
+      ],
+      "categories": [
+        { "id": 2059, "name": "Security" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1124,
+      "name": "IBM",
+      "description": "International Business Machines Corporation is an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ibm.com",
+      "website": "ibm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.ibm.com/privacy/details/us/en/privacy_shield.html"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.ibm.com/privacy/details/us/en/privacy_shield.html"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.ibm.com/privacy/us/en/" }
+      ],
+      "categories": [
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1827, "name": "Hardware" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2545, "name": "Quantum Computing" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 2170, "name": "Business Information Systems" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Pipedrive",
+      "description": "Pipedrive is a cloud-based sales software company with offices in Tallinn and Tartu, Estonia; New York City, New York; Lisbon, Portugal, London, United Kingdom and Prague, Czech Republic.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pipedrive.com",
+      "website": "pipedrive.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.pipedrive.com/en/gdpr" },
+        { "protocolId": 2, "sourceUrl": "https://www.pipedrive.com/en/privacy" }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 515,
+      "name": "G2",
+      "description": "G2 is a peer-to-peer review site headquartered in Chicago, Illinois.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/g2.com",
+      "website": "g2.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.g2.com/static/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.g2.com/static/privacy" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Helpshift",
+      "description": "Helpshift enables brands to deliver superior digital customer service digital channels with messaging-based support and AI-powered automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/helpshift.com",
+      "website": "helpshift.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Ontraport",
+      "description": "Ontraport is a \"business automation software for entrepreneurs, solopreneurs and small businesses\" that incorporates tools like CRM, marketing automation, ECommerce and reporting\"",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ontraport.com",
+      "website": "ontraport.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.ontraport.com/hc/en-us/articles/360003979034-ONTRAPORT-and-GDPR"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.ontraport.com/hc/en-us/articles/360003979034-ONTRAPORT-and-GDPR"
+        },
+        { "protocolId": 4, "sourceUrl": "https://ontraport.com/legal" }
+      ],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1993, "name": "Direct Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2347, "name": "Affiliate Marketing" }
+      ]
+    },
+    {
+      "id": 764,
+      "name": "SendGrid",
+      "description": "SendGrid is a Denver, Colorado-based customer communication platform for transactional and marketing email.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sendgrid.com",
+      "website": "sendgrid.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://sendgrid.com/policies/security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://sendgrid.com/policies/privacy/website-privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://sendgrid.com/resource/general-data-protection-regulation-2/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://sendgrid.com/policies/privacy/services-privacy-policy/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://sendgrid.com/policies/security/"
+        }
+      ],
+      "categories": [
+        { "id": 2170, "name": "Business Information Systems" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 1071,
+      "name": "Freshworks",
+      "description": "Feature packed product suite for businesses of all sizes. Refreshing cloud software your teams will love. Support | Sales | ITSM | Cloud PBX",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/freshworks.com",
+      "website": "freshworks.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.freshworks.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.freshworks.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.freshworks.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Recruitee",
+      "description": "Recruitee is Software as a service that functions as a Talent Acquisition Platform, formerly known as an applicant tracking system.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/recruitee.com",
+      "website": "recruitee.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.recruitee.com/en/articles/60300-is-recruitee-compliant-with-gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2190, "name": "Recruiting" }
+      ]
+    },
+    {
+      "id": 941,
+      "name": "Yesware",
+      "description": "Yesware helps build lasting business relationships, right from your inbox. A sales engagement platform designed for sales professionals and account managers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/yesware.com",
+      "website": "yesware.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.yesware.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.yesware.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.yesware.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 1024,
+      "name": "DealerSocket",
+      "description": "Our DealerSocket culture can be summed up with the Hawaiian phrase “KINA ‘OLE” which means: Doing the Right Thing, In the Right Way, At the Right Time, In the Right Place, To the Right Person, For the Right Reason, With the Right Feeling, The First Time.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dealersocket.com",
+      "website": "dealersocket.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1958, "name": "Automotive" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Intercom",
+      "description": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/intercom.com",
+      "website": "intercom.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.intercom.com/blog/announcing-soc-2-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Insightly",
+      "description": "Insightly is the #1 CRM software for Gmail, G Suite and Outlook. Marketing, Sales and Projects together at last on one cloud-based unified platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/insightly.com",
+      "website": "insightly.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.insightly.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.insightly.com/privacy-policy/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.insightly.com/why-insightly-crm/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Leanplum",
+      "description": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a single mobile marketing platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leanplum.com",
+      "website": "leanplum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2219, "name": "Intelligent Systems" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 679,
+      "name": "Vtiger CRM",
+      "description": "Vtiger CRM is online software that helps 300,000+ businesses grow sales, improve marketing ROI, and deliver great customer service. Try it free for 15 days!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vtiger.com",
+      "website": "vtiger.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vtiger.com/policy-legal-center/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.vtiger.com/policy-legal-center/hipaa-hitech-compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.vtiger.com/policy-legal-center/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Outreach",
+      "description": "The Outreach Sales Engagement Platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals. Request a demo today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/outreach.io",
+      "website": "outreach.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.outreach.io/privacy-policy"
+        },
+        { "protocolId": 12, "sourceUrl": "https://www.outreach.io/trust" },
+        { "protocolId": 11, "sourceUrl": "https://www.outreach.io/trust" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.outreach.io/trust/gdpr-compliance"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.outreach.io/trust/gdpr-compliance"
+        },
+        { "protocolId": 1, "sourceUrl": "https://www.outreach.io/trust" }
+      ],
+      "categories": [
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 685,
+      "name": "NationBuilder",
+      "description": "software for leaders",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nationbuilder.com",
+      "website": "nationbuilder.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://nationbuilder.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2352, "name": "CMS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2036, "name": "Politics" }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Streak",
+      "description": "CRM in your Inbox. Streak helps you with business processes inside Gmail.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/streak.com",
+      "website": "streak.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2239, "name": "Google" }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Maropost",
+      "description": "Maropost simplifies customer engagement with a unified platform designed to connect companies with their customers at every step of their journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maropost.com",
+      "website": "maropost.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://trust.maropost.com/gdpr/" },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 823,
+      "name": "Vendasta",
+      "description": "The easiest way to sell digital solutions under your own brand. Vendasta is a white-label platform for companies who provide digital solutions to SMBs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vendasta.com",
+      "website": "vendasta.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.vendasta.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 734,
+      "name": "ClickDimensions",
+      "description": "ClickDimensions Marketing Automation Software Solution for Microsoft Dynamics 365. With our easy to use marketing solution, we make it easy for you to achieve marketing success by engaging customers and prospects through emails, web forms, surveys, and...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clickdimensions.com",
+      "website": "clickdimensions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 1143,
+      "name": "Delighted",
+      "description": "Delighted uses Net Promoter Score to gather real feedback from your customers – in minutes, not weeks.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/delighted.com",
+      "website": "delighted.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://delighted.com/gdpr" },
+        { "protocolId": 2, "sourceUrl": "https://delighted.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://delighted.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1884, "name": "Business Development" },
+        { "id": 2409, "name": "Consumer Reviews" }
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "Classy",
+      "description": "Classy is a software company and online fundraising platform designed for nonprofit organizations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/classy.org",
+      "website": "classy.org",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1818, "name": "Events" },
+        { "id": 1866, "name": "Crowdfunding" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2226, "name": "FinTech" }
+      ]
+    },
+    {
+      "id": 608,
+      "name": "InsightSquared",
+      "description": "Use data from across your business to optimize revenue operations and achieve predictable growth with InsightSquared’s AI-powered revenue intelligence software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/insightsquared.com",
+      "website": "insightsquared.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.insightsquared.com/docs/privacypolicy/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 636,
+      "name": "JobDiva",
+      "description": "JobDiva is the top recruiting and staffing ATS, CRM, and VMS focused on your success! JobDiva offers recruiters unlimited free training of its staffing & recruiting solution, including resume aggregation and applicant tracking. Request your free demo w...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jobdiva.com",
+      "website": "jobdiva.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.jobdiva.com/privacy/" },
+        { "protocolId": 14, "sourceUrl": "https://www.jobdiva.com/privacy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://jd.jobdiva.com/jobdiva-integrations-security-partnerships"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.jobdiva.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 2474, "name": "Service Industry" }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Punchh",
+      "description": "Headquartered in Mountain View, CA, Punchh is the leading fully-integrated, transformative marketing solution for restaurants. Punchh’s Restaurant Marketing CloudTM helps restaurants engage customers across any channel or interaction, predict consumer ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/punchh.com",
+      "website": "punchh.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://punchh.com/privacy_policy" }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "ServiceTitan",
+      "description": "The leading service businesses run on ServiceTitan. Learn why we are the #1 home service software & Mobile App for home service companies. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/servicetitan.com",
+      "website": "servicetitan.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2328, "name": "Home Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 927,
+      "name": "SugarCRM",
+      "description": "SugarCRM is a software company based in Cupertino, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sugarcrm.com",
+      "website": "sugarcrm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sugarcrm.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sugarcrm.com/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2027, "name": "Lead Management" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "LeadSquared",
+      "description": "Complete Marketing Automation and CRM software for businesses. Organize your lead capture, lead management, sales management & analytics in one platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leadsquared.com",
+      "website": "leadsquared.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.leadsquared.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.leadsquared.com/gdpr-dpa/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.leadsquared.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 762,
+      "name": "Contactually",
+      "description": "Contactually is an intelligent CRM for real estate professionals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/contactually.com",
+      "website": "contactually.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 923,
+      "name": "InsideView",
+      "description": "InsideView is a software as a service company that gleans insights and relationships from more than 40,000 sources of business information, contact data, online news, and social media and customer CRM data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/insideview.com",
+      "website": "insideview.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 876,
+      "name": "Cirrus Insight",
+      "description": "Cirrus Insight is a customer relationship management application developed by Laguna Hills, CA-based Cirruspath that integrates Salesforce with third party services, including Gmail and Microsoft's Office 365.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cirrusinsight.com",
+      "website": "cirrusinsight.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.cirrusinsight.com/terms" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://tracking.cirrusinsight.com/6529be64-64fd-4f0f-a955-ab4e69e19eb2/ziprecruiter-com-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Talkdesk",
+      "description": "Talkdesk is a cloud-based contact center and artificial intelligence software provider.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkdesk.com",
+      "website": "talkdesk.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.talkdesk.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.talkdesk.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.talkdesk.com/hc/en-us/articles/360004095931-Talkdesk-and-GDPR"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2463, "name": "Call Center" }
+      ]
+    },
+    {
+      "id": 973,
+      "name": "LiveIntent",
+      "description": "Transform email into the simplest, most powerful way to resolve identity while driving sales and increasing revenue.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liveintent.com",
+      "website": "liveintent.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2324, "name": "Ad Retargeting" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2047, "name": "Publishing" }
+      ]
+    },
+    {
+      "id": 942,
+      "name": "TrackMaven",
+      "description": "TrackMaven’s marketing analytics platform helps you prove ROI and improve results on 18 digital channels including social, ads, PR, automation, and CRM.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trackmaven.com",
+      "website": "trackmaven.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 868,
+      "name": "LevelUp",
+      "description": "LevelUp is an American mobile ordering and mobile payments platform created by Boston, Massachusetts–based start-up SCVNGR.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thelevelup.com",
+      "website": "thelevelup.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 2055, "name": "Restaurants" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2123, "name": "Hospitality" },
+        { "id": 2438, "name": "Food and Beverage" }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Salesfusion",
+      "description": "Salesfusion helps turn contacts into customers for life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesfusion.com",
+      "website": "salesfusion.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.salesfusion.com/gdpr/" },
+        { "protocolId": 7, "sourceUrl": "https://www.salesfusion.com/gdpr/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.salesfusion.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "TeamSupport",
+      "description": "Build stronger customer relationships with TeamSupport. Learn how our customer support software is built to improve B2B customer loyalty for your business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/teamsupport.com",
+      "website": "teamsupport.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.teamsupport.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Gong.io",
+      "description": "Generate more revenue by having better sales conversations with the #1 conversation intelligence platform for sales",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gong.io",
+      "website": "gong.io",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://www.gong.io/security/" },
+        { "protocolId": 1, "sourceUrl": "https://www.gong.io/security/" },
+        { "protocolId": 4, "sourceUrl": "https://www.gong.io/security/" },
+        { "protocolId": 7, "sourceUrl": "https://www.gong.io/faq/" },
+        { "protocolId": 11, "sourceUrl": "https://www.gong.io/security/" },
+        { "protocolId": 2, "sourceUrl": "https://www.gong.io/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2467, "name": "Sales" }
+      ]
+    },
+    {
+      "id": 935,
+      "name": "Teamleader",
+      "description": "Faced with a mountain of administration? Don’t panic. We’ll guide you over.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/teamleader.eu",
+      "website": "teamleader.eu",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Repsly",
+      "description": "Repsly, Inc. is a B2B software as a service (SaaS) company focused on providing mobile CRM and workforce tracking system for field teams. With customers in over 40 countries, Repsly works with organizations with field representatives that visit establi...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/repsly.com",
+      "website": "repsly.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2305, "name": "Mobile Apps" }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Kindful",
+      "description": "Our Nonprofit CRM features everything you need to helps you organize your data and manage your donors: all in a simple, online platform. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kindful.com",
+      "website": "kindful.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1897, "name": "Payments" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Salsa Labs",
+      "description": "Explore Salsa's Powerful Nonprofit Software for Donor Management, Nonprofit Marketing, Online Fundraising, and Online Advocacy. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salsalabs.com",
+      "website": "salsalabs.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.salsalabs.com/website-privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.salsalabs.com/privacy-shield-privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.salsalabs.com/privacy-shield-privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Optimove",
+      "description": "Optimove is a privately held company that develops and markets a software as a service software product, also called Optimove, Optimove’s product has a Customer Data Platform at its core and applies algorithmic optimization to autonomously improve mult...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/optimove.com",
+      "website": "optimove.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.optimove.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.optimove.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 1101,
+      "name": "Icertis",
+      "description": "Icertis is a software company, providing contract management software to enterprise businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/icertis.com",
+      "website": "icertis.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.icertis.com/privacy-statement/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.icertis.com/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2090, "name": "Procurement" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Cosential",
+      "description": "Cosential is the CRM and proposal automation solution for the AEC industry.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "cosential.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 1931, "name": "Project Management" }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Lucidchart",
+      "description": "At Lucid, we help millions connect the dots and bring big ideas to life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/golucid.co",
+      "website": "golucid.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 599,
+      "name": "sales-i",
+      "description": "sales-i transforms the way manufacturers, wholesalers and distributors work. Our easy-to-use sales performance software makes every sales call productive and relevant. Turn your data into more sales, fast.    We identify exactly where your sales are fa...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sales-i.com",
+      "website": "sales-i.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2467, "name": "Sales" }
+      ]
+    },
+    {
+      "id": 810,
+      "name": "Kintone",
+      "description": "Kintone no-code/low-code application platform allows business users to quickly build awesome web apps and dynamic databases for their team without coding.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kintone.com",
+      "website": "kintone.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Trumpia",
+      "description": "Trumpia was ranked 46th in Software Companies, 33rd in the Los Angeles Metro Area, 80th in Top 100 California Companies, and 515th overall for the Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trumpia.com",
+      "website": "trumpia.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 962,
+      "name": "GBG Loqate",
+      "description": "Enhance data quality Address Verification and ZIP Code Validation. Bath Cleansing of location data is also available from Loqate, a GBG solution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/loqate.com",
+      "website": "loqate.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.loqate.com/en-us/privacy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.loqate.com/en-us/our-platform/"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1963, "name": "Location Based Services" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1930, "name": "Professional Services" }
+      ]
+    },
+    {
+      "id": 655,
+      "name": "Sellsy",
+      "description": "Sellsy est une solution française de gestion d'entreprise. CRM, facturation, comptabilité et support sont intégrés sur une même interface intuitive.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sellsy.com",
+      "website": "sellsy.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://go.sellsy.com/en/legacy-information/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 381,
+      "name": "VanillaSoft",
+      "description": "Engage with leads & close deals with VanillaSoft. Our sales engagement software for inside sales helps sales development reps streamline processes. Get a free trial!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vanillasoft.com",
+      "website": "vanillasoft.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vanillasoft.com/company/news/vanillasoft-outlines-robust-privacy-and-security-protections-for-gdpr-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2027, "name": "Lead Management" }
+      ]
+    },
+    {
+      "id": 997,
+      "name": "Maximizer Software",
+      "description": "CRM Software that's affordable, easy-to-use, proven and trusted around the world for over 3 decades. Best-in-class Customer Support. Try Us Free for 30-Days!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maximizer.com",
+      "website": "maximizer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.maximizer.com/about-us/emea-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 656,
+      "name": "Vindicia",
+      "description": "Vindicia subscription billing and recurring payment solutions help you optimize online business models leading to higher recurring revenue.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vindicia.com",
+      "website": "vindicia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vindicia.com/solutions/data-privacy-and-gdpr-compliance"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.vindicia.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.vindicia.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1808, "name": "Freemium" }
+      ]
+    },
+    {
+      "id": 763,
+      "name": "Mintigo",
+      "description": "Know Who Your Ideal Customers Are & How to Engage With Them. ABM Targeting, Predictive Lead Scoring, Pipeline Generation, & Sales Enablement Powered by AI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mintigo.com",
+      "website": "mintigo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 607,
+      "name": "Pipeliner CRM",
+      "description": "The Best CRM, all About Sales! Sales enablement tool, a simple, winning formula. Focus on pipeline management, sales process & analytics to maximize revenue",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pipelinersales.com",
+      "website": "pipelinersales.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.pipelinersales.com/privacy/eu-data-protection/"
+        }
+      ],
+      "categories": [
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1816, "name": "Social CRM" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1992, "name": "Direct Sales" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "ZAP",
+      "description": "ZAP are creators of ZAP Data Hub, ELT data warehouse automation software optimized for Microsoft Dynamics, Sage and Power BI. Visit ZAP for a demo.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zapbi.com",
+      "website": "zapbi.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.zapbi.com/gdpr-policy/" }
+      ],
+      "categories": [
+        { "id": 2419, "name": "Enterprise Resource Planning (ERP)" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "SutiSoft",
+      "description": "SutiSoft is an IT solutions company dedicated to the strategic synchronization of tailored business solutions with best-in-class security to meet customer's critical business needs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sutisoft.com",
+      "website": "sutisoft.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1974, "name": "Cloud Management" }
+      ]
+    },
+    {
+      "id": 831,
+      "name": "Lattice Engines",
+      "description": "Lattice Engines is a technology provider that delivers predictive marketing and sales cloud applications to business-to-business companies.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lattice-engines.com",
+      "website": "lattice-engines.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.lattice-engines.com/about-us/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 695,
+      "name": "MapAnything",
+      "description": "Salesforce Maps is a Location Intelligence Platform in Salesforce that helps sales, service, and marketing teams increase revenue and boost productivity. Available on the AppExchange.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mapanything.com",
+      "website": "mapanything.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.salesforce.com/company/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1963, "name": "Location Based Services" }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "Hot Prospector",
+      "description": "Sales software to boost your sales and lead management. Hot Prospector sales team management software increases conversions with automated ringless voicemails, sms, and email drips .",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hotprospector.com",
+      "website": "hotprospector.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Cogito",
+      "description": "Learn how Cogito can help your enterprise customer service and sales call centers build better relationships with your customers with real time call center analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cogitocorp.com",
+      "website": "cogitocorp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cogitocorp.com/security-and-compliance/"
+        },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://www.cogitocorp.com/security-and-compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cogitocorp.com/security-and-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cogitocorp.com/security-and-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1876, "name": "Health Care" }
+      ]
+    },
+    {
+      "id": 797,
+      "name": "Jenzabar",
+      "description": "At Jenzabar, we translate advances in technology into advances in educational opportunities for more than 1,350 campuses worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jenzabar.com",
+      "website": "jenzabar.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2111, "name": "Education" }
+      ]
+    },
+    {
+      "id": 633,
+      "name": "NewVoiceMedia",
+      "description": "NewVoiceMedia is a cloud contact centre and inside sales platform designed specifically for Salesforce.  Learn how you can sell more & serve better.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/newvoicemedia.com",
+      "website": "newvoicemedia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Silverline",
+      "description": "Silverline is a Salesforce Platinum Partner offering strategic Advisory services, Salesforce implementation, Salesforce Managed Services, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/silverlinecrm.com",
+      "website": "silverlinecrm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2316, "name": "Enterprise" }
+      ]
+    },
+    {
+      "id": 834,
+      "name": "Swiftpage",
+      "description": "Act! is a customer relationship management software application which is used to keep track of client and prospect details in a single database that can be shared by multiple users.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/swiftpage.com",
+      "website": "swiftpage.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.swiftpage.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2058, "name": "Contact Management" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 590,
+      "name": "SofterWare",
+      "description": "SofterWare stays true to our roots with innovative products that make our clients’ jobs easier.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/softerware.com",
+      "website": "softerware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.softerware.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1866, "name": "Crowdfunding" },
+        { "id": 1896, "name": "Child Care" },
+        { "id": 2202, "name": "Mobile Payments" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1897, "name": "Payments" }
+      ]
+    },
+    {
+      "id": 673,
+      "name": "BrandMaker",
+      "description": "BrandMaker enables the planning, budgeting, execution, and measurement of your marketing efforts. One connected platform to run your marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brandmaker.com",
+      "website": "brandmaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Apptivo",
+      "description": "Apptio is a Bellevue, Washington-based company founded in 2007 that develops technology business management software as a service applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptivo.com",
+      "website": "apptivo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Avature",
+      "description": "Avature is a privately held global Human Capital Management software company which sells software as a service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/avature.net",
+      "website": "avature.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.avature.net/website-privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.avature.net/website-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1946, "name": "Career Planning" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1860, "name": "College Recruiting" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Agiloft",
+      "description": "Agiloft, Inc. is a technology company specializing in business process management software in Redwood City, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/agiloft.com",
+      "website": "agiloft.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.agiloft.com/privacy-hosted.htm"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.agiloft.com/privacy-hosted.htm"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.agiloft.com/privacy-shield-notice.html"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Braze",
+      "description": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/braze.com",
+      "website": "braze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified "
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.braze.com/perspectives/article/hipaa-compliance"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 222,
+      "name": "ActiveCampaign",
+      "description": "Integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with sales automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/activecampaign.com",
+      "website": "activecampaign.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.activecampaign.com/gdpr-updates/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.activecampaign.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.activecampaign.com/legal/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Acumatica",
+      "description": "Acumatica, founded in 2008, is a technology provider that develops cloud- and browser-based enterprise resource planning software for small and medium-sized businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/acumatica.com",
+      "website": "acumatica.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1012,
+      "name": "Apto",
+      "description": "Apto's no-hassle, intelligent CRM software helps commercial real estate brokers find, win and execute deals. Learn why nearly 10,000 brokers rely on Apto.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apto.com",
+      "website": "apto.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2011, "name": "Commercial Real Estate" }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Ascendix Technologies",
+      "description": "We are a CRM consutling firm from Dallas, Texas. Salesforce, Dynamics 365 Consulting services, app development. CRM software for commercial real estate.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ascendix.com",
+      "website": "ascendix.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2467, "name": "Sales" },
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2241, "name": "Software Engineering" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2011, "name": "Commercial Real Estate" },
+        { "id": 1971, "name": "Resorts" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1839, "name": "Real Estate" }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Bloomerang",
+      "description": "Try donor management software that's intuitive, yet comprehensive. Bloomerang's CRM and fundraising solution helps to increase donor retention and revenue!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bloomerang.co",
+      "website": "bloomerang.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 418,
+      "name": "Bullhorn",
+      "description": "Automate your recruiting lifecycle and make up to 43% more placements with Bullhorn. Demo our leading applicant tracking system and CRM for staffing firms!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bullhorn.com",
+      "website": "bullhorn.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.bullhorn.com/gdpr-commitment-statement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.bullhorn.com/gdpr-commitment-statement/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.bullhorn.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.bullhorn.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2474, "name": "Service Industry" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1838, "name": "PaaS" }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Agile CRM",
+      "description": "Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and marketing automation for small businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/agilecrm.com",
+      "website": "agilecrm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.agilecrm.com/gdpr-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1816, "name": "Social CRM" }
+      ]
+    }
+  ]
+}

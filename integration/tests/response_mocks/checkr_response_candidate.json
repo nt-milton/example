@@ -1,0 +1,39 @@
+{
+  "id": "6227ce01d9e1cc000191fcf4",
+  "object": "event",
+  "type": "candidate.updated",
+  "created_at": "2022-03-08T21:43:29Z",
+  "data": {
+      "object": {
+          "id": "60fd47a55f73c5f7e7d59a1e",
+          "object": "candidate",
+          "uri": "/v1/candidates/a3463e1f5c0caf802846a8a0",
+          "created_at": "2022-02-28T16:54:00Z",
+          "first_name": "Isaac",
+          "last_name": "Campos",
+          "middle_name": null,
+          "mother_maiden_name": null,
+          "dob": null,
+          "ssn": null,
+          "email": "test@heylaika.com",
+          "zipcode": null,
+          "phone": null,
+          "driver_license_state": null,
+          "driver_license_number": null,
+          "copy_requested": false,
+          "previous_driver_license_state": null,
+          "previous_driver_license_number": null,
+          "adjudication": null,
+          "custom_id": "123456790",
+          "no_middle_name": false,
+          "updated_at": "2022-03-08T21:43:28Z",
+          "locale": null,
+          "report_ids": [],
+          "geo_ids": []
+      },
+      "previous_attributes": {
+          "custom_id": "1234567890"
+      }
+  },
+  "account_id": "ea5df684ae8d7a8246a17f0b"
+}

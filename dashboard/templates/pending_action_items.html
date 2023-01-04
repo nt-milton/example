@@ -1,0 +1,102 @@
+{% load action_items_render %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Pending action items</title>
+</head>
+<body>
+<table style="background: #ffffff;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            border-collapse: collapse;
+            border-spacing: 0;">
+    <tr>
+        <td colspan="3" class="hero">
+            <img alt="Laika" src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/header.png"
+                 style="width: 100%;"/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" style="padding: 40px 0;">
+            <b style="font-family: Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-weight: 700;
+                font-size: 24px;
+                color: #232735">
+                Pending Action Items:
+            </b>
+        </td>
+    </tr>
+    {% for pending_action_item in pending_action_items %}
+        <tr style="border-bottom: 1px solid #DDDAE0;
+            border-collapse: collapse;
+            border-spacing: 0;">
+
+            {%  action_items_render pending_action_item %}
+
+            <td style="border-top: 1px solid #DDDAE0;padding: 16px 15px;vertical-align: top;
+                    font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                    font-style: normal;font-weight: bold;font-size: 12px;line-height: 20px;color: #7CBA8A;">
+                {% if pending_action_item.seen_action_item %}
+                    new
+                {% endif %}
+            </td>
+
+        </tr>
+    {% endfor %}
+    {% if remaining_items == 1 %}
+        <tr>
+            <td colspan="3">
+                <p style="height: 22px;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-style: normal;
+                    font-weight: normal;font-size: 14px;line-height: 24px;color: #232735;text-align: center;margin-top: 27px;">
+                    {{ remaining_items }} additional Action Item on your plate.
+                    <br/>
+                </p>
+            </td>
+        </tr>
+    {% elif remaining_items > 1 %}
+        <tr>
+            <td colspan="3">
+                <p style="height: 22px;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-style: normal;
+                    font-weight: normal;font-size: 14px;line-height: 24px;color: #232735;text-align: center;margin-top: 27px;">
+                    {{ remaining_items }} additional Action Items on your plate.
+                    <br/>
+                </p>
+            </td>
+        </tr>
+    {% endif %}
+    <tr>
+        <td colspan="3" style="font-family: Roboto, Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;text-align: center;padding-top:18px;padding-bottom:100px;">
+            <a href={{ web_url|add:"/dashboard" }} target="_blank" rel="noopener noreferrer">
+                <button style="background: #3B2552;height: 40px;width: 237px;color: #FFFFFF;font-family: Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 12px;line-height: 16px;font-weight: bold;border: none;cursor: pointer;border-radius: 2px;font-style: normal;">
+                    GO TO DASHBOARD
+                </button>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" style="font-family: Roboto, Rubik, Arial, Verdana, sans-serif;font-size: 13px;color: #232735;background: #FBFDFF;text-align: center;padding-top:54px;">
+            <p style="margin: 0;padding: 40px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: center;">
+                <img src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-footer.png"
+                     alt="Laika logo footer"
+                     style="width: 78px;max-width: 78px;height: auto;"/>
+            </p>
+            <p style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-style: normal;font-weight: normal;
+                font-size: 12px;line-height: 20px;text-align: center;color: #8F859A;">
+                Copyright ©2020 Laika Inc.<br/>
+            </p>
+            <p><a style="color: #3399FF;text-decoration: none;" href={{ web_url|add:"/profile" }} target="_blank" rel="noopener noreferrer">Update Your Email Preferences</a></p>
+            <p style="margin: 0;padding: 18px 0 0 0;color: #232735;font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;font-size: 13px;line-height: 24px;text-align: justify;">
+                &nbsp;
+            </p>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

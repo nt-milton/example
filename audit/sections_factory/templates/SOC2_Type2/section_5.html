@@ -1,0 +1,72 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <style type="text/css" media="screen,print">
+            .pb_before {
+                page-break-before: always !important;
+            }
+
+            .pb_after {
+                page-break-after: always !important;
+            }
+
+            thead {
+                display: table-header-group;
+            }
+
+            tfoot {
+                display: table-row-group;
+            }
+
+            body {
+                font-family: Arial !important;
+                line-height: 1.63 !important;
+            }
+
+            tr, td, th, tbody, thead, tfoot {
+                page-break-inside: avoid !important;
+            }
+        </style>
+        <title>Draft Report</title>
+    </head>
+
+    <body>
+        {% if requirements|length > 0 %}
+        <h1 id="mcetoc_1fiubplrmmc" class="pb_before">
+            <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px"><strong>Section V: Other Information Provided by {{client}} that is not Covered by the Service Auditor&rsquo;s Report</strong></span>
+        </h1>
+
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="test-control-table">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left;">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;" colspan="4">
+                        <strong>Management&rsquo;s Response to Testing Exceptions</strong>
+                    </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: center; color: #151b3f;">
+                    <th style="width: 8%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"><strong>Control No.</strong></th>
+                    <th style="width: 29%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"><strong>Applicable Control Activities</strong></th>
+                    <th style="width: 23%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"><strong>Result of Test</strong></th>
+                    <th style="width: 40%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"><strong>Management&rsquo;s Response</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for requirement in requirements %}
+                <tr style="text-align: left">
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #151b3f; vertical-align: top;"> {{ requirement.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 10pt; vertical-align: top;"> {{ requirement.description }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 10pt; vertical-align: top;">
+                        {% for test in requirement.tests %}
+                            {{ test.formatted_result }}. {{ test.notes }} <br/>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000; vertical-align: top;"></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </body>
+</html>

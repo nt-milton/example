@@ -1,0 +1,18 @@
+{
+    "Groups": [
+        {
+            "Path": "/",
+            "GroupName": "test-group1",
+            "GroupId": "test-id3432",
+            "Arn": "test/arn",
+            "CreateDate": "Jun 2019/6/12 19:00"
+        },
+        {
+            "Path": "/",
+            "GroupName": "test-group2",
+            "GroupId": "test-id2343",
+            "Arn": "test/arn",
+            "CreateDate": "Jun 2019/6/12 19:00"
+        }
+    ]
+}

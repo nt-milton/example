@@ -1,0 +1,64 @@
+{
+  "Computer inventory report": [
+    {
+      "SKU": "2020 MacBook Pro 16.0\"",
+      "Last ping": "2020-11-23T07:37:33.166Z",
+      "Full name": "Marianne Bahringer",
+      "Acquired through Rippling": false,
+      "Department": [
+        "Engineering"
+      ],
+      "Serial number": "DU0R5LPMO3A6",
+      "Location": "San Francisco",
+      "Employee": "5fa0211c41455b002855251b",
+      "Is leased": false,
+      "Hardware type": "LAPTOP",
+      "Manufacturer": "Apple"
+    },
+    {
+      "SKU": "2020 MacBook Pro 16.0\"",
+      "Last ping": "2020-11-23T07:37:33.317Z",
+      "Full name": "Annika McDermott",
+      "Acquired through Rippling": false,
+      "Department": [
+        "Engineering"
+      ],
+      "Serial number": "DQPVBKVBIB8O",
+      "Location": "San Francisco",
+      "Employee": "5fa0213241455b0028552f03",
+      "Is leased": false,
+      "Hardware type": "LAPTOP",
+      "Manufacturer": "Apple"
+    },
+    {
+      "SKU": "2020 MacBook Pro 16.0\"",
+      "Last ping": "2020-11-23T07:37:33.488Z",
+      "Full name": "Michael Smith",
+      "Acquired through Rippling": false,
+      "Department": [
+        "Engineering"
+      ],
+      "Serial number": "DI6V1A3SA0C9",
+      "Location": "San Francisco",
+      "Employee": "5d6e6babfa9c4e5b156a8bcb",
+      "Is leased": false,
+      "Hardware type": "LAPTOP",
+      "Manufacturer": "Apple"
+    },
+    {
+      "SKU": "2020 MacBook Pro 16.0\"",
+      "Last ping": "2020-11-23T07:37:33.464Z",
+      "Full name": "Jacki Marquardt",
+      "Acquired through Rippling": false,
+      "Department": [
+        "Engineering"
+      ],
+      "Serial number": "DQIAMNV4F7AI",
+      "Location": "San Francisco",
+      "Employee": "5fa0213541455b00285530a9",
+      "Is leased": false,
+      "Hardware type": "LAPTOP",
+      "Manufacturer": "Apple"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "organization": {
+            "repository": {
+                "pullRequests": {
+                    "pageInfo": {
+                        "endCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMS0yNVQyMTo0NToyNVrOLrzQ7A==",
+                        "hasNextPage": false
+                    },
+                    "nodes": [
+                        {
+                            "number": 3112,
+                            "updatedAt": "2021-12-13T23:38:55Z"
+                        },
+                        {
+                            "number": 3162,
+                            "updatedAt": "2021-12-13T23:30:58Z"
+                        },
+                        {
+                            "number": 3107,
+                            "updatedAt": "2021-12-13T22:03:19Z"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

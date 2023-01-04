@@ -240,7 +240,7 @@ class ActionItemAdminForm(ModelForm):
                     == 'Yes'
                     else False
                 )
-        super(ActionItemAdminForm, self).__init__(*args, **kwargs)
+        super().__init__(*args, **kwargs)
 
     def save_m2m(self):
         self.save_linked_assignees()

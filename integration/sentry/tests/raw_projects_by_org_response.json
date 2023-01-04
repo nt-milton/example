@@ -1,0 +1,77 @@
+[
+  {
+    "dateCreated": "2018-11-06T21:19:58.536Z",
+    "firstEvent": null,
+    "hasAccess": true,
+    "id": "3",
+    "isBookmarked": false,
+    "isMember": true,
+    "latestDeploys": null,
+    "name": "Project 1",
+    "platform": null,
+    "platforms": [],
+    "slug": "project_1",
+    "team": {
+      "id": "2",
+      "name": "Powerful Abolitionist",
+      "slug": "powerful-abolitionist"
+    },
+    "teams": [
+      {
+        "id": "2",
+        "name": "Powerful Abolitionist",
+        "slug": "powerful-abolitionist"
+      }
+    ]
+  },
+   {
+    "dateCreated": "2018-11-06T21:19:58.536Z",
+    "firstEvent": null,
+    "hasAccess": true,
+    "id": "3",
+    "isBookmarked": false,
+    "isMember": true,
+    "latestDeploys": null,
+    "name": "Project 2",
+    "platform": null,
+    "platforms": [],
+    "slug": "project_2",
+    "team": {
+      "id": "2",
+      "name": "Powerful Abolitionist",
+      "slug": "powerful-abolitionist"
+    },
+    "teams": [
+      {
+        "id": "2",
+        "name": "Powerful Abolitionist",
+        "slug": "powerful-abolitionist"
+      }
+    ]
+  },
+  {
+    "dateCreated": "2018-11-06T21:19:58.536Z",
+    "firstEvent": null,
+    "hasAccess": true,
+    "id": "3",
+    "isBookmarked": false,
+    "isMember": true,
+    "latestDeploys": null,
+    "name": "Project 3",
+    "platform": null,
+    "platforms": [],
+    "slug": "project_3",
+    "team": {
+      "id": "2",
+      "name": "Powerful Abolitionist",
+      "slug": "powerful-abolitionist"
+    },
+    "teams": [
+      {
+        "id": "2",
+        "name": "Powerful Abolitionist",
+        "slug": "powerful-abolitionist"
+      }
+    ]
+  }
+]

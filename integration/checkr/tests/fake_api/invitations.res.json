@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": "0dbc204b630822161657c8c7",
+            "status": "completed",
+            "uri": "/v1/invitations/0dbc204b630822161657c8c7",
+            "invitation_url": "https://apply.checkrhq-staging.net/invite/laikadevcompany-88dc03344e/cf42fdc1a88055bd3617a82b2845356f",
+            "completed_at": "2022-06-24T15:10:59Z",
+            "deleted_at": "2022-06-24T14:50:51Z",
+            "package": "laika_driver_pro",
+            "created_at": "2022-06-24T14:50:51Z",
+            "expires_at": "2022-07-02T06:59:59Z",
+            "tags": [],
+            "object": "invitation",
+            "candidate_id": "8744e26f908c2ccdceaa7de6",
+            "report_id": "e040696aba62059a9a2e6287"
+        }
+    ],
+    "object": "list",
+    "next_href": null,
+    "previous_href": null,
+    "count": 1
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Draft Report Header</title>
+  </head>
+  <body style="height: 70px; overflow: hidden; margin: 0; padding: 0">
+    <div style="position: absolute; left: 10px; top: 20px">
+      <span style="font: 12px 'Arial'; color: #b7b7b7; line-height: 15px; white-space: nowrap;">
+        {{audit_type}} Report for {{ legal_name }}
+      </span>
+    </div>
+    <div style="position: absolute; right: 10px; top: 0px">
+      {% if section != 'section_2' %}
+      <img
+        alt="Laika Compliance Logo"
+        src="https://laika-static-documents.s3.amazonaws.com/Reports/logo-laika-compliance.png"
+        style="width: auto; height: 42px;"
+      />
+      {% endif %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,824 @@
+{
+  "events": [
+    {
+      "date_happened": 1608686627,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "Lambda Rate exceeded is OK",
+      "url": "/event/event?id=5778474550747789936",
+      "text": "Thresholds Crossed: 1 out of the last 1 datapoints [0.0 (23/12/20 18:11:00)] was not less than the lower thresholds [0.0] or not greater than the upper thresholds [0.0] (minimum 1 datapoint for ALARM -> OK transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608686627,
+          "alert_type": "success",
+          "id": "5778474455430385196"
+        },
+        {
+          "date_happened": 1608687887,
+          "alert_type": "success",
+          "id": "5778495364233510487"
+        },
+        {
+          "date_happened": 1608720227,
+          "alert_type": "success",
+          "id": "5779038900152195916"
+        },
+        {
+          "date_happened": 1608722447,
+          "alert_type": "success",
+          "id": "5779073424305766070"
+        },
+        {
+          "date_happened": 1608728747,
+          "alert_type": "success",
+          "id": "5779179665005853959"
+        },
+        {
+          "date_happened": 1608731867,
+          "alert_type": "success",
+          "id": "5779234519645235838"
+        },
+        {
+          "date_happened": 1608733607,
+          "alert_type": "success",
+          "id": "5779260470839712479"
+        },
+        {
+          "date_happened": 1608734687,
+          "alert_type": "success",
+          "id": "5779279850964807571"
+        },
+        {
+          "date_happened": 1608738707,
+          "alert_type": "success",
+          "id": "5779345882261789975"
+        },
+        {
+          "date_happened": 1608741047,
+          "alert_type": "success",
+          "id": "5779385521840133005"
+        },
+        {
+          "date_happened": 1608747407,
+          "alert_type": "success",
+          "id": "5779496875621797095"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778474550747789936",
+      "device_name": null,
+      "id": 5778474550747790000
+    },
+    {
+      "date_happened": 1608746100,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.1-UnauthorizedAPICalls is CRITICAL",
+      "url": "/event/event?id=5779471027194129460",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [2.0 (23/12/20 17:54:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608746100,
+          "alert_type": "error",
+          "id": "5779470911529660734"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5779471027194129460",
+      "device_name": null,
+      "id": 5779471027194129000
+    },
+    {
+      "date_happened": 1608699450,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.4-IAMPolicyChanges is CRITICAL",
+      "url": "/event/event?id=5778691592908092023",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [1.0 (23/12/20 05:11:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608699450,
+          "alert_type": "error",
+          "id": "5778691381451002231"
+        },
+        {
+          "date_happened": 1608700350,
+          "alert_type": "error",
+          "id": "5778706599062758299"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778691592908092023",
+      "device_name": null,
+      "id": 5778691592908092000
+    },
+    {
+      "date_happened": 1608687923,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-ProvisionedCapacityHigh-25142049-d4d9-4fc8-9d0f-e9c0d7eedba6 is OK",
+      "url": "/event/event?id=5778495442029074533",
+      "text": "Threshold Crossed: 1 datapoint [5.0 (23/12/20 02:04:00)] was not greater than the threshold (5.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687923,
+          "alert_type": "success",
+          "id": "5778495364233510485"
+        },
+        {
+          "date_happened": 1608688837,
+          "alert_type": "error",
+          "id": "5778510145660683825"
+        },
+        {
+          "date_happened": 1608689377,
+          "alert_type": "success",
+          "id": "5778519713936497597"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495442029074533",
+      "device_name": null,
+      "id": 5778495442029074000
+    },
+    {
+      "date_happened": 1608688264,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-TaskTable-1FGSGQCEQ3LP2-AlarmLow-4bdb7bd9-0145-4060-9b15-80972c57fcba is CRITICAL",
+      "url": "/event/event?id=5778500043538823438",
+      "text": "Threshold Crossed: 15 datapoints were less than the threshold (1440.0). The most recent datapoints which crossed the threshold: [0.0 (23/12/20 02:02:00), 0.0 (23/12/20 02:01:00), 0.0 (23/12/20 02:00:00), 0.0 (23/12/20 01:59:00), 244.0 (23/12/20 01:58:00)].",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608688264,
+          "alert_type": "success",
+          "id": "5778499928478708295"
+        },
+        {
+          "date_happened": 1608689164,
+          "alert_type": "error",
+          "id": "5778514709673125539"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778500043538823438",
+      "device_name": null,
+      "id": 5778500043538823000
+    },
+    {
+      "date_happened": 1608688914,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-ProvisionedCapacityLow-ad736ff0-9f4f-4449-a9ee-2897d2940285 is OK",
+      "url": "/event/event?id=5778514874958870524",
+      "text": "Threshold Crossed: 3 datapoints [6.0 (23/12/20 01:56:00), 6.0 (23/12/20 01:51:00), 6.0 (23/12/20 01:46:00)] were not less than the threshold (5.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608688914,
+          "alert_type": "success",
+          "id": "5778514709673125540"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778514874958870524",
+      "device_name": null,
+      "id": 5778514874958871000
+    },
+    {
+      "date_happened": 1608688911,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmLow-b1c042f6-9349-47b1-b4ba-fd699afa9fc2 is CRITICAL",
+      "url": "/event/event?id=5778514875009202173",
+      "text": "Threshold Crossed: 15 datapoints were less than the threshold (150.0). The most recent datapoints which crossed the threshold: [0.0 (23/12/20 01:57:00), 0.0 (23/12/20 01:56:00), 0.0 (23/12/20 01:55:00), 0.0 (23/12/20 01:54:00), 0.0 (23/12/20 01:53:00)].",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608688911,
+          "alert_type": "error",
+          "id": "5778514709673125541"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778514875009202173",
+      "device_name": null,
+      "id": 5778514875009202000
+    },
+    {
+      "date_happened": 1608688840,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmHigh-e3442a81-1230-45dd-b0c3-7361e2b8eab6 is OK",
+      "url": "/event/event?id=5778510329917387515",
+      "text": "Threshold Crossed: 2 datapoints [0.0 (23/12/20 01:56:00), 0.0 (23/12/20 01:55:00)] were not greater than the threshold (210.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608688840,
+          "alert_type": "success",
+          "id": "5778510145660683824"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778510329917387515",
+      "device_name": null,
+      "id": 5778510329917388000
+    },
+    {
+      "date_happened": 1608687916,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmLow-2e2186ab-40ea-4885-a191-bf25bc7ff15e is CRITICAL",
+      "url": "/event/event?id=5778495442314287209",
+      "text": "Threshold Crossed: 15 datapoints were less than the threshold (180.0). The most recent datapoints which crossed the threshold: [0.0 (23/12/20 01:56:00), 0.0 (23/12/20 01:55:00), 0.0 (23/12/20 01:54:00), 0.0 (23/12/20 01:53:00), 0.0 (23/12/20 01:52:00)].",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687916,
+          "alert_type": "success",
+          "id": "5778495364233510486"
+        },
+        {
+          "date_happened": 1608688816,
+          "alert_type": "error",
+          "id": "5778510145660683826"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495442314287209",
+      "device_name": null,
+      "id": 5778495442314287000
+    },
+    {
+      "date_happened": 1608688270,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "latis-policy-production-TaskTable-1FGSGQCEQ3LP2-ReadCapacityUnitsLimit-BasicAlarm is OK",
+      "url": "/event/event?id=5778500043471714573",
+      "text": "Threshold Crossed: 2 datapoints [0.0 (23/12/20 01:51:00), 0.0 (23/12/20 01:50:00)] were not greater than or equal to the threshold (240.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608688270,
+          "alert_type": "error",
+          "id": "5778499928478708294"
+        },
+        {
+          "date_happened": 1608688510,
+          "alert_type": "success",
+          "id": "5778505003865165942"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778500043471714573",
+      "device_name": null,
+      "id": 5778500043471714000
+    },
+    {
+      "date_happened": 1608687925,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-ProvisionedCapacityLow-80028bc1-67e7-4e21-98cb-3558f5bebf41 is OK",
+      "url": "/event/event?id=5778495441961965668",
+      "text": "Threshold Crossed: 1 datapoint [6.0 (23/12/20 01:44:00)] was not less than the threshold (6.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687925,
+          "alert_type": "error",
+          "id": "5778495364233510484"
+        },
+        {
+          "date_happened": 1608688165,
+          "alert_type": "success",
+          "id": "5778499928478708296"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495441961965668",
+      "device_name": null,
+      "id": 5778495441961966000
+    },
+    {
+      "date_happened": 1608687956,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmHigh-36a2a8a0-a95d-4092-a4be-a461f45c5f73 is OK",
+      "url": "/event/event?id=5778495442247178344",
+      "text": "Threshold Crossed: 2 datapoints [180.5 (23/12/20 01:41:00), 226.0 (23/12/20 01:40:00)] were not greater than the threshold (251.99999999999997).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687956,
+          "alert_type": "success",
+          "id": "5778495364233510482"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495442247178344",
+      "device_name": null,
+      "id": 5778495442247178000
+    },
+    {
+      "date_happened": 1608686212,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.10-SecurityGroupChanges is CRITICAL",
+      "url": "/event/event?id=5778470087581753152",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [2.0 (23/12/20 01:44:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608686212,
+          "alert_type": "error",
+          "id": "5778469898801338766"
+        },
+        {
+          "date_happened": 1608687952,
+          "alert_type": "error",
+          "id": "5778495364233510483"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778470087581753152",
+      "device_name": null,
+      "id": 5778470087581753000
+    },
+    {
+      "date_happened": 1608687879,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmHigh-c28e6687-2362-45f1-9cb1-ef52ae4eb1a1 is CRITICAL",
+      "url": "/event/event?id=5778495442079406182",
+      "text": "Threshold Crossed: 2 datapoints [226.0 (23/12/20 01:40:00), 228.0 (23/12/20 01:39:00)] were greater than the threshold (210.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687879,
+          "alert_type": "error",
+          "id": "5778495364233510488"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495442079406182",
+      "device_name": null,
+      "id": 5778495442079406000
+    },
+    {
+      "date_happened": 1608687780,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-DocumentTable-DFZL7BMEFEY0-AlarmLow-2b3ecfeb-d55e-4e3c-8e05-53063f3cb0c2 is OK",
+      "url": "/event/event?id=5778495442129737831",
+      "text": "Threshold Crossed: 1 datapoint [185.5 (23/12/20 01:38:00)] was not less than the threshold (150.0).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608687780,
+          "alert_type": "success",
+          "id": "5778495364233510489"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778495442129737831",
+      "device_name": null,
+      "id": 5778495442129738000
+    },
+    {
+      "date_happened": 1608597887,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "Lambda Rate exceeded is OK",
+      "url": "/event/event?id=5776985280103601066",
+      "text": "Thresholds Crossed: 1 out of the last 1 datapoints [0.0 (22/12/20 23:43:00)] was not less than the lower thresholds [0.0] or not greater than the upper thresholds [0.0] (minimum 1 datapoint for ALARM -> OK transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608597887,
+          "alert_type": "success",
+          "id": "5776985171671368852"
+        },
+        {
+          "date_happened": 1608599447,
+          "alert_type": "success",
+          "id": "5777010108149341993"
+        },
+        {
+          "date_happened": 1608602627,
+          "alert_type": "success",
+          "id": "5777065496758133016"
+        },
+        {
+          "date_happened": 1608603947,
+          "alert_type": "success",
+          "id": "5777085801052348068"
+        },
+        {
+          "date_happened": 1608610727,
+          "alert_type": "success",
+          "id": "5777201140084052050"
+        },
+        {
+          "date_happened": 1608638267,
+          "alert_type": "success",
+          "id": "5777664479208149547"
+        },
+        {
+          "date_happened": 1608646427,
+          "alert_type": "success",
+          "id": "5777800163624125687"
+        },
+        {
+          "date_happened": 1608648587,
+          "alert_type": "success",
+          "id": "5777835723277334658"
+        },
+        {
+          "date_happened": 1608650207,
+          "alert_type": "success",
+          "id": "5777861101404434874"
+        },
+        {
+          "date_happened": 1608653687,
+          "alert_type": "success",
+          "id": "5777921024828417461"
+        },
+        {
+          "date_happened": 1608665267,
+          "alert_type": "success",
+          "id": "5778117189185360931"
+        },
+        {
+          "date_happened": 1608668687,
+          "alert_type": "success",
+          "id": "5778172500004325146"
+        },
+        {
+          "date_happened": 1608670847,
+          "alert_type": "success",
+          "id": "5778207576858514977"
+        },
+        {
+          "date_happened": 1608673727,
+          "alert_type": "success",
+          "id": "5778258419022388732"
+        },
+        {
+          "date_happened": 1608680927,
+          "alert_type": "success",
+          "id": "5778379444024899932"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5776985280103601066",
+      "device_name": null,
+      "id": 5776985280103601000
+    },
+    {
+      "date_happened": 1608679770,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.4-IAMPolicyChanges is CRITICAL",
+      "url": "/event/event?id=5778359177908180462",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [1.0 (22/12/20 23:28:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608679770,
+          "alert_type": "error",
+          "id": "5778359126178646537"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778359177908180462",
+      "device_name": null,
+      "id": 5778359177908180000
+    },
+    {
+      "date_happened": 1608598380,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.1-UnauthorizedAPICalls is CRITICAL",
+      "url": "/event/event?id=5776994980490877472",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [134.0 (22/12/20 23:13:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608598380,
+          "alert_type": "error",
+          "id": "5776994859402864032"
+        },
+        {
+          "date_happened": 1608606840,
+          "alert_type": "error",
+          "id": "5777135606841584898"
+        },
+        {
+          "date_happened": 1608609840,
+          "alert_type": "error",
+          "id": "5777186422489110910"
+        },
+        {
+          "date_happened": 1608615180,
+          "alert_type": "error",
+          "id": "5777276834152088599"
+        },
+        {
+          "date_happened": 1608652620,
+          "alert_type": "error",
+          "id": "5777905774863287471"
+        },
+        {
+          "date_happened": 1608654840,
+          "alert_type": "error",
+          "id": "5777941371360320246"
+        },
+        {
+          "date_happened": 1608666180,
+          "alert_type": "error",
+          "id": "5778132386596271783"
+        },
+        {
+          "date_happened": 1608667140,
+          "alert_type": "error",
+          "id": "5778148146620972071"
+        },
+        {
+          "date_happened": 1608670140,
+          "alert_type": "error",
+          "id": "5778197923197126570"
+        },
+        {
+          "date_happened": 1608673440,
+          "alert_type": "error",
+          "id": "5778253369891610259"
+        },
+        {
+          "date_happened": 1608676440,
+          "alert_type": "error",
+          "id": "5778304186845567413"
+        },
+        {
+          "date_happened": 1608676920,
+          "alert_type": "error",
+          "id": "5778313941333900251"
+        },
+        {
+          "date_happened": 1608678840,
+          "alert_type": "error",
+          "id": "5778343985613236982"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5776994980490877472",
+      "device_name": null,
+      "id": 5776994980490878000
+    },
+    {
+      "date_happened": 1608646693,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "[Recovered] Error found in production",
+      "url": "/event/event?id=5777801872627596784",
+      "text": "%%%\n@slack-production-alerts\n\n\n\nMore than **1** log events matched in the last **5m** against the monitored query: **[-\"/admin\" -env:dev -service:*dev* status:error -env:staging -service:*staging*](/logs?query=-%22%2Fadmin%22+-env%3Adev+-service%3A%2Adev%2A+status%3Aerror+-env%3Astaging+-service%3A%2Astaging%2A&agg_m=count&agg_t=count&index=main)**\n\nThe monitor was last triggered at Tue Dec 22 2020 21:15:10 UTC.\n\n- - -\n\n[[Monitor Status](/monitors#15987790?group=total)] · [[Edit Monitor](/monitors#15987790/edit)] · [[Related Logs](/logs?index=main&to_ts=1608671710000&agg_t=count&agg_m=count&from_ts=1608670810000&live=false&query=-%22%2Fadmin%22+-env%3Adev+-service%3A%2Adev%2A+status%3Aerror+-env%3Astaging+-service%3A%2Astaging%2A)]\n%%%",
+      "tags": [
+        "monitor",
+        "total"
+      ],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608646693,
+          "alert_type": "error",
+          "id": "5777801860027907555"
+        },
+        {
+          "date_happened": 1608646993,
+          "alert_type": "success",
+          "id": "5777806886901248958"
+        },
+        {
+          "date_happened": 1608659232,
+          "alert_type": "error",
+          "id": "5778012235730121432"
+        },
+        {
+          "date_happened": 1608659533,
+          "alert_type": "success",
+          "id": "5778017285571475387"
+        },
+        {
+          "date_happened": 1608660012,
+          "alert_type": "error",
+          "id": "5778025314928947206"
+        },
+        {
+          "date_happened": 1608660553,
+          "alert_type": "success",
+          "id": "5778034392493325297"
+        },
+        {
+          "date_happened": 1608671112,
+          "alert_type": "error",
+          "id": "5778211537714806417"
+        },
+        {
+          "date_happened": 1608671412,
+          "alert_type": "success",
+          "id": "5778216577322054760"
+        },
+        {
+          "date_happened": 1608671712,
+          "alert_type": "error",
+          "id": "5778221614261729799"
+        },
+        {
+          "date_happened": 1608672012,
+          "alert_type": "success",
+          "id": "5778226641084743523"
+        }
+      ],
+      "priority": "low",
+      "source": "Monitor Alert",
+      "host": null,
+      "resource": "/api/v1/events/5777801872627596784",
+      "device_name": null,
+      "id": 5777801872627596000
+    },
+    {
+      "date_happened": 1608669449,
+      "alert_type": "success",
+      "is_aggregate": true,
+      "title": "[Recovered] Error triggered in staging environment",
+      "url": "/event/event?id=5778183642788261471",
+      "text": "%%%\n@slack-staging-alerts\n\n\n\nMore than **1** log events matched in the last **5m** against the monitored query: **[-\"/admin\" -env:dev -service:*dev* status:error -env:production -service:*prod*](/logs?query=-%22%2Fadmin%22+-env%3Adev+-service%3A%2Adev%2A+status%3Aerror+-env%3Aproduction+-service%3A%2Aprod%2A&agg_m=count&agg_t=count&index=main)**\n\nThe monitor was last triggered at Tue Dec 22 2020 20:37:27 UTC.\n\n- - -\n\n[[Monitor Status](/monitors#15987747?group=total)] · [[Edit Monitor](/monitors#15987747/edit)] · [[Related Logs](/logs?index=main&to_ts=1608669447000&agg_t=count&agg_m=count&from_ts=1608668547000&live=false&query=-%22%2Fadmin%22+-env%3Adev+-service%3A%2Adev%2A+status%3Aerror+-env%3Aproduction+-service%3A%2Aprod%2A)]\n%%%",
+      "tags": [
+        "monitor",
+        "total"
+      ],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608669449,
+          "alert_type": "error",
+          "id": "5778183639298600539"
+        },
+        {
+          "date_happened": 1608669749,
+          "alert_type": "success",
+          "id": "5778188681791529903"
+        }
+      ],
+      "priority": "low",
+      "source": "Monitor Alert",
+      "host": null,
+      "resource": "/api/v1/events/5778183642788261471",
+      "device_name": null,
+      "id": 5778183642788262000
+    },
+    {
+      "date_happened": 1608664116,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.2-ConsoleSigninWithoutMFA is CRITICAL",
+      "url": "/event/event?id=5778097419958289881",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [2.0 (22/12/20 19:07:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608664116,
+          "alert_type": "error",
+          "id": "5778097258958250284"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778097419958289881",
+      "device_name": null,
+      "id": 5778097419958289000
+    },
+    {
+      "date_happened": 1608664081,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "CIS-3.6-ConsoleAuthenticationFailure. is CRITICAL",
+      "url": "/event/event?id=5778097420025398746",
+      "text": "Threshold Crossed: 1 out of the last 1 datapoints [1.0 (22/12/20 19:07:00)] was greater than or equal to the threshold (1.0) (minimum 1 datapoint for OK -> ALARM transition).",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608664081,
+          "alert_type": "error",
+          "id": "5778097258958250285"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5778097420025398746",
+      "device_name": null,
+      "id": 5778097420025398000
+    },
+    {
+      "date_happened": 1608650464,
+      "alert_type": "error",
+      "is_aggregate": true,
+      "title": "TargetTracking-table/latis-policy-production-TaskTable-1FGSGQCEQ3LP2-AlarmLow-4bdb7bd9-0145-4060-9b15-80972c57fcba is CRITICAL",
+      "url": "/event/event?id=5777865876590687300",
+      "text": "Threshold Crossed: 15 datapoints were less than the threshold (1440.0). The most recent datapoints which crossed the threshold: [0.0 (22/12/20 18:55:00), 0.0 (22/12/20 18:54:00), 0.0 (22/12/20 18:53:00), 0.0 (22/12/20 18:52:00), 34.0 (22/12/20 18:51:00)].",
+      "tags": [],
+      "comments": [],
+      "children": [
+        {
+          "date_happened": 1608650464,
+          "alert_type": "success",
+          "id": "5777865806207827816"
+        },
+        {
+          "date_happened": 1608651364,
+          "alert_type": "error",
+          "id": "5777880873878800759"
+        },
+        {
+          "date_happened": 1608662644,
+          "alert_type": "success",
+          "id": "5778071872791961206"
+        },
+        {
+          "date_happened": 1608663544,
+          "alert_type": "error",
+          "id": "5778087106999570557"
+        }
+      ],
+      "priority": "normal",
+      "source": "Amazon Web Services",
+      "host": null,
+      "resource": "/api/v1/events/5777865876590687300",
+      "device_name": null,
+      "id": 5777865876590687000
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "custom_id": "12345",
+            "name": "Node 1",
+            "packages": [],
+            "parent_custom_id": null,
+            "tier": null
+        }
+    ],
+    "object": "list",
+    "next_href": null,
+    "previous_href": null,
+    "count": 1
+}

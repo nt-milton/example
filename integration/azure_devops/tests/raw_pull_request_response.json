@@ -1,0 +1,203 @@
+{
+    "value": [
+        {
+            "repository": {
+                "id": "9c7119bd-216a-4e76-a18f-3b25b0d54ce2",
+                "name": "Github-Ranking.git",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/9c7119bd-216a-4e76-a18f-3b25b0d54ce2",
+                "project": {
+                    "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                    "name": "Compliance",
+                    "state": "unchanged",
+                    "visibility": "unchanged",
+                    "lastUpdateTime": "0001-01-01T00:00:00"
+                }
+            },
+            "pullRequestId": 3,
+            "codeReviewId": 3,
+            "status": "active",
+            "createdBy": {
+                "displayName": "Diego Siciliani",
+                "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    }
+                },
+                "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+                "imageUrl": "https://dev.azure.com/Laika-compliance-test/_api/_common/identityImage?id=8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "creationDate": "2022-09-28T16:24:02.9035863Z",
+            "title": "test pr",
+            "sourceRefName": "refs/heads/dev",
+            "targetRefName": "refs/heads/master",
+            "mergeStatus": "conflicts",
+            "isDraft": false,
+            "mergeId": "26ae2115-595d-45c3-bf0e-59441438ac6f",
+            "lastMergeSourceCommit": {
+                "commitId": "aad59863647aea7a79724ed74d686d1db1ad8cbd",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/9c7119bd-216a-4e76-a18f-3b25b0d54ce2/commits/aad59863647aea7a79724ed74d686d1db1ad8cbd"
+            },
+            "lastMergeTargetCommit": {
+                "commitId": "fa73216d0cdce12b17b993da6748a439e650a415",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/9c7119bd-216a-4e76-a18f-3b25b0d54ce2/commits/fa73216d0cdce12b17b993da6748a439e650a415"
+            },
+            "reviewers": [
+                {
+                    "reviewerUrl": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/9c7119bd-216a-4e76-a18f-3b25b0d54ce2/pullRequests/3/reviewers/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "vote": 0,
+                    "hasDeclined": false,
+                    "isFlagged": false,
+                    "displayName": "Diego Siciliani",
+                    "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "_links": {
+                        "avatar": {
+                            "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                        }
+                    },
+                    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+                    "imageUrl": "https://dev.azure.com/Laika-compliance-test/_api/_common/identityImage?id=8a69cb72-aee5-6a1e-b4a5-484a56cca7e1"
+                }
+            ],
+            "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/9c7119bd-216a-4e76-a18f-3b25b0d54ce2/pullRequests/3",
+            "supportsIterations": true
+        },
+        {
+            "repository": {
+                "id": "ed78cbc0-5899-4831-9062-2a2f05010d07",
+                "name": "Compliance",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07",
+                "project": {
+                    "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                    "name": "Compliance",
+                    "state": "unchanged",
+                    "visibility": "unchanged",
+                    "lastUpdateTime": "0001-01-01T00:00:00"
+                }
+            },
+            "pullRequestId": 2,
+            "codeReviewId": 2,
+            "status": "completed",
+            "createdBy": {
+                "displayName": "Diego Siciliani",
+                "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    }
+                },
+                "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+                "imageUrl": "https://dev.azure.com/Laika-compliance-test/_api/_common/identityImage?id=8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "creationDate": "2022-09-26T16:56:33.8425156Z",
+            "closedDate": "2022-09-26T17:57:32.5170049Z",
+            "title": "Updated README.md",
+            "description": "Updated README.md",
+            "sourceRefName": "refs/heads/commetsBranch",
+            "targetRefName": "refs/heads/master",
+            "mergeStatus": "succeeded",
+            "isDraft": false,
+            "mergeId": "dd0ff2d3-0b74-4d1b-bbdd-c930ff7ec908",
+            "lastMergeSourceCommit": {
+                "commitId": "43978dff210455bafdbf9e2541be9d1c2ee46bfc",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/43978dff210455bafdbf9e2541be9d1c2ee46bfc"
+            },
+            "lastMergeTargetCommit": {
+                "commitId": "b8177d53e478a4a62033927524ba1245ef25d194",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/b8177d53e478a4a62033927524ba1245ef25d194"
+            },
+            "lastMergeCommit": {
+                "commitId": "6b182f75f87602b943d0c0c84cc6ed2cdb4aab5a",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/6b182f75f87602b943d0c0c84cc6ed2cdb4aab5a"
+            },
+            "reviewers": [],
+            "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/pullRequests/2",
+            "completionOptions": {
+                "mergeCommitMessage": "Merged PR 2: Updated README.md\n\nUpdated README.md",
+                "deleteSourceBranch": true,
+                "mergeStrategy": "noFastForward",
+                "transitionWorkItems": true,
+                "autoCompleteIgnoreConfigIds": []
+            },
+            "supportsIterations": true,
+            "completionQueueTime": "2022-09-26T17:57:31.6981712Z"
+        },
+        {
+            "repository": {
+                "id": "ed78cbc0-5899-4831-9062-2a2f05010d07",
+                "name": "Compliance",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07",
+                "project": {
+                    "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                    "name": "Compliance",
+                    "state": "unchanged",
+                    "visibility": "unchanged",
+                    "lastUpdateTime": "0001-01-01T00:00:00"
+                }
+            },
+            "pullRequestId": 1,
+            "codeReviewId": 1,
+            "status": "active",
+            "createdBy": {
+                "displayName": "Diego Siciliani",
+                "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                    }
+                },
+                "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+                "imageUrl": "https://dev.azure.com/Laika-compliance-test/_api/_common/identityImage?id=8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "creationDate": "2022-09-23T00:21:21.8390372Z",
+            "title": "Updated user_test.rb",
+            "description": "Updated user_test.rb",
+            "sourceRefName": "refs/heads/newFeature",
+            "targetRefName": "refs/heads/master",
+            "mergeStatus": "succeeded",
+            "isDraft": false,
+            "mergeId": "d595863e-0e2d-432d-bd44-3ab3195cfc85",
+            "lastMergeSourceCommit": {
+                "commitId": "1067d6daed2bd4459c7c621a9598bf61422ba18a",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/1067d6daed2bd4459c7c621a9598bf61422ba18a"
+            },
+            "lastMergeTargetCommit": {
+                "commitId": "b8177d53e478a4a62033927524ba1245ef25d194",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/b8177d53e478a4a62033927524ba1245ef25d194"
+            },
+            "lastMergeCommit": {
+                "commitId": "b1de0c019350bb65ee874b2afe53975a387bd1bd",
+                "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/commits/b1de0c019350bb65ee874b2afe53975a387bd1bd"
+            },
+            "reviewers": [
+                {
+                    "reviewerUrl": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/pullRequests/1/reviewers/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "vote": 10,
+                    "hasDeclined": false,
+                    "isRequired": true,
+                    "isFlagged": false,
+                    "displayName": "Diego Siciliani",
+                    "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "_links": {
+                        "avatar": {
+                            "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+                        }
+                    },
+                    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+                    "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+                    "imageUrl": "https://dev.azure.com/Laika-compliance-test/_api/_common/identityImage?id=8a69cb72-aee5-6a1e-b4a5-484a56cca7e1"
+                }
+            ],
+            "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07/pullRequests/1",
+            "supportsIterations": true
+        }
+    ],
+    "count": 3
+}

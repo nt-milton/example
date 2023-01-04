@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "gid": "1153673585967972",
+      "name": "Artis LendingCompliance Readiness",
+      "resource_type": "project",
+      "workspace": {
+        "gid": "1153088949269450",
+        "resource_type": "workspace"
+      }
+    },
+    {
+      "gid": "1153259180336055",
+      "name": "Artis SOC 2 Readiness",
+      "resource_type": "project",
+      "workspace": {
+        "gid": "1153088949269450",
+        "resource_type": "workspace"
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+    "data": [
+      {
+        "id": "8744e26f908c2ccdceaa7de6",
+        "object": "test_candidate",
+        "uri": "/v1/candidates/0689b8f43f7b5669452e1671",
+        "created_at": "2021-10-18T15:41:27Z",
+        "first_name": "Leo",
+        "last_name": "Messi",
+        "middle_name": "Clyde",
+        "mother_maiden_name": null,
+        "dob": "1980-10-10",
+        "ssn": "XXX-XX-2001",
+        "email": "leomessidev@heylaika.com",
+        "zipcode": "94107",
+        "phone": null,
+        "driver_license_state": "CA",
+        "driver_license_number": "F1112001",
+        "copy_requested": false,
+        "previous_driver_license_state": null,
+        "previous_driver_license_number": null,
+        "adjudication": null,
+        "custom_id": null,
+        "no_middle_name": false,
+        "updated_at": "2021-10-18T15:41:27Z",
+        "reports": [
+          {
+            "id": "e040696aba62059a9a2e6287",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "complete",
+            "created_at": "2022-06-24T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-27T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de6",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          },
+          {
+            "id": "e040696aba62059a9a2e6288",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "pending",
+            "created_at": "2022-06-23T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-26T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de6",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          }
+        ],
+        "geo_ids": []
+      },
+      {
+        "id": "8744e26f908c2ccdceaa7de7",
+        "object": "test_candidate",
+        "uri": "/v1/candidates/391729f3d55bb73c8213a9bc",
+        "created_at": "2021-10-18T15:41:28Z",
+        "first_name": "Leo",
+        "last_name": "Messi",
+        "middle_name": "Librada",
+        "mother_maiden_name": null,
+        "dob": "1980-10-10",
+        "ssn": "XXX-XX-2010",
+        "email": "jhon@heylaika.com",
+        "zipcode": "94107",
+        "phone": null,
+        "driver_license_state": "CA",
+        "driver_license_number": "Y8276473",
+        "copy_requested": false,
+        "previous_driver_license_state": null,
+        "previous_driver_license_number": null,
+        "adjudication": null,
+        "custom_id": null,
+        "no_middle_name": false,
+        "updated_at": "2021-10-18T15:41:28Z",
+        "reports": [
+          {
+            "id": "e040696aba62059a9a2e6287",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "complete",
+            "created_at": "2022-06-25T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-27T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de7",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          },
+          {
+            "id": "e040696aba62059a9a2e6288",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "pending",
+            "created_at": "2022-06-23T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-26T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de7",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          },
+          {
+            "id": "e040696aba62059a9a2e6289",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "complete",
+            "created_at": "2022-06-26T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-26T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de7",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          }
+        ],
+        "geo_ids": []
+      },
+      {
+        "id": "8744e26f908c2ccdceaa7de8",
+        "object": "test_candidate",
+        "uri": "/v1/candidates/f3833cffecd1e07811c5ec13",
+        "created_at": "2021-10-18T15:41:30Z",
+        "first_name": "Leo",
+        "last_name": "Messi",
+        "middle_name": "Marketta",
+        "mother_maiden_name": null,
+        "dob": "1980-10-10",
+        "ssn": "XXX-XX-2002",
+        "email": "jhon@heylaika.com",
+        "zipcode": "94107",
+        "phone": null,
+        "driver_license_state": "CA",
+        "driver_license_number": "F1112002",
+        "copy_requested": false,
+        "previous_driver_license_state": null,
+        "previous_driver_license_number": null,
+        "adjudication": null,
+        "custom_id": null,
+        "no_middle_name": false,
+        "updated_at": "2021-10-18T15:41:30Z",
+        "reports": [
+          {
+            "id": "e040696aba62059a9a2e6287",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "pending",
+            "created_at": "2022-06-24T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-27T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de8",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          },
+          {
+            "id": "e040696aba62059a9a2e6288",
+            "object": "report",
+            "uri": "/v1/reports/e040696aba62059a9a2e6287",
+            "status": "complete",
+            "created_at": "2022-06-27T15:10:59Z",
+            "completed_at": "2022-06-24T15:11:45Z",
+            "revised_at": null,
+            "upgraded_at": null,
+            "turnaround_time": 46,
+            "due_time": "2022-07-02T15:11:00Z",
+            "package": "laika_driver_pro",
+            "tags": [],
+            "adjudication": null,
+            "assessment": null,
+            "source": "form",
+            "segment_stamps": [
+                "Example|Node1",
+                "|Node 2"
+            ],
+            "work_locations": [
+                {
+                    "city": "Manhattan",
+                    "state": "NY"
+                }
+            ],
+            "estimated_completion_time": "2022-06-26T00:00:00Z",
+            "result": "clear",
+            "includes_canceled": null,
+            "candidate_id": "8744e26f908c2ccdceaa7de8",
+            "candidate_story_ids": [],
+            "county_criminal_search_ids": [
+                "62b5d414958f450001b3c52a"
+            ],
+            "municipal_criminal_search_ids": [],
+            "document_ids": [
+                "bf59a7d4c4a95abb2905d80d",
+                "ff66beb251b1d8ffd2b8fbb1"
+            ],
+            "federal_criminal_search_id": null,
+            "geo_ids": [
+                "fff1418aaacdcdc442541418"
+            ],
+            "global_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "national_criminal_search_id": "62b5d404b2148f001ced7946",
+            "personal_reference_verification_ids": [],
+            "professional_reference_verification_ids": [],
+            "sex_offender_search_id": "62b5d404b2148f001ced7948",
+            "ssn_trace_id": "62b5d404b2148f001ced7945",
+            "state_criminal_search_ids": [],
+            "pointer_state_criminal_search_ids": [],
+            "terrorist_watchlist_search_id": "62b5d404b2148f001ced7949",
+            "facis_search_id": null,
+            "arrest_search_id": null,
+            "motor_vehicle_report_id": "62b5d404b2148f001ced7947",
+            "self_disclosure_ids": [],
+            "professional_license_verification_ids": [],
+            "skipped_screening_ids": []
+          }
+        ],
+        "geo_ids": []
+      }
+    ],
+    "object": "list",
+    "next_href": null,
+    "previous_href": null,
+    "count": 3
+  }

@@ -1,0 +1,18 @@
+[
+        {
+            "actions": [
+                {
+                    "changes": {
+                    "workflow_state_id": {
+                        "new": 500000011,
+                        "old": 500000006
+                    },
+                    "completed": {
+                        "new": true,
+                        "old": false
+                    }
+                }
+                }
+            ]
+        }
+    ]

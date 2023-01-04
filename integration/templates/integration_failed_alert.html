@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Connection Failed</title>
+</head>
+
+<body>
+  <table width="600" style="background: #ffffff;
+         margin-left: auto;
+         margin-right: auto;
+         border-collapse: collapse;
+         border-spacing: 0;">
+    <caption></caption>
+    <tbody>
+      <tr>
+        <th id="invite-header" colspan="3" class="hero">
+          <img alt="integration failed" width="600" height="auto"
+            src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/header.png" />
+        </th>
+      </tr>
+      <tr>
+        <td id="integration-logo" colspan="3">
+          <div style="margin: 32px 60px">
+            <img height="35.5" width="35.5" src={{ logo_url }} alt="" />
+            <p
+              style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 18px;
+              line-height: 24px;color: #232735;background-color:#ffffff;
+              font-style: normal;margin-top: 32px;">
+              <span style="font-weight: 700;">Connection Failed:</span>
+              <span style="font-weight: 300;">{{ extra.reason_connection_failure }}</span>
+            </p>
+          </div>
+
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 14px;
+          color: #232735;background-color:#ffffff;">
+          <div style="margin-left: 60px; margin-right: 60px;margin-bottom: 32px;">
+            <p
+              style="margin:0; padding: 0;color: #232735;
+              font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+              font-size: 14px;line-height: 24px;">
+              Hi <strong>{{ username }}</strong>,
+            </p>
+            <p
+              style="margin:0; padding: 0;color: #232735;
+              font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+              font-size: 14px;line-height: 24px;font-weight: 400">
+              We just received an alert that you attempted to connect 
+              <strong>{{ integration }}</strong> to Laika. Unfortunately, the connection
+              failed due to <strong>{{ extra.reason_connection_failure }}</strong>.
+              {% if extra.is_invalid_credentials %}Please double-check your username
+              and password and try again.{% endif %}
+            </p>
+
+            {% if extra.requirements %}
+              <p
+                style="margin:24px 0 0; padding: 0;color: #232735;
+                font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 14px;line-height: 24px;font-weight: 400">
+                Please check that you meet the requirements listed below.
+              </p>
+              <p style="margin:24px 0 0; padding: 0;color: #232735;
+              font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+              font-size: 14px;line-height: 24px;;font-weight: 700">
+                Integration Requirements:
+              </p>
+              <ul style="margin:0;margin-left: 12px; padding:0;">
+              {% for req in extra.requirements %}
+                <li style="margin:0;padding:0;color: #232735;
+                font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 14px;line-height: 24px;font-weight: 400">{{ req }}</li>
+              {% endfor %}
+              </ul>
+            {% endif %}
+            {% if extra.error_message %}
+              {% autoescape off %}
+                <p 
+                  style="margin:24px 0 0; padding: 0;color: #232735;
+                  font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                  font-size: 14px;line-height: 24px;font-weight: 400">
+                </p>
+                {{ extra.error_message}}
+              {% endautoescape %}
+            {% endif %}
+            <p
+              style="margin: 24px 0 0; padding: 0;color: #232735;
+              font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+              font-size: 14px;line-height: 24px;font-weight: 400">
+              If your information is correct and you are still unable to
+              connect {{ integration }} to Laika, please
+              <a href="mailto:cxsupport@heylaika.com"
+                style="color: #3399FF;text-decoration:underline;
+                font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+                font-size: 14px;line-height: 24px">
+                contact us</a>. We are always available to help troubleshoot.
+            </p>
+            <p style="margin:24px 0 0; padding: 0;color: #232735;
+            font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+            font-size: 14px;line-height: 24px;font-weight: 400">
+              Best,
+            </p>
+            <p style="margin:0; padding: 0;color: #232735;
+            font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+            font-size: 14px;line-height: 24px;font-weight: 400">
+              Your friends at Laika
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"
+          style="font-family:Rubik,Arial,Verdana,sans-serif;font-size:13px;
+          color:#232735;background-color:#ffffff;text-align:center;
+          border-radius:2px;font-style:normal"
+          valign="middle">
+          <table
+            style="border-spacing:0!important;margin-left:auto;margin-right:auto;
+            border-collapse: collapse;border-spacing: 0;">
+            <caption></caption>
+            <tbody>
+              <tr>
+                <th id="link-header"
+                  style="background:#3b2552;padding:0;border-spacing:0!important;
+                  border-radius:2px;font-style:normal;text-align:center;
+                  display:block;width:264px;height:40px"
+                  valign="middle">
+                  <p style="text-align:center;margin:0">
+                    <span style="font-size:12px;font-weight:700;color:#ffffff">
+                      <a href={{ reconfigure_integration_url }}
+                        rel="noopener noreferrer"
+                        style="color:#ffffff;text-decoration:none!important;
+                        display:block;width:264px;height:40px;line-height:40px"
+                        target="_blank">
+                        <span
+                          style="font-family:Rubik,Arial,Verdana,sans-serif;
+                          color:#ffffff;border:solid #3b2552 1px;
+                          background:#3b2552;text-decoration:none!important;
+                          border-radius:2px;font-style:normal;font-size:12px;
+                          font-weight:700">
+                          RECONFIGURE CONNECTION
+                        </span>
+                      </a>
+                    </span>
+                  </p>
+                </th>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"
+          style="font-family: Rubik, Arial, Verdana, sans-serif;font-size: 13px;
+          color: #232735; background-color: #ffffff;text-align: center;">
+          <p
+            style="margin: 50px 0 25px;padding: 0;color: #232735;
+            font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+            font-size: 13px;line-height: 24px;text-align: center;">
+            <img src="https://laika-static-documents.s3.amazonaws.com/Email+Templates/logo-footer.png"
+              alt="Laika logo footer" width="78" height="auto" />
+          </p>
+          <p
+            style="font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+            font-style: normal;font-weight: 400;font-size: 12px;line-height: 20px;
+            text-align: center;color: #A1A4B1;margin: 0;padding: 0;">
+            Copyright ©2021 Laika Inc.
+          </p>
+          <p style="margin: 0 0 30.5px;padding: 0;">
+            <a href={{ reconfigure_profile_url }}
+              style="color: #3399FF;text-decoration:underline;
+              font-family: Roboto, Rubik, Arial, Helvetica, Verdana, sans-serif;
+              font-style: normal;font-weight: 400;font-size: 12px;line-height: 20px;
+              text-align: center;">
+              Update Your Email Preferences
+            </a>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>

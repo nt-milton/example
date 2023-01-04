@@ -1,0 +1,36 @@
+{
+  "Key": "ch31",
+  "Title": "Story for web-app",
+  "Description": "Web App is the best",
+  "Issue Type": "feature",
+  "Epic": "EPIC TEST",
+  "Project": "API SERVER",
+  "Assignee": "Dev Team",
+  "Reporter": "Dev Team",
+  "Status": "Completed",
+  "Approver": "",
+  "Started": "2021-01-04T14:37:43Z",
+  "Transitions History": {
+    "template": "shortcutTransitionsHistory",
+    "data": [
+      {
+        "field": "workflow state",
+        "author": "",
+        "date": "",
+        "before": 500000006,
+        "after": 500000011
+      },
+      {
+        "field": "completed",
+        "author": "",
+        "date": "",
+        "before": "False",
+        "after": "True"
+      }
+    ]
+  },
+  "Ended": "None",
+  "Url": "https://app.shortcut.com/laika-test/story/31",
+  "Source System": "Shortcut",
+  "Connection Name": "testing_account"
+}

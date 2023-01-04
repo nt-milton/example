@@ -1,0 +1,2785 @@
+{
+  "id": 1879,
+  "name": "Internet",
+  "vendors": [
+    {
+      "id": 259,
+      "name": "Imgur",
+      "description": "Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/imgur.com",
+      "website": "imgur.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://imgur.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://imgur.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2030, "name": "Digital Entertainment" }
+      ]
+    },
+    {
+      "id": 1129,
+      "name": "Pinterest",
+      "description": "Pinterest, Inc. is a social media web and mobile application company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pinterest.com",
+      "website": "pinterest.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://policy.pinterest.com/en/privacy-policy-preview"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1903, "name": "Social Bookmarking" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 205,
+      "name": "WeTransfer",
+      "description": "WeTransfer is a cloud-based computer file transfer service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wetransfer.com",
+      "website": "wetransfer.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 2207, "name": "File Sharing" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 691,
+      "name": "Outbrain",
+      "description": "Outbrain is a web advertising platform that displays boxes of links to pages within websites.",
+      "isClaimed": false,
+      "logo": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1499071909/njs4iufojnbjkaiiuwkf.png",
+      "website": "outbrain.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.outbrain.com/legal/" },
+        { "protocolId": 7, "sourceUrl": "https://www.outbrain.com/legal/" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2049, "name": "Content Discovery" }
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Squarespace",
+      "description": "Squarespace is a private American company, based in New York City, that provides software as a service for website building and hosting.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/squarespace.com",
+      "website": "squarespace.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.squarespace.com/dpa" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.squarespace.com/hc/en-us/articles/360000851908-GDPR-and-Squarespace"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.squarespace.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Khan Academy",
+      "description": "Khan Academy is a non-profit educational organization created in 2008 by Salman Khan with the goal of creating a set of online tools that help educate students.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/khanacademy.org",
+      "website": "khanacademy.org",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Duolingo",
+      "description": "Duolingo is a platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/duolingo.com",
+      "website": "duolingo.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.duolingo.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.duolingo.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2111, "name": "Education" },
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1927, "name": "Language Learning" }
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Meetup",
+      "description": "Meetup is a service used to organize online groups that host in-person events for people with similar interests.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/meetup.com",
+      "website": "meetup.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.meetup.com/hc/en-us/articles/360003892851-About-General-Data-Protection-Regulation-GDPR-"
+        }
+      ],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2148, "name": "Communities" }
+      ]
+    },
+    {
+      "id": 660,
+      "name": "SmugMug",
+      "description": "SmugMug is a paid image sharing, image hosting service, and online video platform on which users can upload photos and videos.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smugmug.com",
+      "website": "smugmug.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.smugmug.com/about/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.smugmug.com/about/privacy/ "
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2309, "name": "Web Apps" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2101, "name": "Photography" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1824, "name": "Video" }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Doodle",
+      "description": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/doodle.com",
+      "website": "doodle.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 2013, "name": "Meeting Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1808, "name": "Freemium" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 870,
+      "name": "HostGator",
+      "description": "HostGator is a Houston-based provider of shared, reseller, virtual private server, and dedicated web hosting with an additional presence in Austin, Texas.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hostgator.com",
+      "website": "hostgator.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.hostgator.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.hostgator.com/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://www.hostgator.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1841, "name": "Wireless" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2187, "name": "Web Hosting" }
+      ]
+    },
+    {
+      "id": 1006,
+      "name": "Spiceworks",
+      "description": "Spiceworks is a professional network for the information technology industry that is headquartered in Austin, Texas.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/spiceworks.com",
+      "website": "spiceworks.com",
+      "vendorToProtocols": [],
+      "categories": [{ "id": 1879, "name": "Internet" }]
+    },
+    {
+      "id": 1047,
+      "name": "Stripe",
+      "description": "Stripe is an American technology company based in San Francisco, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "website": "stripe.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://stripe.com/privacy-center/legal"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://stripe.com/privacy-shield-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://stripe.com/privacy-shield-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1852, "name": "Credit Cards" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1897, "name": "Payments" }
+      ]
+    },
+    {
+      "id": 1102,
+      "name": "InVision",
+      "description": "InVision is the digital product design platform used to make the world’s best customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/invisionapp.com",
+      "website": "invisionapp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://support.invisionapp.com/hc/en-us/articles/115003634123-Does-InVision-comply-with-the-General-Data-Protection-Regulation-for-EU-customers-"
+        }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 626,
+      "name": "SimilarWeb",
+      "description": "Grow your market share and website traffic with SimilarWeb's digital market intelligence platform. Compare any website traffic statistics & analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/similarweb.com",
+      "website": "similarweb.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 1039,
+      "name": "SitePoint",
+      "description": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sitepoint.com",
+      "website": "sitepoint.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 631,
+      "name": "PicMonkey",
+      "description": "Create beautiful photos, logos, social media graphics, and facebook covers with PicMonkey’s easy yet powerful photo editing and graphic design software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/picmonkey.com",
+      "website": "picmonkey.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2234, "name": "Graphic Design" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2115, "name": "Photo Editing" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "LiveChat",
+      "description": "LiveChat is an online customer service software with live support, help desk software, and web analytics capabilities.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/livechatinc.com",
+      "website": "livechatinc.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.livechatinc.com/enterprise/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.livechatinc.com/enterprise"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.livechatinc.com/gdpr-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1893, "name": "Customer Service" }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Toggl",
+      "description": "Toggl is a time tracking app operated by Toggl OÜ, headquartered in Tallinn, Estonia, that offers online time tracking and reporting services through their website along with mobile and desktop applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/toggl.com",
+      "website": "toggl.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://toggl.com/legal/privacy/" }
+      ],
+      "categories": [
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 515,
+      "name": "G2",
+      "description": "G2 is a peer-to-peer review site headquartered in Chicago, Illinois.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/g2.com",
+      "website": "g2.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.g2.com/static/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.g2.com/static/privacy" }
+      ],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 539,
+      "name": "IFTTT",
+      "description": "In addition to the web-based application, the service runs on iOS and Android.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ifttt.com",
+      "website": "ifttt.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1042,
+      "name": "Kahoot!",
+      "description": "Kahoot! is a game-based learning platform, used as educational technology in schools and other educational institutions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kahoot.com",
+      "website": "kahoot.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://kahoot.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2227, "name": "EdTech" },
+        { "id": 2449, "name": "Gaming" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2111, "name": "Education" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 787,
+      "name": "dotloop",
+      "description": "dotloop provides an online platform to empower real estate professionals to get deals done. Find out why we are the top choice for industry leading brands.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dotloop.com",
+      "website": "dotloop.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 2402, "name": "Real Estate Investment" },
+        { "id": 2011, "name": "Commercial Real Estate" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1149,
+      "name": "Twilio",
+      "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/twilio.com",
+      "website": "twilio.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2106, "name": "SMS" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2191, "name": "VoIP" },
+        { "id": 2305, "name": "Mobile Apps" }
+      ]
+    },
+    {
+      "id": 413,
+      "name": "UserTesting",
+      "description": "A great customer experience begins with Human Insight. See, hear, and talk with your customers as they engage with your products, apps, and messaging.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/usertesting.com",
+      "website": "usertesting.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.usertesting.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.usertesting.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.usertesting.com/gdpr-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2407, "name": "Consumer Research" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1911, "name": "Test and Measurement" },
+        { "id": 1886, "name": "Crowdsourcing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Helpshift",
+      "description": "Helpshift enables brands to deliver superior digital customer service digital channels with messaging-based support and AI-powered automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/helpshift.com",
+      "website": "helpshift.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.helpshift.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1240,
+      "name": "Breezy HR",
+      "description": "Improve your entire hiring process with Breezy HR recruiting software & applicant tracking system. We help you attract & hire great employees with less effort. 👌",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/breezy.hr",
+      "website": "breezy.hr",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://breezy.hr/privacy" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://agilyx-solutions.breezy.hr/privacy-notice"
+        },
+        { "protocolId": 4, "sourceUrl": "https://breezy.hr/privacy" }
+      ],
+      "categories": [
+        { "id": 2550, "name": "Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2549, "name": "Information Technology & Services" }
+      ]
+    },
+    {
+      "id": 647,
+      "name": "FastSpring",
+      "description": "FastSpring is a software as a service company that offers a full service e-commerce platform for companies that sell software and other online digital products.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fastspring.com",
+      "website": "fastspring.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://fastspring.com/risk-management-and-compliance/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1862, "name": "EBooks" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1897, "name": "Payments" }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "PrestaShop",
+      "description": "PrestaShop is a freemium, open source e-commerce solution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/prestashop.com",
+      "website": "prestashop.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.prestashop.com/it/informativa-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Tailwind",
+      "description": "Save time scheduling to Pinterest and Instagram, post at the best times for engagement, grow together with Tribes, get more actionable analytics. Start free!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tailwindapp.com",
+      "website": "tailwindapp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1903, "name": "Social Bookmarking" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 912,
+      "name": "Liquid Web",
+      "description": "Liquid Web is a leader in Managed Hosting solutions for mission critical sites & apps. When uptime and reliability are non-negotiable, trust Liquid Web!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liquidweb.com",
+      "website": "liquidweb.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 606,
+      "name": "Optimizely",
+      "description": "Optimizely is an American company that makes customer experience optimization software for other companies.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/optimizely.com",
+      "website": "optimizely.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.optimizely.com/compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.optimizely.com/privacy/privacy-20171025/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.optimizely.com/privacy/privacy-20171025/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.optimizely.com/compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.optimizely.com/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1869, "name": "Personalization" }
+      ]
+    },
+    {
+      "id": 711,
+      "name": "Sucuri",
+      "description": "Sucuri Inc. (http://sucuri.net/signup/social) is the leading provider of web-based integrity monitoring, malware detection, and malware removal solutions - delivered as a service. Sucuri's web monitoring solution is used today by more than 50,000 sites...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sucuri.net",
+      "website": "sucuri.net",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://sucuri.net/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://sucuri.net/privacy/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 957,
+      "name": "Siteimprove",
+      "description": "One suite for improving your website through SEO, Analytics, Accessibility, Data Privacy, and Content Quality. Receive a thorough prioritized list of optimization tasks, and expert recommendations",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/siteimprove.com",
+      "website": "siteimprove.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 496,
+      "name": "OnceHub",
+      "description": "Meeting and appointment scheduling software. Schedule meetings without the back-and-forth.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/oncehub.com",
+      "website": "oncehub.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.oncehub.com/legal/application-privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.oncehub.com/trust/compliance"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.oncehub.com/trust/compliance"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.oncehub.com/trust/compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.oncehub.com/trust/compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2417, "name": "Scheduling" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Serpstat",
+      "description": "Smart and powerful tool for ✓ Backlinks Analysis ✓ Rank Tracking ✓ Keyword Research ✓ Competitor Analysis ✓ Site Audit.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/serpstat.com",
+      "website": "serpstat.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Recruitee",
+      "description": "Recruitee is Software as a service that functions as a Talent Acquisition Platform, formerly known as an applicant tracking system.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/recruitee.com",
+      "website": "recruitee.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.recruitee.com/en/articles/60300-is-recruitee-compliant-with-gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2190, "name": "Recruiting" }
+      ]
+    },
+    {
+      "id": 853,
+      "name": "IPOWER",
+      "description": "Small business web hosting offering additional business services such as: domain name registrations, email accounts, web services, online community resources and various small business solutions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ipower.com",
+      "website": "ipower.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://event-te.ipower.com/Privacy.html "
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://event-te.ipower.com/Privacy.html "
+        }
+      ],
+      "categories": [
+        { "id": 2474, "name": "Service Industry" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 747,
+      "name": "PubMatic",
+      "description": "PubMatic is a digital advertising technology company who empowers premium app developers and publishers to maximize their programmatic advertising business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pubmatic.com",
+      "website": "pubmatic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 793,
+      "name": "Mailjet",
+      "description": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and powerful service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mailjet.com",
+      "website": "mailjet.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.mailjet.com/security-privacy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.mailjet.com/security-privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 941,
+      "name": "Yesware",
+      "description": "Yesware helps build lasting business relationships, right from your inbox. A sales engagement platform designed for sales professionals and account managers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/yesware.com",
+      "website": "yesware.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.yesware.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.yesware.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.yesware.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 991,
+      "name": "TimeTrade",
+      "description": "Intelligent online appointment scheduling by TimeTrade. Join the 500+ enterprises and 30k+ business that schedule appointments every day. Get started today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/timetrade.com",
+      "website": "timetrade.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.timetrade.com/privacy-statement/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.timetrade.com/privacy-statement/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.timetrade.com/privacy-statement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.timetrade.com/blog/timetrade-and-gdpr-ready-to-help-customers-with-new-compliance-challenges/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.timetrade.com/why-timetrade/what-makes-timetrade-unique/"
+        }
+      ],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Doximity",
+      "description": "Over a million U.S. healthcare professionals as verified members. Largest network of MDs and other healthcare professionals. New to Doximity? Find your profile and join for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/doximity.com",
+      "website": "doximity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "FullStory",
+      "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fullstory.com",
+      "website": "fullstory.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.fullstory.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Drift",
+      "description": "Drift is the leading chat software & conversational marketing platform. Thousands of businesses use Drift every day to have more conversations & grow faster.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/drift.com",
+      "website": "drift.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.drift.com/gdpr/" },
+        { "protocolId": 12, "sourceUrl": " https://www.drift.com/security/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Glitch",
+      "description": "Glitch is a software company specializing in project management tools.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/glitch.com",
+      "website": "glitch.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://glitch.com/legal/#gdpr" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 2416, "name": "Productivity Tools" }
+      ]
+    },
+    {
+      "id": 951,
+      "name": "Quantcast",
+      "description": "Quantcast is an American technology company, founded in 2006, that specializes in AI-driven real-time advertising, audience insights and measurement.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/quantcast.com",
+      "website": "quantcast.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.quantcast.com/gdpr/" },
+        { "protocolId": 13, "sourceUrl": "https://www.quantcast.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 926,
+      "name": "WizIQ",
+      "description": "Founded in 2007, WizIQ is a cloud-based education platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wiziq.com",
+      "website": "wiziq.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2111, "name": "Education" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2227, "name": "EdTech" }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Humanity",
+      "description": "Humanity is easy to use employee scheduling software that helps your business manage shifts, schedules, payroll, time clocking and more online.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/humanity.com",
+      "website": "humanity.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.humanity.com/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://www.humanity.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.humanity.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1122,
+      "name": "HackerOne",
+      "description": "HackerOne is a vulnerability coordination and bug bounty platform that connects businesses with penetration testers and cybersecurity researchers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hackerone.com",
+      "website": "hackerone.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.hackerone.com/privacy-shield"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.hackerone.com/privacy-shield"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2107, "name": "Network Security" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Tealium",
+      "description": "Tealium is a US American company founded in 2008 in San Diego, California that sells enterprise tag management system and marketing software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tealium.com",
+      "website": "tealium.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://tealium.com/privacy/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://tealium.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://tealium.com/privacy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        },
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://tealium.com/protecting-your-greatest-competitive-advantage-data/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Pantheon",
+      "description": "Pantheon is a webops platform for open-source Drupal and WordPress websites.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pantheon.io",
+      "website": "pantheon.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://pantheon.io/blog/announcing-privacy-shield-framework-compliance"
+        },
+        { "protocolId": 7, "sourceUrl": "https://pantheon.io/security" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://pantheon.io/blog/announcing-privacy-shield-framework-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2198, "name": "Content" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1991, "name": "Infrastructure" }
+      ]
+    },
+    {
+      "id": 685,
+      "name": "NationBuilder",
+      "description": "software for leaders",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nationbuilder.com",
+      "website": "nationbuilder.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://nationbuilder.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2036, "name": "Politics" },
+        { "id": 2352, "name": "CMS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 952,
+      "name": "Web CEO SEO Software",
+      "description": "WebCEO is the SEO tool kit for Digital Agencies with Google Snippets (Position 0) results, lead generation tools, SEO task management and white label reports",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/webceo.com",
+      "website": "webceo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.webceo.com/blog/webceo-update-gdpr-compliance-data-protection/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Travis CI",
+      "description": "Hi! We're Travis CI, the continuous integration and delivery service for your GitHub projects • Status: @traviscistatus • Travis Foundation: @travis_fnd",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/travis-ci.com",
+      "website": "travis-ci.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://docs.travis-ci.com/legal/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2309, "name": "Web Apps" }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Splashtop",
+      "description": "Splashtop, previously Splashtop Remote, is a family of remote-desktop software and remote support software solutions, developed by Splashtop Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/splashtop.com",
+      "website": "splashtop.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.splashtop.com/compliance" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Iterable",
+      "description": "Iterable empowers growth marketers to create world-class user engagement campaigns throughout the full lifecycle, and across all channels. Marketers segment users, build workflows, automate touchpoints, and test strategies at scale without engineering ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/iterable.com",
+      "website": "iterable.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://iterable.com/trust/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://iterable.com/trust/gdpr-commitment/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Fastly",
+      "description": "Fastly, Inc. is an American cloud computing services provider.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fastly.com",
+      "website": "fastly.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.fastly.com/privacy-shield-notice"
+        },
+        { "protocolId": 7, "sourceUrl": "https://docs.fastly.com/compliance/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.fastly.com/blog/fastly-soc2-exam"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.fastly.com/privacy-shield-notice"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.fastly.com/blog/fastly-eases-gdpr-compliance-our-customers"
+        }
+      ],
+      "categories": [
+        { "id": 1932, "name": "Cloud Security" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1961, "name": "Content Delivery Network" }
+      ]
+    },
+    {
+      "id": 209,
+      "name": "SalesLoft",
+      "description": "SalesLoft is the Sales Engagement Platform for modern sales organizations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesloft.com",
+      "website": "salesloft.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://salesloft.com/privacy-shield/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://salesloft.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://salesloft.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://salesloft.com/privacy-notice/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://salesloft.com/gdpr-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1938, "name": "B2B" }
+      ]
+    },
+    {
+      "id": 1121,
+      "name": "MaxMind",
+      "description": "MaxMind is a leading provider of IP intelligence and online fraud prevention tools. Learn about GeoIP databases and services and minFraud services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maxmind.com",
+      "website": "maxmind.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1888, "name": "Fraud Detection" }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Justworks",
+      "description": "Justworks simplifies your business's back office complexities, so you can work fearlessly. Get payroll, benefits, HR, and compliance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/justworks.com",
+      "website": "justworks.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://justworks.com/privacy-policy" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2375, "name": "Employee Benefits" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Critical Mention",
+      "description": "Critical Mention is the fastest, most reliable media monitoring and earned media measurement platform for broadcast, online news, print and social media.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/criticalmention.com",
+      "website": "criticalmention.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2109, "name": "Broadcasting" },
+        { "id": 2222, "name": "Real Time" }
+      ]
+    },
+    {
+      "id": 1120,
+      "name": "Postmark",
+      "description": "Trusted by thousands of developers, Postmark is a fast and reliable transactional email service. Send with Postmark to ensure your transactional emails get to the inbox on time, every time.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/postmarkapp.com",
+      "website": "postmarkapp.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://postmarkapp.com/eu-privacy" },
+        { "protocolId": 2, "sourceUrl": "https://postmarkapp.com/eu-privacy" },
+        { "protocolId": 7, "sourceUrl": "https://postmarkapp.com/eu-privacy" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2048, "name": "Transaction Processing" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 1036,
+      "name": "Curalate",
+      "description": "Connect social to commerce, make social channels shoppable, leverage UGC, & activate influencers with Curalate. Learn how you can make social sell.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/curalate.com",
+      "website": "curalate.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.curalate.com/privacy-shield-notice/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.curalate.com/privacy-shield-notice/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Mixmax",
+      "description": "A feature-rich email app that extends Gmail's functionality and delivers enhanced productivity for customer-facing teams",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mixmax.com",
+      "website": "mixmax.com",
+      "vendorToProtocols": [
+        { "protocolId": 6, "sourceUrl": "https://mixmax.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://mixmax.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://mixmax.com/privacy/" },
+        { "protocolId": 3, "sourceUrl": "https://mixmax.com/privacy/" },
+        { "protocolId": 1, "sourceUrl": "https://mixmax.com/security/" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Reputation.com",
+      "description": "Reputation.com is a business-to-business online reputation management and customer experience management company headquartered in Redwood City, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/reputation.com",
+      "website": "reputation.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.reputation.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.reputation.com/legal/gdpr-data-processing-addendum/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.reputation.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2178, "name": "Reputation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 776,
+      "name": "Leadfeeder",
+      "description": "Leadfeeder is a lead generation tool for B2B companies.    You can turn your website visitors into sales leads by discovering the companies that visit your website and what they do there.    Generating good sales leads is important. There are many pote...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leadfeeder.com",
+      "website": "leadfeeder.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1891, "name": "Lead Generation" }
+      ]
+    },
+    {
+      "id": 956,
+      "name": "Lithium Technologies",
+      "description": "Lithium Technologies is a San Francisco-based provider of software that allows businesses to connect with their customers on social media and digital channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lithium.com",
+      "website": "lithium.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2148, "name": "Communities" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1816, "name": "Social CRM" }
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Heap",
+      "description": "We empower product teams to focus on what matters — building the best products — not wrestling with their product analytics platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/heap.io",
+      "website": "heap.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2382, "name": "Technical Support" },
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Sertifi",
+      "description": "Sertifi offers the fastest and most secure way to close business, from legally-binding eSignatures to secure online payment capture. Thousands of companies around the world trust Sertifi to close business 90% faster, recognize revenue quickly, enhance ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sertifi.com",
+      "website": "sertifi.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://corp.sertifi.com/resources/technology-security/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://corp.sertifi.com/gdpr/" },
+        { "protocolId": 7, "sourceUrl": "https://corp.sertifi.com/gdpr/" },
+        { "protocolId": 4, "sourceUrl": "https://corp.sertifi.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1954, "name": "Digital Signage" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 472,
+      "name": "The Trade Desk",
+      "description": "Precision targeting across display, video, mobile, native, audio and TV — and all devices.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thetradedesk.com",
+      "website": "thetradedesk.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.thetradedesk.com/general/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.thetradedesk.com/general/website-privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.thetradedesk.com/general/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2341, "name": "Social" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2448, "name": "Video Advertising" }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Gather",
+      "description": "Gather is the leading event management platform for restaurants, venues & caterers. We enable hospitality companies of all sizes to manage & grow their events.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gatherhere.com",
+      "website": "gatherhere.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 352,
+      "name": "WalkMe",
+      "description": "WalkMe owned by WalkMe Inc. is a software-as-a-service company that helps users navigate the features of other web-based services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/walkme.com",
+      "website": "walkme.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.walkme.com/privacy-policy/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.walkme.com/walkme-security/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2310, "name": "Product Management" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2173, "name": "Guides" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Totango",
+      "description": "Totango is a Customer Success and Customer Retention Software.  We help enterprises drive revenue growth while focusing on the SaaS customer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/totango.com",
+      "website": "totango.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.totango.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "ownClouders",
+      "description": "The ownClouders page shares news from the ownCloud community!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/owncloud.org",
+      "website": "owncloud.org",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://owncloud.org/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2148, "name": "Communities" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1135,
+      "name": "Revue",
+      "description": "No algorithms or fighting to be seen in a news feed, just your writing in front of your subscribers, without the guesswork.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getrevue.co",
+      "website": "getrevue.co",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.getrevue.co/privacy" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2124, "name": "Social News" }
+      ]
+    },
+    {
+      "id": 1090,
+      "name": "Checkr",
+      "description": "Background check automation.    Try it at https://checkr.io    ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/checkr.com",
+      "website": "checkr.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2548, "name": "Legal Tech" }
+      ]
+    },
+    {
+      "id": 1179,
+      "name": "TokBox",
+      "description": "TokBox is a PaaS company that provides hosted infrastructure, APIs and tools required to deliver enterprise-grade WebRTC capabilities.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tokbox.com",
+      "website": "tokbox.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://tokbox.com/platform/security" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1923, "name": "Video Conferencing" }
+      ]
+    },
+    {
+      "id": 678,
+      "name": "JazzHR",
+      "description": "JazzHR is a best in class Applicant Tracking System designed to streamline your hiring process, saving significant time & money.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jazzhr.com",
+      "website": "jazzhr.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://success.jazzhr.com/hc/en-us/articles/360003307634-Stay-GDPR-Compliant-with-JazzHR"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://success.jazzhr.com/hc/en-us/articles/360003307634-Stay-GDPR-Compliant-with-JazzHR"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.jazzhr.com/eur-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2004, "name": "Human Resources" }
+      ]
+    },
+    {
+      "id": 532,
+      "name": "PeopleFluent",
+      "description": "Build a winning talent management strategy and watch your people thrive with integrated talent management and learning technologies from PeopleFluent.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/peoplefluent.com",
+      "website": "peoplefluent.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.peoplefluent.com/gdpr-faq"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.peoplefluent.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.peoplefluent.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Lob",
+      "description": "Lob provides print & mail and address verification APIs that allow you to send personalized postcards, letters, and checks to your customers, and keep customer data up to date with accurate address information.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lob.com",
+      "website": "lob.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://lob.com/legal/privacy-shield-notice"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://lob.com/legal/privacy-shield-notice"
+        }
+      ],
+      "categories": [
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2212, "name": "Shipping" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2185, "name": "Printing" }
+      ]
+    },
+    {
+      "id": 1146,
+      "name": "Guru",
+      "description": "A knowledge sharing tool to support your team",
+      "isClaimed": false,
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAAAllBMVEUAzZj///8Y0qIAy5QAx4sAzpsAypEAxIUAyI0AypMAyIwAw4T8//8AzpjZ+PAAw4IA3LcA372s792N6dGz8OAA5MfD8+fP9uxm4cEA16wm1KdL3LYA2bIA1Kbu/ft65clS3bk72bC69eyW6tVo4cJ67dmu9OmH798A58zm/PlM6NDW+vXp/Pim8+eA792c8eJd6tRo7de8NrKHAAALj0lEQVR4nO2de3uaPBiHIzmCILANHR2wjr0qotb6/b/cG7TtEg72CdBZrmu//7ar4k3M4TklQbOmssWXn4+/Hqw76+HX488vi6wFENX/w138/kHRpxH98XvhvgPtLv/7RMRX0f+W7i3o1fd7E7br+6oT2v1q3ZuuS9ZXtx168ePeaLf0Y9EGvXy4N9dtPSyb0N8+bdd4lfWtDv3t000aTdFvOvTnb+dKr219hV588v78qofFH2j38d40UD26b9Bf780C19dX6NUkOvRV1uoK7X7Stbtd390L9PLeHGZaVtDTauhLU6PZYgLLiiq6kNC/701hqt8zlH1q265NPzI0td5R9Q/05d4M5vqCft4bwVw/0eO9Ecz1iH7dG8Fcv9BEjFJVD2hCxtKrrH/Qf0n/oBV5yGZMSDGGR3/4+NAeFkRKstJKCNmO/KdgI37FqNCyeQURKE3CYr095qvVfr9abk7rMkxSKl+Fyb8YQyNCY0YIisNzvsjcWmjWzXb5NkokuBijs4wFXRHToMzruBr6Yh1aggzv5ONAY4ewuNx3875ptw5Q1U8G2cMjQFNMOAqPAOKrlpHFCaMDsAdDU49wGi3fZ1V0KFPO7f7UA6EpFT42RK6Uldac9O4jw6Cp5/NgY4xcaVdgn/WkHgQtm9na9kKulCec9KMeBM15BJkxuuSeEe/VRfpDU+zT0wDkSsuY9+ki/aFtHtxqZvewWOabPN8fbiw3s0NEHHPqvtCeEFFb1vqCu3mOgtiyLgYTteIgLI/7jqXSfcLmXaQvNMHnVoosL4O0svOkTcpsm1UGqsMdbCXRZtf6iZz62JC6JzShbbNGtiwTRDjDnm7NeR625dqdRvmh5VP72HTu6wNN0Zy2rNrZqTIr7BtvylmyXjQ/uEsMqXtAU+qjvNk5TwnxhXfryyllnFjPzeGbJb6R5dcH2mdN5mPCfYARRDHn1lNbW5u4B+bQ1BeNhXsXOb6A2W3U9nnSeOldyg06iDE0JbwxBk+WT8Cm5sXGKuuPWFGDJd0UmjK/qH9hIbjRpEU97ie7ev9icFvVFBrPw9psuw+4sZEpX92qzz8RB3/cFJqktXUwT+c9zAeKuH2udRAMjjIYQgtUG4RHatY1/og4pfab7VJwrzaDxqQ2gk49LIdXMVK4GjR4AjGD5kmNmZnMVHVJanVsUPEh0ALp3uDGHsJcUSs/3JmAP2cEzfXZbuX5A9N5DnlbHQ0a2gSaEkubObJ0KLN8JHtZqVbxBy0uc91oiPxhcaJKHiHhab/blJQbGB9waDpPtSlqy+0RYqByTWdpSgn5GIOJ6TbHwsRYuCGKqnC2WbgJDC0bWuvRocnvObLA0Jhry+7WYZ8fmnJL9TjcFD6rji9wS/NIbeiSjJ/+gQsITR2mWkqZdc+GBkPzRB2GBR8zWWUsILStmXdZesepA4GhiRY0OJO+keVxBIP2eKKuhoGRw99H17Rpl2DQtmb55tho0TUXleYfEd2WDQxa2GokuuwVVIaLCoItyrpTSTBoQpWVxU38MRFbvg0Vm9XqGIou6wYIrbpZS9TLX8GYYSnAl6Uvg37rOe1/AYLGWpd+Mq4o8LDDhbRV5EjAtrjUJODO3D5P337VJ9YegwVBM/GsQEdzQ2ZGWBqWp02ebzan7bmIgphiSd5CRBGPlZ4YiP7QginhoCwx87Js7oVHLXnhuu7iWIYxJk4tuU/ZPFED2Och0FTZ77WnRl2akKAZGL6yb4rEk9x/pjZK/FAz2o/tYwAGrdr/OTbJR3G7ESBVlUcp4S/YsmuQWnDzaPeH1iaPE3wcepSz91KN7nPML/M+Zb5XD7eX/bsHJoH6ILgpLf1VSHr0nFbhbe7HjcKAuH3Og0GHyoMisIVH8bwRy25VVjDfF1EjY9fVPjBo1WsJ4XHkRly4UxurEa+ezdakvXfAoIXSYG44h45DRp4bIF3aN3NeZ941TYGgHQU6C8AzngA3dJvKTmYQNBP9oLWhYKroRjHIB7a0vvjP3Gy1Wu2zRs1eq7JwfiOIatynswDapzFS57tlkFqWlaZxVR6Z77Kb6Kt4fispAps9eg1EpvqVe8uXliljlY3HufDi6Ebp05HenqFgLa1OeeDUGaPKYrHH/qVu9kWMJtuuts5K9k5s03xxKThwRWRaJmybVh4AtdIkjMrtqk6qvF4wF+8sXzDbQ13GnwjQ9sBsrcK4uZQcid2415ej/rtxb5iVFys/5ZEBkyP6QgrTPuSAHB8MWo2YLqHRdE/Epsxn6kNaBOZuYaV37lLw9CHMKg23CaSZodBCKL3TDcERhHqu9KZOgZB2NYWM8h7e+POtOiVNjJw7GRvIdhVTYh1Bgx7QuhWxscEpIuJ1+Ie6sm3CqjmJcVwW7R5WH+hUqU0zKd3h1rtlytmqiJ0LMsHhHhRVAcby1JEo10Sww+VxerNS+bA6J9Jhl06OIF5YveCJjQWtZd6la2uQQiSsa69Atj8WCSWVV2sLjsJrTzoCalWg8Wm1Ux9SgxgTFTw91073cQ+rfFsEFruGDygmNHrt/ONBU6Il5AqTWC9F0gUJLlGxfLM5np7KqnoWC85fN2FgFv2xRU72aNCCqCGJPTJKMVcVhFzOZ5VJwZzKNOVEMO811k99deXcjjYQkedrrlM4N0sjyjVDXC3Tqti3npzwVRuldEaDplwNq89y3OHc3wSnrZkUyoi62kcAIxKasWVcc/hGTOfX2iMApFXBuXFfy36ukHlTd2muhpb2FPBgcG5cCC0EFI2VZ6ZEDX6DxqFBvYev1WseRitD8ANXawzAEIdDC71qGtQkgMcSoQYaMlBbGNQw6bOeeeql9aFYf+qTGM1zuT6f6U2dGdVpdz1UnzqAs5JJXR5XnXI5WQ+q2bw+0uFa8B9oqpvU5WGux/Wf5kMLxnC9y/mgrcMm0JTolXmzovfmvBf5sRYGWQJ/O6NaU69WbCpbZhD1PNU6NNhlNitFFvZmPOpaAZrs0QQYBjKsVCf67zlzI1B0pQ3Zq7XzbBdDa18MoTGvhbrc0qxM9I2Z8aS2I6oE27umGxmEUw9lrBHcz/0jQuo7A3NojLDH5hxS38ow26SmBW/SlWnsDDTYx2AOjeZW3bvehcKkLJciwuN6EMcNDQww821Qnt/MtD1Z4A06FIk5LhpZgMKkDrTHhjPkJ43v3EW2L7Hf3yUnkUnQjDqV0Eh9T+jKMgua+ZJNKHyCb2PLjjEncUv890xAgccB0B3UEhv7XHhd3FT6mb5ozQ+tDafNXntsK+q23MmySAXnDq473fLfniQmNDq2pbRKbugm99sYLKnj1gjd7hjFcnLgRGDvRZfzSjhnVrhtD+pFvqlr33M3s5xp045w6C5fR4mF8GvaULplNA7LTUcY8hD4xtvd++/Q52jdjlEFGPfL0/q5KKKoKM/bfN++Y7xStTPQ2AzoD+0Rp2uP/hv8e8l79xn1OeVjyKkTjKc5pKSgU/vQMZrqxoCWToGIWjavA5WtrZ7bIQaepMJ869SzfCYPSN94z9AzaxDnCfxgoD9aRuL9HPgHQV/KQ5nBeUYvrVx4BjvNx4euNq/PWdBZvdGiTYTkenLPc5jQ1Q4ScXmjhkPR7inAvO8O6BGhLxanNKjD83vch21kyb8chjzegWjShiPEoUlxqp8X8Kps8xxazuBzxSqNePSc5K7OxLOSqNwulYXbPaxO5yhI0bWsfoSNG2OfTFgdUUMcRq04CcJKQRKn1e7O6mTFsb7kI86AxFUtW3UA5MXKcyStDdl1AdfHnbZ5saWR533A5qN/R4T+Lf2D/lv6B/23ZE3z0OxJHk/+eG8Ecz1O88j9SV5uMMlrJCZ5Ycckr0aZ5iU0k7zuZ5IXK02sqV+usJrkZWHTvJZtmhfgTfKqwWle6jjN6zOn0NbNi0qneSXsNC/fneY1x7NJXig9+6RXd3+/fXX3bJKXpF/06a+j/x+4k66fGCVM/AAAAABJRU5ErkJggg==",
+      "website": "getguru.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.getguru.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.getguru.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2269, "name": "IT Infrastructure" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "MediaRadar",
+      "description": "Sales enablement platforms customized for media, ad tech, and agencies that help you close more deals. Get Your Free Demo!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mediaradar.com",
+      "website": "mediaradar.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mediaradar.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mediaradar.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2103, "name": "Market Research" }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Usabilla",
+      "description": "Collect user feedback and improve your websites, apps and emails with Usabilla's Voice of Customer Solutions. Want to see what Usabilla can do for you? Let us show you with our free, personalized demo and get an inside look at our advanced functionalit...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/usabilla.com",
+      "website": "usabilla.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://usabilla.com/privacy/" },
+        { "protocolId": 1, "sourceUrl": "https://usabilla.com/security/" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Skilljar",
+      "description": "Say goodbye to high churn rates. With Skilljar’s online training platform, you can onboard, train and certify your customers faster and more effectively.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/skilljar.com",
+      "website": "skilljar.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1916, "name": "Training" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "ServiceChannel",
+      "description": "The leader in facility management software and contractor sourcing. ServiceChannel lets you manage all maintenance activity from a single platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/servicechannel.com",
+      "website": "servicechannel.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://servicechannel.com/facilities-management-company/facilities-maintenance-software/"
+        }
+      ],
+      "categories": [
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2326, "name": "Facility Management" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1898, "name": "Information Services" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "SimScale",
+      "description": "SimScale is a computer-aided engineering software product based on cloud computing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/simscale.com",
+      "website": "simscale.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2161, "name": "Simulation" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2075, "name": "CAD" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2024, "name": "3D Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 659,
+      "name": "RankWatch",
+      "description": "An SEO Management Platform. We at RankWatch, believe in building interfaces that are simple and beautiful, so that the most complex data can be accessed from anywhere.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rankwatch.com",
+      "website": "rankwatch.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 1130,
+      "name": "Short.cm",
+      "description": "Short.cm makes short links (vanity urls) on your own domain. Free signup, analytics and API. Chrome, slack, zapier and segment integrations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/short.cm",
+      "website": "short.cm",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Rakuten",
+      "description": "Where's your stuff? Find out with the best online shopping app for Android & iOS that tracks all your packages, purchases, price drops.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/slice.com",
+      "website": "slice.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2043, "name": "Shopping" },
+        { "id": 2437, "name": "Consumer" }
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Sigstr",
+      "description": "Sigstr's email signature marketing platform allows you to standardize brand consistency and drive marketing ROI with every employee email sent.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sigstr.com",
+      "website": "sigstr.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2038, "name": "Email" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 816,
+      "name": "Huddle",
+      "description": "Team collaboration software for enterprise and government. Manage tasks, projects and documents simply in secure client portals with Huddle.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/huddle.com",
+      "website": "huddle.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.huddle.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.huddle.com/Huddle-GDPR/" },
+        { "protocolId": 9, "sourceUrl": "https://www.huddle.com/Huddle-GDPR/" },
+        { "protocolId": 1, "sourceUrl": "https://www.huddle.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Easy Projects",
+      "description": "Ranked as Project Management Software Leader. Improve visibility into all ongoing projects, manage and plan resources, boost team collaboration and instill accountability.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/easyprojects.net",
+      "website": "easyprojects.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1946, "name": "Career Planning" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Lucidchart",
+      "description": "At Lucid, we help millions connect the dots and bring big ideas to life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/golucid.co",
+      "website": "golucid.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2305, "name": "Mobile Apps" }
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Cloudability",
+      "description": "Cloudability is a cloud cost management platform that improves visibility, optimization, governance and more across cloud environments.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudability.com",
+      "website": "cloudability.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1972, "name": "Finance" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 586,
+      "name": "NeonCRM",
+      "description": "Thousands of nonprofits use Neon to manage their fundraising, membership, events, and website — and ultimately grow their organization.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/neoncrm.com",
+      "website": "neoncrm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "IntelligenceBank",
+      "description": "Digital Asset Management Software, Marketing Operations Software, Online Brand Guidelines, Board & Meeting Governance Tools, DAM Software and GRC Software",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/intelligencebank.com",
+      "website": "intelligencebank.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.intelligencebank.com/security"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 827,
+      "name": "Monetate",
+      "description": "Building meaningful relationships, one experience at a time.     New York/ Conshohocken/ Palo Alto/ London",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/monetate.com",
+      "website": "monetate.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://monetate.com/platform-privacy-policy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://monetate.com/terms-and-conditions-emea-v-2/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://monetate.com/website-privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://monetate.com/platform-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1911, "name": "Test and Measurement" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "SimpleLegal",
+      "description": "SimpleLegal is the easiest way for a company to understand and reduce their legal spend.     Instead of piles of paper or emailed PDFs, we offer one place to receive, review, and pay your legal bills.     We make it simple to understand your legal spen...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/simplelegal.com",
+      "website": "simplelegal.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "J2 Global",
+      "description": "J2 Global, Inc. is an American publicly traded technology company based in Los Angeles, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/j2global.com",
+      "website": "j2global.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 980,
+      "name": "SnapLogic",
+      "description": "SnapLogic is a commercial software company that provides Integration Platform as a Service tools for connecting Cloud data sources, SaaS applications and on-premises business software applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/snaplogic.com",
+      "website": "snaplogic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 655,
+      "name": "Sellsy",
+      "description": "Sellsy est une solution française de gestion d'entreprise. CRM, facturation, comptabilité et support sont intégrés sur une même interface intuitive.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sellsy.com",
+      "website": "sellsy.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://go.sellsy.com/en/legacy-information/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "TurnTo Networks",
+      "description": "The most innovative customer content application suite including Community Q&A, Ratings & Reviews, Checkout Comments, and Visual Reviews",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/turntonetworks.com",
+      "website": "turntonetworks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 571,
+      "name": "MadCap Software",
+      "description": "MadCap Software is an American computer software firm headquartered in San Diego, California that creates help authoring tools and solutions for technical writers and documentations teams.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/madcapsoftware.com",
+      "website": "madcapsoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 648,
+      "name": "Logikcull",
+      "description": "Logik is a San Francisco-based maker of e-discovery products.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/logikcull.com",
+      "website": "logikcull.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.logikcull.com/security" },
+        { "protocolId": 1, "sourceUrl": "https://www.logikcull.com/security" },
+        { "protocolId": 2, "sourceUrl": "https://www.logikcull.com/security" },
+        { "protocolId": 9, "sourceUrl": "https://www.logikcull.com/security" },
+        { "protocolId": 11, "sourceUrl": "https://www.logikcull.com/security" },
+        { "protocolId": 3, "sourceUrl": "https://www.logikcull.com/security" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.logikcull.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1967, "name": "Legal" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 2166, "name": "Ediscovery" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2548, "name": "Legal Tech" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 902,
+      "name": "Igloo Software",
+      "description": "Igloo enables organizations to solve business challenges & cultivate a strong corporate culture through our intranet software & solutions. Request a demo today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/igloosoftware.com",
+      "website": "igloosoftware.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.igloosoftware.com/" },
+        { "protocolId": 1, "sourceUrl": "https://www.igloosoftware.com/" },
+        { "protocolId": 3, "sourceUrl": "https://www.igloosoftware.com/" }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2207, "name": "File Sharing" },
+        { "id": 2372, "name": "Unified Communications" }
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Unanet",
+      "description": "Unanet is purpose-built for project-driven organizations to provide resource management, budgeting & forecasting, project management, timesheets, expense reports, project accounting, billing, workforce collaboration, CRM, and financials with cost pool ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unanet.com",
+      "website": "unanet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1166,
+      "name": "Tinfoil Security",
+      "description": "Tinfoil Security provides a simple website application security solution by routinely monitoring and checking for vulnerabilities using a constantly updated scanner.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tinfoilsecurity.com",
+      "website": "tinfoilsecurity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 1182,
+      "name": "Pingometer",
+      "description": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. Get 24/7 monitoring - sign up for your FREE account today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pingometer.com",
+      "website": "pingometer.com",
+      "vendorToProtocols": [],
+      "categories": [{ "id": 1879, "name": "Internet" }]
+    },
+    {
+      "id": 1053,
+      "name": "Auth0",
+      "description": "Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/auth0.com",
+      "website": "auth0.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 3, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 1, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 4, "sourceUrl": "https://auth0.com/docs/compliance" },
+        { "protocolId": 7, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 11, "sourceUrl": "https://auth0.com/security/" }
+      ],
+      "categories": [
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2079, "name": "Developer APIs" }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Bluehost",
+      "description": "Bluehost is a web hosting company owned by Endurance International Group.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluehost.com",
+      "website": "bluehost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://my.bluehost.com/hosting/help/gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1902, "name": "Communications Infrastructure" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "CallPage",
+      "description": "CallPage assists you in converting your website visitors into happy customers. Generate sales calls and leads, and move deals faster through the pipeline.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/callpage.io",
+      "website": "callpage.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Atera",
+      "description": "Atera’s RMM Software is a true game changer. It’s an all-in-one RMM solution with PSA and Remote Access. It’s fast, easy and takes minutes to learn. Try it today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atera.com",
+      "website": "atera.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.atera.com/gdpr-awareness-notice/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://support.atera.com/hc/en-us/articles/115015875888-Is-Atera-HIPAA-Compliant-"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Auction.com",
+      "description": "Auction.com, a Ten-X company, is the nation’s leading online real estate marketplace, having sold over $43 billion in residential and commercial real estate assets. The company serves a wide variety of real estate customers – from major financial insti...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/auction.com",
+      "website": "auction.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "http://www.westlicht-photo-auction.com/auktion/en/privacypolicy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://auctions.masterpiece-auction.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://auctions.masterpiece-auction.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2157, "name": "Intellectual Property" },
+        { "id": 2011, "name": "Commercial Real Estate" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1839, "name": "Real Estate" }
+      ]
+    },
+    {
+      "id": 1106,
+      "name": "GitHub",
+      "description": "GitHub is an American company that provides hosting for software development version control using Git.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/github.com",
+      "website": "github.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://github.com/site/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://github.com/site/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://github.com/site/privacy" },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://github.blog/2019-08-27-github-has-soc-1-and-soc-2-type-2-reports/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://github.blog/2019-08-27-github-has-soc-1-and-soc-2-type-2-reports/"
+        }
+      ],
+      "categories": [
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 784,
+      "name": "Belly",
+      "description": "Belly was founded in August 2011 in Chicago by Logan LaHive and Craig Ulliott, receiving its initial round of around $3M in funding from Chicago-based venture capital firm Lightbank.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bellycard.com",
+      "website": "bellycard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2474, "name": "Service Industry" },
+        { "id": 2437, "name": "Consumer" },
+        { "id": 2159, "name": "Consumer Lending" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 830,
+      "name": "BurrellesLuce",
+      "description": "Work Smarter With BurrellesLuce WorkFlow... ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/burrellesluce.com",
+      "website": "burrellesluce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1820, "name": "Public Relations" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 579,
+      "name": "AT Internet",
+      "description": "AT Internet is a privately held company created in 1996 that provides web analytics services and consulting for websites, mobile sites and mobile applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atinternet.com",
+      "website": "atinternet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Automattic",
+      "description": "Automattic Inc. com, as well as its contributions to WordPress.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/automattic.com",
+      "website": "automattic.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Bananat",
+      "description": "Find out what happens to your emails after you press send! Add email tracking, attachment tracking, email scheduling and templates to your daily emails.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bananatag.com",
+      "website": "bananatag.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://bananatag.com/internal-comms/security/"
+        }
+      ],
+      "categories": [
+        { "id": 2038, "name": "Email" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1061,
+      "name": "AppDirect",
+      "description": "AppDirect is the only end-to-end commerce platform that helps deliver any digital service, on any device, and accelerate time to market.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appdirect.com",
+      "website": "appdirect.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://marketplace.appdirect.com/en-US/apps/19822/time-tracker"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://marketplace.appdirect.com/en-US/apps/19822/time-tracker"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1831, "name": "IaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 852,
+      "name": "BlogDash",
+      "description": "For businesses, BlogDash helps them find, research and engage with the right bloggers for their specific needs and goals.    For bloggers, BlogDash let's them establish their \"pitch preferences\" and present themselves as a professional... like linkedin...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/blogdash.com",
+      "website": "blogdash.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 884,
+      "name": "BoomTown",
+      "description": "BoomTown brings together world-class lead generation, CRM software, real estate websites, and mobile app technology, so you can close more deals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/boomtownroi.com",
+      "website": "boomtownroi.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1839, "name": "Real Estate" }
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Avature",
+      "description": "Avature is a privately held global Human Capital Management software company which sells software as a service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/avature.net",
+      "website": "avature.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.avature.net/website-privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.avature.net/website-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1946, "name": "Career Planning" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1860, "name": "College Recruiting" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Buffer",
+      "description": "Buffer is a software application for the web and mobile, designed to manage accounts in social networks, by providing the means for a user to schedule posts to Twitter, Facebook, Instagram, and Linkedin, as well as analyze their results and engage with...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/buffer.com",
+      "website": "buffer.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://buffer.com/legal" },
+        { "protocolId": 4, "sourceUrl": "https://buffer.com/legal" },
+        { "protocolId": 2, "sourceUrl": "https://buffer.com/legal" }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Atlas",
+      "description": "Atlas Advertiser Suite is a platform that advertisers and agencies use to plan, manage track and optimize digital marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atlassolutions.com",
+      "website": "atlassolutions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Bandwidth",
+      "description": "Bandwidth is a Communications Platform as a Service company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bandwidth.com",
+      "website": "bandwidth.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2191, "name": "VoIP" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Calendly",
+      "description": "Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/calendly.com",
+      "website": "calendly.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.calendly.com/hc/en-us/articles/360009867334-Calendly-Platform-Security-and-Compliance"
+        },
+        { "protocolId": 4, "sourceUrl": "https://calendly.com/pages/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://calendly.com/pages/privacy" }
+      ],
+      "categories": [
+        { "id": 2417, "name": "Scheduling" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    }
+  ]
+}

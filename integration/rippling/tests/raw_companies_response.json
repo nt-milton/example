@@ -1,0 +1,78 @@
+{
+   "id": "583fd880a8c03eab430d2492",
+   "address": {
+     "streetLine1": "1234 21st Street",
+     "zip": "94110",
+     "city": "San Francisco",
+     "state": "CA",
+     "country": "US",
+     "_smartystreets_validity": "UNKNOWN"
+   },
+   "workLocations": [
+     {
+       "id": "583fd880a8c03eab430d24cc",
+       "nickname": "India",
+       "address": {
+         "streetLine1": "Prestige Shantiniketan",
+         "zip": "560048",
+         "city": "Bangalore",
+         "state": "Karnataka",
+         "country": "IN",
+         "_smartystreets_validity": "UNKNOWN"
+       },
+       "isRemote": null
+     },
+     {
+       "id": "583fd880a8c03eab430d24d9",
+       "nickname": "San Francisco",
+       "address": {
+         "streetLine1": "1234 21st Street",
+         "zip": "94110",
+         "city": "San Francisco",
+         "state": "CA",
+         "country": "US",
+         "steLocationCode": {
+           "locationCode": "06-075-277593",
+           "stateCode": "06",
+           "countyCode": "075",
+           "cityCode": "277593",
+           "schoolCode": "",
+           "municipalityCode": "",
+           "psdCode": "",
+           "transitDistrictCode": "",
+           "isOverridden": false
+         },
+         "_smartystreets_validity": "UNKNOWN"
+       },
+       "isRemote": null
+     },
+     {
+       "id": "583fd880a8c03eab430d24e5",
+       "nickname": "Chicago",
+       "address": {
+         "streetLine1": "233 S Wacker Dr",
+         "zip": "60606",
+         "city": "Chicago",
+         "state": "IL",
+         "country": "US",
+         "steLocationCode": {
+           "locationCode": "17-031-423587",
+           "stateCode": "17",
+           "countyCode": "031",
+           "cityCode": "423587",
+           "schoolCode": "",
+           "municipalityCode": "",
+           "psdCode": "",
+           "transitDistrictCode": "",
+           "isOverridden": false
+         },
+         "_smartystreets_validity": "UNKNOWN"
+       },
+       "isRemote": null
+     }
+   ],
+   "primaryEmail": "taj.sangha+rippling@heylaika.com",
+   "legalName": "Laika",
+   "phone": "6501234567",
+   "name": "Laika"
+ }

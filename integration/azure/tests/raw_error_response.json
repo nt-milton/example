@@ -1,0 +1,9 @@
+{
+    "error": "unauthorized_client",
+    "error_description": "ERROR MESSAGE",
+    "error_codes": [700016],
+    "timestamp": "2021-05-05 23:33:14Z",
+    "trace_id": "adcbf9f3-f065-419d-a0eb-1cb7fea11d00",
+    "correlation_id": "a65f3fd9-4930-44e6-a1ac-dd0cc157e5b1",
+    "error_uri": "https://login.microsoftonline.com/error?code=700016"
+}

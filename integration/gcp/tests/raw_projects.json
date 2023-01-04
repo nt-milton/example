@@ -1,0 +1,11 @@
+{
+  "name": "project-gcp-parent",
+  "parent": {
+    "id": "123456789",
+    "type": "organization"
+  },
+  "projectId": "project-gcp",
+  "createTime": "2021-06-14T21:25:46.132Z",
+  "projectNumber": "11111111111",
+  "lifecycleState": "ACTIVE"
+}

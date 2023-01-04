@@ -1,0 +1,1245 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#devices(registeredOwners())",
+    "value": [
+        {
+            "id": "1358ef1f-ea67-49b6-8d12-c83c497dcde5",
+            "deletedDateTime": null,
+            "accountEnabled": true,
+            "approximateLastSignInDateTime": "2022-07-16T18:59:49Z",
+            "complianceExpirationDateTime": null,
+            "createdDateTime": "2022-07-16T18:59:49Z",
+            "deviceCategory": null,
+            "deviceId": "132870e6-102e-496b-a73b-13be39818ddb",
+            "deviceMetadata": null,
+            "deviceOwnership": "Personal",
+            "deviceVersion": 2,
+            "displayName": "laika-admin365_Android_7/16/2022_7:06 PM",
+            "domainName": null,
+            "enrollmentProfileName": null,
+            "enrollmentType": "UserEnrollment",
+            "externalSourceName": null,
+            "isCompliant": true,
+            "isManaged": true,
+            "isRooted": false,
+            "managementType": "MDM",
+            "manufacturer": "Google",
+            "mdmAppId": "0000000a-0000-0000-c000-000000000000",
+            "model": "sdk_gphone64_x86_64",
+            "onPremisesLastSyncDateTime": null,
+            "onPremisesSyncEnabled": null,
+            "operatingSystem": "Android",
+            "operatingSystemVersion": "12.0",
+            "physicalIds": [],
+            "profileType": "RegisteredDevice",
+            "registrationDateTime": "2022-07-16T18:59:49Z",
+            "sourceType": null,
+            "systemLabels": [],
+            "trustType": "Workplace",
+            "extensionAttributes": {
+                "extensionAttribute1": null,
+                "extensionAttribute2": null,
+                "extensionAttribute3": null,
+                "extensionAttribute4": null,
+                "extensionAttribute5": null,
+                "extensionAttribute6": null,
+                "extensionAttribute7": null,
+                "extensionAttribute8": null,
+                "extensionAttribute9": null,
+                "extensionAttribute10": null,
+                "extensionAttribute11": null,
+                "extensionAttribute12": null,
+                "extensionAttribute13": null,
+                "extensionAttribute14": null,
+                "extensionAttribute15": null
+            },
+            "alternativeSecurityIds": [
+                {
+                    "type": 2,
+                    "identityProvider": null,
+                    "key": "WAA1ADAAOQA6ADwAUwBIAEEAMQAtAFQAUAAtAFAAVQBCAEsARQBZAD4AQwA2AEEAMgAyADQANgBFADkANwAzADcARQAxADcAQgBGAEMARgAwAEEANgBGAEUANQAxADYAQQBDADAAMQA3AEMARQAzADEANAA5AEEAQgB2AGsAYgBkAFAARwA5AE4AZwBOAFgAOABTAEkAcQBFAC8ASABpAE8ARgA4AHYAdgBYAGwATgBUAE8AYwBDADIAKwBpAFgAQQBvAEgAVQBYAGoATgBRAD0A"
+                }
+            ],
+            "registeredOwners": [
+                {
+                    "@odata.type": "#microsoft.graph.user",
+                    "id": "ed653d0d-fe32-4ccf-b61a-9ff3f73280b3",
+                    "deletedDateTime": null,
+                    "accountEnabled": true,
+                    "ageGroup": null,
+                    "businessPhones": [
+                        "50671721836"
+                    ],
+                    "city": null,
+                    "companyName": null,
+                    "consentProvidedForMinor": null,
+                    "country": null,
+                    "createdDateTime": "2022-07-09T00:33:13Z",
+                    "creationType": null,
+                    "department": null,
+                    "displayName": "test test",
+                    "employeeId": null,
+                    "employeeHireDate": null,
+                    "employeeType": null,
+                    "externalUserState": null,
+                    "externalUserStateChangeDateTime": null,
+                    "faxNumber": null,
+                    "givenName": "test",
+                    "jobTitle": null,
+                    "legalAgeGroupClassification": null,
+                    "mail": "laika-admin365@8g0k51.onmicrosoft.com",
+                    "mailNickname": "laika-admin365",
+                    "mobilePhone": null,
+                    "onPremisesDistinguishedName": null,
+                    "onPremisesDomainName": null,
+                    "onPremisesImmutableId": null,
+                    "onPremisesLastSyncDateTime": null,
+                    "onPremisesSecurityIdentifier": null,
+                    "onPremisesSamAccountName": null,
+                    "onPremisesSyncEnabled": null,
+                    "onPremisesUserPrincipalName": null,
+                    "otherMails": [
+                        "devheylaika@outlook.com"
+                    ],
+                    "passwordPolicies": null,
+                    "officeLocation": null,
+                    "postalCode": null,
+                    "preferredDataLocation": null,
+                    "preferredLanguage": null,
+                    "proxyAddresses": [
+                        "smtp:0dhzh@8g0k51.onmicrosoft.com",
+                        "SMTP:laika-admin365@8g0k51.onmicrosoft.com"
+                    ],
+                    "refreshTokensValidFromDateTime": "2022-07-16T15:12:54Z",
+                    "imAddresses": [
+                        "laika-admin365@8g0k51.onmicrosoft.com"
+                    ],
+                    "isResourceAccount": null,
+                    "showInAddressList": null,
+                    "signInSessionsValidFromDateTime": "2022-07-16T15:12:54Z",
+                    "state": null,
+                    "streetAddress": null,
+                    "surname": "test",
+                    "usageLocation": "US",
+                    "userPrincipalName": "laika-admin365@8g0k51.onmicrosoft.com",
+                    "userType": "Member",
+                    "authorizationInfo": {
+                        "certificateUserIds": []
+                    },
+                    "employeeOrgData": null,
+                    "passwordProfile": null,
+                    "assignedLicenses": [
+                        {
+                            "disabledPlans": [],
+                            "skuId": "c42b9cae-ea4f-4ab7-9717-81576235ccac"
+                        }
+                    ],
+                    "assignedPlans": [
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "e26c2fcc-ab91-4a61-b35c-03cdc8dddf66"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SharePoint",
+                            "servicePlanId": "5dbe027f-2339-4123-9542-606e4d348a72"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftOffice",
+                            "servicePlanId": "43de0ff5-c92c-492b-9116-175376d08c38"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "2f442157-a11c-46b9-ae5b-6e39ff4e5849"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "9d0c4ee5-e4a1-4625-ab39-d82b619b1a34"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "PowerBI",
+                            "servicePlanId": "70d33638-9c74-4d01-bfd3-562de28bd4ba"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "CRM",
+                            "servicePlanId": "afa73018-811e-46e9-988f-f75d2b1b8430"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "6db1f1db-2b46-403f-be40-e39395f08dbb"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftCommunicationsOnline",
+                            "servicePlanId": "4828c8ec-dc2e-4779-b502-87ac9ce28ab7"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MIPExchangeSolutions",
+                            "servicePlanId": "cd31b152-6326-4d1b-ae1b-997b625182e6"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProcessSimple",
+                            "servicePlanId": "07699545-9485-468e-95b6-2fca3738be01"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftThreatProtection",
+                            "servicePlanId": "bf28f719-7844-4079-9c78-c1307898e192"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "YammerEnterprise",
+                            "servicePlanId": "7547a3fe-08ee-4ccb-b430-5077c5041653"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MultiFactorService",
+                            "servicePlanId": "8a256a2b-b617-496d-b51b-e76466e88db0"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftStream",
+                            "servicePlanId": "6c6042f5-6f01-4d67-b8c1-eb99d36eed3e"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftOffice",
+                            "servicePlanId": "531ee2f8-b1cb-453b-9c21-d2180d014ca5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Office365InsiderRisk",
+                            "servicePlanId": "d587c7a3-bda9-4f99-8776-9bcf59c84f75"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "5689bec4-755d-4753-8b61-40975025187c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "6dc145d6-95dd-4191-b9c3-185575ee6f6b"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "d2d51368-76c9-4317-ada2-a12c004c432f"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "bf6f5520-59e3-4f82-974b-7dbbc4fd27c7"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Adallom",
+                            "servicePlanId": "8c098270-9dd4-4350-9b30-ba4703f3b36b"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "CRM",
+                            "servicePlanId": "28b0fa46-c39a-4188-89e2-58e979a6b014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "OfficeForms",
+                            "servicePlanId": "e212cbc7-0961-4c40-9825-01117710dcb1"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AADPremiumService",
+                            "servicePlanId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProjectWorkManagement",
+                            "servicePlanId": "b737dad2-2f6c-4c65-90e3-ca563267e8b9"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "b1188c4c-1b36-4018-b48b-ee07604f6feb"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "41fcdd7d-4733-4863-9cf4-c65b83ce2df4"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "WhiteboardServices",
+                            "servicePlanId": "4a51bca5-1eff-43f5-878c-177680f191af"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "199a5c09-e0ca-4e37-8f7c-b05d533e1ea2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "5136a095-5cf0-4aff-bec3-e84448b38ea5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftCommunicationsOnline",
+                            "servicePlanId": "0feaeb32-d00e-4d66-bd5a-43b5b83db82c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "bea4c11e-220a-4e6d-8eb8-8ea15d019f90"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "4de31727-a228-4ec3-a5bf-8e45b5ca48cc"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AADPremiumService",
+                            "servicePlanId": "eec0eb4f-6444-4f95-aba0-50c24d67f998"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "8e0c0a52-6a6c-4d40-8370-dd62790dcd70"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "LearningAppServiceInTeams",
+                            "servicePlanId": "b76fb638-6ba6-402a-b9f9-83d28acb3d86"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "TeamspaceAPI",
+                            "servicePlanId": "57ff2da0-773e-42df-b2af-ffb7a2317929"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProjectProgramsAndPortfolios",
+                            "servicePlanId": "b21a6b06-1988-436e-a07b-51ec6d9f52ad"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Sway",
+                            "servicePlanId": "a23b959c-7ce8-4e57-9140-b90eb88a9e97"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "M365CommunicationCompliance",
+                            "servicePlanId": "a413a9ff-720c-4822-98ef-2f37c2a21f4c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SCO",
+                            "servicePlanId": "c1ec4a95-1f05-45b3-a911-aa3fa01094f5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "34c0d7a0-a70f-4668-9238-47f9fc208882"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ccibotsprod",
+                            "servicePlanId": "ded3d325-1bdc-453e-8432-5bac26d7a014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "PowerAppsService",
+                            "servicePlanId": "9c0dab89-a30c-4117-86e7-97bda240acd2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Deskless",
+                            "servicePlanId": "8c7d2df8-86f0-4902-b2ed-a0458298f3b3"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SharePoint",
+                            "servicePlanId": "e95bec33-7c88-4a70-8e19-b10bd9d0c014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AzureAdvancedThreatAnalytics",
+                            "servicePlanId": "14ab5db5-e6c4-4b20-b4bc-13e36fd2227f"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Adallom",
+                            "servicePlanId": "2e2ddb96-6af9-4b1d-a3f0-d6ecfd22edb2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "65cc641f-cccd-4643-97e0-a17e3045e541"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "To-Do",
+                            "servicePlanId": "3fb82609-8c27-4f7b-bd51-30634711ee67"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "a6520331-d7d4-4276-95f5-15c0933bc757"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "9f431833-0334-42de-a7dc-70aa40db46db"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "46129a58-a698-46f0-aa5b-17f6586297d9"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "6c57d4b6-3b23-47a5-9bc9-69f17b4947b3"
+                        }
+                    ],
+                    "identities": [],
+                    "onPremisesProvisioningErrors": [],
+                    "onPremisesExtensionAttributes": {
+                        "extensionAttribute1": null,
+                        "extensionAttribute2": null,
+                        "extensionAttribute3": null,
+                        "extensionAttribute4": null,
+                        "extensionAttribute5": null,
+                        "extensionAttribute6": null,
+                        "extensionAttribute7": null,
+                        "extensionAttribute8": null,
+                        "extensionAttribute9": null,
+                        "extensionAttribute10": null,
+                        "extensionAttribute11": null,
+                        "extensionAttribute12": null,
+                        "extensionAttribute13": null,
+                        "extensionAttribute14": null,
+                        "extensionAttribute15": null
+                    },
+                    "provisionedPlans": [
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "MicrosoftCommunicationsOnline"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "MicrosoftCommunicationsOnline"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "SharePoint"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "SharePoint"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "20784c38-f33d-4f15-a375-13092b214761",
+            "deletedDateTime": null,
+            "accountEnabled": true,
+            "approximateLastSignInDateTime": "2022-07-16T15:34:59Z",
+            "complianceExpirationDateTime": null,
+            "createdDateTime": "2022-07-16T15:34:59Z",
+            "deviceCategory": null,
+            "deviceId": "321f0dd1-c26b-41b0-8738-60afc4c31588",
+            "deviceMetadata": null,
+            "deviceOwnership": null,
+            "deviceVersion": 2,
+            "displayName": "Jeffrey’s MacBook Pro",
+            "domainName": null,
+            "enrollmentProfileName": null,
+            "enrollmentType": null,
+            "externalSourceName": null,
+            "isCompliant": null,
+            "isManaged": null,
+            "isRooted": null,
+            "managementType": null,
+            "manufacturer": null,
+            "mdmAppId": null,
+            "model": null,
+            "onPremisesLastSyncDateTime": null,
+            "onPremisesSyncEnabled": null,
+            "operatingSystem": "MacOS",
+            "operatingSystemVersion": "10.15.7",
+            "physicalIds": [],
+            "profileType": "RegisteredDevice",
+            "registrationDateTime": "2022-07-16T15:34:59Z",
+            "sourceType": null,
+            "systemLabels": [],
+            "trustType": "Workplace",
+            "extensionAttributes": {
+                "extensionAttribute1": null,
+                "extensionAttribute2": null,
+                "extensionAttribute3": null,
+                "extensionAttribute4": null,
+                "extensionAttribute5": null,
+                "extensionAttribute6": null,
+                "extensionAttribute7": null,
+                "extensionAttribute8": null,
+                "extensionAttribute9": null,
+                "extensionAttribute10": null,
+                "extensionAttribute11": null,
+                "extensionAttribute12": null,
+                "extensionAttribute13": null,
+                "extensionAttribute14": null,
+                "extensionAttribute15": null
+            },
+            "alternativeSecurityIds": [
+                {
+                    "type": 2,
+                    "identityProvider": null,
+                    "key": "WAA1ADAAOQA6ADwAUwBIAEEAMQAtAFQAUAAtAFAAVQBCAEsARQBZAD4ARQA2ADUAMQA2AEUARQAwAEEANgA5ADEAQQA3AEUAMABGAEMARgAwAEEAMQAyADkAMABDADUAMwA2ADIAMQBGAEYAQwA0ADUANQAyADcARQBoAFIAeQBUADUAMwBhAEcAdABZAGoAQwBVAFcANgBqAGEAVAA3AFMAYQB5AHMAagBKAGEAbgBwAGkATQBhAEUASAB3ADcAUwBqAFgAdwBhAGIAQgBRAD0A"
+                }
+            ],
+            "registeredOwners": [
+                {
+                    "@odata.type": "#microsoft.graph.user",
+                    "id": "ed653d0d-fe32-4ccf-b61a-9ff3f73280b3",
+                    "deletedDateTime": null,
+                    "accountEnabled": true,
+                    "ageGroup": null,
+                    "businessPhones": [
+                        "50671721836"
+                    ],
+                    "city": null,
+                    "companyName": null,
+                    "consentProvidedForMinor": null,
+                    "country": null,
+                    "createdDateTime": "2022-07-09T00:33:13Z",
+                    "creationType": null,
+                    "department": null,
+                    "displayName": "test test",
+                    "employeeId": null,
+                    "employeeHireDate": null,
+                    "employeeType": null,
+                    "externalUserState": null,
+                    "externalUserStateChangeDateTime": null,
+                    "faxNumber": null,
+                    "givenName": "test",
+                    "jobTitle": null,
+                    "legalAgeGroupClassification": null,
+                    "mail": "laika-admin365@8g0k51.onmicrosoft.com",
+                    "mailNickname": "laika-admin365",
+                    "mobilePhone": null,
+                    "onPremisesDistinguishedName": null,
+                    "onPremisesDomainName": null,
+                    "onPremisesImmutableId": null,
+                    "onPremisesLastSyncDateTime": null,
+                    "onPremisesSecurityIdentifier": null,
+                    "onPremisesSamAccountName": null,
+                    "onPremisesSyncEnabled": null,
+                    "onPremisesUserPrincipalName": null,
+                    "otherMails": [
+                        "devheylaika@outlook.com"
+                    ],
+                    "passwordPolicies": null,
+                    "officeLocation": null,
+                    "postalCode": null,
+                    "preferredDataLocation": null,
+                    "preferredLanguage": null,
+                    "proxyAddresses": [
+                        "smtp:0dhzh@8g0k51.onmicrosoft.com",
+                        "SMTP:laika-admin365@8g0k51.onmicrosoft.com"
+                    ],
+                    "refreshTokensValidFromDateTime": "2022-07-16T15:12:54Z",
+                    "imAddresses": [
+                        "laika-admin365@8g0k51.onmicrosoft.com"
+                    ],
+                    "isResourceAccount": null,
+                    "showInAddressList": null,
+                    "signInSessionsValidFromDateTime": "2022-07-16T15:12:54Z",
+                    "state": null,
+                    "streetAddress": null,
+                    "surname": "test",
+                    "usageLocation": "US",
+                    "userPrincipalName": "laika-admin365@8g0k51.onmicrosoft.com",
+                    "userType": "Member",
+                    "authorizationInfo": {
+                        "certificateUserIds": []
+                    },
+                    "employeeOrgData": null,
+                    "passwordProfile": null,
+                    "assignedLicenses": [
+                        {
+                            "disabledPlans": [],
+                            "skuId": "c42b9cae-ea4f-4ab7-9717-81576235ccac"
+                        }
+                    ],
+                    "assignedPlans": [
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "e26c2fcc-ab91-4a61-b35c-03cdc8dddf66"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SharePoint",
+                            "servicePlanId": "5dbe027f-2339-4123-9542-606e4d348a72"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftOffice",
+                            "servicePlanId": "43de0ff5-c92c-492b-9116-175376d08c38"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "2f442157-a11c-46b9-ae5b-6e39ff4e5849"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "9d0c4ee5-e4a1-4625-ab39-d82b619b1a34"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "PowerBI",
+                            "servicePlanId": "70d33638-9c74-4d01-bfd3-562de28bd4ba"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "CRM",
+                            "servicePlanId": "afa73018-811e-46e9-988f-f75d2b1b8430"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "6db1f1db-2b46-403f-be40-e39395f08dbb"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftCommunicationsOnline",
+                            "servicePlanId": "4828c8ec-dc2e-4779-b502-87ac9ce28ab7"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MIPExchangeSolutions",
+                            "servicePlanId": "cd31b152-6326-4d1b-ae1b-997b625182e6"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProcessSimple",
+                            "servicePlanId": "07699545-9485-468e-95b6-2fca3738be01"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftThreatProtection",
+                            "servicePlanId": "bf28f719-7844-4079-9c78-c1307898e192"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "YammerEnterprise",
+                            "servicePlanId": "7547a3fe-08ee-4ccb-b430-5077c5041653"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MultiFactorService",
+                            "servicePlanId": "8a256a2b-b617-496d-b51b-e76466e88db0"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftStream",
+                            "servicePlanId": "6c6042f5-6f01-4d67-b8c1-eb99d36eed3e"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftOffice",
+                            "servicePlanId": "531ee2f8-b1cb-453b-9c21-d2180d014ca5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Office365InsiderRisk",
+                            "servicePlanId": "d587c7a3-bda9-4f99-8776-9bcf59c84f75"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "5689bec4-755d-4753-8b61-40975025187c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "6dc145d6-95dd-4191-b9c3-185575ee6f6b"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "d2d51368-76c9-4317-ada2-a12c004c432f"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "bf6f5520-59e3-4f82-974b-7dbbc4fd27c7"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Adallom",
+                            "servicePlanId": "8c098270-9dd4-4350-9b30-ba4703f3b36b"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "CRM",
+                            "servicePlanId": "28b0fa46-c39a-4188-89e2-58e979a6b014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "OfficeForms",
+                            "servicePlanId": "e212cbc7-0961-4c40-9825-01117710dcb1"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AADPremiumService",
+                            "servicePlanId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProjectWorkManagement",
+                            "servicePlanId": "b737dad2-2f6c-4c65-90e3-ca563267e8b9"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "b1188c4c-1b36-4018-b48b-ee07604f6feb"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "41fcdd7d-4733-4863-9cf4-c65b83ce2df4"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "WhiteboardServices",
+                            "servicePlanId": "4a51bca5-1eff-43f5-878c-177680f191af"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "199a5c09-e0ca-4e37-8f7c-b05d533e1ea2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "5136a095-5cf0-4aff-bec3-e84448b38ea5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "MicrosoftCommunicationsOnline",
+                            "servicePlanId": "0feaeb32-d00e-4d66-bd5a-43b5b83db82c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "bea4c11e-220a-4e6d-8eb8-8ea15d019f90"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "4de31727-a228-4ec3-a5bf-8e45b5ca48cc"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AADPremiumService",
+                            "servicePlanId": "eec0eb4f-6444-4f95-aba0-50c24d67f998"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "8e0c0a52-6a6c-4d40-8370-dd62790dcd70"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "LearningAppServiceInTeams",
+                            "servicePlanId": "b76fb638-6ba6-402a-b9f9-83d28acb3d86"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "TeamspaceAPI",
+                            "servicePlanId": "57ff2da0-773e-42df-b2af-ffb7a2317929"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ProjectProgramsAndPortfolios",
+                            "servicePlanId": "b21a6b06-1988-436e-a07b-51ec6d9f52ad"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Sway",
+                            "servicePlanId": "a23b959c-7ce8-4e57-9140-b90eb88a9e97"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "M365CommunicationCompliance",
+                            "servicePlanId": "a413a9ff-720c-4822-98ef-2f37c2a21f4c"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SCO",
+                            "servicePlanId": "c1ec4a95-1f05-45b3-a911-aa3fa01094f5"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "34c0d7a0-a70f-4668-9238-47f9fc208882"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "ccibotsprod",
+                            "servicePlanId": "ded3d325-1bdc-453e-8432-5bac26d7a014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "PowerAppsService",
+                            "servicePlanId": "9c0dab89-a30c-4117-86e7-97bda240acd2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Deskless",
+                            "servicePlanId": "8c7d2df8-86f0-4902-b2ed-a0458298f3b3"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "SharePoint",
+                            "servicePlanId": "e95bec33-7c88-4a70-8e19-b10bd9d0c014"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "AzureAdvancedThreatAnalytics",
+                            "servicePlanId": "14ab5db5-e6c4-4b20-b4bc-13e36fd2227f"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "Adallom",
+                            "servicePlanId": "2e2ddb96-6af9-4b1d-a3f0-d6ecfd22edb2"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "65cc641f-cccd-4643-97e0-a17e3045e541"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "To-Do",
+                            "servicePlanId": "3fb82609-8c27-4f7b-bd51-30634711ee67"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "a6520331-d7d4-4276-95f5-15c0933bc757"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "9f431833-0334-42de-a7dc-70aa40db46db"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "exchange",
+                            "servicePlanId": "46129a58-a698-46f0-aa5b-17f6586297d9"
+                        },
+                        {
+                            "assignedDateTime": "2022-07-09T04:13:21Z",
+                            "capabilityStatus": "Enabled",
+                            "service": "RMSOnline",
+                            "servicePlanId": "6c57d4b6-3b23-47a5-9bc9-69f17b4947b3"
+                        }
+                    ],
+                    "identities": [],
+                    "onPremisesProvisioningErrors": [],
+                    "onPremisesExtensionAttributes": {
+                        "extensionAttribute1": null,
+                        "extensionAttribute2": null,
+                        "extensionAttribute3": null,
+                        "extensionAttribute4": null,
+                        "extensionAttribute5": null,
+                        "extensionAttribute6": null,
+                        "extensionAttribute7": null,
+                        "extensionAttribute8": null,
+                        "extensionAttribute9": null,
+                        "extensionAttribute10": null,
+                        "extensionAttribute11": null,
+                        "extensionAttribute12": null,
+                        "extensionAttribute13": null,
+                        "extensionAttribute14": null,
+                        "extensionAttribute15": null
+                    },
+                    "provisionedPlans": [
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "MicrosoftCommunicationsOnline"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "MicrosoftCommunicationsOnline"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "exchange"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "SharePoint"
+                        },
+                        {
+                            "capabilityStatus": "Enabled",
+                            "provisioningStatus": "Success",
+                            "service": "SharePoint"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

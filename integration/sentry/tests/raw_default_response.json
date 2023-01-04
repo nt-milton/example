@@ -1,0 +1,53 @@
+{
+	"version": "0",
+	"auth": {
+		"scopes": [
+			"event:admin",
+			"event:read",
+			"member:read",
+			"org:read",
+			"project:read",
+			"project:releases",
+			"team:read"
+		]
+	},
+	"user": {
+		"id": "1380457",
+		"name": "Laika-Dev",
+		"username": "dev@heylaika.com",
+		"email": "dev@heylaika.com",
+		"avatarUrl": "https://secure.gravatar.com/avatar/f5af3d05da0034de5a5cfd761afcfab6?s=32&d=mm",
+		"isActive": true,
+		"hasPasswordAuth": true,
+		"isManaged": false,
+		"dateJoined": "2021-07-02T05:27:44.113239Z",
+		"lastLogin": "2022-01-21T20:44:18.806439Z",
+		"has2fa": false,
+		"lastActive": "2022-01-24T14:39:20.769999Z",
+		"isSuperuser": false,
+		"isStaff": false,
+		"experiments": {},
+		"options": {
+			"theme": "light",
+			"language": "en",
+			"stacktraceOrder": -1,
+			"timezone": "UTC",
+			"clock24Hours": false
+		},
+		"flags": {
+			"newsletter_consent_prompt": false
+		},
+		"avatar": {
+			"avatarType": "letter_avatar",
+			"avatarUuid": null
+		},
+		"identities": [],
+		"emails": [
+			{
+				"id": "1506837",
+				"email": "dev@heylaika.com",
+				"is_verified": false
+			}
+		]
+	}
+}

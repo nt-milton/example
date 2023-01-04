@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "etag": "BwXE5KYxAE0=",
+  "bindings": [
+    {
+      "role": "roles/actions.Viewer",
+      "members": [
+        "user:jeffrey@heylaika.com"
+      ]
+    },
+    {
+      "role": "roles/cloudfunctions.serviceAgent",
+      "members": [
+        "user:jeffrey@heylaika.com"
+      ]
+    },
+    {
+      "role": "roles/editor",
+      "members": [
+        "serviceAccount:service-123123123@gcp-sa-pubsub.iam.gserviceaccount.com",
+        "user:jeffrey@heylaika.com"
+      ]
+    },
+    {
+      "role": "roles/owner",
+      "members": [
+       "user:jeffrey@heylaika.com"      ]
+    },
+    {
+      "role": "roles/pubsub.serviceAgent",
+      "members": [
+        "user:jeffrey@heylaika.com",
+        "serviceAccount:service-123123123@gcp-sa-pubsub.iam.gserviceaccount.com"
+      ]
+    },
+    {
+      "role": "roles/viewer",
+      "members": [
+        "serviceAccount:laika-integration-otto-1@from-otto-account.iam.gserviceaccount.com",
+        "serviceAccount:laika-integration-otto-with-te@from-otto-account.iam.gserviceaccount.com",
+        "serviceAccount:sa-from-otto-account@from-otto-account.iam.gserviceaccount.com",
+        "user:jeffrey@heylaika.com"
+      ]
+    },
+    {
+      "role": "projects/txt-api/roles/CustomRole",
+      "members": [
+        "user:jeffrey@heylaika.com"
+      ]
+    }
+  ]
+}

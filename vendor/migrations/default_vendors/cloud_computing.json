@@ -1,0 +1,2375 @@
+{
+  "id": 2022,
+  "name": "Cloud Computing",
+  "vendors": [
+    {
+      "id": 1226,
+      "name": "Microsoft",
+      "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "website": "microsoft.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.microsoft.com/en-us/trustcenter/compliance/complianceofferings"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.microsoft.com/en-us/trust-center/privacy/gdpr-faqs"
+        },
+        {
+          "protocolId": 8,
+          "sourceUrl": "https://docs.microsoft.com/en-us/cloud-app-security/cas-compliance-trust "
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.microsoft.com/en-us/trust-center/privacy/gdpr-faqs"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://privacy.microsoft.com/en-us/privacystatement"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://docs.microsoft.com/en-us/cloud-app-security/cas-compliance-trust"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://docs.microsoft.com/en-us/cloud-app-security/cas-compliance-trust"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.microsoft.com/en-us/trust-center/privacy/gdpr-faqs"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://privacy.microsoft.com/en-us/privacystatement"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://docs.microsoft.com/en-us/cloud-app-security/cas-compliance-trust"
+        }
+      ],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2133, "name": "Operating Systems" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2014, "name": "Consumer Electronics" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1113,
+      "name": "Salesforce",
+      "description": "Salesforce.com, Inc. is an American cloud computing company headquartered in San Francisco, California. Though its revenue comes from a customer relationship management product, Salesforce also sells commercial applications of social networking through...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesforce.com",
+      "website": "salesforce.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://compliance.salesforce.com/en/truste-certified-privacy-seal"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://compliance.salesforce.com/en"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://compliance.salesforce.com/en"
+        },
+        { "protocolId": 9, "sourceUrl": "https://compliance.salesforce.com/" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.salesforce.com/company/privacy/"
+        },
+        { "protocolId": 3, "sourceUrl": "https://compliance.salesforce.com/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://compliance.salesforce.com/en/privacy-shield"
+        },
+        { "protocolId": 1, "sourceUrl": "https://compliance.salesforce.com/" },
+        { "protocolId": 15, "sourceUrl": "https://compliance.salesforce.com/" }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 426,
+      "name": "TeamViewer",
+      "description": "TeamViewer is a proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/teamviewer.com",
+      "website": "teamviewer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.teamviewer.com/en/trust-center/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 551,
+      "name": "DigitalOcean",
+      "description": "DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/digitalocean.com",
+      "website": "digitalocean.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.digitalocean.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.digitalocean.com/legal/compliance/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.digitalocean.com/legal/compliance/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.digitalocean.com/legal/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.digitalocean.com/legal/privacy-shield/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.digitalocean.com/legal/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1909, "name": "Virtualization" }
+      ]
+    },
+    {
+      "id": 1066,
+      "name": "Cloudinary",
+      "description": "Manage web and mobile media assets with the leading cloud service: image and video upload, storage, manipulation, optimization and digital asset management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudinary.com",
+      "website": "cloudinary.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://cloudinary.com/blog/yet_another_gdpr_blog_post"
+        },
+        { "protocolId": 2, "sourceUrl": "https://cloudinary.com/privacy" },
+        { "protocolId": 5, "sourceUrl": "https://cloudinary.com/trust" },
+        { "protocolId": 7, "sourceUrl": "https://cloudinary.com/trust" }
+      ],
+      "categories": [
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2101, "name": "Photography" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 701,
+      "name": "Docker",
+      "description": "Docker is a set of platform-as-a-service products that use OS-level virtualization to deliver software in packages called containers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/docker.com",
+      "website": "docker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Wave HQ",
+      "description": "Wave is a company that provides a suite of financial services and online software for small businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/waveapps.com",
+      "website": "waveapps.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://my.waveapps.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1837, "name": "Accounting" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Zapier",
+      "description": "Zapier is an American for-profit corporation and a web-based service that allows end users to integrate the web applications they use.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zapier.com",
+      "website": "zapier.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://zapier.com/help/account/data-management/data-privacy-at-zapier"
+        },
+        { "protocolId": 2, "sourceUrl": "https://zapier.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://zapier.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Toggl",
+      "description": "Toggl is a time tracking app operated by Toggl OÜ, headquartered in Tallinn, Estonia, that offers online time tracking and reporting services through their website along with mobile and desktop applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/toggl.com",
+      "website": "toggl.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://toggl.com/legal/privacy/" }
+      ],
+      "categories": [
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1219,
+      "name": "MongoDB",
+      "description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mongodb.com",
+      "website": "mongodb.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://www.mongodb.com/cloud/trust" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.mongodb.com/cloud-terms-and-conditions"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.mongodb.com/cloud/trust/compliance/soc"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.mongodb.com/cloud/trust/compliance/gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.mongodb.com/cloud-terms-and-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2429, "name": "Database" }
+      ]
+    },
+    {
+      "id": 1214,
+      "name": "Elastic",
+      "description": "We're the creators of Elasticsearch, Kibana, Beats, and Logstash -- the Elastic Stack. Securely and reliably search, analyze, and visualize your data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/elastic.co",
+      "website": "elastic.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2222, "name": "Real Time" }
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Workable",
+      "description": "More than an Applicant Tracking System, Workable's Recruiting Software improves the way teams find, evaluate and hire candidates.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/workable.com",
+      "website": "workable.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.workable.com/static/downloads/security_support.pdf"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.workable.com/static/downloads/security_support.pdf"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.workable.com/static/downloads/security_support.pdf"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2004, "name": "Human Resources" }
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Eclipse Foundation",
+      "description": "Eclipse is an integrated development environment used in computer programming, and in 2014 was the most widely used Java IDE in one website's poll.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/eclipse.org",
+      "website": "eclipse.org",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2148, "name": "Communities" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Cloudways",
+      "description": "Managed hosting platform for fast website performance and freedom to host web applications on five cloud service providers with 24/7 expert support.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "cloudways.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.cloudways.com/blog/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1838, "name": "PaaS" }
+      ]
+    },
+    {
+      "id": 328,
+      "name": "CircleCI",
+      "description": "Get the best continuous integration and delivery platform for Linux, macOS, and Android, in the cloud or self-hosted.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/circleci.com",
+      "website": "circleci.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://circleci.com/security/" },
+        { "protocolId": 4, "sourceUrl": "https://circleci.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://circleci.com/gdpr/" },
+        { "protocolId": 9, "sourceUrl": "https://circleci.com/security/" },
+        { "protocolId": 12, "sourceUrl": "https://circleci.com/security/" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2316, "name": "Enterprise" }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Gandi.net US",
+      "description": "Your web presence starts with a great domain name. Choose from over 750 different domain extensions at Gandi.net, one of the world's leading domain name registrars. Buy the perfect domain name for your website now!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gandi.net",
+      "website": "gandi.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://whois.gandi.net/en/results?search=ip-shield.be"
+        }
+      ],
+      "categories": [
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 825,
+      "name": "Replicon",
+      "description": "Replicon, Inc. is a software company providing cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/replicon.com",
+      "website": "replicon.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.replicon.com/help/is-replicon-gdpr-compliant/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 864,
+      "name": "Parallels",
+      "description": "Parallels Inc., a global leader in cross-platform solutions, makes it simple for customers to use and access the applications and files they need on any device or operating system. We help businesses and individuals securely and productively use their ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/parallels.com",
+      "website": "parallels.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2437, "name": "Consumer" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1909, "name": "Virtualization" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2226, "name": "FinTech" }
+      ]
+    },
+    {
+      "id": 828,
+      "name": "cleverbridge",
+      "description": "cleverbridge is a global ecommerce solutions company providing billing and payment solutions for monetizing digital goods and online services",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cleverbridge.com",
+      "website": "cleverbridge.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1929, "name": "Billing" }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Dashlane",
+      "description": "Dashlane is a Cross-platform Premium password manager and digital wallet application available on macOS, Windows, iOS and Android.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dashlane.com",
+      "website": "dashlane.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1922, "name": "Privacy" }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Vyond",
+      "description": "Vyond is a cloud-based, animated video creation platform owned by GoAnimate, Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vyond.com",
+      "website": "vyond.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vyond.com/company/press/vyond-obtains-privacy-shield-certification-validating-data-protections/"
+        }
+      ],
+      "categories": [
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1927, "name": "Language Learning" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2111, "name": "Education" },
+        { "id": 2143, "name": "Corporate Training" }
+      ]
+    },
+    {
+      "id": 1223,
+      "name": "Contentful",
+      "description": "Beyond headless CMS, Contentful is the essential API-first content management infrastructure to create, manage and distribute content to any platform or device.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/contentful.com",
+      "website": "contentful.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.contentful.com/blog/2019/06/24/iso-certification-announcement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.contentful.com/blog/2018/05/24/contentful-gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 981,
+      "name": "Media Temple",
+      "description": "Media Temple provides reliable web hosting and cloud hosting at a premium service level. Perfect for developers, web designers and content creators.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mediatemple.net",
+      "website": "mediatemple.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mediatemple.net/legal/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mediatemple.net/legal/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "PagerDuty",
+      "description": "See how PagerDuty's Platform for Real-Time Operations integrates machine data & human intelligence to improve visibility & agility across organizations. Sign up for a free 14 day trial!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pagerduty.com",
+      "website": "pagerduty.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.pagerduty.com/gdpr/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.pagerduty.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.pagerduty.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1830, "name": "IT Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 978,
+      "name": "Vidyard",
+      "description": "Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vidyard.com",
+      "website": "vidyard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 642,
+      "name": "Paessler",
+      "description": "PRTG Network Monitor is an agentless network monitoring software from Paessler AG.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/paessler.com",
+      "website": "paessler.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.paessler.com/company/privacypolicy"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2107, "name": "Network Security" }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Jobber",
+      "description": "Jobber’s field service scheduling software and app is the best way to organize your service business. Quote, schedule, invoice, and get paid—all in one place. Our easy-to-use app powers your sales, operations, and customer service—try Jobber for free t...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getjobber.com",
+      "website": "getjobber.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Unbounce",
+      "description": "Get more leads, sales, and customers with landing pages built just how you want in Unbounce’s drag-and-drop builder.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unbounce.com",
+      "website": "unbounce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2042, "name": "Machine Learning" }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Salsify",
+      "description": "Salsify's Product Experience Management (PXM) platform enables brands to deliver the product experiences consumers demand. Next gen PIM. Free Demo!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salsify.com",
+      "website": "salsify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.salsify.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.salsify.com/privacy-policy"
+        },
+        { "protocolId": 11, "sourceUrl": "https://www.salsify.com/gdpr" },
+        { "protocolId": 7, "sourceUrl": "https://www.salsify.com/gdpr" },
+        { "protocolId": 5, "sourceUrl": "https://www.salsify.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2271, "name": "Management Information Systems" }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Segment",
+      "description": "Segment is the single platform that collects, translates, and routes your user data to hundreds of analytics & marketing tools with the flip of a switch.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/segment.com",
+      "website": "segment.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://segment.com/docs/legal/privacy/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://segment.com/industry/enterprise/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://segment.com/security/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://segment.com/docs/legal/privacy/"
+        },
+        { "protocolId": 1, "sourceUrl": "https://segment.com/security/" }
+      ],
+      "categories": [
+        { "id": 1991, "name": "Infrastructure" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 768,
+      "name": "OpenStack",
+      "description": "OpenStack is a free and open-source software platform for cloud computing, mostly deployed as infrastructure-as-a-service, whereby virtual servers and other resources are made available to customers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/openstack.org",
+      "website": "openstack.org",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.openstack.org/privacy/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 619,
+      "name": "SmartBear",
+      "description": "SmartBear Software is a privately-held information technology company that delivers tools for application performance monitoring, software development, software testing and API management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smartbear.com",
+      "website": "smartbear.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1218,
+      "name": "Baremetrics",
+      "description": "Baremetrics is Subscription Analytics and Insights: One click and you get hundreds of valuable metrics and business insights!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/baremetrics.com",
+      "website": "baremetrics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2006, "name": "Data Visualization" }
+      ]
+    },
+    {
+      "id": 729,
+      "name": "Clarizen",
+      "description": "Project management software that lets you manage work, automate processes and collaborate across the enterprise—all from a single, intuitive solution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clarizen.com",
+      "website": "clarizen.com",
+      "vendorToProtocols": [
+        { "protocolId": 12, "sourceUrl": "https://www.clarizen.com/gdpr/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.clarizen.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 927,
+      "name": "SugarCRM",
+      "description": "SugarCRM is a software company based in Cupertino, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sugarcrm.com",
+      "website": "sugarcrm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sugarcrm.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sugarcrm.com/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2027, "name": "Lead Management" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 618,
+      "name": "PubNub",
+      "description": "PubNub is a global Data Stream Network and realtime infrastructure-as-a-service company based in San Francisco, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pubnub.com",
+      "website": "pubnub.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.pubnub.com/company/press-releases/2017/pubnub-achieves-soc-2-type-ii-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.pubnub.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.pubnub.com/blog/what-is-hipaa-and-why-it-matters-at-pubnub/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.pubnub.com/learn/glossary/what-is-privacy-shield-certification/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.pubnub.com/blog/were-soc-2-type-i-compliant/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.pubnub.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2222, "name": "Real Time" }
+      ]
+    },
+    {
+      "id": 866,
+      "name": "Plivo",
+      "description": "Voice & SMS API Platform: Plivo enables businesses and developers to tap into powerful Voice and SMS capabilities without carrier lock-in.     ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/plivo.com",
+      "website": "plivo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2106, "name": "SMS" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2108, "name": "Audio" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1925, "name": "Telecommunications" }
+      ]
+    },
+    {
+      "id": 1070,
+      "name": "Rubrik",
+      "description": "Rubrik is a cloud data management company based in Palo Alto, California, United States founded in December 2013 with offices in Morrisville, North Carolina, Bangalore, India, Lawrence, Kansas, Nottingham, England and Cork, Ireland.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rubrik.com",
+      "website": "rubrik.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.rubrik.com/press-release/rubrik-wins-best-of-show-and-best-data-security-and-data-protection-awards-with-customer-asl-airlines-at-vmworld-europe-2018/"
+        }
+      ],
+      "categories": [
+        { "id": 1907, "name": "Data Center Automation" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 858,
+      "name": "Kentico",
+      "description": "0 community sites. NET and Microsoft SQL Server for development via its Portal Engine, using Visual Studio, or through Microsoft MVC.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kentico.com",
+      "website": "kentico.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.kentico.com/kentico-com-privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1950, "name": "E-Commerce Platforms" }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Talkdesk",
+      "description": "Talkdesk is a cloud-based contact center and artificial intelligence software provider.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkdesk.com",
+      "website": "talkdesk.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.talkdesk.com/hc/en-us/articles/360004095931-Talkdesk-and-GDPR"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.talkdesk.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.talkdesk.com/call-center-software/platform/security-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.talkdesk.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2463, "name": "Call Center" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 947,
+      "name": "ShopKeep",
+      "description": "ShopKeep is the #1 Rated iPad POS system featuring inventory management, detailed reporting, and 24/7 support. Get a Free Quote!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/shopkeep.com",
+      "website": "shopkeep.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1832, "name": "Retail" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2078, "name": "Point of Sale" }
+      ]
+    },
+    {
+      "id": 1064,
+      "name": "CloudBees",
+      "description": "We’re building The World’s First End-to-End Continuous Software Delivery System",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudbees.com",
+      "website": "cloudbees.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1884, "name": "Business Development" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2228, "name": "Delivery" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Fuze",
+      "description": "Fuze is a provider of cloud-based Unified Communications as a Service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fuze.com",
+      "website": "fuze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.fuze.com/unified-communications/platform"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.fuze.com/GDPR" },
+        { "protocolId": 3, "sourceUrl": "https://www.fuze.com/trust" },
+        { "protocolId": 2, "sourceUrl": "https://www.fuze.com/GDPR" },
+        { "protocolId": 1, "sourceUrl": "https://www.fuze.com/GDPR" },
+        { "protocolId": 11, "sourceUrl": "https://www.fuze.com/GDPR" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1923, "name": "Video Conferencing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 1007,
+      "name": "MapR Technologies",
+      "description": "MapR was a business software company headquartered in Santa Clara, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mapr.com",
+      "website": "mapr.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mapr.com/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 717,
+      "name": "K2",
+      "description": "With K2, organizations can use visual designers to rapidly build and deploy scalable, reusable, low-code applications that quickly connect people, data, decisions and systems. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/k2.com",
+      "website": "k2.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2170, "name": "Business Information Systems" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 214,
+      "name": "PowerDMS",
+      "description": "PowerDNS is a DNS server, written in C++ and licensed under the GPL.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/powerdms.com",
+      "website": "powerdms.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 356,
+      "name": "ThinkHR",
+      "description": "At ThinkHR, we are passionate about empowering HR professionals so that they can be more efficient and effective in their jobs. Since 2005, we’ve challenged ourselves to be more than just a hotline with a  static content library. Our mission is to prov...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thinkhr.com",
+      "website": "thinkhr.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2143, "name": "Corporate Training" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "SimScale",
+      "description": "SimScale is a computer-aided engineering software product based on cloud computing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/simscale.com",
+      "website": "simscale.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2161, "name": "Simulation" },
+        { "id": 2024, "name": "3D Technology" },
+        { "id": 2075, "name": "CAD" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 917,
+      "name": "Chef",
+      "description": "Chef is a company and the name of a configuration management tool written in Ruby and Erlang.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chef.io",
+      "website": "chef.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.chef.io/privacy-policy-archive-20180215/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1991, "name": "Infrastructure" }
+      ]
+    },
+    {
+      "id": 592,
+      "name": "Plex Systems",
+      "description": "Plex is a client-server media player system and software suite comprising two main components.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/plex.com",
+      "website": "plex.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.plex.com/utility/pmc-privacy-policy.html"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.plex.com/blogs/gdpr-plex-customers-180509.html"
+        }
+      ],
+      "categories": [
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2419, "name": "Enterprise Resource Planning (ERP)" }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Keen",
+      "description": "Keen is the platform for developers that lets you ship custom user-facing metrics quickly and seamlessly with low overhead.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/keen.io",
+      "website": "keen.io",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://keen.io/docs/security/" },
+        { "protocolId": 2, "sourceUrl": "https://keen.io/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 738,
+      "name": "Conga",
+      "description": "Conga is the leader in end-to-end, AI-powered digital document transformation. The Conga Suite helps to simplify user experiences & increase productivity.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/conga.com",
+      "website": "conga.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 558,
+      "name": "M-Files",
+      "description": "M-Files Intelligent Information Management helps enterprises find, share, and secure documents and information. Ideal for regulatory compliance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/m-files.com",
+      "website": "m-files.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.m-files.com/en/privacy" }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1825, "name": "Knowledge Management" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Easy Projects",
+      "description": "Ranked as Project Management Software Leader. Improve visibility into all ongoing projects, manage and plan resources, boost team collaboration and instill accountability.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/easyprojects.net",
+      "website": "easyprojects.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1946, "name": "Career Planning" },
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 1086,
+      "name": "Cohesity",
+      "description": "Eliminate mass data fragmentation with Cohesity’s modern approach to data management, beginning with backup. Gain instant recovery. Learn more today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cohesity.com",
+      "website": "cohesity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2394, "name": "Data Center" },
+        { "id": 2295, "name": "Data Storage" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1172,
+      "name": "Xplenty",
+      "description": "Xplenty is a data integration platform that requires no coding or deployment. Our Big Data processing cloud service brings immediate results to the entire organization: from designing dataflows to scheduling jobs, Xplenty can process both structured an...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/xplenty.com",
+      "website": "xplenty.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.xplenty.com/blog/xplenty-is-commited-to-the-gdpr/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.xplenty.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Lucidworks",
+      "description": "Lucidworks is a San Francisco, California-based enterprise search technology company offering an application development platform, commercial support, consulting, training and value-add software for open source Apache Lucene and Apache Solr.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lucidworks.com",
+      "website": "lucidworks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 875,
+      "name": "RingLead",
+      "description": "Simplify and automate duplicate removal and prevention, data normalization, and data enhancement for account and contacts/leads. Schedule a free demo today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ringlead.com",
+      "website": "ringlead.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2474, "name": "Service Industry" },
+        { "id": 2400, "name": "Application Performance Management" }
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Cloudability",
+      "description": "Cloudability is a cloud cost management platform that improves visibility, optimization, governance and more across cloud environments.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudability.com",
+      "website": "cloudability.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudability.com/terms/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1972, "name": "Finance" }
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Liveops",
+      "description": "Liveops is a cloud call center company based in Scottsdale, Arizona.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liveops.com",
+      "website": "liveops.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1886, "name": "Crowdsourcing" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2413, "name": "Virtual Workforce" }
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Higher Logic",
+      "description": "Higher Logic is an industry leader in cloud-based community platforms. Organizations worldwide use Higher Logic to bring people all together, by giving their community a home where they can interact, share ideas, answer questions and stay connected.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/higherlogic.com",
+      "website": "higherlogic.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "http://www.higherlogic.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "http://www.higherlogic.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2148, "name": "Communities" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 709,
+      "name": "Nuxeo",
+      "description": "Nuxeo is a software company making an open source content management system.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nuxeo.com",
+      "website": "nuxeo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2357, "name": "Enterprise Applications" }
+      ]
+    },
+    {
+      "id": 687,
+      "name": "Cloud Elements",
+      "description": "Cloud Elements is a cloud API integration platform that enables developers to publish, integrate, aggregate and manage all of their APIs through a unified platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloud-elements.com",
+      "website": "cloud-elements.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://cloud-elements.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://cloud-elements.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1822, "name": "Cloud Data Services" }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "J2 Global",
+      "description": "J2 Global, Inc. is an American publicly traded technology company based in Los Angeles, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/j2global.com",
+      "website": "j2global.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 980,
+      "name": "SnapLogic",
+      "description": "SnapLogic is a commercial software company that provides Integration Platform as a Service tools for connecting Cloud data sources, SaaS applications and on-premises business software applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/snaplogic.com",
+      "website": "snaplogic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Host Analytics",
+      "description": "Host Analytics offers financial planning & analysis software that includes a complete suite of applications for budgeting, planning, forecasting, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hostanalytics.com",
+      "website": "hostanalytics.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://hostanalytics.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://hostanalytics.com/privacy-policy/"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://hostanalytics.com/technology/trust/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://hostanalytics.com/technology/trust/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://hostanalytics.com/technology/trust/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://hostanalytics.com/privacy-policy/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://hostanalytics.com/technology/trust/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1972, "name": "Finance" }
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "FieldAware",
+      "description": "Field Service Management Software from FieldAware helps mid-size and enterprise businesses streamline field service operations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/fieldaware.com",
+      "website": "fieldaware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 744,
+      "name": "ServiceMax",
+      "description": "ServiceMax is the global market-leader in Service Execution Management, a software category that includes both Field Service Management and Asset Service Management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/servicemax.com",
+      "website": "servicemax.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.servicemax.com/products/zinc-employee-hotline-group-messaging"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.servicemax.com/products/zinc-employee-hotline-group-messaging"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.servicemax.com/products/zinc-employee-hotline-group-messaging"
+        }
+      ],
+      "categories": [
+        { "id": 2440, "name": "Field Support" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 610,
+      "name": "Resolver",
+      "description": "Resolver’s integrated cloud platform supports risk and incident management process to protect your employees, customers, data, brand, inventory and shareholders. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/resolver.com",
+      "website": "resolver.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.resolver.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.resolver.com/legal/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1823, "name": "Physical Security" },
+        { "id": 1845, "name": "Risk Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2334, "name": "Compliance" }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "CloudPay",
+      "description": "CloudPay provides managed global payroll services through a unified and elegant cloud solution that ensures consistent & compliant international payroll in 120+ countries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudpay.net",
+      "website": "cloudpay.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 578,
+      "name": "WaveMaker",
+      "description": "WaveMaker is a private aPaaS software for building and running custom apps.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wavemaker.com",
+      "website": "wavemaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "D2iQ",
+      "description": "D2iQ offers DevOps teams cloud native application management software, services, and training, making day 2 operations more manageable than ever before.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/d2iq.com",
+      "website": "d2iq.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1907, "name": "Data Center Automation" }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "SutiSoft",
+      "description": "SutiSoft is an IT solutions company dedicated to the strategic synchronization of tailored business solutions with best-in-class security to meet customer's critical business needs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sutisoft.com",
+      "website": "sutisoft.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Exasol",
+      "description": "Exasol is an analytics database management software company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exasol.com",
+      "website": "exasol.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.exasol.com/en/blog/gdpr-help-exasol/"
+        }
+      ],
+      "categories": [
+        { "id": 2429, "name": "Database" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 633,
+      "name": "NewVoiceMedia",
+      "description": "NewVoiceMedia is a cloud contact centre and inside sales platform designed specifically for Salesforce.  Learn how you can sell more & serve better.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/newvoicemedia.com",
+      "website": "newvoicemedia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Silverline",
+      "description": "Silverline is a Salesforce Platinum Partner offering strategic Advisory services, Salesforce implementation, Salesforce Managed Services, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/silverlinecrm.com",
+      "website": "silverlinecrm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1052,
+      "name": "Pindrop",
+      "description": "Pindrop Security is an American information security company that provides risk scoring for phone calls to detect fraud and authenticate callers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pindrop.com",
+      "website": "pindrop.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2059, "name": "Security" },
+        { "id": 2108, "name": "Audio" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1845, "name": "Risk Management" },
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 2001, "name": "Retail Technology" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1209,
+      "name": "SADA Systems",
+      "description": "SADA Systems is an award winning business and technology consulting and provider with proven expertise in cloud platforms, IT services, migration and deployment, custom application development, managed services, user adoption and change management.  Li...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sadasystems.com",
+      "website": "sadasystems.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Zapproved",
+      "description": "Zapproved has developed the Z-Discovery Platform, a suite of ediscovery & document review software that will change how companies respond to big data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zapproved.com",
+      "website": "zapproved.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.zapproved.com/support-services/eu-us-privacy-shield/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.zapproved.com/ediscovery-software/security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.zapproved.com/support-services/eu-us-privacy-shield/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.zapproved.com/about-us/press/"
+        }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2166, "name": "Ediscovery" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "CloudNine",
+      "description": "CloudNine is an eDiscovery automation company that provides cloud-based software and services to simplify litigation discovery, investigations, and audits.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ediscovery.co",
+      "website": "ediscovery.co",
+      "vendorToProtocols": [
+        { "protocolId": 12, "sourceUrl": "https://ediscovery.co/software/" },
+        { "protocolId": 1, "sourceUrl": "https://ediscovery.co/software/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://ediscovery.co/terms-privacy/"
+        },
+        { "protocolId": 3, "sourceUrl": "https://ediscovery.co/software/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://ediscovery.co/terms-privacy/"
+        },
+        { "protocolId": 14, "sourceUrl": "https://ediscovery.co/software/" }
+      ],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2166, "name": "Ediscovery" },
+        { "id": 2548, "name": "Legal Tech" }
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Easy Software",
+      "description": "Easy Software is leading Open Source company on the field of business software.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "easysoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 893,
+      "name": "AT&T Cybersecurity",
+      "description": "AT&T Cybersecurity is a developer of commercial and open source solutions to manage cyber attacks, including the Open Threat Exchange, the world's largest crowd-sourced computer-security platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/alienvault.com",
+      "website": "alienvault.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.alienvault.com/legal/gdpr"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.alienvault.com/products/security"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.alienvault.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.alienvault.com/products/security"
+        }
+      ],
+      "categories": [
+        { "id": 2107, "name": "Network Security" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2079, "name": "Developer APIs" }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Apptivo",
+      "description": "Apptio is a Bellevue, Washington-based company founded in 2007 that develops technology business management software as a service applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptivo.com",
+      "website": "apptivo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.apptivo.com/data-security/"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 888,
+      "name": "BizNet Software",
+      "description": "BizNet Software is a leader in Excel reporting software, offering solutions that help minimize time spent building reports. Download your free trial today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/biznetsoftware.com",
+      "website": "biznetsoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 925,
+      "name": "Brightcove",
+      "description": "Brightcove, Inc. is a Boston, Massachusetts–based software company that produces an online video platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brightcove.com",
+      "website": "brightcove.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.brightcove.com/en/legal/gdpr-and-brightcove"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.brightcove.com/legal/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.brightcove.com/legal/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Caspio",
+      "description": "Caspio is a privately held global software company headquartered in Santa Clara, California with offices in Ukraine, Poland and the Philippines.",
+      "isClaimed": false,
+      "logo": "data:image/jpeg;base64,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",
+      "website": "caspio.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.caspio.com/caspio-privacy-statement/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.caspio.com/caspio-announces-hipaa-compliant-custom-application-development-services/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.caspio.com/dpa/" },
+        { "protocolId": 7, "sourceUrl": "https://www.caspio.com/dpa/" }
+      ],
+      "categories": [
+        { "id": 2170, "name": "Business Information Systems" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2429, "name": "Database" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 400,
+      "name": "AdvancedMD",
+      "description": "Unify the business and clinical side, as well as your patients, completely in the cloud built for the independent practice.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/advancedmd.com",
+      "website": "advancedmd.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.advancedmd.com/medical-office-software/security/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.advancedmd.com/medical-office-software/security/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 937,
+      "name": "Adaptive Insights",
+      "description": "Adaptive Insights, a Workday company, formerly Adaptive Planning, Inc.,",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/adaptiveinsights.com",
+      "website": "adaptiveinsights.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.adaptiveinsights.com/online-privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.adaptiveinsights.com/online-privacy-policy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.adaptiveinsights.com/products/secure-business-data"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.adaptiveinsights.com/products/secure-business-data"
+        }
+      ],
+      "categories": [
+        { "id": 1972, "name": "Finance" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 662,
+      "name": "Arena Solutions",
+      "description": "Arena Solutions enables over 1300 innovative companies design, produce, and deliver products to market by connecting the product record, quality processes, and supply chain partners. Our unified cloud solution helps drive PLM, QMS, BOM, and requirement...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/arenasolutions.com",
+      "website": "arenasolutions.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.arenasolutions.com/privacy/app-privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.arenasolutions.com/privacy/app-privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2018, "name": "Supply Chain Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 673,
+      "name": "BrandMaker",
+      "description": "BrandMaker enables the planning, budgeting, execution, and measurement of your marketing efforts. One connected platform to run your marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brandmaker.com",
+      "website": "brandmaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Aria Systems",
+      "description": "Maximize your recurring revenues with a leading subscription billing software that specializes in enterprise commerce. Learn more about Aria Systems!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ariasystems.com",
+      "website": "ariasystems.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.ariasystems.com/company/press-release/aria-systems-continues-category-leadership-setting-enterprise-grade-uptime-and"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.ariasystems.com/company/press-release/aria-systems-continues-category-leadership-setting-enterprise-grade-uptime-and"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.ariasystems.com/company/press-release/aria-systems-continues-category-leadership-setting-enterprise-grade-uptime-and"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.ariasystems.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.ariasystems.com/blog/aria-systems-awarded-hipaa-certification/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.ariasystems.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 851,
+      "name": "Bynder",
+      "description": "Award-winning brand management and digital asset management software and has been voted #1 in terms of user-friendliness, support and security.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bynder.com",
+      "website": "bynder.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.bynder.com/en/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.bynder.com/en/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 713,
+      "name": "Apptricity",
+      "description": "From Supply Chain Management to Spend Management, Apptricity is extending enterprise-wide operations and processes through real-time visibility.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptricity.com",
+      "website": "apptricity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2157, "name": "Intellectual Property" }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Algolia",
+      "description": "Algolia is a US startup company offering a web search product through a SaaS model.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/algolia.com",
+      "website": "algolia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.algolia.com/enterprise/security/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.algolia.com/enterprise/security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.algolia.com/doc/faq/security-privacy/gdpr/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.algolia.com/doc/faq/security-privacy/gdpr/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.algolia.com/doc/faq/security-privacy/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 1062,
+      "name": "C3.ai",
+      "description": "C3.ai is a leading enterprise AI software provider for building enterprise-scale AI applications and accelerating digital transformation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/c3.ai",
+      "website": "c3.ai",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2357, "name": "Enterprise Applications" }
+      ]
+    },
+    {
+      "id": 1106,
+      "name": "GitHub",
+      "description": "GitHub is an American company that provides hosting for software development version control using Git.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/github.com",
+      "website": "github.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://github.com/site/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://github.com/site/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://github.com/site/privacy" },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://github.blog/2019-08-27-github-has-soc-1-and-soc-2-type-2-reports/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://github.blog/2019-08-27-github-has-soc-1-and-soc-2-type-2-reports/"
+        }
+      ],
+      "categories": [
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Applitools",
+      "description": "Applitools is an application visual management and AI-powered visual UI testing and monitoring software. Use our visual reporting for your website and mobile app development.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/applitools.com",
+      "website": "applitools.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://applitools.com/gdpr" },
+        { "protocolId": 1, "sourceUrl": "https://applitools.com/gdpr" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://applitools.com/privacy-policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://applitools.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2410, "name": "Usability Testing" },
+        { "id": 2241, "name": "Software Engineering" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1861, "name": "Developer Tools" }
+      ]
+    },
+    {
+      "id": 839,
+      "name": "Bitnami",
+      "description": "Bitnami is a library of installers or software packages for web applications and development stacks as well as virtual appliances.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bitnami.com",
+      "website": "bitnami.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1882, "name": "Blogging Platforms" }
+      ]
+    },
+    {
+      "id": 1012,
+      "name": "Apto",
+      "description": "Apto's no-hassle, intelligent CRM software helps commercial real estate brokers find, win and execute deals. Learn why nearly 10,000 brokers rely on Apto.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apto.com",
+      "website": "apto.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2011, "name": "Commercial Real Estate" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Allocadia",
+      "description": "Allocadia provides Marketing Performance Management software, helping marketing teams confidently plan, manage investments, and measure results & ROI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/allocadia.com",
+      "website": "allocadia.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Acumatica",
+      "description": "Acumatica, founded in 2008, is a technology provider that develops cloud- and browser-based enterprise resource planning software for small and medium-sized businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/acumatica.com",
+      "website": "acumatica.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    }
+  ]
+}

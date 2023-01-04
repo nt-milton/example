@@ -1,0 +1,4213 @@
+{
+  "id": 1817,
+  "name": "Information Technology",
+  "vendors": [
+    {
+      "id": 1159,
+      "name": "Google",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/google.com",
+      "website": "google.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://cloud.google.com/security/compliance/privacy-shield/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://cloud.google.com/security/gdpr/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://privacy.google.com/businesses/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2325, "name": "Ad Network" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1966, "name": "Video Streaming" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 1221,
+      "name": "Okta",
+      "description": "Okta, Inc. is a publicly traded identity and access management company based in San Francisco.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/okta.com",
+      "website": "okta.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.okta.com/gdpr/" },
+        { "protocolId": 3, "sourceUrl": "https://www.okta.com/hipaa/" },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2089, "name": "Identity Management" }
+      ]
+    },
+    {
+      "id": 654,
+      "name": "Oracle",
+      "description": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California.",
+      "isClaimed": false,
+      "logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='25' viewBox='0 0 32 25'%3E%3Cg fill='%23E55844'%3E%3Cpath d='M9.9,20.1c-5.5,0-9.9-4.4-9.9-9.9c0-5.5,4.4-9.9,9.9-9.9h11.6c5.5,0,9.9,4.4,9.9,9.9c0,5.5-4.4,9.9-9.9,9.9H9.9 M21.2,16.6c3.6,0,6.4-2.9,6.4-6.4c0-3.6-2.9-6.4-6.4-6.4h-11c-3.6,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4H21.2'/%3E%3C/g%3E%3C/svg%3E",
+      "website": "oracle.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 1177,
+      "name": "Elsevier",
+      "description": "Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/elsevier.com",
+      "website": "elsevier.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 2228, "name": "Delivery" },
+        { "id": 2198, "name": "Content" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2049, "name": "Content Discovery" },
+        { "id": 2047, "name": "Publishing" }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Wondershare",
+      "description": "Wondershare offers Video Software, PDF Tools, PC Utilities for Mac and Win users to convert, edit videos, photos or PDF files, make photo slideshow etc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wondershare.com",
+      "website": "wondershare.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Typeform",
+      "description": "Typeform is a Barcelona-based online software as a service company that specializes in online form building and online surveys.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/typeform.com",
+      "website": "typeform.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.typeform.com/help/gdpr-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 1212,
+      "name": "DocuSign",
+      "description": "DocuSign, Inc. is an American company headquartered in San Francisco, California that helps organizations connect and automate how they prepare, sign, act on, and manage agreements.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/docusign.com",
+      "website": "docusign.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.docusign.com/trust/compliance/certifications"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.docusign.com/trust/privacy/gdpr"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.docusign.com/trust/compliance/certifications"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.docusign.com/trust/compliance/certifications"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 2301, "name": "E-Signature" },
+        { "id": 1974, "name": "Cloud Management" }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "SketchUp",
+      "description": "SketchUp is a 3D modeling computer program for a wide range of drawing applications such as architectural, interior design, landscape architecture, civil and mechanical engineering, film and video game design.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sketchup.com",
+      "website": "sketchup.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2024, "name": "3D Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "JetBrains",
+      "description": "JetBrains builds productivity software for developers who want to focus more on what they want to accomplish, and less on mundane, repetitive tasks.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jetbrains.com",
+      "website": "jetbrains.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 359,
+      "name": "OneLogin",
+      "description": "OneLogin, Inc. is a cloud-based identity and access management provider that designs, develops, and sells a unified access management system platform to enterprise-level businesses and organizations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onelogin.com",
+      "website": "onelogin.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://www.onelogin.com/compliance" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.onelogin.com/compliance"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.onelogin.com/compliance"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.onelogin.com/compliance" },
+        { "protocolId": 4, "sourceUrl": "https://www.onelogin.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.onelogin.com/privacy" },
+        { "protocolId": 12, "sourceUrl": "https://www.onelogin.com/compliance" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1932, "name": "Cloud Security" }
+      ]
+    },
+    {
+      "id": 1066,
+      "name": "Cloudinary",
+      "description": "Manage web and mobile media assets with the leading cloud service: image and video upload, storage, manipulation, optimization and digital asset management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudinary.com",
+      "website": "cloudinary.com",
+      "vendorToProtocols": [
+        { "protocolId": 5, "sourceUrl": "https://cloudinary.com/trust" },
+        { "protocolId": 7, "sourceUrl": "https://cloudinary.com/trust" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://cloudinary.com/blog/yet_another_gdpr_blog_post"
+        },
+        { "protocolId": 2, "sourceUrl": "https://cloudinary.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 2101, "name": "Photography" },
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 595,
+      "name": "Ubuntu",
+      "description": "Ubuntu (/ʊˈbʊntuː/ uu-BUUN-too) is a free and open-source Linux distribution based on Debian.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ubuntu.com",
+      "website": "ubuntu.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "GetResponse",
+      "description": "Email marketing from GetResponse. Send email newsletters, campaigns, online surveys and follow-up autoresponders. Simple, easy interface. FREE sign up.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getresponse.com",
+      "website": "getresponse.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1993, "name": "Direct Marketing" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 539,
+      "name": "IFTTT",
+      "description": "In addition to the web-based application, the service runs on iOS and Android.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ifttt.com",
+      "website": "ifttt.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Eclipse Foundation",
+      "description": "Eclipse is an integrated development environment used in computer programming, and in 2014 was the most widely used Java IDE in one website's poll.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/eclipse.org",
+      "website": "eclipse.org",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2148, "name": "Communities" }
+      ]
+    },
+    {
+      "id": 692,
+      "name": "UserVoice",
+      "description": "UserVoice is a San Francisco based Software-as-a-Service company creating customer engagement tools.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uservoice.com",
+      "website": "uservoice.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.uservoice.com/security-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.uservoice.com/privacy-shield/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.uservoice.com/gdpr-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.uservoice.com/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2310, "name": "Product Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 1068,
+      "name": "Workfront",
+      "description": "Workfront is a Lehi, Utah-based software company that develops web-based work management and project management software that features enterprise work management, issue tracking, document management time tracking and portfolio management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/workfront.com",
+      "website": "workfront.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.workfront.com/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.workfront.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.workfront.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1930, "name": "Professional Services" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 699,
+      "name": "Foxit Software",
+      "description": "Foxit Software, Inc. develops Portable Document Format software and tools used to create, edit, sign, and secure files and digital documents.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/foxitsoftware.com",
+      "website": "foxitsoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1862, "name": "EBooks" }
+      ]
+    },
+    {
+      "id": 591,
+      "name": "Drupal",
+      "description": "Drupal /ˈdruːpəl/ is a free and open-source content management framework written in PHP and distributed under the GNU General Public License.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "drupal.org",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.drupal.org/privacy" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2094, "name": "Collaboration" }
+      ]
+    },
+    {
+      "id": 639,
+      "name": "ManageEngine",
+      "description": "ManageEngine AssetExplorer is asset management software which manages IT assets.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/manageengine.com",
+      "website": "manageengine.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.zoho.com/security.html" },
+        { "protocolId": 1, "sourceUrl": "https://www.zoho.com/security.html" },
+        { "protocolId": 2, "sourceUrl": "https://gov.manageengine.com/" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.manageengine.com/privacy.html"
+        }
+      ],
+      "categories": [
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 801,
+      "name": "Confirmit",
+      "description": "Confirmit makes sophisticated research simple and empowers users to capture feedback from customer, product, brand & employee experience. Analyse insights and take business actions using our Voice of the Customer, Voice of the Employee and Market Resea...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/confirmit.com",
+      "website": "confirmit.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.confirmit.com/security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.confirmit.com/Privacy-Notice/"
+        },
+        { "protocolId": 1, "sourceUrl": "https://www.confirmit.com/security/" },
+        { "protocolId": 3, "sourceUrl": "https://www.confirmit.com/security/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.confirmit.com/Privacy-Notice/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.confirmit.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "MeisterTask",
+      "description": "MeisterTask is the most intuitive collaboration and task management tool on the web. Sign up, invite your team and start working. No training required.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/meistertask.com",
+      "website": "meistertask.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.meistertask.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1058,
+      "name": "UiPath",
+      "description": "UiPath is a global software company that develops a platform for robotic process automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uipath.com",
+      "website": "uipath.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://forum.uipath.com/privacy" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.uipath.com/kb-articles/uipath-is-hipaa-and-fips-compliant"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1907, "name": "Data Center Automation" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 328,
+      "name": "CircleCI",
+      "description": "Get the best continuous integration and delivery platform for Linux, macOS, and Android, in the cloud or self-hosted.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/circleci.com",
+      "website": "circleci.com",
+      "vendorToProtocols": [
+        { "protocolId": 9, "sourceUrl": "https://circleci.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://circleci.com/gdpr/" },
+        { "protocolId": 12, "sourceUrl": "https://circleci.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://circleci.com/security/" },
+        { "protocolId": 4, "sourceUrl": "https://circleci.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1838, "name": "PaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2316, "name": "Enterprise" }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Datadog",
+      "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/datadoghq.com",
+      "website": "datadoghq.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.datadoghq.com/security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.datadoghq.com/security/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.datadoghq.com/security/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.datadoghq.com/legal/privacy/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.datadoghq.com/security/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 912,
+      "name": "Liquid Web",
+      "description": "Liquid Web is a leader in Managed Hosting solutions for mission critical sites & apps. When uptime and reliability are non-negotiable, trust Liquid Web!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liquidweb.com",
+      "website": "liquidweb.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.liquidweb.com/about-us/policies/certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 1071,
+      "name": "Freshworks",
+      "description": "Feature packed product suite for businesses of all sizes. Refreshing cloud software your teams will love. Support | Sales | ITSM | Cloud PBX",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/freshworks.com",
+      "website": "freshworks.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.freshworks.com/gdpr/" },
+        { "protocolId": 4, "sourceUrl": "https://www.freshworks.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.freshworks.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1898, "name": "Information Services" }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Recruitee",
+      "description": "Recruitee is Software as a service that functions as a Talent Acquisition Platform, formerly known as an applicant tracking system.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/recruitee.com",
+      "website": "recruitee.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.recruitee.com/en/articles/60300-is-recruitee-compliant-with-gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2190, "name": "Recruiting" }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "PagerDuty",
+      "description": "See how PagerDuty's Platform for Real-Time Operations integrates machine data & human intelligence to improve visibility & agility across organizations. Sign up for a free 14 day trial!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pagerduty.com",
+      "website": "pagerduty.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.pagerduty.com/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.pagerduty.com/privacy-policy/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.pagerduty.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1830, "name": "IT Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 975,
+      "name": "UXPin",
+      "description": "Design tool like no other. Prototypes that feel real, with powers of code components, logic, states and design systems. Join for free!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uxpin.com",
+      "website": "uxpin.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Pipefy",
+      "description": "Deploy fast and manage processes within minutes using our no-code platform. Get started now.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pipefy.com",
+      "website": "pipefy.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.pipefy.com/privacy-shield-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.pipefy.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2205, "name": "Task Management" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 996,
+      "name": "RealVNC",
+      "description": "RealVNC is a company that provides remote access software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/realvnc.com",
+      "website": "realvnc.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1893, "name": "Customer Service" }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Databricks",
+      "description": "Databricks provides a Unified Analytics Platform that accelerates innovation by unifying data science, engineering and business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/databricks.com",
+      "website": "databricks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://databricks.com/privacypolicy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://databricks.com/privacypolicy"
+        },
+        { "protocolId": 1, "sourceUrl": "https://databricks.com/privacypolicy" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Mode",
+      "description": "Mode is a data analysis platform that combines a powerful, web-based SQL editor with charting and sharing tools. Connect your database and run, save, and share analyses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mode.com",
+      "website": "mode.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://mode.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://mode.com/privacy/" },
+        { "protocolId": 3, "sourceUrl": "https://mode.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://mode.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 1162,
+      "name": "LogRocket",
+      "description": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/logrocket.com",
+      "website": "logrocket.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://docs.logrocket.com/docs/gdpr"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://docs.logrocket.com/docs/gdpr"
+        },
+        { "protocolId": 2, "sourceUrl": "https://logrocket.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2257, "name": "UX Design" },
+        { "id": 2107, "name": "Network Security" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Sumo Logic",
+      "description": "Sumo Logic is a cloud-based machine data analytics company focusing on security, operations and BI usecases.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sumologic.com",
+      "website": "sumologic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sumologic.com/privacy-statement/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sumologic.com/press-release/gdpr-netskope/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.sumologic.com/press-release/sumo-logic-announces-successful-hipaa-examination/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sumologic.com/privacy-statement/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://support.sumologic.com/hc/en-us/articles/360005027714-How-can-we-get-a-copy-of-Sumo-Logic-s-compliance-documents"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 976,
+      "name": "Domo",
+      "description": "Domo, Inc. is a cloud software company based in American Fork, Utah, United States.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/domo.com",
+      "website": "domo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Jobber",
+      "description": "Jobber’s field service scheduling software and app is the best way to organize your service business. Quote, schedule, invoice, and get paid—all in one place. Our easy-to-use app powers your sales, operations, and customer service—try Jobber for free t...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getjobber.com",
+      "website": "getjobber.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Recurly",
+      "description": "Recurly provides enterprise-class subscription billing management for thousands of businesses worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/recurly.com",
+      "website": "recurly.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1929, "name": "Billing" }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Chargebee",
+      "description": "Chargebee's subscription billing platform powers end-to-end recurring billing for subscription businesses with smart automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chargebee.com",
+      "website": "chargebee.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.chargebee.com/privacy/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.chargebee.com/security/"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.chargebee.com/security/"
+        },
+        {
+          "protocolId": 8,
+          "sourceUrl": "https://www.chargebee.com/docs/eu-gdpr.html"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.chargebee.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://www.chargebee.com/privacy/" },
+        { "protocolId": 1, "sourceUrl": "https://www.chargebee.com/security/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1014,
+      "name": "TINYpulse",
+      "description": "The world's leading employee engagement platform trusted by over 1,000 businesses to reduce turnover, improve communication, and build a world-class culture.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tinypulse.com",
+      "website": "tinypulse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 926,
+      "name": "WizIQ",
+      "description": "Founded in 2007, WizIQ is a cloud-based education platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wiziq.com",
+      "website": "wiziq.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2227, "name": "EdTech" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2111, "name": "Education" }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "JumpCloud",
+      "description": "Azure AD alternative with user management, web app SSO, cloud LDAP, SaaS RADIUS, GPO-like policies for Mac, Linux, and Windows, 2FA, & more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jumpcloud.com",
+      "website": "jumpcloud.com",
+      "vendorToProtocols": [
+        { "protocolId": 5, "sourceUrl": "https://jumpcloud.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://jumpcloud.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 2059, "name": "Security" }
+      ]
+    },
+    {
+      "id": 646,
+      "name": "Uberflip",
+      "description": "Uberflip is a Content Experience Platform that enables marketers to create digital experiences with content for every stage of the buyer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uberflip.com",
+      "website": "uberflip.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Smartcat",
+      "description": "Smartcat is a computer-assisted translation web app that enables collaborative translation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smartcat.ai",
+      "website": "smartcat.ai",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.smartcat.ai/dpa/" },
+        { "protocolId": 7, "sourceUrl": "https://www.smartcat.ai/dpa/" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2340, "name": "Marketplace" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" }
+      ]
+    },
+    {
+      "id": 1020,
+      "name": "Memsource",
+      "description": "Manage your translation workflow more efficiently with Memsource. Join the other global companies who have leveraged Memsource’s automation features, connectors, REST API, and artificial intelligence to reduce time and costs spent on translation. Try b...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/memsource.com",
+      "website": "memsource.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://help.memsource.com/hc/en-us/articles/115003830391-Security-Statement"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2422, "name": "Translation Service" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Travis CI",
+      "description": "Hi! We're Travis CI, the continuous integration and delivery service for your GitHub projects • Status: @traviscistatus • Travis Foundation: @travis_fnd",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/travis-ci.com",
+      "website": "travis-ci.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://docs.travis-ci.com/legal/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2309, "name": "Web Apps" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Clearbit",
+      "description": "Clearbit provides powerful products and data APIs to help your business grow. Contact enrichment, lead generation, financial compliance, and more...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clearbit.com",
+      "website": "clearbit.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://clearbit.com/gdpr" },
+        { "protocolId": 4, "sourceUrl": "https://clearbit.com/privacyshield" }
+      ],
+      "categories": [
+        { "id": 1888, "name": "Fraud Detection" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 619,
+      "name": "SmartBear",
+      "description": "SmartBear Software is a privately-held information technology company that delivers tools for application performance monitoring, software development, software testing and API management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smartbear.com",
+      "website": "smartbear.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2177, "name": "iOS" }
+      ]
+    },
+    {
+      "id": 1120,
+      "name": "Postmark",
+      "description": "Trusted by thousands of developers, Postmark is a fast and reliable transactional email service. Send with Postmark to ensure your transactional emails get to the inbox on time, every time.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/postmarkapp.com",
+      "website": "postmarkapp.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://postmarkapp.com/eu-privacy" },
+        { "protocolId": 2, "sourceUrl": "https://postmarkapp.com/eu-privacy" },
+        { "protocolId": 4, "sourceUrl": "https://postmarkapp.com/eu-privacy" }
+      ],
+      "categories": [
+        { "id": 2038, "name": "Email" },
+        { "id": 2048, "name": "Transaction Processing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Sisense",
+      "description": "Sisense is a business analytics software company with offices in New York City, San Francisco, Tel Aviv, London, Melbourne, Tokyo, and Scottsdale, Arizona.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sisense.com",
+      "website": "sisense.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Employee Navigator",
+      "description": "Employee Navigator was founded in 2008 to help companies manage their employee benefits more efficiently. Since then we've expanded beyond benefits to build software that makes running a business easier.  From new hire onboarding to time-off tracking, ...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "employeenavigator.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.employeenavigator.com/About/Security"
+        },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://www.employeenavigator.com/About/Security"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.employeenavigator.com/About/Security"
+        }
+      ],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 677,
+      "name": "WebPT",
+      "description": "Stay organized and compliant with the leading physical therapy software. More than 10,000 clinics, and 70,000 Members trust WebPT every day.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/webpt.com",
+      "website": "webpt.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://www.webpt.com/hipaa" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.businesswire.com/news/home/20180330005217/en/WebPT-Rehab-Therapy-EMR-Achieve-Platinum-Standard"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "bswift",
+      "description": "bswift streamlines employee benefits, HR & payroll administration for employers nationwide. We’ll help you discover the true value of benefits administration.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bswift.com",
+      "website": "bswift.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1876, "name": "Health Care" }
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Transifex",
+      "description": "Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/transifex.com",
+      "website": "transifex.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1886, "name": "Crowdsourcing" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "ServiceTitan",
+      "description": "The leading service businesses run on ServiceTitan. Learn why we are the #1 home service software & Mobile App for home service companies. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/servicetitan.com",
+      "website": "servicetitan.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2328, "name": "Home Services" }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Sertifi",
+      "description": "Sertifi offers the fastest and most secure way to close business, from legally-binding eSignatures to secure online payment capture. Thousands of companies around the world trust Sertifi to close business 90% faster, recognize revenue quickly, enhance ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sertifi.com",
+      "website": "sertifi.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://corp.sertifi.com/gdpr/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://corp.sertifi.com/resources/technology-security/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://corp.sertifi.com/gdpr/" },
+        { "protocolId": 7, "sourceUrl": "https://corp.sertifi.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1954, "name": "Digital Signage" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 355,
+      "name": "Chrome River",
+      "description": "Chrome River Technologies is an American software-as-a-service company that creates expense reporting and supplier invoice automation software for mid-size to large commercial and non profit organizations and higher education institutions worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chromeriver.com",
+      "website": "chromeriver.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2334, "name": "Compliance" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2309, "name": "Web Apps" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2434, "name": "Business Travel" }
+      ]
+    },
+    {
+      "id": 403,
+      "name": "ConnectWise",
+      "description": "ConnectWise Control is a self-hosted remote desktop software application owned by Tampa, Florida-based software developer Connectwise Inc.,",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/connectwise.com",
+      "website": "connectwise.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1967, "name": "Legal" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 916,
+      "name": "SkillSurvey",
+      "description": "SkillSurvey harnesses the power of insights, data and technology to create better outcomes for hiring, recruiting and credentialing.    ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/skillsurvey.com",
+      "website": "skillsurvey.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2204, "name": "Employment" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 588,
+      "name": "EasyVista",
+      "description": "ITSM software SolutionOut-of-the-Box ITIL v3 FunctionalityCodeless CustomizationEnterprise-Level SaaS",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/easyvista.com",
+      "website": "easyvista.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.easyvista.com/blog/easyvista-ensures-compliance-with-completion-of-ssae-16-type-2-audit"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.easyvista.com/data-privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.easyvista.com/data-privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1830, "name": "IT Management" }
+      ]
+    },
+    {
+      "id": 817,
+      "name": "Smartling",
+      "description": "Smartling is a cloud-based translation technology and services company headquartered in New York City.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smartling.com",
+      "website": "smartling.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.smartling.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.smartling.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Sauce Labs",
+      "description": "The world's largest continuous testing cloud of web and mobile applications. Access web browsers, mobile emulators, simulators, and real mobile devices.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/saucelabs.com",
+      "website": "saucelabs.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://saucelabs.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://saucelabs.com/blog/should-i-use-a-public-or-a-private-mobile-cloud"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2410, "name": "Usability Testing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Totango",
+      "description": "Totango is a Customer Success and Customer Retention Software.  We help enterprises drive revenue growth while focusing on the SaaS customer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/totango.com",
+      "website": "totango.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.totango.com/gdpr" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.totango.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "ownClouders",
+      "description": "The ownClouders page shares news from the ownCloud community!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/owncloud.org",
+      "website": "owncloud.org",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://owncloud.org/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2148, "name": "Communities" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1224,
+      "name": "Stitch",
+      "description": "All your data. Where you want it. In minutes. Stitch is a cloud-first, developer-focused platform for rapidly moving data. Hundreds of data teams rely on Stitch to securely and reliably move their data from SaaS tools and databases into their data ware...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "stitchdata.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.stitchdata.com/docs/account-security/security-faq"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.stitchdata.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.stitchdata.com/platform/security/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.stitchdata.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2429, "name": "Database" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Virtru",
+      "description": "Virtru is an email encryption and digital privacy company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/virtru.com",
+      "website": "virtru.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.virtru.com/compliance/" },
+        { "protocolId": 12, "sourceUrl": "https://www.virtru.com/compliance/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.virtru.com/hipaa-compliant-email/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.virtru.com/compliance/" },
+        { "protocolId": 9, "sourceUrl": "https://www.virtru.com/compliance/" }
+      ],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Redis Labs",
+      "description": "Redis Labs is a private computer software company based in Mountain View, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/redislabs.com",
+      "website": "redislabs.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://redislabs.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1908, "name": "Open Source" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Perforce Software",
+      "description": "Perforce, legally Perforce Software, Inc., is a Minneapolis, Minnesota-based developer of software used for application development, including version control software, web-based repository management, developer collaboration, application lifecycle man...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/perforce.com",
+      "website": "perforce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1070,
+      "name": "Rubrik",
+      "description": "Rubrik is a cloud data management company based in Palo Alto, California, United States founded in December 2013 with offices in Morrisville, North Carolina, Bangalore, India, Lawrence, Kansas, Nottingham, England and Cork, Ireland.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rubrik.com",
+      "website": "rubrik.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.rubrik.com/press-release/rubrik-wins-best-of-show-and-best-data-security-and-data-protection-awards-with-customer-asl-airlines-at-vmworld-europe-2018/"
+        }
+      ],
+      "categories": [
+        { "id": 1907, "name": "Data Center Automation" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Housecall Pro",
+      "description": "Housecall Pro is the #1 rated, all-in-one software to run your Home Services Business. Grow your business by 30% and get paid in minutes when you join the other thousands of home service companies using Housecall Pro.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/housecallpro.com",
+      "website": "housecallpro.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2329, "name": "Home Improvement" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2070, "name": "Home Renovation" }
+      ]
+    },
+    {
+      "id": 532,
+      "name": "PeopleFluent",
+      "description": "Build a winning talent management strategy and watch your people thrive with integrated talent management and learning technologies from PeopleFluent.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/peoplefluent.com",
+      "website": "peoplefluent.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.peoplefluent.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.peoplefluent.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.peoplefluent.com/gdpr-faq"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "MiX Telematics",
+      "description": "MiX Telematics offers fleet management, driver safety and vehicle tracking solutions, delivered as SaaS to customers in over 120 countries. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mixtelematics.com",
+      "website": "mixtelematics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2065, "name": "Fleet Management" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "ClickSoftware",
+      "description": "ClickSoftware Technologies is a privately held company, headquartered in Burlington, Massachusetts and Petah Tikva, Israel, that offers automated mobile workforce management and service optimization solutions for enterprise and small businesses, both f...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clicksoftware.com",
+      "website": "clicksoftware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-privacy-policy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-privacy-policy/"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.clicksoftware.com/en/legal/cloud-service-security/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Nintex",
+      "description": "Nintex is the market leader in end-to-end process management and workflow automation. Easily manage, automate, and optimize your processes with no code.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nintex.com",
+      "website": "nintex.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.nintex.com/blog/5-breakpoints-compliance-automation-can-resolve/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.nintex.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.nintex.com/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 911,
+      "name": "Engagio",
+      "description": "Engagio is an American software company based in San Mateo, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/engagio.com",
+      "website": "engagio.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.engagio.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2467, "name": "Sales" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Hubdoc",
+      "description": "Hubdoc gets your key financial docs in one place, automatically. Say goodbye to chasing documents & data entry. Say hello to increased productivity & automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hubdoc.com",
+      "website": "hubdoc.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.hubdoc.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1837, "name": "Accounting" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "TapClicks",
+      "description": "TapClicks’ TapAnalytics marketing operations platform is focused on marketing workflow, performance analytics, client reporting and data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tapclicks.com",
+      "website": "tapclicks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.tapclicks.com/industries/hipaa-compliant-marketing-reporting-analytics/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Squirrels",
+      "description": "Squirrels develops wireless presentation software used in schools, businesses and homes. Popular products include Ditto, Reflector and AirParrot. Screen mirror today with Squirrels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/airsquirrels.com",
+      "website": "airsquirrels.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2177, "name": "iOS" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Quantum Workplace",
+      "description": "Elevate company culture & performance! Check out our employee engagement software with surveys, recognition, goal tracking, appraisals & more!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/quantumworkplace.com",
+      "website": "quantumworkplace.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.quantumworkplace.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.quantumworkplace.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 697,
+      "name": "ClearCare",
+      "description": "ClearCare home care software is an all-encompassing web-based solution, empowering private-duty home care agencies. Start growing your business today! ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clearcareonline.com",
+      "website": "clearcareonline.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.clearcareonline.com/trust"
+        },
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://www.clearcareonline.com/trust"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Exponea",
+      "description": "Built on top of a CDP updated in real-time, Exponea combines AI-driven personalization at scale with integrated campaign execution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exponea.com",
+      "website": "exponea.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Chorus.ai",
+      "description": "Chorus.ai is the leading Conversation Intelligence platform for sales teams. Unlock the insights that help your team close more deals and ramp reps faster.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chorus.ai",
+      "website": "chorus.ai",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.chorus.ai/privacy-policy" }
+      ],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 917,
+      "name": "Chef",
+      "description": "Chef is a company and the name of a configuration management tool written in Ruby and Erlang.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chef.io",
+      "website": "chef.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.chef.io/privacy-policy-archive-20180215/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1991, "name": "Infrastructure" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1203,
+      "name": "Ironclad",
+      "description": "Create, automate, and track your contracts—all from the same intuitive, powerful platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ironcladapp.com",
+      "website": "ironcladapp.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "LumApps",
+      "description": "LumApps is a single platform to manage both internal communications and external social communications. A social collaborative intranet and employee social advocacy",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lumapps.com",
+      "website": "lumapps.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 922,
+      "name": "Syncplicity",
+      "description": "Syncplicity is a file share and synchronization service developed by Syncplicity Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/syncplicity.com",
+      "website": "syncplicity.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.syncplicity.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.syncplicity.com/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.syncplicity.com/about-us/news/"
+        }
+      ],
+      "categories": [
+        { "id": 2318, "name": "Cloud Storage" },
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1851, "name": "Aerospace" }
+      ]
+    },
+    {
+      "id": 1200,
+      "name": "SignalFx",
+      "description": "SignalFx is the only real-time cloud monitoring platform for infrastructure, microservices, and applications. The platform discovers and collects metrics across every component in your cloud environment, replacing traditional point tools and providing ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/signalfx.com",
+      "website": "signalfx.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1072,
+      "name": "Tanium",
+      "description": "Tanium invented a new approach to endpoint security and systems management, where security and IT operations teams can achieve more. Schedule a demo today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tanium.com",
+      "website": "tanium.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tanium.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tanium.com/privacy-policy/"
+        },
+        { "protocolId": 1, "sourceUrl": "https://www.tanium.com/security/" }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 874,
+      "name": "talentReef",
+      "description": "talentReef offers human resource software specifically built for the Hourly workforce. talentReef’s mobile-optimized HR platform streamlines how fast-paced operators find, hire, train, and manage their most valuable asset—Talent. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talentreef.com",
+      "website": "talentreef.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2190, "name": "Recruiting" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1197,
+      "name": "NAVEX Global",
+      "description": "NAVEX Global's GRC software and compliance management solutions support the risk and compliance management system for 13,000 organizations worldwide.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/navexglobal.com",
+      "website": "navexglobal.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.privacyshield.gov/participant?id=a2zt000000000e1AAA&status=Active"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.privacyshield.gov/participant?id=a2zt000000000e1AAA&status=Active"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1845, "name": "Risk Management" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 1101,
+      "name": "Icertis",
+      "description": "Icertis is a software company, providing contract management software to enterprise businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/icertis.com",
+      "website": "icertis.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.icertis.com/privacy-statement/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.icertis.com/privacy-statement/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2090, "name": "Procurement" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 738,
+      "name": "Conga",
+      "description": "Conga is the leader in end-to-end, AI-powered digital document transformation. The Conga Suite helps to simplify user experiences & increase productivity.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/conga.com",
+      "website": "conga.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://conga.com/conga-software/security-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Upland Software",
+      "description": "Upland’s family of enterprise work management software for cloud enables every organization to do their best work. 100% customer success is our commitment.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uplandsoftware.com",
+      "website": "uplandsoftware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://uplandsoftware.com/security/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://uplandsoftware.com/privacy/" },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://uplandsoftware.com/security/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://uplandsoftware.com/privacy/" },
+        {
+          "protocolId": 14,
+          "sourceUrl": "https://uplandsoftware.com/security/"
+        }
+      ],
+      "categories": [
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 740,
+      "name": "SaltStack",
+      "description": "Salt is Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/saltstack.com",
+      "website": "saltstack.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1991, "name": "Infrastructure" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 816,
+      "name": "Huddle",
+      "description": "Team collaboration software for enterprise and government. Manage tasks, projects and documents simply in secure client portals with Huddle.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/huddle.com",
+      "website": "huddle.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://www.huddle.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.huddle.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.huddle.com/Huddle-GDPR/" },
+        { "protocolId": 9, "sourceUrl": "https://www.huddle.com/Huddle-GDPR/" }
+      ],
+      "categories": [
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Easy Projects",
+      "description": "Ranked as Project Management Software Leader. Improve visibility into all ongoing projects, manage and plan resources, boost team collaboration and instill accountability.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/easyprojects.net",
+      "website": "easyprojects.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1931, "name": "Project Management" },
+        { "id": 2205, "name": "Task Management" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1946, "name": "Career Planning" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 389,
+      "name": "HelpSystems",
+      "description": "HelpSystems, LLC is an Eden Prairie, MN-based IT software company, working in the areas of systems and network management, business intelligence, security and compliance, for IBM i, Unix, Linux and Windows environments.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/helpsystems.com",
+      "website": "helpsystems.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1830, "name": "IT Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1898, "name": "Information Services" }
+      ]
+    },
+    {
+      "id": 1086,
+      "name": "Cohesity",
+      "description": "Eliminate mass data fragmentation with Cohesity’s modern approach to data management, beginning with backup. Gain instant recovery. Learn more today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cohesity.com",
+      "website": "cohesity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2394, "name": "Data Center" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2295, "name": "Data Storage" }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Lucidchart",
+      "description": "At Lucid, we help millions connect the dots and bring big ideas to life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/golucid.co",
+      "website": "golucid.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Wingify",
+      "description": "Wingify is a software company based in New Delhi and Pune, India. Its products include VWO, an A/B testing and conversion optimization platform, and Pushcrew, a push notification service for web and mobile.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wingify.com",
+      "website": "wingify.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2284, "name": "A/B Testing" }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "memoQ",
+      "description": "memoQ offers flexible translation and localization management solutions tailored to enterprises, language service providers, and translators.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/memoq.com",
+      "website": "memoq.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.memoq.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.memoq.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.memoq.com/legal/privacy-policy"
+        }
+      ],
+      "categories": [{ "id": 1817, "name": "Information Technology" }]
+    },
+    {
+      "id": 586,
+      "name": "NeonCRM",
+      "description": "Thousands of nonprofits use Neon to manage their fundraising, membership, events, and website — and ultimately grow their organization.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/neoncrm.com",
+      "website": "neoncrm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Everbridge",
+      "description": "Everbridge is a software company that provides an end-to-end 'critical event management and threat assessment platform' to manage the full lifecycle of a critical event.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/everbridge.com",
+      "website": "everbridge.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.everbridge.com/about/legal/compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Higher Logic",
+      "description": "Higher Logic is an industry leader in cloud-based community platforms. Organizations worldwide use Higher Logic to bring people all together, by giving their community a home where they can interact, share ideas, answer questions and stay connected.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/higherlogic.com",
+      "website": "higherlogic.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "http://www.higherlogic.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "http://www.higherlogic.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2148, "name": "Communities" }
+      ]
+    },
+    {
+      "id": 1080,
+      "name": "Darktrace",
+      "description": "Darktrace is a company that specializes in cyber defence.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/darktrace.com",
+      "website": "darktrace.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.darktrace.com/en/legal/" }
+      ],
+      "categories": [
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2069, "name": "Cyber Security" }
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Tango Card",
+      "description": "We exist to help you drive results in your reward or incentive program. We make gift card and prepaid card rewards easy to send and awesome to receive.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tangocard.com",
+      "website": "tangocard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2226, "name": "FinTech" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2206, "name": "Gift Card" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 810,
+      "name": "Kintone",
+      "description": "Kintone no-code/low-code application platform allows business users to quickly build awesome web apps and dynamic databases for their team without coding.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kintone.com",
+      "website": "kintone.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1931, "name": "Project Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Trumpia",
+      "description": "Trumpia was ranked 46th in Software Companies, 33rd in the Los Angeles Metro Area, 80th in Top 100 California Companies, and 515th overall for the Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trumpia.com",
+      "website": "trumpia.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 1049,
+      "name": "Turbonomic",
+      "description": "Turbonomic AI-powered Application Resource Management simultaneously optimizes performance, compliance, and cost in real time. Applications are continually resourced, automatically, to perform while satisfying business constraints.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/turbonomic.com",
+      "website": "turbonomic.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2193, "name": "Cloud Infrastructure" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1909, "name": "Virtualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1974, "name": "Cloud Management" },
+        { "id": 2400, "name": "Application Performance Management" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "pimcore",
+      "description": "Pimcore is a software company. It offers free and open-source customer experience management, digital asset management, product information management, multi-channel publishing and e-commerce software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pimcore.com",
+      "website": "pimcore.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2001, "name": "Retail Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "eGain",
+      "description": "eGain Corporation is a customer engagement cloud solutions company, traded on the NASDAQ.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/egain.com",
+      "website": "egain.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "http://www.egain.com/privacy-policies/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "http://www.egain.com/privacy-policies/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "http://www.egain.com/privacy-policies/"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Semmle",
+      "description": "Semmle Inc is a code analysis platform provider, with offices in San Francisco, Seattle, New York, Oxford, Valencia and Copenhagen.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/semmle.com",
+      "website": "semmle.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://semmle.com/privacy-policy" }
+      ],
+      "categories": [
+        { "id": 2241, "name": "Software Engineering" },
+        { "id": 2085, "name": "Business Intelligence" },
+        {
+          "id": 1919,
+          "name": "Information and Communications Technology (ICT)"
+        },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Thycotic",
+      "description": "The most full-featured privileged access management (PAM) solution available is easy to use, well adopted and affordable.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thycotic.com",
+      "website": "thycotic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://thycotic.com/about-us/trust-center/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://thycotic.com/about-us/trust-center/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://thycotic.com/about-us/trust-center/"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://thycotic.com/about-us/trust-center/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1075,
+      "name": "Exabeam",
+      "description": "The Exabeam Security Management Platform provides end-to-end detection, User Event Behavioral Analytics, and SOAR. With Exabeam, Smarter SIEM = Better Security.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exabeam.com",
+      "website": "exabeam.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "SimpleLegal",
+      "description": "SimpleLegal is the easiest way for a company to understand and reduce their legal spend.     Instead of piles of paper or emailed PDFs, we offer one place to receive, review, and pay your legal bills.     We make it simple to understand your legal spen...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/simplelegal.com",
+      "website": "simplelegal.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1929, "name": "Billing" }
+      ]
+    },
+    {
+      "id": 980,
+      "name": "SnapLogic",
+      "description": "SnapLogic is a commercial software company that provides Integration Platform as a Service tools for connecting Cloud data sources, SaaS applications and on-premises business software applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/snaplogic.com",
+      "website": "snaplogic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.snaplogic.com/privacy-policy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.snaplogic.com/products/security-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2104, "name": "Data Integration" }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Rootstock Software",
+      "description": "Built on the Salesforce Cloud Platform, Rootstock Software is a provider of powerful Cloud ERP Software for Manufacturing, Distribution & Supply Chain.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rootstock.com",
+      "website": "rootstock.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.rootstock.com/trust-in-rootstock/"
+        },
+        {
+          "protocolId": 10,
+          "sourceUrl": "https://www.rootstock.com/trust-in-rootstock/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2419, "name": "Enterprise Resource Planning (ERP)" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1913, "name": "Manufacturing" }
+      ]
+    },
+    {
+      "id": 617,
+      "name": "Qordoba",
+      "description": "Qordoba is an artificial intelligence company based in San Francisco, California that provides Software as a Service technology.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/qordoba.com",
+      "website": "qordoba.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1915, "name": "Text Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 655,
+      "name": "Sellsy",
+      "description": "Sellsy est une solution française de gestion d'entreprise. CRM, facturation, comptabilité et support sont intégrés sur une même interface intuitive.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sellsy.com",
+      "website": "sellsy.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://go.sellsy.com/en/legacy-information/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1929, "name": "Billing" },
+        { "id": 1893, "name": "Customer Service" }
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Phocas Software",
+      "description": "Phocas Software is a business intelligence software company headquartered in Coventry, England.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/phocassoftware.com",
+      "website": "phocassoftware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.phocassoftware.com/software/gdpr-statement"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 720,
+      "name": "ThreatMetrix",
+      "description": "Enable robust, intuitive cyber security and risk management through data science innovation and a revolutionary global shared intelligence model.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/threatmetrix.com",
+      "website": "threatmetrix.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.threatmetrix.com/processor-terms/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.threatmetrix.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.threatmetrix.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2226, "name": "FinTech" },
+        { "id": 2069, "name": "Cyber Security" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 571,
+      "name": "MadCap Software",
+      "description": "MadCap Software is an American computer software firm headquartered in San Diego, California that creates help authoring tools and solutions for technical writers and documentations teams.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/madcapsoftware.com",
+      "website": "madcapsoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 566,
+      "name": "eXo Platform",
+      "description": "eXo platform is an open source digital workplace software designed for medium to large organizations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exoplatform.com",
+      "website": "exoplatform.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 2372, "name": "Unified Communications" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1908, "name": "Open Source" }
+      ]
+    },
+    {
+      "id": 792,
+      "name": "Yellowfin",
+      "description": "Yellowfin is an Australian-headquartered business intelligence, analytics, dashboard and reporting software vendor.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/yellowfinbi.com",
+      "website": "yellowfinbi.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 546,
+      "name": "Planisware",
+      "description": "Over the past five years, Planisware has regularly been reviewed by analysts in the project and portfolio management space, such as Info-Tech Research Group, Gartner, Forrester Research and the European Business School.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/planisware.com",
+      "website": "planisware.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.planisware.com/planisware-privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.planisware.com/planisware-privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1989, "name": "Product Design" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "CloudPay",
+      "description": "CloudPay provides managed global payroll services through a unified and elegant cloud solution that ensures consistent & compliant international payroll in 120+ countries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudpay.net",
+      "website": "cloudpay.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudpay.net/terms-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 698,
+      "name": "Dynamic Signal",
+      "description": "Dynamic Signal is a technology company, offering a mobile-first company communications platform, based in San Bruno, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dynamicsignal.com",
+      "website": "dynamicsignal.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://dynamicsignal.com/gdpr/" },
+        { "protocolId": 4, "sourceUrl": "https://dynamicsignal.com/gdpr/" },
+        { "protocolId": 7, "sourceUrl": "https://dynamicsignal.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2004, "name": "Human Resources" }
+      ]
+    },
+    {
+      "id": 578,
+      "name": "WaveMaker",
+      "description": "WaveMaker is a private aPaaS software for building and running custom apps.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wavemaker.com",
+      "website": "wavemaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2357, "name": "Enterprise Applications" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 332,
+      "name": "MindTouch",
+      "description": "MindTouch is an American multinational technology company headquartered in San Diego, California that designs, develops, and sells SaaS computer software and online services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mindtouch.com",
+      "website": "mindtouch.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mindtouch.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://mindtouch.com/privacy-policy"
+        },
+        { "protocolId": 2, "sourceUrl": "https://mindtouch.com/privacy-policy" }
+      ],
+      "categories": [
+        { "id": 2062, "name": "SEO" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" }
+      ]
+    },
+    {
+      "id": 972,
+      "name": "Telmetrics",
+      "description": "Telmetrics is the call analytics and attribution technology leader with over 25 years of experience supporting large advertising programs. We help marketers increase ROI on direct response ad campaigns by providing tools for call tracking, lead attribu...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/telmetrics.com",
+      "website": "telmetrics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1898, "name": "Information Services" }
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Smarp",
+      "description": "Create an informed and engaged workforce with one powerful employee communications and advocacy platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/smarp.com",
+      "website": "smarp.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1970, "name": "Apps" }
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Vidyo",
+      "description": "Vidyo, Inc., founded as Layered Media, is a privately held, venture-funded company that provides software-based collaboration technology and product-based visual communication products.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vidyo.com",
+      "website": "vidyo.com",
+      "vendorToProtocols": [
+        { "protocolId": 3, "sourceUrl": "https://www.vidyo.com/hipaa" }
+      ],
+      "categories": [
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2350, "name": "Developer Platform" },
+        { "id": 2145, "name": "Video Chat" },
+        { "id": 2094, "name": "Collaboration" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1923, "name": "Video Conferencing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1838, "name": "PaaS" }
+      ]
+    },
+    {
+      "id": 649,
+      "name": "CommuniGator",
+      "description": "Communigator is a complete marketing automation software solution for your business that also provides email marketing and lead generation. All in one place.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/communigator.co.uk",
+      "website": "communigator.co.uk",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Geopointe",
+      "description": "Geopointe is the #1 geo-mapping application available on the Salesforce AppExchange. Gain spatial insights via maps and apply geography, to business processes.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/geopointe.com",
+      "website": "geopointe.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1963, "name": "Location Based Services" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2412, "name": "Mapping Services" }
+      ]
+    },
+    {
+      "id": 1118,
+      "name": "Black Hills Information Security",
+      "description": "BHIS helps our customers implement cutting edge and cost effective defensive security solutions. We provide outstanding deliverables in penetration testing, active defense and hunt teaming engagements, and many other services.  We also ensure that our ...",
+      "isClaimed": false,
+      "logo": null,
+      "website": "blackhillsinfosec.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2069, "name": "Cyber Security" }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "ZAP",
+      "description": "ZAP are creators of ZAP Data Hub, ELT data warehouse automation software optimized for Microsoft Dynamics, Sage and Power BI. Visit ZAP for a demo.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/zapbi.com",
+      "website": "zapbi.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.zapbi.com/gdpr-policy/" }
+      ],
+      "categories": [
+        { "id": 2419, "name": "Enterprise Resource Planning (ERP)" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Unanet",
+      "description": "Unanet is purpose-built for project-driven organizations to provide resource management, budgeting & forecasting, project management, timesheets, expense reports, project accounting, billing, workforce collaboration, CRM, and financials with cost pool ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unanet.com",
+      "website": "unanet.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1931, "name": "Project Management" }
+      ]
+    },
+    {
+      "id": 855,
+      "name": "LANSA",
+      "description": "30 years and thousands of customers perfecting the best Mobile and Low-Code Development Platform | Data Integration | MDM, PIM and GDSN",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/lansa.com",
+      "website": "lansa.com",
+      "vendorToProtocols": [],
+      "categories": [{ "id": 1817, "name": "Information Technology" }]
+    },
+    {
+      "id": 944,
+      "name": "Nextpoint",
+      "description": "Nextpoint is cloud-based ediscovery software for modern legal teams to realize more efficient discovery and case prep. Learn more...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/nextpoint.com",
+      "website": "nextpoint.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://www.nextpoint.com/security/" }
+      ],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 2191, "name": "VoIP" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 887,
+      "name": "WoodWing",
+      "description": "WoodWing Software is a global market leader in everything to do with multichannel publishing and digital asset management software. We help brands, marketers, creative agencies and publishers increase quality, reduce costs, shorten time-to-market and d...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/woodwing.com",
+      "website": "woodwing.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.woodwing.com/en/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 1170,
+      "name": "Hybrent",
+      "description": "Streamlining purchasing and inventory management to lower supply costs and increase profitability while providing cost-effective, quality patient care.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hybrent.com",
+      "website": "hybrent.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2018, "name": "Supply Chain Management" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1876, "name": "Health Care" }
+      ]
+    },
+    {
+      "id": 633,
+      "name": "NewVoiceMedia",
+      "description": "NewVoiceMedia is a cloud contact centre and inside sales platform designed specifically for Salesforce.  Learn how you can sell more & serve better.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/newvoicemedia.com",
+      "website": "newvoicemedia.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.newvoicemedia.com/en-us/system/security"
+        }
+      ],
+      "categories": [
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Silverline",
+      "description": "Silverline is a Salesforce Platinum Partner offering strategic Advisory services, Salesforce implementation, Salesforce Managed Services, and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/silverlinecrm.com",
+      "website": "silverlinecrm.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 1209,
+      "name": "SADA Systems",
+      "description": "SADA Systems is an award winning business and technology consulting and provider with proven expertise in cloud platforms, IT services, migration and deployment, custom application development, managed services, user adoption and change management.  Li...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sadasystems.com",
+      "website": "sadasystems.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 2022, "name": "Cloud Computing" }
+      ]
+    },
+    {
+      "id": 1134,
+      "name": "Speechmatics",
+      "description": "As experts in Machine Learning, Speechmatics provides Automatic Speech Recognition available in private or public clouds and securely on-premises.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/speechmatics.com",
+      "website": "speechmatics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2210, "name": "Speech Recognition" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Ipro",
+      "description": "Ipro offers proven eDiscovery to Trial software, services, and support – bundled as a solution and deployed the way you want: Cloud, On-Prem, or Desktop",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/iprotech.com",
+      "website": "iprotech.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Onclusive",
+      "description": "Onclusive is an award-winning PR software company that provides PR measurement, analytics, attribution, amplification and social monitoring tools for public relations and marketing communications professionals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onclusive.com",
+      "website": "onclusive.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1820, "name": "Public Relations" }
+      ]
+    },
+    {
+      "id": 798,
+      "name": "Connectleader",
+      "description": "ConnectLeader's Sales Engagement Platform helps reach your best leads fast. Get more dials, increase revenue, and consistently exceed sales quota.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/connectleader.com",
+      "website": "connectleader.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2086, "name": "Sales Automation" }
+      ]
+    },
+    {
+      "id": 914,
+      "name": "MarcomCentral",
+      "description": "Organize, customize, and distribute marketing content across your entire organization with MarcomCentral's premier marketing asset management technology.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marcom.com",
+      "website": "marcom.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://marcom.com/terms-and-conditions/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://marcom.com/privacy-policy/" },
+        { "protocolId": 4, "sourceUrl": "https://marcom.com/privacy-policy/" },
+        { "protocolId": 2, "sourceUrl": "https://marcom.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2335, "name": "Computer" }
+      ]
+    },
+    {
+      "id": 967,
+      "name": "Green Cloud Technologies",
+      "description": "Green Cloud Technologies provides Cloud Computer technology solutions including Virtual Servers and Hosted Telephone Systems.    Green Cloud solutions include Cloud Computing migration and management, Hosted Communications solutions, Network Security, ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gogreencloud.com",
+      "website": "gogreencloud.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1831, "name": "IaaS" },
+        { "id": 1898, "name": "Information Services" }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "CloudNine",
+      "description": "CloudNine is an eDiscovery automation company that provides cloud-based software and services to simplify litigation discovery, investigations, and audits.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ediscovery.co",
+      "website": "ediscovery.co",
+      "vendorToProtocols": [
+        { "protocolId": 14, "sourceUrl": "https://ediscovery.co/software/" },
+        { "protocolId": 1, "sourceUrl": "https://ediscovery.co/software/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://ediscovery.co/terms-privacy/"
+        },
+        { "protocolId": 3, "sourceUrl": "https://ediscovery.co/software/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://ediscovery.co/terms-privacy/"
+        },
+        { "protocolId": 12, "sourceUrl": "https://ediscovery.co/software/" }
+      ],
+      "categories": [
+        { "id": 2166, "name": "Ediscovery" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1865, "name": "Document Management" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1967, "name": "Legal" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2548, "name": "Legal Tech" }
+      ]
+    },
+    {
+      "id": 627,
+      "name": "Fastpath",
+      "description": "Fastpath's Audit Solutions work with SAP, Oracle Cloud, Oracle EBS, Microsoft Dynamics 365, AX, GP, NAV, SL and CRM, NetSuite, PeopleSoft, Intacct & more!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gofastpath.com",
+      "website": "gofastpath.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.gofastpath.com/about/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2073, "name": "Robotics" }
+      ]
+    },
+    {
+      "id": 857,
+      "name": "censhare",
+      "description": "censhare is a commercial Digital Experience Platform in the form of an Enterprise Content Management System by the German software manufacturer censhare AG.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/censhare.com",
+      "website": "censhare.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.censhare.com/us/company/news/article/censhare-Makes-the-Privacy-Grade"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.censhare.com/us/company/news/article/censhare-Makes-the-Privacy-Grade"
+        }
+      ],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Easy Software",
+      "description": "Easy Software is leading Open Source company on the field of business software.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "easysoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1174,
+      "name": "Templarbit",
+      "description": "Templarbit prevents attacks on your APIs and Web Applications by leveraging a data driven approach to runtime security.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/templarbit.com",
+      "website": "templarbit.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.templarbit.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.templarbit.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2069, "name": "Cyber Security" }
+      ]
+    },
+    {
+      "id": 624,
+      "name": "CloudSense",
+      "description": "CloudSense provides industry specific omnichannel commerce on Salesforce with CPQ, eCommerce, order management, contract management, mobile & service apps.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudsense.com",
+      "website": "cloudsense.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "DecisionPoint",
+      "description": "DecisionPoint offers workforce management solutions for a wide variety of industries, with software and services that can improve business operations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/decisionpt.com",
+      "website": "decisionpt.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1857, "name": "RFID" }
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Respond Software",
+      "description": "Respond Software redefines Security Operations by enabling expert analyst capability and capacity at dramatically lower cost.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/respond-software.com",
+      "website": "respond-software.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2059, "name": "Security" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2069, "name": "Cyber Security" }
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Experlogix",
+      "description": "Empower your sales team to quickly customize complex quotes and orders with 100% accuracy, leading to dramatic gains in revenue and profitability. See how!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/experlogix.com",
+      "website": "experlogix.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.experlogix.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1958, "name": "Automotive" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 882,
+      "name": "Encompass",
+      "description": "encompass Know Your Customer (KYC) software for banking, finance, legal and accountancy. Onboard clients with ease and ensure AML regulation compliance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/encompasscorporation.com",
+      "website": "encompasscorporation.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2334, "name": "Compliance" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1150,
+      "name": "OneClick Solutions Group",
+      "description": "OneClickFix specializes in IT Services & Support, Managed IT Services and provides Business Computer Support and Network Support in San Francisco & Oakland",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/oneclickfix.net",
+      "website": "oneclickfix.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1925, "name": "Telecommunications" }
+      ]
+    },
+    {
+      "id": 774,
+      "name": "John Graham",
+      "description": "a Unified end-to-end business software for Technology Integration Companies. #BPM #ERPsoftware #PSAsoftware",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/solutions360.com",
+      "website": "solutions360.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1085,
+      "name": "American Well",
+      "description": "American Well is a privately held telemedicine company based in Boston, Massachusetts that connects patients instantly with doctors over secure video.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/americanwell.com",
+      "website": "americanwell.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://www.americanwell.com/government/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.americanwell.com/government/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.americanwell.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1876, "name": "Health Care" },
+        { "id": 1868, "name": "Biotechnology" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1216,
+      "name": "Lucid Software",
+      "description": "Lucid Software specializes in non-destructive testing (NDT) technology and develops software solutions that enhance public safety and security. Lucid provides services to NDT Imaging, NDT Systems, visual processing and testing",
+      "isClaimed": false,
+      "logo": null,
+      "website": "lucidsoft.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1835, "name": "Image Recognition" },
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2474, "name": "Service Industry" }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "CCH® Tagetik",
+      "description": "Discover CCH Tagetik's corporate performance management software solutions for budgeting, planning, consolidation and reporting. Find out more on Tagetik.com",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tagetik.com",
+      "website": "tagetik.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tagetik.com/en/about/privacy-policy"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.tagetik.com/us/about/governance-certifications"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 893,
+      "name": "AT&T Cybersecurity",
+      "description": "AT&T Cybersecurity is a developer of commercial and open source solutions to manage cyber attacks, including the Open Threat Exchange, the world's largest crowd-sourced computer-security platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/alienvault.com",
+      "website": "alienvault.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.alienvault.com/products/security"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.alienvault.com/legal/gdpr"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.alienvault.com/products/security"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.alienvault.com/legal/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2107, "name": "Network Security" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1908, "name": "Open Source" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Apptio",
+      "description": "Apptio is a Bellevue, Washington-based company founded in 2007 that develops technology business management software as a service applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptio.com",
+      "website": "apptio.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.apptio.com/resources/trust/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.apptio.com/resources/trust/privacy-shield"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1053,
+      "name": "Auth0",
+      "description": "Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/auth0.com",
+      "website": "auth0.com",
+      "vendorToProtocols": [
+        { "protocolId": 11, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 7, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 4, "sourceUrl": "https://auth0.com/docs/compliance" },
+        { "protocolId": 3, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 2, "sourceUrl": "https://auth0.com/security/" },
+        { "protocolId": 1, "sourceUrl": "https://auth0.com/security/" }
+      ],
+      "categories": [
+        { "id": 2089, "name": "Identity Management" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Backblaze",
+      "description": "Backblaze is a data storage provider.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/backblaze.com",
+      "website": "backblaze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.backblaze.com/blog/gdpr-compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.backblaze.com/company/privacy.html"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.backblaze.com/company/privacy.html"
+        }
+      ],
+      "categories": [
+        { "id": 2295, "name": "Data Storage" },
+        { "id": 1822, "name": "Cloud Data Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 814,
+      "name": "BetterWorks",
+      "description": "Continuous Performance Management™ with Betterworks can help improve employee engagement, OKRs and employee development.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/betterworks.com",
+      "website": "betterworks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.betterworks.com/security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.betterworks.com/security/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.betterworks.com/security/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.betterworks.com/gdpr/" },
+        { "protocolId": 2, "sourceUrl": "https://www.betterworks.com/gdpr/" },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://blog.betterworks.com/introducing-betterworks-autopilot/"
+        }
+      ],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 572,
+      "name": "ARCHIBUS",
+      "description": "Centralize your data, planning and operations onto one seamless platform backed by 35 years of innovation and the world's largest support network. Reduce costs, enhance sustainability, and create a better workplace by transforming how you connect with ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/archibus.com",
+      "website": "archibus.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1059,
+      "name": "Automation Anywhere",
+      "description": "Automation Anywhere is a developer of robotic process automation software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/automationanywhere.com",
+      "website": "automationanywhere.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.automationanywhere.com/company/press-room/automation-anywhere-introduces-gdpr-compliance-ready-rpa-ensuring-data-protection-for-the-intelligent-digital-workforce"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.automationanywhere.com/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.automationanywhere.com/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2316, "name": "Enterprise" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1907, "name": "Data Center Automation" },
+        { "id": 1895, "name": "Industrial Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Airship",
+      "description": "Deliver meaningful messages at every stage of the customer lifecycle with the Customer Engagement Platform built for enterprise brands. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/airship.com",
+      "website": "airship.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.airship.com/legal/data-processing-addendum/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.airship.com/legal/gdpr-compliance-faq/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.airship.com/legal/privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 1111,
+      "name": "HubSpot",
+      "description": "HubSpot is a developer and marketer of software products for inbound marketing and sales.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hubspot.com",
+      "website": "hubspot.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://legal.hubspot.com/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://legal.hubspot.com/privacy-policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://legal.hubspot.com/dpa" }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 948,
+      "name": "Alpha Software",
+      "description": "Alpha Five is a relational database management system and rapid application development platform for building desktop, web and cross platform mobile applications.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/alphasoftware.com",
+      "website": "alphasoftware.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 713,
+      "name": "Apptricity",
+      "description": "From Supply Chain Management to Spend Management, Apptricity is extending enterprise-wide operations and processes through real-time visibility.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/apptricity.com",
+      "website": "apptricity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2157, "name": "Intellectual Property" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1108,
+      "name": "AWS",
+      "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "isClaimed": false,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png",
+      "website": "aws.amazon.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://aws.amazon.com/compliance/faq/"
+        },
+        {
+          "protocolId": 9,
+          "sourceUrl": "https://aws.amazon.com/compliance/faq/"
+        },
+        {
+          "protocolId": 8,
+          "sourceUrl": "https://aws.amazon.com/compliance/soc-faqs/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://aws.amazon.com/compliance/gdpr-center/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://aws.amazon.com/compliance/gdpr-center/"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://aws.amazon.com/compliance/soc-faqs/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://aws.amazon.com/privacy/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://aws.amazon.com/compliance/gdpr-center/"
+        }
+      ],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "BizTalk360",
+      "description": "BizTalk360 is the world's first web based production support/monitoring tool for Microsoft BizTalk Server. It addresses various challenges organisations face once their BizTalk application gets to production. The goal of BizTalk360 is to address the co...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/biztalk360.com",
+      "website": "biztalk360.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Bluehost",
+      "description": "Bluehost is a web hosting company owned by Endurance International Group.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluehost.com",
+      "website": "bluehost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://my.bluehost.com/hosting/help/gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1902, "name": "Communications Infrastructure" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "CallPage",
+      "description": "CallPage assists you in converting your website visitors into happy customers. Generate sales calls and leads, and move deals faster through the pipeline.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/callpage.io",
+      "website": "callpage.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1017,
+      "name": "Beeline",
+      "description": "Next-Generation Solutions To Make Your Workforce More Agile. The Beeline VMS was designed and built to meet today’s – and tomorrow’s – workforce challenges.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/beeline.com",
+      "website": "beeline.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.beeline.com/data-security/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.beeline.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.beeline.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 934,
+      "name": "Artesian",
+      "description": "A suite of tools for the enterprise accelerated by AI to help make prospecting, engaging and closing deals easier.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/artesian.co",
+      "website": "artesian.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Atera",
+      "description": "Atera’s RMM Software is a true game changer. It’s an all-in-one RMM solution with PSA and Remote Access. It’s fast, easy and takes minutes to learn. Try it today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atera.com",
+      "website": "atera.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.atera.com/gdpr-awareness-notice/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://support.atera.com/hc/en-us/articles/115015875888-Is-Atera-HIPAA-Compliant-"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Bluebeam",
+      "description": "Bluebeam, Inc. is an American software company founded in 2002 and headquartered in Pasadena, California, United States with additional offices in Chicago, Illinois, San Diego, California and Manchester, New Hampshire.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluebeam.com",
+      "website": "bluebeam.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.bluebeam.com/legal/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 830,
+      "name": "BurrellesLuce",
+      "description": "Work Smarter With BurrellesLuce WorkFlow... ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/burrellesluce.com",
+      "website": "burrellesluce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1820, "name": "Public Relations" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Campus Management",
+      "description": "Campus Management provides cloud-based SIS, CRM and ERP solutions and services to more than 1,100 higher ed institutions in over 30 countries.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/campusmanagement.com",
+      "website": "campusmanagement.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2111, "name": "Education" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 806,
+      "name": "CELUM",
+      "description": "CELUM provides the foundation for the creation, administration, distribution and monetization of content. ✓ Over 800 customers in 35 countries ✓ Analysts tested",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celum.com",
+      "website": "celum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2467, "name": "Sales" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 960,
+      "name": "Amber Road",
+      "description": "Amber Road, Inc. was an independent, publicly traded, US-based software company specializing in Global Trade Management solutions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/amberroad.com",
+      "website": "amberroad.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.amberroad.com/data-privacy-and-gdpr"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.amberroad.com/gdpr-faqs" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.amberroad.com/content/privacyshield"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.amberroad.com/content/privacyshield"
+        }
+      ],
+      "categories": [
+        { "id": 2245, "name": "Trading Platform" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 673,
+      "name": "BrandMaker",
+      "description": "BrandMaker enables the planning, budgeting, execution, and measurement of your marketing efforts. One connected platform to run your marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brandmaker.com",
+      "website": "brandmaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Celtra",
+      "description": "Celtra's Creative Management Platform (CMP) is a cloud-based, self-service software for managing the entire creative lifecycle of digital advertising — improving advertising effectiveness while reducing operational costs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celtra.com",
+      "website": "celtra.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "15Five",
+      "description": "15Five software elevates the performance and engagement of employees by continuously asking questions and starting the right conversations.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/15five.com",
+      "website": "15five.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.15five.com/gdpr/" },
+        { "protocolId": 4, "sourceUrl": "https://www.15five.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.15five.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2004, "name": "Human Resources" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Agiloft",
+      "description": "Agiloft, Inc. is a technology company specializing in business process management software in Redwood City, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/agiloft.com",
+      "website": "agiloft.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.agiloft.com/privacy-hosted.htm"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.agiloft.com/privacy-hosted.htm"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.agiloft.com/privacy-shield-notice.html"
+        }
+      ],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Bandwidth",
+      "description": "Bandwidth is a Communications Platform as a Service company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bandwidth.com",
+      "website": "bandwidth.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2191, "name": "VoIP" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Calendly",
+      "description": "Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/calendly.com",
+      "website": "calendly.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://help.calendly.com/hc/en-us/articles/360009867334-Calendly-Platform-Security-and-Compliance"
+        },
+        { "protocolId": 4, "sourceUrl": "https://calendly.com/pages/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://calendly.com/pages/privacy" }
+      ],
+      "categories": [
+        { "id": 2417, "name": "Scheduling" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    }
+  ]
+}

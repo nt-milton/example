@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1380457",
+    "email": "dev@heylaika.com",
+    "name": "Laika-Dev",
+    "user": {
+      "id": "1380457",
+      "name": "Laika-Dev",
+      "username": "dev@heylaika.com",
+      "email": "dev@heylaika.com",
+      "avatarUrl": "https://secure.gravatar.com/avatar/f5af3d05da0034de5a5cfd761afcfab6?s=32&d=mm",
+      "isActive": true,
+      "hasPasswordAuth": true,
+      "isManaged": false,
+      "dateJoined": "2021-07-02T05:27:44.113239Z",
+      "lastLogin": "2021-07-22T23:57:54.405336Z",
+      "has2fa": false,
+      "lastActive": "2021-07-28T20:53:04.612020Z",
+      "isSuperuser": false,
+      "isStaff": false,
+      "experiments": {},
+      "options": {
+        "theme": "light",
+        "language": "en",
+        "stacktraceOrder": -1,
+        "timezone": "UTC",
+        "clock24Hours": false
+      },
+      "flags": {
+        "newsletter_consent_prompt": false
+      },
+      "avatar": {
+        "avatarType": "letter_avatar",
+        "avatarUuid": null
+      },
+      "identities": [],
+      "emails": [
+        {
+          "id": "1506837",
+          "email": "dev@heylaika.com",
+          "is_verified": false
+        }
+      ]
+    },
+    "role": "owner",
+    "roleName": "Owner",
+    "pending": false,
+    "expired": false,
+    "flags": {
+      "sso:linked": false,
+      "sso:invalid": false,
+      "member-limit:restricted": false
+    },
+    "dateCreated": "2021-07-02T05:27:44.224041Z",
+    "inviteStatus": "approved",
+    "inviterName": null,
+    "projects": [
+      "heylaika"
+    ]
+  },
+  {
+    "dateCreated": "2019-05-09T18:06:01.728Z",
+    "user": {
+      "username": "testEmail@test.com",
+      "lastLogin": "2019-09-16T02:56:06.806Z",
+      "isSuperuser": false,
+      "isManaged": false,
+      "lastActive": "2019-10-08T15:05:38.715Z",
+      "isStaff": false,
+      "id": "433307",
+      "isActive": true,
+      "has2fa": false,
+      "name": "OtherTest McTestuser",
+      "avatarUrl": "https:  //secure.gravatar.com/avatar/1eb103c0e899f372a85eb0a44f0a0f42?s=32&d=mm",
+      "dateJoined": "2019-05-09T18:06:01.443Z",
+      "emails": [
+        {
+          "is_verified": true,
+          "id": "468229",
+          "email": "testEmail@test.com"
+        }
+      ],
+      "avatar": {
+        "avatarUuid": null,
+        "avatarType": "letter_avatar"
+      },
+      "hasPasswordAuth": false,
+      "email": "testEmail@test.com"
+    },
+    "roleName": "Organization Owner",
+    "expired": false,
+    "id": "9376061",
+    "projects": [
+      "buggy-sentry-project"
+    ],
+    "name": "OtherTest McTestuser",
+    "role": "owner",
+    "flags": {
+      "sso: linked": false,
+      "sso: invalid": false
+    },
+    "email": "testEmail@test.com",
+    "pending": false
+  }
+]

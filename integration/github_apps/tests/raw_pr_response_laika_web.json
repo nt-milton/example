@@ -1,0 +1,139 @@
+{
+  "data": {
+    "organization": {
+      "repository": {
+        "name": "laika-web",
+        "url": "https://github.com/heylaika/laika-app",
+        "pullRequests": {
+          "pageInfo": {
+            "endCursor": "Y3Vyc29yOnYyOpHODu-ArA==",
+            "hasNextPage": false
+          },
+          "nodes": [
+            {
+              "number": 1,
+              "weblink": "https://github.com/heylaika/laika-web/pull/101",
+              "title": "Laika web 1",
+              "target": "develop",
+              "source": "feature/laika_web_1",
+              "state": "MERGED",
+              "reviewDecision": "REVIEW_REQUIRED",
+              "reviews": {
+                "nodes": [
+                  {
+                    "state": "COMMENTED",
+                    "author": {
+                      "login": "web_user_app"
+                    }
+                  }
+                ]
+              },
+              "author": {
+                "login": "web_user_app"
+              },
+              "createdAt": "2020-01-24T18:31:06Z",
+              "updatedAt": "2020-01-24T20:03:58Z"
+            },
+            {
+              "number": 2,
+              "weblink": "https://github.com/heylaika/laika-web/pull/102",
+              "title": "Laika web 2",
+              "target": "develop",
+              "source": "feature/laika_web_2",
+              "state": "MERGED",
+              "reviewDecision": "REVIEW_REQUIRED",
+              "reviews": {
+                "nodes": []
+              },
+              "author": {
+                "login": "ronaldzuniga"
+              },
+              "createdAt": "2020-01-24T21:32:39Z",
+              "updatedAt": "2020-01-24T21:35:22Z"
+            },
+            {
+              "number": 3,
+              "weblink": "https://github.com/heylaika/laika-web/pull/103",
+              "title": "Laika web 3",
+              "target": "develop",
+              "source": "feature/laika_web_3",
+              "state": "MERGED",
+              "reviewDecision": "REVIEW_REQUIRED",
+              "reviews": {
+                "nodes": [
+                  {
+                    "state": "APPROVED",
+                    "author": {
+                      "login": "jeffrey"
+                    }
+                  },
+                  {
+                    "state": "APPROVED",
+                    "author": {
+                      "login": "otto"
+                    }
+                  }
+                ]
+              },
+              "author": {
+                "login": "ronaldzuniga"
+              },
+              "createdAt": "2020-01-27T17:15:32Z",
+              "updatedAt": "2020-01-27T17:19:12Z"
+            },
+            {
+              "number": 4,
+              "weblink": "https://github.com/heylaika/laika-web/pull/104",
+              "title": "Laika web 4",
+              "target": "develop",
+              "source": "feature/laika_web_3",
+              "state": "MERGED",
+              "reviewDecision": "REVIEW_REQUIRED",
+              "reviews": {
+                "nodes": [
+                  {
+                      "state": "APPROVED",
+                      "author": null
+                  }
+                ]
+              },
+              "author": {
+                "login": "ronaldzuniga"
+              },
+              "createdAt": "2020-01-27T17:15:32Z",
+              "updatedAt": "2020-01-27T17:19:12Z"
+            },
+            {
+              "number": 5,
+              "weblink": "https://github.com/heylaika/laika-web/pull/105",
+              "title": "Laika web 5",
+              "target": "develop",
+              "source": "feature/laika_web_5",
+              "state": "MERGED",
+              "reviewDecision": "REVIEW_REQUIRED",
+              "reviews": {
+                "nodes": [
+                  {
+                    "state": "APPROVED",
+                    "author": {
+                      "login": "jeffrey"
+                    }
+                  },
+                  {
+                    "state": "APPROVED",
+                    "author": null
+                  }
+                ]
+              },
+              "author": {
+                "login": "ronaldzuniga"
+              },
+              "createdAt": "2020-01-27T17:15:32Z",
+              "updatedAt": "2020-01-27T17:19:12Z"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

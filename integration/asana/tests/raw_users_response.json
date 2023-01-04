@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "gid": "1198197850641782",
+      "email": "mauricio@heylaika.com",
+      "name": "Darin Mauricio Gamboa Vasquez",
+      "photo": "None",
+      "resource_type": "user",
+      "workspaces": [
+        {
+          "gid": "1153088949269450",
+          "resource_type": "workspace"
+        }
+      ]
+    },
+    {
+      "gid": "1153288477310877",
+      "email": "eva@heylaika.com",
+      "name": "Eva Pittas",
+      "photo": "None",
+      "resource_type": "user",
+      "workspaces": [
+        {
+          "gid": "1153088949269450",
+          "resource_type": "workspace"
+        }
+      ]
+    }
+  ],
+  "next_page": null
+}

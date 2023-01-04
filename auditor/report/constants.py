@@ -1,0 +1,2 @@
+FINAL_REPORT_VERSION = 'final'
+DRAFT_REPORT_VERSION = 'draft'

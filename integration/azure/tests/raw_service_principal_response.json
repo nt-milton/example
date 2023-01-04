@@ -1,0 +1,56 @@
+{    "value": [
+        {
+            "id": "a794c95b-48c5-4614-91f4-bb882884bd24",
+            "deletedDateTime": null,
+            "accountEnabled": true,
+            "alternativeNames": [],
+            "appDisplayName": "Laika-Test-Service",
+            "appDescription": null,
+            "appId": "097875c4-e281-4edc-b6ae-0e65cb2078c4",
+            "applicationTemplateId": null,
+            "appOwnerOrganizationId": "402335e9-138e-47ec-a7ec-db9f47f1c9f0",
+            "appRoleAssignmentRequired": false,
+            "createdDateTime": "2021-04-24T02:02:59Z",
+            "description": null,
+            "disabledByMicrosoftStatus": null,
+            "displayName": "Laika-Test-Service",
+            "homepage": null,
+            "loginUrl": null,
+            "logoutUrl": null,
+            "notes": null,
+            "notificationEmailAddresses": [],
+            "preferredSingleSignOnMode": null,
+            "preferredTokenSigningKeyThumbprint": null,
+            "replyUrls": [],
+            "resourceSpecificApplicationPermissions": [],
+            "samlSingleSignOnSettings": null,
+            "servicePrincipalNames": [
+                "097875c4-e281-4edc-b6ae-0e65cb2078c4"
+            ],
+            "servicePrincipalType": "Application",
+            "signInAudience": "AzureADMyOrg",
+            "tags": [
+                "HideApp",
+                "WindowsAzureActiveDirectoryIntegratedApp"
+            ],
+            "tokenEncryptionKeyId": null,
+            "verifiedPublisher": {
+                "displayName": null,
+                "verifiedPublisherId": null,
+                "addedDateTime": null
+            },
+            "addIns": [],
+            "appRoles": [],
+            "info": {
+                "logoUrl": null,
+                "marketingUrl": null,
+                "privacyStatementUrl": null,
+                "supportUrl": null,
+                "termsOfServiceUrl": null
+            },
+            "keyCredentials": [],
+            "oauth2PermissionScopes": [],
+            "passwordCredentials": []
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "value": [
+        {
+            "@odata.type": "#microsoft.graph.user",
+            "id": "a9343da3-9930-415e-b6e0-ee477bfffefe",
+            "businessPhones": [
+                "234342354"
+            ],
+            "displayName": "Laika dev-user",
+            "givenName": "Laika",
+            "jobTitle": "Software Engineer",
+            "mail": "laika-dev-user@laika365.onmicrosoft.com",
+            "mobilePhone": "555555555",
+            "officeLocation": "New York",
+            "preferredLanguage": null,
+            "surname": "dev-user",
+            "userPrincipalName": "laika-dev-user@laika365.onmicrosoft.com"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+[
+   {
+      "app_url":"https://app.shortcut.com/laika-test/epic/15",
+      "archived":false,
+      "started":false,
+      "entity_type":"epic",
+      "labels":[
+
+      ],
+      "external_tickets":[
+
+      ],
+      "mention_ids":[
+
+      ],
+      "member_mention_ids":[
+
+      ],
+      "project_ids":[
+         4,
+         2,
+         3
+      ],
+      "completed_at_override":"None",
+      "started_at":"None",
+      "completed_at":"None",
+      "name":"EPIC TEST",
+      "completed":false,
+      "planned_start_date":"None",
+      "state":"to do",
+      "milestone_id":"None",
+      "requested_by_id":"5fe0fbb3-88b9-408e-b601-de8890cdddcd",
+      "epic_state_id":500000002,
+      "started_at_override":"None",
+      "group_id":"None",
+      "updated_at":"2020-12-23T16:17:41Z",
+      "group_mention_ids":[
+
+      ],
+      "support_tickets":[
+
+      ],
+      "follower_ids":[
+         "5fe0fbb3-88b9-408e-b601-de8890cdddcd"
+      ],
+      "owner_ids":[
+         "5fe0fbb3-88b9-408e-b601-de8890cdddcd"
+      ],
+      "external_id":"None",
+      "id":15,
+      "position":1,
+      "deadline":"None",
+      "stats":{
+         "num_points_done":0,
+         "num_related_documents":0,
+         "average_cycle_time":42908,
+         "num_stories_unstarted":0,
+         "last_story_update":"2021-02-05T20:46:31Z",
+         "num_points_started":0,
+         "num_points_unstarted":0,
+         "num_stories_started":5,
+         "num_stories_unestimated":7,
+         "average_lead_time":44362,
+         "num_points":0,
+         "num_stories_done":2
+      },
+      "created_at":"2020-12-23T16:17:41Z"
+   }
+]

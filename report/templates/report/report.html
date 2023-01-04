@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ organization.name }} Report</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://laika-static-documents.s3.amazonaws.com/Icons/favicon.ico"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Rubik:wght@300;400;500&display=block"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        height: 100%;
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 29px;
+        color: #232735;
+      }
+      body {
+        display: flex;
+        margin: 0;
+        flex-direction: column;
+        overflow: hidden;
+      }
+      .header {
+        background: #fbfdff;
+        border-bottom: 1px solid #dddae0;
+        height: 63px;
+        width: 100%;
+        display: none;
+      }
+      .public-view .header {
+        display: block;
+      }
+      .footer .powered-by-logo {
+        width: 124px;
+        position: fixed;
+        right: 25px;
+        bottom: 23px;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: "Rubik", sans-serif;
+        margin: 0;
+        line-height: 25px;
+      }
+      .page-content-container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        min-width: 1350px;
+        align-items: center;
+        overflow: auto;
+      }
+      .public-view .page-content-container {
+        height: calc(100vh - 64px);
+      }
+      .page-content-container .page-content {
+        padding: 67px 0;
+        width: 600px;
+      }
+      .page-content-container .page-content *:first-child {
+        margin-top: 0;
+      }
+      .page-content-container h1 {
+        font-weight: 500;
+        font-size: 34px;
+        line-height: 42px;
+        text-align: left;
+        margin-top: 35px;
+        margin-bottom: 25px;
+      }
+      .page-content-container h2 {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+      }
+      .page-content-container h3 {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 29px;
+        margin-top: 25px;
+        margin-bottom: 6px;
+      }
+      .page-content-container p {
+        font-size: 16px;
+        font-weight: 300;
+        margin-top: 0;
+        margin-bottom: 9px;
+      }
+      .page-content-container ul {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 29px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+      }
+      .page-content-container table {
+        border-collapse: collapse;
+        border: 1px solid #dddae0;
+        margin-bottom: 40px;
+        width: 700px;
+      }
+      .page-content-container table th {
+        font-family: "Rubik", sans-serif;
+        font-weight: 300;
+        text-align: left;
+        font-size: 18px;
+        line-height: 18px;
+      }
+      .page-content-container table th,
+      .page-content-container table td {
+        padding: 15px;
+        border: none;
+        min-width: 150px;
+      }
+      .page-content-container table tbody {
+        font-weight: normal;
+      }
+      .page-content-container table tr td {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        text-align: left;
+      }
+      .page-content-container table tr {
+        border: 1px solid #dddae0;
+      }
+      .table-of-contents-container {
+        width: 330px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: 100vh;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 60px;
+        box-sizing: border-box;
+      }
+      .public-view .table-of-contents-container {
+        height: calc(100vh - 64px);
+      }
+      .table-of-contents-container .organization-info {
+        margin-bottom: 24px;
+        padding-left: 40px;
+        padding-right: 20px;
+      }
+      .organization-info hr {
+        width: 64px;
+        margin-left: 0;
+      }
+      .organization-info .hexagon {
+        display: -webkit-box;
+        -webkit-box-pack: center;
+        -webkit-box-orient: vertical;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 85px;
+        height: 85px;
+        position: relative;
+        margin-bottom: 10px;
+        margin-left: -7px;
+      }
+      .organization-info .hexagon img.hexagon-svg {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+      }
+      .organization-info .hexagon img.logo {
+        height: 40px;
+        z-index: 1;
+      }
+      .organization-info .name {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+      }
+      .organization-info .report-date {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 30px;
+      }
+      .organization-info hr {
+        border-top: 1px solid;
+      }
+      .table-of-contents-container ul,
+      #contents-list {
+        list-style-type: none;
+        padding-inline-start: 20px;
+        margin-top: 16px;
+      }
+      .table-of-contents-container #contents-list a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #232735;
+      }
+      .table-of-contents-container #contents-list {
+        margin: 0;
+        padding: 0;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 24px;
+      }
+      .table-of-contents-container .contents-label {
+        cursor: pointer;
+        -webkit-user-select: none; /* Safari 3.1+ */
+        -moz-user-select: none; /* Firefox 2+ */
+        -ms-user-select: none; /* IE 10+ */
+        user-select: none;
+      }
+      .table-of-contents-container .caret {
+        content: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgOCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNy4wNTY2NyAwLjcyMzM4OUw0IDMuNzgwMDZMMC45NDMzMzMgMC43MjMzODlMMCAxLjY2NjcyTDQgNS42NjY3Mkw4IDEuNjY2NzJMNy4wNTY2NyAwLjcyMzM4OVoiIGZpbGw9IiMzQjI1NTIiLz4KPC9zdmc+Cg==");
+        width: 8px;
+        height: 8px;
+        color: #3b2552;
+        display: inline-block;
+        margin-right: 0.5em;
+      }
+      .table-of-contents-container .caret-down {
+        content: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgOCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMC45NDMzMzQgNS4yNzYzN0w0IDIuMjE5N0w3LjA1NjY3IDUuMjc2MzdMOCA0LjMzMzAzTDQgMC4zMzMwMzNMLTEuNTU5NWUtMDcgNC4zMzMwM0wwLjk0MzMzNCA1LjI3NjM3WiIgZmlsbD0iIzNCMjU1MiIvPgo8L3N2Zz4K");
+      }
+      .table-of-contents-container #contents-list ul.nested {
+        display: none;
+        font-weight: 400;
+        margin-top: 10px;
+      }
+      .table-of-contents-container #contents-list ul.active {
+        display: block;
+      }
+      .table-of-contents-container #contents-list ul.active a .contents-label {
+        margin-left: 1em;
+      }
+      .table-of-contents-container #contents-list a .contents-label {
+        margin-left: 1.5em;
+      }
+    </style>
+  </head>
+  <body id="body">
+    <header class="header"></header>
+    <side class="table-of-contents-container new-page">
+      <div class="organization-info">
+        <div class="hexagon">
+          <img
+            class="hexagon-svg"
+            src="https://laika-static-documents.s3.amazonaws.com/Reports/hexagon.svg"
+            alt="hexagon"
+          />
+          {% if organization.logo %}
+          <img
+            class="logo"
+            src="{{ organization.logo.url }}"
+            alt="{{ organization.name }}"
+          />
+          {% else %}
+          <img
+            class="logo"
+            src="https://laika-static-documents.s3.amazonaws.com/Logos/default-logo.png"
+            alt="{{ organization.name }}"
+          />
+          {% endif %}
+        </div>
+        <div class="name">{{ organization.name }}</div>
+        <div class="name">{{ name }}</div>
+        <div class="report-date">{{ date }}</div>
+        <hr />
+      </div>
+
+      <div id="table-of-contents">
+        {# HERE WE INJECT THE TABLE OF CONTENTS #}
+        {{ table_of_contents | safe }}
+      </div>
+    </side>
+    <main class="page-content-container">
+      {# HERE WE INJECT THE TEMPLATE CONTENT #}
+      {{ report_content | safe }}
+      <div class="bottom-spacer"></div>
+    </main>
+    <footer class="footer">
+      <img
+        class="powered-by-logo"
+        src="https://laika-static-documents.s3.amazonaws.com/Reports/powered-by-laika.png"
+        alt="Laika"
+      />
+    </footer>
+
+    <script>
+      let header = document.getElementsByClassName("contents-label");
+      for (let i = 0; i < header.length; i++) {
+        header[i].addEventListener("click", function () {
+          let nested = this.parentElement.querySelectorAll(".nested");
+          for (let i = 0; i < nested.length; i++) {
+            nested[i].classList.toggle("active");
+          }
+          this.querySelector(".caret").classList.toggle("caret-down");
+        });
+      }
+
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      if (!urlParams.get("token")) {
+        document.getElementById("body").className = "public-view";
+      }
+    </script>
+  </body>
+</html>

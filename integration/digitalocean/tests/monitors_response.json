@@ -1,0 +1,63 @@
+{
+  "policies": [
+    {
+      "uuid": "32728726-a5ce-4c84-b281-e0ab61551c01",
+      "type": "v1/insights/droplet/cpu",
+      "description": "CPU is running high",
+      "compare": "GreaterThan",
+      "value": 70,
+      "window": "5m",
+      "entities": [],
+      "tags": [],
+      "alerts": {
+        "slack": [],
+        "email": [
+          "dev@integrations.heylaika.com"
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "uuid": "06f4b536-3ae3-469c-b9d2-76b28392efa1",
+      "type": "v1/insights/droplet/disk_utilization_percent",
+      "description": "Disk Utilization is running low",
+      "compare": "LessThan",
+      "value": 50,
+      "window": "10m",
+      "entities": [],
+      "tags": [],
+      "alerts": {
+        "slack": [],
+        "email": [
+          "dev@integrations.heylaika.com"
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "uuid": "cb5edc3d-f9c1-49d8-958f-9c6ba7478a72",
+      "type": "v1/insights/droplet/memory_utilization_percent",
+      "description": "Memory Utilization is running high",
+      "compare": "GreaterThan",
+      "value": 5,
+      "window": "5m",
+      "entities": [
+        "327885862"
+      ],
+      "tags": [],
+      "alerts": {
+        "slack": [],
+        "email": [
+          "dev@integrations.heylaika.com"
+        ]
+      },
+      "enabled": true
+    }
+  ],
+  "links": {
+    "pages": {}
+  },
+  "meta": {
+    "total": 3
+  }
+}

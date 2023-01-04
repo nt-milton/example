@@ -1,0 +1,19 @@
+{
+   "data":{
+      "users":{
+         "nodes":[
+            {
+               "id":"7ec55b90-dd4f-45c0-ae2b-3ad78bf63c1e",
+               "name":"Dev Team",
+               "displayName":"dev",
+               "admin":true,
+               "organization":{
+                  "name":"Heylaika"
+               },
+               "active":true,
+               "email":"dev@heylaika.com"
+            }
+         ]
+      }
+   }
+}

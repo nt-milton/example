@@ -1,0 +1,18 @@
+{
+   "totalCount":113,
+   "results":[
+      {
+         "id":"1",
+         "name":"Device 83",
+         "model":"iPhone 5 (CDMA)",
+         "modelIdentifier":"iPhone5,2",
+         "serialNumber":"CA44FE1260A3",
+         "udid":"ca44fe0860a311e490b812df261f2c7e",
+         "wifiMacAddress":"E8:8D:28:C9:41:E3",
+         "phoneNumber":"612-605-6625",
+         "username":"user57",
+         "type":"ios",
+         "managementId":"4c58fe24-5d34-45fb-9dc7-2b7f3d59abfc"
+      }
+   ]
+}

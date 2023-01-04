@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Watermark</title>
+    <meta name="pdfkit-margin-left" content="0mm" />
+    <meta name="pdfkit-margin-right" content="0mm" />
+    <meta name="pdfkit-margin-bottom" content="0mm" />
+    <meta name="pdfkit-margin-top" content="0mm" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+      }
+      .cover-page {
+        position: absolute;
+        background: url('https://laika-static-documents.s3.amazonaws.com/Reports/draft.png')
+          no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 100% 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="cover-page"></div>
+  </body>
+</html>

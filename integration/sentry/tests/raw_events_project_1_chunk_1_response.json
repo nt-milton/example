@@ -1,0 +1,208 @@
+[
+  {
+    "id": "1",
+    "event.type": "default",
+    "groupID": "11",
+    "eventID": "1",
+    "projectID": "5843997",
+    "message": "This is an example Python exception with Null unicode \u0000",
+    "title": "This is an example Python exception \u0000",
+    "location": null,
+    "culprit": "raven.scripts.runner in main \u0000",
+    "user": {
+      "id": "1",
+      "email": "sentry@example.com",
+      "username": "sentry",
+      "ip_address": "127.0.0.1",
+      "name": "Sentry",
+      "data": null
+    },
+    "tags": [
+      {
+        "key": "browser",
+        "value": "Chrome 28.0.1500"
+      },
+      {
+        "key": "browser.name",
+        "value": "Chrome"
+      },
+      {
+        "key": "client_os",
+        "value": "Windows 8"
+      },
+      {
+        "key": "client_os.name",
+        "value": "Windows"
+      },
+      {
+        "key": "environment",
+        "value": "prod"
+      },
+      {
+        "key": "level",
+        "value": "error"
+      },
+      {
+        "key": "user",
+        "value": "id:1",
+        "query": "user.id:\"1\""
+      },
+      {
+        "key": "server_name",
+        "value": "web01.example.org"
+      },
+      {
+        "key": "url",
+        "value": "http://example.com/foo"
+      }
+    ],
+    "platform": "python",
+    "dateCreated": "2021-07-02T19:39:59Z",
+    "crashFile": null
+  },
+  {
+    "id": "2",
+    "event.type": "default",
+    "groupID": "12",
+    "eventID": "2",
+    "projectID": "5843997",
+    "message": "This is an example Python exception 2",
+    "title": "This is an example Python exception 2",
+    "location": null,
+    "culprit": "raven.scripts.runner in main 2",
+    "user": {
+      "id": "1",
+      "email": "sentry@example.com",
+      "username": "sentry",
+      "ip_address": "127.0.0.1",
+      "name": "Sentry",
+      "data": null
+    },
+    "tags": [
+      {
+        "key": "browser",
+        "value": "Chrome 28.0.1500"
+      },
+      {
+        "key": "browser.name",
+        "value": "Chrome"
+      },
+      {
+        "key": "client_os",
+        "value": "Windows 8"
+      },
+      {
+        "key": "client_os.name",
+        "value": "Windows"
+      },
+      {
+        "key": "environment",
+        "value": "prod"
+      },
+      {
+        "key": "level",
+        "value": "error"
+      },
+      {
+        "key": "user",
+        "value": "id:1",
+        "query": "user.id:\"1\""
+      },
+      {
+        "key": "server_name",
+        "value": "web01.example.org"
+      },
+      {
+        "key": "url",
+        "value": "http://example.com/foo"
+      }
+    ],
+    "platform": "python",
+    "dateCreated": "2021-07-02T19:39:59Z",
+    "crashFile": null
+  },
+  {
+    "id": "3",
+    "event.type": "default",
+    "groupID": "11",
+    "eventID": "3",
+    "projectID": "5843997",
+    "message": "This is an example Python exception",
+    "title": "This is an example Python exception",
+    "location": null,
+    "culprit": "raven.scripts.runner in main",
+    "user": {
+      "id": "1",
+      "email": "sentry@example.com",
+      "username": "sentry",
+      "ip_address": "127.0.0.1",
+      "name": "Sentry",
+      "data": null
+    },
+    "tags": [
+      {
+        "key": "browser",
+        "value": "Chrome 28.0.1500"
+      }
+    ],
+    "platform": "python",
+    "dateCreated": "2021-07-02T19:39:59Z",
+    "crashFile": null
+  },
+  {
+    "id": "4",
+    "event.type": "default",
+    "groupID": "11",
+    "eventID": "4",
+    "projectID": "5843997",
+    "message": "This is an example Python exception",
+    "title": "This is an example Python exception",
+    "location": null,
+    "culprit": "raven.scripts.runner in main",
+    "user": {
+      "id": "1",
+      "email": "sentry@example.com",
+      "username": "sentry",
+      "ip_address": "127.0.0.1",
+      "name": "Sentry",
+      "data": null
+    },
+    "tags": [
+      {
+        "key": "browser",
+        "value": "Chrome 28.0.1500"
+      }
+    ],
+    "platform": "python",
+    "dateCreated": "2021-07-02T19:39:59Z",
+    "crashFile": null
+  },
+  {
+    "id": "5",
+    "event.type": "default",
+    "groupID": "11",
+    "eventID": "5",
+    "projectID": "5843997",
+    "message": "This is an example Python exception",
+    "title": "This is an example Python exception",
+    "location": null,
+    "culprit": "raven.scripts.runner in main",
+    "user": {
+      "id": "1",
+      "email": "sentry@example.com",
+      "username": "sentry",
+      "ip_address": "127.0.0.1",
+      "name": "Sentry",
+      "data": null
+    },
+    "tags": [
+      {
+        "key": "browser",
+        "value": "Chrome 28.0.1500"
+      }
+    ],
+    "platform": "python",
+    "dateCreated": "2021-07-02T19:39:59Z",
+    "crashFile": null
+  }
+]

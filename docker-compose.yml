@@ -1,0 +1,105 @@
+version: '3.3'
+services:
+    db:
+        image: postgres:14.3
+        ports:
+            - "5432:5432"
+        volumes:
+            - db:/var/lib/postgresql/data
+        healthcheck:
+            test: ["CMD", "pg_isready", "-q", "-p", "5432", "-U", "postgres"]
+            interval: 10s
+            timeout: 5s
+            retries: 5
+        environment:
+            POSTGRES_HOST_AUTH_METHOD: "trust"
+    document-server:
+        image: onlyoffice/documentserver-de:6.4
+        container_name: document-server
+        ports:
+            - "80:80"
+        healthcheck:
+            test: curl -f -s http://localhost/healthcheck || exit 1
+            interval: 10s
+            timeout: 5s
+            retries: 5
+    laika-app:
+        build: .
+        command: python3 manage.py runserver 0.0.0.0:8000
+        container_name: laika-app
+        volumes:
+            - .:/code
+        env_file: .local.env
+        ports:
+            - "8000:8000"
+        depends_on:
+          - db
+          - document-server
+    rabbitmq:
+        image: rabbitmq:3.9.16-management
+        hostname: rabbitmq
+        environment:
+            RABBITMQ_DEFAULT_USER: laika
+            RABBITMQ_DEFAULT_PASS: laika
+            RABBITMQ_DEFAULT_VHOST: /
+        ports:
+            - 5672:5672
+            - 15672:15672
+        healthcheck:
+            test: [ "CMD", "nc", "-z", "localhost", "5672" ]
+            interval: 5s
+            timeout: 15s
+            retries: 1
+        container_name: laika-rabbit
+        volumes:
+            - ./enabled_plugins:/etc/rabbitmq/enabled_plugins"
+            - ./rabbitmq/logs:/var/log/rabbitmq/log
+
+    celery:
+        build: .
+        command: celery -A laika worker -Q celery,long_run --loglevel=INFO
+        env_file: .local.env
+        environment:
+            - DJANGO_SETTINGS_MODULE=laika.settings
+        volumes:
+            - .:/code
+        depends_on:
+            - rabbitmq
+            - laika-app
+            - db
+
+    celery-beat:
+        build: .
+        command: celery -A laika beat --loglevel=INFO --scheduler django_celery_beat.schedulers:DatabaseScheduler --pidfile=/tmp/celeryd.pid
+        env_file: .local.env
+        environment:
+            - DJANGO_SETTINGS_MODULE=laika.settings
+        volumes:
+            - .:/code
+        depends_on:
+            - rabbitmq
+            - laika-app
+            - db
+
+    nginx:
+        image: nginx:1.13
+        ports:
+          - 8001:443
+        volumes:
+          - ./config/nginx/conf.d:/etc/nginx/conf.d
+          - ./config/cert:/etc/ssl/certs/
+          - ./config/cert:/etc/ssl/private/
+        depends_on:
+          - laika-app
+
+    redis:
+        image: redis:6.2.6
+        restart: always
+        ports:
+            - "6379:6379"
+        depends_on:
+            - laika-app
+
+volumes:
+    db:
+        driver: local

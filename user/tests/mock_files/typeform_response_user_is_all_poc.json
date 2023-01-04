@@ -1,0 +1,29 @@
+[
+    {
+        "type": "boolean",
+        "field": {
+            "id": "DKaZQZ7ZQ4x",
+            "ref": "is_compliance_poc",
+            "type": "yes_no"
+        },
+        "boolean": true
+    },
+    {
+        "type": "boolean",
+        "field": {
+            "id": "I28xw3Z2ZQ4x",
+            "ref": "is_hr_poc",
+            "type": "yes_no"
+        },
+        "boolean": true
+    },
+    {
+        "type": "boolean",
+        "field": {
+            "id": "I3IjFua6fTzx",
+            "ref": "is_technical_poc",
+            "type": "yes_no"
+        },
+        "boolean": true
+    }
+]

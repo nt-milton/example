@@ -1,0 +1,48 @@
+[
+   {
+      "role":"owner",
+      "entity_type":"member",
+      "disabled":false,
+      "updated_at":"2020-12-21T19:48:26Z",
+      "created_without_invite":false,
+      "group_ids":[
+
+      ],
+      "id":"5fe0fbb3-88b9-408e-b601-de8890cdddcd",
+      "profile":{
+         "entity_type":"profile",
+         "deactivated":false,
+         "two_factor_auth_activated":false,
+         "mention_name":"dev_team_laika",
+         "name":"Dev Team",
+         "gravatar_hash":"f5af3d05da0034de5a5cfd761afcfab6",
+         "id":"5fe0fbb3-ed35-4555-a6bf-25c037a92110",
+         "display_icon":"None",
+         "email_address":"dev@heylaika.com"
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "role":"member",
+      "entity_type":"member",
+      "disabled":false,
+      "updated_at":"2020-12-23T16:42:38Z",
+      "created_without_invite":false,
+      "group_ids":[
+
+      ],
+      "id":"5fe3737e-9c62-453c-bc24-ca7daec6e491",
+      "profile":{
+         "entity_type":"profile",
+         "deactivated":false,
+         "two_factor_auth_activated":false,
+         "mention_name":"stevenbrand",
+         "name":"Steven Brand",
+         "gravatar_hash":"96a797c691b179f7e5fc5035a58b2e5d",
+         "id":"5fe3737e-f39f-4699-b737-bb2749cada92",
+         "display_icon":"None",
+         "email_address":"steven@heylaika.com"
+      },
+      "created_at":"2020-12-23T16:42:38Z"
+   }
+]

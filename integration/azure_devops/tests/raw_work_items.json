@@ -1,0 +1,117 @@
+{
+  "count": 1,
+  "value": [
+    {
+      "id": 2006,
+      "rev": 3,
+      "fields": {
+        "System.Id": 2006,
+        "System.AreaId": 8,
+        "System.AreaPath": "Testing Boards",
+        "System.TeamProject": "Testing Boards",
+        "System.NodeName": "Testing Boards",
+        "System.AreaLevel1": "Testing Boards",
+        "System.Rev": 3,
+        "System.AuthorizedDate": "2022-10-27T14:34:24.533Z",
+        "System.RevisedDate": "9999-01-01T00:00:00Z",
+        "System.IterationId": 7,
+        "System.IterationPath": "Testing Boards\\Sprint 1",
+        "System.IterationLevel1": "Testing Boards",
+        "System.IterationLevel2": "Sprint 1",
+        "System.WorkItemType": "Issue",
+        "System.State": "Doing",
+        "System.Reason": "Started",
+        "System.CreatedDate": "2022-10-27T14:32:53.173Z",
+        "System.CreatedBy": {
+          "displayName": "Diego Siciliani",
+          "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            }
+          },
+          "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+          "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+          "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+        },
+        "System.ChangedDate": "2022-10-27T14:34:24.533Z",
+        "System.ChangedBy": {
+          "displayName": "Diego Siciliani",
+          "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            }
+          },
+          "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+          "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+          "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+        },
+        "System.AuthorizedAs": {
+          "displayName": "Diego Siciliani",
+          "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            }
+          },
+          "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+          "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+          "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+        },
+        "System.PersonId": 258651848,
+        "System.Watermark": 2017,
+        "System.CommentCount": 0,
+        "System.Title": "Testing 1.0",
+        "System.BoardColumn": "Doing",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2022-10-27T14:33:24.53Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2022-10-27T14:33:24.53Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Diego Siciliani",
+          "url": "https://spsprodcus4.vssps.visualstudio.com/A021ecc9a-dd8c-4501-8617-1136e7cebf6d/_apis/Identities/8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            }
+          },
+          "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+          "uniqueName": "DiegoS@8g0k51.onmicrosoft.com",
+          "imageUrl": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+          "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "WEF_7A7133A3ABAB4ED8A577B4259BE1E9AE_System.ExtensionMarker": true,
+        "WEF_7A7133A3ABAB4ED8A577B4259BE1E9AE_Kanban.Column": "Doing",
+        "WEF_7A7133A3ABAB4ED8A577B4259BE1E9AE_Kanban.Column.Done": false
+      },
+      "_links": {
+        "self": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItems/2006"
+        },
+        "workItemUpdates": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItems/2006/updates"
+        },
+        "workItemRevisions": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItems/2006/revisions"
+        },
+        "workItemComments": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItems/2006/comments"
+        },
+        "html": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_workitems/edit/2006"
+        },
+        "workItemType": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItemTypes/Issue"
+        },
+        "fields": {
+          "href": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/fields"
+        }
+      },
+      "url": "https://dev.azure.com/Laika-compliance-test/011d6c05-fb60-45fa-83c2-f38cf2a0ab05/_apis/wit/workItems/2006"
+    }
+  ]
+}

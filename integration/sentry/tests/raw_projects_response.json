@@ -1,0 +1,84 @@
+[
+	{
+		"avatar": {
+			"avatarType": "laika_avatar",
+			"avatarUuid": null
+		},
+		"color": "#bf6e3f",
+		"dateCreated": "2018-11-06T21:20:08.064Z",
+		"features": [
+			"servicehooks",
+			"sample-events",
+			"data-forwarding",
+			"rate-limits",
+			"minidump"
+		],
+		"firstEvent": null,
+		"hasAccess": true,
+		"id": "4",
+		"isBookmarked": false,
+		"isInternal": false,
+		"isMember": true,
+		"isPublic": false,
+		"name": "project_1",
+		"organization": {
+			"avatar": {
+				"avatarType": "heylaika",
+				"avatarUuid": null
+			},
+			"dateCreated": "2018-11-06T21:19:55.101Z",
+			"id": "2",
+			"isEarlyAdopter": false,
+			"name": "project_1",
+			"require2FA": false,
+			"slug": "project_1",
+			"status": {
+				"id": "active",
+				"name": "active"
+			}
+		},
+		"platform": null,
+		"slug": "project_1",
+		"status": "active"
+	},
+	{
+		"avatar": {
+			"avatarType": "laika_avatar_2",
+			"avatarUuid": null
+		},
+		"color": "#bf6e3f",
+		"dateCreated": "2018-11-06T21:20:08.064Z",
+		"features": [
+			"servicehooks",
+			"sample-events",
+			"data-forwarding"
+		],
+		"firstEvent": null,
+		"hasAccess": true,
+		"id": "8",
+		"isBookmarked": false,
+		"isInternal": false,
+		"isMember": true,
+		"isPublic": false,
+		"name": "project_2",
+		"organization": {
+			"avatar": {
+				"avatarType": "heylaika2",
+				"avatarUuid": null
+			},
+			"dateCreated": "2018-11-06T21:19:55.101Z",
+			"id": "2",
+			"isEarlyAdopter": false,
+			"name": "project_2",
+			"require2FA": false,
+			"slug": "project_2",
+			"status": {
+				"id": "active",
+				"name": "active"
+			}
+		},
+		"platform": null,
+		"slug": "project_2",
+		"status": "active"
+	}
+]

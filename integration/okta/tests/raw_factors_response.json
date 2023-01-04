@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ufs2bysphxKODSZKWVCT",
+    "factorType": "question",
+    "provider": "OKTA",
+    "vendorName": "OKTA",
+    "status": "ACTIVE",
+    "created": "2014-04-15T18:10:06.000Z",
+    "lastUpdated": "2014-04-15T18:10:06.000Z",
+    "profile": {
+      "question": "favorite_art_piece",
+      "questionText": "What is your favorite piece of art?"
+    },
+    "_links": {
+      "questions": {
+        "href": "https://${yourOktaDomain}/api/v1/users/00u15s1KDETTQMQYABRL/factors/questions",
+        "hints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      },
+      "self": {
+        "href": "https://${yourOktaDomain}/api/v1/users/00u15s1KDETTQMQYABRL/factors/ufs2bysphxKODSZKWVCT",
+        "hints": {
+          "allow": [
+            "GET",
+            "DELETE"
+          ]
+        }
+      },
+      "user": {
+        "href": "https://${yourOktaDomain}/api/v1/users/00u15s1KDETTQMQYABRL",
+        "hints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    }
+  }
+]

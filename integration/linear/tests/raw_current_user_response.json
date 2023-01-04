@@ -1,0 +1,10 @@
+{
+   "data":{
+      "viewer":{
+         "id":"7ec55b90-dd4f-45c0-ae2b-3ad78bf63c1e",
+         "name":"Dev Team",
+         "email":"dev@heylaika.com",
+         "admin": true
+      }
+   }
+}

@@ -1,0 +1,67 @@
+{
+  "data": {
+    "group": {
+      "groupMembers": {
+        "pageInfo": {
+          "endCursor": "eyJpZCI6Ijg5NzAxNDIifQ",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "user": {
+              "groupMemberships": {
+                "nodes": [
+                    {
+                    "accessLevel": {
+                      "stringValue": "OWNER"
+                    },
+                    "group": {
+                      "name": "laika-test-one",
+                      "requireTwoFactorAuthentication": false
+
+                    }
+                  }
+                ]
+              },
+              "id": "gid://gitlab/User/2471369",
+              "name": "jeffrey-group-1",
+              "publicEmail": ""
+            }
+          },
+          {
+            "user": null
+          },
+          {
+            "user": {
+              "groupMemberships": {
+                "nodes": [
+                    {
+                    "accessLevel": {
+                      "stringValue": "REPORTER"
+                    },
+                    "group": {
+                      "name": "laika-test-two",
+                      "requireTwoFactorAuthentication": true
+                    }
+                  },
+                  {
+                    "accessLevel": {
+                      "stringValue": "DEVELOPER"
+                    },
+                    "group": {
+                      "name": "laika-test-one",
+                      "requireTwoFactorAuthentication": false
+                    }
+                  }
+                ]
+              },
+              "id": "gid: //gitlab/User/8590970",
+              "name": "otto-group-1",
+              "publicEmail": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+}

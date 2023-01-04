@@ -1,0 +1,22 @@
+{
+  "data": {
+    "viewer": {
+      "organizations": {
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHODu-ArA==",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "login_name": "LaikaTest",
+            "profile_name": "Laika Test 1"
+          },
+          {
+            "login_name": "LaikaTest-2",
+            "profile_name": "Laika Test 2"
+          }
+        ]
+      }
+    }
+  }
+}

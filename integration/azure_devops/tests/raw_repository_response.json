@@ -1,0 +1,25 @@
+{
+    "value": [
+        {
+            "id": "ed78cbc0-5899-4831-9062-2a2f05010d07",
+            "name": "Compliance",
+            "url": "https://dev.azure.com/Laika-compliance-test/dc6f2e94-a5d8-4add-856f-6e4344aa1e95/_apis/git/repositories/ed78cbc0-5899-4831-9062-2a2f05010d07",
+            "project": {
+                "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                "name": "Compliance",
+                "url": "https://dev.azure.com/Laika-compliance-test/_apis/projects/dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                "state": "wellFormed",
+                "revision": 11,
+                "visibility": "private",
+                "lastUpdateTime": "2022-09-23T00:13:30.48Z"
+            },
+            "defaultBranch": "refs/heads/master",
+            "size": 30748,
+            "remoteUrl": "https://Laika-compliance-test@dev.azure.com/Laika-compliance-test/Compliance/_git/Compliance",
+            "sshUrl": "git@ssh.dev.azure.com:v3/Laika-compliance-test/Compliance/Compliance",
+            "webUrl": "https://dev.azure.com/Laika-compliance-test/Compliance/_git/Compliance",
+            "isDisabled": false
+        }
+    ],
+    "count": 1
+}

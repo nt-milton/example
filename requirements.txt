@@ -1,0 +1,94 @@
+aniso8601==7.0.0
+asgiref==3.4.1
+channels==3.0.4
+channels-redis==3.2.0
+coverage==5.3
+cryptography==38.0.0
+boto3==1.21.15
+botocore==1.24.18
+Django==3.2.15
+django-cors-headers==3.2.1
+django-storages==1.8
+django-tinymce==3.3.0
+docutils==0.15.2
+docusign-esign==3.18.0
+docxtpl==0.10.0
+freezegun==1.1.0
+graphene==2.1.8
+graphene-django==2.8.0
+graphql-core==2.2.1
+graphql-relay==2.0.1
+httmock==1.4.0
+jmespath==0.10.0
+pdfkit==0.6.1
+pypdftk==0.5
+promise==2.3
+psycopg2-binary==2.9.1
+pytest-django==4.4.0
+PyJWT==1.7.1
+python-dateutil==2.8.1
+pytz==2020.1
+Rx==1.6.1
+s3transfer==0.5.0
+singledispatch==3.4.0.3
+six==1.15.0
+sqlparse==0.4.2
+requests==2.23.0
+django-log-request-id==1.4.1
+openpyxl==3.0.9
+PyPDF2==2.9.0
+pre-commit==2.15.0
+bandit==1.6.2
+django-reversion==3.0.7
+diff-match-patch==20200713
+django-ses==1.0.3
+defusedxml==0.6.0
+python-docx==0.8.11
+beautifulsoup4==4.9.3
+tenacity==6.2.0
+moto==1.3.16
+celery==5.2.2
+pandas==1.4.2
+pika==1.3.0
+ddtrace==1.1.0
+ddtrace-graphql==0.2.0
+# Celery requirements
+kombu==5.2.2
+billiard==3.6.4.0
+vine==5.0.0
+amqp==5.0.6
+# Store celery results
+django-celery-results==2.2.0
+# Periodic tasks
+django-celery-beat==2.2.1
+python-crontab==2.5.1
+django-timezone-field==4.2.1
+Twisted[tls,http2]==22.4.0
+django-session-timeout==0.1.0
+django-redis==5.0.0
+pytest-asyncio==0.15.1
+google-auth==1.25.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.25.0
+# OKTA BACKEND
+okta==2.6.0
+okta-jwt-verifier==0.2.3
+
+# AI
+openai==0.22.1
+matplotlib==3.5.2
+plotly==5.9.0
+scipy==1.9.0
+scikit-learn==1.1.1
+numpy==1.23.1
+
+# Types for mypy https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+types-freezegun==1.1.3
+
+# Airtable
+pyairtable==1.3.0
+# Markdown
+markdown==3.3.7
+types-Markdown==3.3.30
+
+commitizen==2.32.2

@@ -1,0 +1,136 @@
+[
+    {
+        "PolicyName": "laika-integration-test-1",
+        "PolicyId": "ANPAST2AGO7MA674V2ZVO",
+        "Arn": "arn:aws:iam::179986397144:policy/laika-integration-20210706-QA5-LaikaIntegrationRolePolicy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 1,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2021-07-06 21:32:01+00:00",
+        "UpdateDate": "2021-07-06 21:32:01+00:00",
+        "PolicyVersionList": [
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement": [
+                        {
+                            "Action": [
+                                "organizations:Describe*",
+                                "organizations:List*",
+                                "acm:DescribeCertificate",
+                                "acm:ListCertificates"
+                                ],
+                                "Resource": "*",
+                                "Effect": "Allow"
+                        }
+                    ]
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            },
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement": [
+                        {
+                            "Action":"acm:test",
+                            "Resource": "*",
+                            "Effect": "Allow"
+                        }
+                    ]
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            }
+        ]
+    },
+    {
+        "PolicyName": "laika-integration-test-3",
+        "PolicyId": "ANPAST2AGO7MA674V2ZVO",
+        "Arn": "arn:aws:iam::179986397144:policy/laika-integration-20210706-QA5-LaikaIntegrationRolePolicy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 1,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2021-07-06 21:32:01+00:00",
+        "UpdateDate": "2021-07-06 21:32:01+00:00",
+        "PolicyVersionList": []
+    },
+    {
+        "PolicyName": "laika-integration-test-4",
+        "PolicyId": "ANPAST2AGO7MA674V2ZVO",
+        "Arn": "arn:aws:iam::179986397144:policy/laika-integration-20210706-QA5-LaikaIntegrationRolePolicy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 1,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2021-07-06 21:32:01+00:00",
+        "UpdateDate": "2021-07-06 21:32:01+00:00",
+        "PolicyVersionList": [
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement":
+                        {
+                            "Action": ["organizations:Describe*1"],
+                                "Resource": "*",
+                                "Effect": "Allow"
+                        }
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            },
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement":[
+                        {
+                            "Action": ["organizations:Describe*2"],
+                            "Resource": "*",
+                            "Effect": "Allow"
+                        }
+                    ]
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            },
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement":
+                        {
+                            "Action": "organizations:Describe*3",
+                            "Resource": "*",
+                            "Effect": "Allow"
+                        }
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            },
+            {
+                "Document": {
+                    "Version": "2012-10-17", 
+                    "Statement":
+                        {
+                            "Action": ["organizations:Describe*4"],
+                            "Resource": "*",
+                            "Effect": "Allow"
+                        }
+                },
+                "VersionId": "v1",
+                "IsDefaultVersion": true,
+                "CreateDate": "2021-07-06 21:32:01+00:00"
+            }
+        ]
+    }
+
+]

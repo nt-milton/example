@@ -1,0 +1,1570 @@
+{
+  "id": 2146,
+  "name": "Marketing Automation",
+  "vendors": [
+    {
+      "id": 274,
+      "name": "GetResponse",
+      "description": "Email marketing from GetResponse. Send email newsletters, campaigns, online surveys and follow-up autoresponders. Simple, easy interface. FREE sign up.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getresponse.com",
+      "website": "getresponse.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1993, "name": "Direct Marketing" }
+      ]
+    },
+    {
+      "id": 1147,
+      "name": "OneSignal",
+      "description": "The world's leader for Mobile Push Notifications, Web Push, and In-App Messaging. Trusted by 600k businesses to send 4 billion Push Notifications per day.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/onesignal.com",
+      "website": "onesignal.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1861, "name": "Developer Tools" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2026, "name": "Advertising Platforms" }
+      ]
+    },
+    {
+      "id": 515,
+      "name": "G2",
+      "description": "G2 is a peer-to-peer review site headquartered in Chicago, Illinois.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/g2.com",
+      "website": "g2.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.g2.com/static/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://www.g2.com/static/privacy" }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "SendinBlue",
+      "description": "Sendinblue is a SaaS solution for relationship marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sendinblue.com",
+      "website": "sendinblue.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sendinblue.com/blog/our-story-sendinblue-gdpr-compliance-plan/"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2079, "name": "Developer APIs" }
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Ontraport",
+      "description": "Ontraport is a \"business automation software for entrepreneurs, solopreneurs and small businesses\" that incorporates tools like CRM, marketing automation, ECommerce and reporting\"",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ontraport.com",
+      "website": "ontraport.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://support.ontraport.com/hc/en-us/articles/360003979034-ONTRAPORT-and-GDPR"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://support.ontraport.com/hc/en-us/articles/360003979034-ONTRAPORT-and-GDPR"
+        },
+        { "protocolId": 4, "sourceUrl": "https://ontraport.com/legal" }
+      ],
+      "categories": [
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1993, "name": "Direct Marketing" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2347, "name": "Affiliate Marketing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2086, "name": "Sales Automation" }
+      ]
+    },
+    {
+      "id": 598,
+      "name": "Socialbakers",
+      "description": "Socialbakers is a global AI-powered social media marketing company offering a marketing software-as-a-service platform called the Socialbakers Suite.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/socialbakers.com",
+      "website": "socialbakers.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 747,
+      "name": "PubMatic",
+      "description": "PubMatic is a digital advertising technology company who empowers premium app developers and publishers to maximize their programmatic advertising business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pubmatic.com",
+      "website": "pubmatic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 793,
+      "name": "Mailjet",
+      "description": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and powerful service.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mailjet.com",
+      "website": "mailjet.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.mailjet.com/security-privacy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.mailjet.com/security-privacy/"
+        }
+      ],
+      "categories": [
+        { "id": 1879, "name": "Internet" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2079, "name": "Developer APIs" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 978,
+      "name": "Vidyard",
+      "description": "Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vidyard.com",
+      "website": "vidyard.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1824, "name": "Video" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Intercom",
+      "description": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/intercom.com",
+      "website": "intercom.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 12,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.intercom.com/terms-and-policies"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.intercom.com/blog/announcing-soc-2-compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.intercom.com/help/en/articles/1385437-how-intercom-complies-with-gdpr"
+        }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Drift",
+      "description": "Drift is the leading chat software & conversational marketing platform. Thousands of businesses use Drift every day to have more conversations & grow faster.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/drift.com",
+      "website": "drift.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.drift.com/gdpr/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        },
+        { "protocolId": 12, "sourceUrl": " https://www.drift.com/security/" },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.drift.com/security/#certifications"
+        }
+      ],
+      "categories": [
+        { "id": 1970, "name": "Apps" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Unbounce",
+      "description": "Get more leads, sales, and customers with landing pages built just how you want in Unbounce’s drag-and-drop builder.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unbounce.com",
+      "website": "unbounce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Seismic",
+      "description": "Seismic is the leading B2B sales enablement and marketing enablement software that lets teams find the right sales content and optimize the sales process.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/seismic.com",
+      "website": "seismic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://seismic.com/savo-privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://seismic.com/savo-privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 646,
+      "name": "Uberflip",
+      "description": "Uberflip is a Content Experience Platform that enables marketers to create digital experiences with content for every stage of the buyer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uberflip.com",
+      "website": "uberflip.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Leanplum",
+      "description": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a single mobile marketing platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leanplum.com",
+      "website": "leanplum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2284, "name": "A/B Testing" },
+        { "id": 2219, "name": "Intelligent Systems" },
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1950, "name": "E-Commerce Platforms" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1869, "name": "Personalization" }
+      ]
+    },
+    {
+      "id": 971,
+      "name": "Sailthru",
+      "description": "Sailthru is the largest sender of personalized email in the world. Visit us online to see our extensive email marketing and marketing automation services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sailthru.com",
+      "website": "sailthru.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.sailthru.com/legal/acceptable-use-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.sailthru.com/legal/privacy-statement/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.sailthru.com/legal/agreements/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.sailthru.com/marketing-blog/gdpr-notice-know-sailthru-can-help/"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 684,
+      "name": "ThriveHive",
+      "description": "Find out why more than 50,000 businesses rely on our guided marketing and advertising solutions to get found, stand out, and get chosen online.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thrivehive.com",
+      "website": "thrivehive.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1981, "name": "Local Advertising" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1849, "name": "Local" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1925, "name": "Telecommunications" }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Maropost",
+      "description": "Maropost simplifies customer engagement with a unified platform designed to connect companies with their customers at every step of their journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/maropost.com",
+      "website": "maropost.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 15,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.maropost.com/privacy-policy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://trust.maropost.com/compliance/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://trust.maropost.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Iterable",
+      "description": "Iterable empowers growth marketers to create world-class user engagement campaigns throughout the full lifecycle, and across all channels. Marketers segment users, build workflows, automate touchpoints, and test strategies at scale without engineering ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/iterable.com",
+      "website": "iterable.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://iterable.com/trust/gdpr-commitment/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://iterable.com/trust/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 823,
+      "name": "Vendasta",
+      "description": "The easiest way to sell digital solutions under your own brand. Vendasta is a white-label platform for companies who provide digital solutions to SMBs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vendasta.com",
+      "website": "vendasta.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.vendasta.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 734,
+      "name": "ClickDimensions",
+      "description": "ClickDimensions Marketing Automation Software Solution for Microsoft Dynamics 365. With our easy to use marketing solution, we make it easy for you to achieve marketing success by engaging customers and prospects through emails, web forms, surveys, and...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clickdimensions.com",
+      "website": "clickdimensions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Punchh",
+      "description": "Headquartered in Mountain View, CA, Punchh is the leading fully-integrated, transformative marketing solution for restaurants. Punchh’s Restaurant Marketing CloudTM helps restaurants engage customers across any channel or interaction, predict consumer ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/punchh.com",
+      "website": "punchh.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://punchh.com/privacy_policy" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Sendoso",
+      "description": "Sendoso helps companies accelerate sales and retain customers with gifts and rewards. Sendoso’s cloud-based gifting platform centralizes all gifting outreach touches and gives companies the ability to send eGifts for Coffee, Lunch, Tickets, Wine, Rides...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sendoso.com",
+      "website": "sendoso.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://sendoso.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "CleverTap",
+      "description": "CleverTap is a SaaS based mobile analytics and mobile marketing company based in Mountain View, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/clevertap.com",
+      "website": "clevertap.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://clevertap.com/about-us/" }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Talkable",
+      "description": "Talkable enables e-commerce companies to easily launch referral marketing programs",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/talkable.com",
+      "website": "talkable.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1873, "name": "Loyalty Programs" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 739,
+      "name": "Terminus",
+      "description": "With Terminus, B2B professionals can easily start and scale account based marketing programs to increase revenue, improve reporting & beat the competition.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/terminus.com",
+      "website": "terminus.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 818,
+      "name": "Listrak",
+      "description": "Lingkaran Trans Kota Holdings Berhad is the highway concessionaries or Build-Operate-Transfer operator company in Malaysia.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/listrak.com",
+      "website": "listrak.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.listrak.com/privacy-and-terms/privacy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.listrak.com/blog/detail/gdpr-why-you-should-cherish-it!"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.listrak.com/general-data-protection-regulation"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.listrak.com/general-data-protection-regulation"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1832, "name": "Retail" },
+        { "id": 2321, "name": "B2C" }
+      ]
+    },
+    {
+      "id": 911,
+      "name": "Engagio",
+      "description": "Engagio is an American software company based in San Mateo, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/engagio.com",
+      "website": "engagio.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.engagio.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Showpad",
+      "description": "The Showpad sales enablement platform integrates industry-leading training and coaching software with innovative content solutions, driving increased sales.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/showpad.com",
+      "website": "showpad.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2345, "name": "E-Learning" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1916, "name": "Training" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2013, "name": "Meeting Software" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2467, "name": "Sales" }
+      ]
+    },
+    {
+      "id": 394,
+      "name": "Invoca",
+      "description": "Invoca is an AI-powered call tracking and analytics platform that gives marketers campaign attribution and actionable data from inbound phone calls.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/invoca.com",
+      "website": "invoca.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.invoca.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://blog.invoca.com/gdpr-compliance-and-invoca-call-intelligence/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://blog.invoca.com/gdpr-compliance-and-invoca-call-intelligence/"
+        }
+      ],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Influitive",
+      "description": "Influitive helps companies mobilize their advocates to provide more referral leads, reference calls, social media advocacy, product reviews and more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/influitive.com",
+      "website": "influitive.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1816, "name": "Social CRM" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2148, "name": "Communities" },
+        { "id": 2208, "name": "Social Media Marketing" }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Exponea",
+      "description": "Built on top of a CDP updated in real-time, Exponea combines AI-driven personalization at scale with integrated campaign execution.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/exponea.com",
+      "website": "exponea.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://exponea.com/gdpr-iso-certifications/"
+        }
+      ],
+      "categories": [
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "SALESmanago Marketing Automation",
+      "description": "SALESmanago - all-in-one marketing automation software that helps companies increase their revenue by delivering personalized offers in all marketing channels.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesmanago.com",
+      "website": "salesmanago.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Salesfusion",
+      "description": "Salesfusion helps turn contacts into customers for life.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/salesfusion.com",
+      "website": "salesfusion.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.salesfusion.com/gdpr/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.salesfusion.com/privacy-policy/"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.salesfusion.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "MarketMuse",
+      "description": "MarketMuse uses AI and machine learning to help you build content strategies, accelerate content creation, and inform content decisions.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marketmuse.com",
+      "website": "marketmuse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2042, "name": "Machine Learning" }
+      ]
+    },
+    {
+      "id": 992,
+      "name": "DialogTech",
+      "description": "DialogTech’s AI call tracking and conversation analytics helps digital marketers and agencies track ROI, drive sales, and personalize experiences.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "dialogtech.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.dialogtech.com/about/eu-u-s-privacy-shield-framework-privacy-statement"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.dialogtech.com/about/terms-and-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1925, "name": "Telecommunications" }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "OutboundEngine",
+      "description": "We make businesses look great online & keep them in front of their networks to build stronger relationships, uncover new opportunities and drive referrals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/outboundengine.com",
+      "website": "outboundengine.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Kindful",
+      "description": "Our Nonprofit CRM features everything you need to helps you organize your data and manage your donors: all in a simple, online platform. Learn more.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kindful.com",
+      "website": "kindful.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1897, "name": "Payments" },
+        { "id": 2021, "name": "Non Profit" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 628,
+      "name": "FreshMail",
+      "description": "Access your FreshMail account from anywhere. Your files and data, as well as FreshMail's tools, are secure in a dedicated cloud and are always ready to meet",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/freshmail.com",
+      "website": "freshmail.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2038, "name": "Email" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Optimove",
+      "description": "Optimove is a privately held company that develops and markets a software as a service software product, also called Optimove, Optimove’s product has a Customer Data Platform at its core and applies algorithmic optimization to autonomously improve mult...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/optimove.com",
+      "website": "optimove.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.optimove.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.optimove.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2137, "name": "Predictive Analytics" }
+      ]
+    },
+    {
+      "id": 623,
+      "name": "ROKT",
+      "description": "Get the max return on investment every time a customer engages your marketing offer using Rokt’s transaction marketing platform.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "rokt.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://rokt.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2103, "name": "Market Research" }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Conversica",
+      "description": "Conversica's leading Sales AI Assistants for Business engage your leads through personalized emails and SMS texts. These virtual assistants update your CRM too.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/conversica.com",
+      "website": "conversica.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.conversica.com/privacy-shield/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.conversica.com/privacy-shield/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2332, "name": "Virtual Assistant" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2020, "name": "Natural Language Processing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Pathmatics",
+      "description": "Pathmatics digital marketing intelligence platform brings transparency to your competitor's digital ad strategies across social, video, display, and mobile.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pathmatics.com",
+      "website": "pathmatics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2026, "name": "Advertising Platforms" }
+      ]
+    },
+    {
+      "id": 462,
+      "name": "DoubleDutch",
+      "description": "DoubleDutch creates mobile applications designed to capture and surface data from events and conferences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/doubledutch.me",
+      "website": "doubledutch.me",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://doubledutch.me/privacy/" },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://doubledutch.me/doubledutch-gdpr-readiness/"
+        },
+        { "protocolId": 4, "sourceUrl": "https://doubledutch.me/privacy/" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1818, "name": "Events" }
+      ]
+    },
+    {
+      "id": 835,
+      "name": "Leadspace",
+      "description": "Leadspace CDP gives B2B Sales & Marketing the ability to focus on growing revenue faster personalized engagement, instead of spending time managing data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/leadspace.com",
+      "website": "leadspace.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.leadspace.com/privacy-notice/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 984,
+      "name": "MediaValet",
+      "description": "MediaValet helps marketing and creative teams manage, collaborate and share their digital assets, improving productivity and increasing ROI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mediavalet.com",
+      "website": "mediavalet.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.mediavalet.com/privacypolicy/"
+        }
+      ],
+      "categories": [
+        { "id": 2207, "name": "File Sharing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1966, "name": "Video Streaming" },
+        { "id": 2031, "name": "Photo Sharing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 507,
+      "name": "Mapp Digital",
+      "description": "Mapp Cloud is a badass digital marketing platform for companies that don’t want to follow the flock.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mapp.com",
+      "website": "mapp.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Total Expert",
+      "description": "Create hyper-personalized engagement that captures customers for life with the Total Expert Marketing Operating System® (MOS).",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/totalexpert.com",
+      "website": "totalexpert.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2226, "name": "FinTech" },
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 1848, "name": "Financial Services" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 763,
+      "name": "Mintigo",
+      "description": "Know Who Your Ideal Customers Are & How to Engage With Them. ABM Targeting, Predictive Lead Scoring, Pipeline Generation, & Sales Enablement Powered by AI.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mintigo.com",
+      "website": "mintigo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 972,
+      "name": "Telmetrics",
+      "description": "Telmetrics is the call analytics and attribution technology leader with over 25 years of experience supporting large advertising programs. We help marketers increase ROI on direct response ad campaigns by providing tools for call tracking, lead attribu...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/telmetrics.com",
+      "website": "telmetrics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Idio",
+      "description": "idio Ltd. is an enterprise software company that produces and implements products for brands and publishers, using its cloud-hosted platform, which incorporates modules for large-scale content aggregation and structuring, content analytics, multi-chann...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/idio.ai",
+      "website": "idio.ai",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 649,
+      "name": "CommuniGator",
+      "description": "Communigator is a complete marketing automation software solution for your business that also provides email marketing and lead generation. All in one place.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/communigator.co.uk",
+      "website": "communigator.co.uk",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 900,
+      "name": "MessageGears",
+      "description": "Cross-channel messaging for the world's largest brands. A hybrid platform that removes barriers to data and empowers the demanding Super Sender.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/messagegears.com",
+      "website": "messagegears.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "Hot Prospector",
+      "description": "Sales software to boost your sales and lead management. Hot Prospector sales team management software increases conversions with automated ringless voicemails, sms, and email drips .",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hotprospector.com",
+      "website": "hotprospector.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Mindmatrix",
+      "description": "Mindmatrix offers PRM software, sales enablement software, marketing automation software and channel enablement -on a single platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mindmatrix.net",
+      "website": "mindmatrix.net",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.mindmatrix.net/gdpr-compliance/"
+        }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 809,
+      "name": "Vuture",
+      "description": "Preferred technology partner for professional services to create and deliver personalised digital experiences",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vutu.re",
+      "website": "vutu.re",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://vutu.re/trust-hub/" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://vutu.re/terms-and-conditions/privacy.aspx"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://vutu.re/terms-and-conditions/privacy.aspx"
+        },
+        { "protocolId": 7, "sourceUrl": "https://vutu.re/trust-hub/" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 849,
+      "name": "MediaBeacon",
+      "description": "World-class digital asset management (DAM) and marketing asset management (MAM) software that helps brands store, manage, and distribute digital assets. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mediabeacon.com",
+      "website": "mediabeacon.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1877, "name": "Digital Media" }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Jabmo",
+      "description": "Forrester Research finds Jabmo is leading platform for account-based marketing (ABM) and best for industrial manufacturers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jabmo.com",
+      "website": "jabmo.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://jabmo.com/dpa/" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://jabmo.com/jabmo-privacy-shield-notice/"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1938, "name": "B2B" }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Braze",
+      "description": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/braze.com",
+      "website": "braze.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.braze.com/perspectives/article/hipaa-compliance"
+        },
+        { "protocolId": 4, "sourceUrl": "https://www.braze.com/privacy/" },
+        {
+          "protocolId": 5,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified "
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.braze.com/perspectives/article/braze-soc-2-iso-27001-certified"
+        },
+        { "protocolId": 2, "sourceUrl": "https://www.braze.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 851,
+      "name": "Bynder",
+      "description": "Award-winning brand management and digital asset management software and has been voted #1 in terms of user-friendliness, support and security.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bynder.com",
+      "website": "bynder.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.bynder.com/en/legal/privacy-policy/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.bynder.com/en/legal/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1939, "name": "Brand Marketing" }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "AskNicely",
+      "description": "Collect customer experience feedback on a daily basis  and empower your team to take immediate action to drive retention, upgrades, reviews and referrals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/asknicely.com",
+      "website": "asknicely.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://www.asknicely.com/privacy" },
+        { "protocolId": 4, "sourceUrl": "https://www.asknicely.com/privacy" }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 755,
+      "name": "Acquisio",
+      "description": "From search and social advertising to programmatic, our team of experts help you supercharge and simplify campaign management in one easy platform.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/acquisio.com",
+      "website": "acquisio.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.acquisio.com/blog/innovation/4-reasons-to-get-excited-about-acquisios-new-callrail-integration/"
+        }
+      ],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2452, "name": "Local Business" }
+      ]
+    },
+    {
+      "id": 813,
+      "name": "Act-On Software",
+      "description": "Act-On Software is a software-as-a-service product for marketing automation developed by Act-On, a company headquartered in Portland, Oregon.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/act-on.com",
+      "website": "act-on.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.act-on.com/resources/gdpr/"
+        }
+      ],
+      "categories": [
+        { "id": 2335, "name": "Computer" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Bluecore",
+      "description": "Double your email revenue with the personalization solution of choice for the world's fastest growing retailers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluecore.com",
+      "website": "bluecore.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.bluecore.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.bluecore.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.bluecore.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 821,
+      "name": "Adestra",
+      "description": "Adestra's powerful, easy-to-use Email Marketing Software can be customized, configuring the structure of the system to your business requirements.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/adestra.com",
+      "website": "adestra.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.adestra.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Autopilot",
+      "description": "Marketing Automation Software, Autopilot is simple and visual customer journey software. Put your marketing automation on Autopilot and get a free demo of our software.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/autopilothq.com",
+      "website": "autopilothq.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.autopilothq.com/legal/privacy-shield"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.autopilothq.com/legal/privacy-shield"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2027, "name": "Lead Management" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1861, "name": "Developer Tools" }
+      ]
+    },
+    {
+      "id": 731,
+      "name": "Attendify",
+      "description": "Build elegant event apps and registration pages to elevate the entire attendee experience and put your event data to work. Start creating your event for free.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/attendify.com",
+      "website": "attendify.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://attendify.com/terms_of_service/"
+        },
+        { "protocolId": 7, "sourceUrl": "https://attendify.com/dpa/" }
+      ],
+      "categories": [
+        { "id": 1812, "name": "Mobile" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 2002, "name": "Event Management" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1840, "name": "Private Social Networking" },
+        { "id": 1818, "name": "Events" }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Agile CRM",
+      "description": "Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and marketing automation for small businesses.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/agilecrm.com",
+      "website": "agilecrm.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.agilecrm.com/gdpr-compliance"
+        }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1816, "name": "Social CRM" }
+      ]
+    },
+    {
+      "id": 852,
+      "name": "BlogDash",
+      "description": "For businesses, BlogDash helps them find, research and engage with the right bloggers for their specific needs and goals.    For bloggers, BlogDash let's them establish their \"pitch preferences\" and present themselves as a professional... like linkedin...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/blogdash.com",
+      "website": "blogdash.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 222,
+      "name": "ActiveCampaign",
+      "description": "Integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with sales automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/activecampaign.com",
+      "website": "activecampaign.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.activecampaign.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.activecampaign.com/legal/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.activecampaign.com/gdpr-updates/"
+        }
+      ],
+      "categories": [
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    }
+  ]
+}

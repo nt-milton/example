@@ -1,0 +1,92 @@
+<h1 id="over">Overview</h1>
+<p>
+	{{ organization.name }}, and its majority-owned subsidiary companies (each a "Company" or collectively "{{ organization.name }}") are committed to maintaining the confidentiality, integrity and availability of Confidential Information (including Company information, Personal Information, and Customer Information). {{ organization.name }} embodies this in specific, required security procedures, as detailed in this Report ("Report"). The Report, in conjunction with more detailed standards, guidelines, and procedures developed by {{ organization.name }} and distributed separately, summarizes  {{ organization.name }}'s requirements with respect to the use, storage and transmittal of Confidential Information.
+<p>	
+<h1 id="over">Documentation</h1>
+<p>
+	All Employees and Vendors are required to comply with the Policies and Procedures set forth by {{ organization.name }}.  The Information Security Program, Policies, and Procedures were
+  	designed with industry security standards in mind and often exceed those
+  	standards including OWASP and meeting or exceeding the legal, statutory, and
+  	regulatory compliance obligations.
+</p>
+	<h2>Policies</h2>
+	{% for policy in policies %}
+	<h3>{{policy.name}}</h3>
+	<p>{{policy.description}}</p>
+	{% endfor %}
+
+</p>
+<h1>Roles and Responsibilities</h1>
+<p>
+  The implementation of the aforementioned Policies and Procedures requires a
+  clear definition of security roles and responsibilities. {{ organization.name }} establishes and
+  maintains the Information Security Program managed by the following officers:
+</p>
+<h2>Officers</h2>
+{% for officer in officers %}
+<h3>{{officer.name}}</h3>
+<p>{{officer.description}}</p>
+{% endfor %}
+
+<p>
+	In addition to the Officers, {{ organization.name }} has established the following Teams and Committees to support the operation of the Information Security Program
+<p>
+
+<h2>Teams</h2>
+{% for team in teams %}
+<h3>{{team.name}}</h3>
+<p>{{team.description}}</p>
+{% endfor %}
+
+
+<div class="new-page">&nbsp;</div>
+
+<h1>Common Definitions</h1>
+<table aria-describedby="Report Template">
+  <thead>
+    <th id="term">Term</th>
+    <th id="definition">Definition</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Application, Business Unit or Product</td>
+      <td>
+        A logical element or segment of a company (such as DevOps, Corporate
+        DevOps, MIDAS etc.) representing a specific business function, and a
+        definite place on the organizational chart, under the domain of a
+        manager. Also, called department, division, or a functional area.
+      </td>
+    </tr>
+    <tr>
+      <td>Company Information</td>
+      <td>
+        All materials or information in whatever form, whether written, oral,
+        digital, or otherwise, (a) that is defined as "confidential” or a "trade
+        secret” under any {{ organization.name }} Policy or under any agreement to which {{ organization.name }} is a
+        party; (b) that is subject to special protections that require
+        confidentiality under any law or regulation; (c) that is non-public and
+        that relates to {{ organization.name }}'s finances, customers, employees, operations,
+        research, development, facilities, or business, and (d) Customer
+        Information
+      </td>
+    </tr>
+    <tr>
+      <td>Confidential Information</td>
+      <td>
+        Shall mean certain non-public information acquired by employees in the
+        course of employment which is treated as confidential by the Company or
+        a Company client. It also includes any and all information entrusted by
+        the Company in confidence by third parties, its patents and copyrights
+        and any and all information defined as "trade secrets” under federal or
+        state law.
+      </td>
+    </tr>
+    <tr>
+      <td>Customer</td>
+      <td>
+        An individual or entity who is a consumer and with whom {{ organization.name }} has or had
+        an ongoing customer relationship.
+      </td>
+    </tr>
+  </tbody>
+</table>

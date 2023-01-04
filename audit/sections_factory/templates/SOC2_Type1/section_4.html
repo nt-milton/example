@@ -1,0 +1,478 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <style type="text/css" media="screen,print">
+            .pb_before {
+                page-break-before: always !important;
+            }
+
+            .pb_after {
+                page-break-after: always !important;
+            }
+
+            thead {
+                display: table-header-group;
+            }
+
+            tfoot {
+                display: table-row-group;
+            }
+
+            body {
+                font-family: Arial !important;
+                line-height: 1.63 !important;
+            }
+
+            tr, td, th, tbody, thead, tfoot {
+                page-break-inside: avoid !important;
+            }
+        </style>
+        <title>Draft Report</title>
+    </head>
+
+    <body>
+        <h1 id="mcetoc_1fiubplrmmc" class="pb_before">
+            <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px"> <strong>Section IV: Trust Services Criteria and Related Controls Relevant to the {{TSCs}} {{category_copy}}</strong> </span>
+        </h1>
+        <p> <span style="font-size: 10pt">This SOC 2 Type 1 Report was prepared in accordance with the AICPA Attestation Standards based on the criteria for a description of a service organization&rsquo;s system set forth in DC Section 200, 2018 Description Criteria for a Description of a Service Organization&rsquo;s System in a SOC 2&reg; Report (AICPA, Description Criteria), (description criteria) and the suitability of the design of controls stated in the description as of {{ as_of_date|date:'F d, Y' }}. This section of the report includes 2 tables: </span> </p>
+        <p> <span style="font-size: 10pt">Table 1: {{ client }} Controls Mapped to the {{ TSCs }} Criteria</span> </p>
+        <p> <span style="font-size: 10pt">Table 2: Description of the Applicable Control Activities</span> </p>
+        <p> <span style="font-size: 14pt"><strong>Table 1: {{ client }} Controls Mapped to the {{ TSCs }} Criteria</strong></span> </p>
+
+        {% if control_environment|length > 0 %}
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="control-environment-table">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC1.0 - Control Environment</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for control_environment in control_environment %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ control_environment.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                    {% for requirement in control_environment.requirements %}
+                    <p style="padding: 2px; margin: 0">
+                        <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                    </p>
+                    {% endfor %}
+                </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ control_environment.description }} </td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if communication_information|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="communication_information">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC2.0 - Communication and Information</strong></th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for communication_information in communication_information %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ communication_information.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                    {% for requirement in communication_information.requirements %}
+                    <p style="padding: 2px; margin: 0">
+                        <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                    </p>
+                    {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ communication_information.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if risk_assessment|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="risk_assessment">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%;border: 1px solid #000000;padding-left: 10px; padding-right: 10px;color: #000000;font-size: 12pt;" colspan="3"> <strong>CC3.0 - Risk Assessment</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for risk_assessment in risk_assessment %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ risk_assessment.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in risk_assessment.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}">{{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ risk_assessment.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if monitoring_activities|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="monitoring_activities">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC4.0 - Monitoring Activities</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for monitoring_activities in monitoring_activities %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ monitoring_activities.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in monitoring_activities.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ monitoring_activities.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+
+        {% if control_activities|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="control_activities">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC5.0 - Control Activities</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for control_activities in control_activities %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ control_activities.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in control_activities.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ control_activities.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if logical_physical_access|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="logical_physical_access">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC6.0 - Logical and Physical Access</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for logical_physical_access in logical_physical_access %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% if logical_physical_access.display_id != 'LCL-0' %}
+                            {{ logical_physical_access.display_id }}
+                        {% endif %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                    {% for requirement in logical_physical_access.requirements %}
+                        {% if requirement.display_id == 'LCL-0' %}
+                            N/A: {{ LCL_0 }}
+                        {% endif %}
+                        {% if requirement.display_id != 'LCL-0' %}
+                            <p style="padding: 2px; margin: 0">
+                                <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                            </p>
+                        {% endif %}
+                    {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ logical_physical_access.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if system_operations|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="system_operations">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC7.0 - System Operations</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for system_operations in system_operations %} <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ system_operations.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in system_operations.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ system_operations.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if change_management|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="change_management">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC8.0 - Change Management</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for change_management in change_management %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ change_management.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in change_management.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ change_management.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if risk_mitigation|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="risk_mitigation">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>CC9.0 - Risk Mitigation</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for risk_mitigation in risk_mitigation %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ risk_mitigation.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in risk_mitigation.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ risk_mitigation.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if additional_criteria_availability|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="additional_criteria_availability">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>A1.0 - Additional Criteria Availability</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for additional_criteria_availability in additional_criteria_availability %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ additional_criteria_availability.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in additional_criteria_availability.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ additional_criteria_availability.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+        {% if additional_criteria_confidentiality|length > 0 %}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="additional_criteria_confidentiality">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>C1.0 - Additional Criteria Confidentiality</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for additional_criteria_confidentiality in additional_criteria_confidentiality %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ additional_criteria_confidentiality.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in additional_criteria_confidentiality.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ additional_criteria_confidentiality.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+
+        {% if additional_criteria_processing_integrity|length > 0%}
+        <p>&nbsp;</p>
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="additional_criteria_processing_integrity">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>PI1.0 - Additional Criteria Processing Integrity</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+            {% for additional_criteria_processing_integrity in additional_criteria_processing_integrity %}
+            <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ additional_criteria_processing_integrity.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in additional_criteria_processing_integrity.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ additional_criteria_processing_integrity.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+
+        {% if additional_criteria_privacy|length > 0 %}
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="additional_criteria_privacy">
+            <thead>
+                <tr style="background-color: #c2e0f4; text-align: left">
+                    <th style="width: 100%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 12pt;" colspan="3"> <strong>P1.0 - Additional Criteria Privacy</strong> </th>
+                </tr>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f">
+                    <td style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Criteria </td>
+                    <td style="width: 20%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt;"> Applicable Control Activities </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; color: #151b3f; font-size: 10pt;"> Criteria Description </td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for additional_criteria_privacy in additional_criteria_privacy %}
+                <tr>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> {{ additional_criteria_privacy.display_id }} </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;">
+                        {% for requirement in additional_criteria_privacy.requirements %}
+                        <p style="padding: 2px; margin: 0">
+                            <a style="text-decoration: none; color: #151b3f" href="#{{ requirement.display_id }}"> {{ requirement.display_id }} </a>
+                        </p>
+                        {% endfor %}
+                    </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt; color: #000000;"> {{ additional_criteria_privacy.description }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+
+        <p class="pb_before"> <span style="font-size: 14pt"><strong>Table 2: Description of the Applicable Control Activities</strong></span> </p>
+        <p> <span style="font-size: 10pt">Control activities tested in connection with determining the design of controls relative to the applicable Trust Services Criteria are described below.</span> </p>
+
+        {% if requirements|length > 0 %}
+        <table style="border-collapse: collapse; width: 100%; height: 159px; border: 1px solid #000000;" aria-label="test-control-table">
+            <thead>
+                <tr style="background-color: #ecf0f1; text-align: left; color: #151b3f;">
+                    <th style="width: 10%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"> <strong>Control #</strong> </th>
+                    <th style="width: 90%; border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-size: 10pt;"> <strong>Applicable Control Activities</strong> </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for requirement in requirements %}
+                <tr style="text-align: left">
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; font-weight: 700; font-size: 10pt; color: #151b3f;"> <a id="{{ requirement.display_id }}"> {{ requirement.display_id }} </a> </td>
+                    <td style="border: 1px solid #000000; padding-left: 10px; padding-right: 10px; color: #000000; font-size: 10pt; vertical-align: top;"> {{ requirement.description|replace_eol_to_line_break|safe }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </body>
+</html>

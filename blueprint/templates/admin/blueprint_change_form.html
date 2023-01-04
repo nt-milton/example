@@ -1,0 +1,48 @@
+{% extends 'admin/change_form.html' %}
+{% load i18n admin_urls admin_modify static %}
+
+{% block extrastyle %}
+    {{ block.super }}
+    <style type="text/css">
+        div#content {
+            margin: 0;
+            padding: 12px;
+        }
+        h1 {
+            margin: 20px 0;
+            font-weight: 600;
+            font-size: 20px;
+            color: black;
+        }
+
+        form .aligned ul {
+            margin: 15px;
+            padding: 0;
+        }
+        form .aligned ul li {
+            list-style: disc;
+        }
+        .framework-title {
+            margin-bottom: 12px;
+            padding: 0 !important;
+            font-size: 15px;
+        }
+        .framework-block{
+            margin-bottom: 12px;
+            box-shadow: rgb(221 221 221) 0px 0px 5px 0px;
+            padding: 5px;
+        }
+        .field-framework-sections {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .field-reference_id div.readonly {
+            display: table-cell;
+            width: auto;
+            background: #664FB7;
+            color: #fff;
+            border-radius: 24px;
+            padding: 4px 6px !important;
+        }
+    </style>
+{% endblock %}

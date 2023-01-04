@@ -1,0 +1,15 @@
+[
+  {
+    "id": "",
+    "name": "organization-1",
+    "display_name": "Acme Users",
+    "branding": {
+      "logo_url": "",
+      "colors": {
+        "primary": "",
+        "page_background": ""
+      }
+    },
+    "metadata": {}
+  }
+]

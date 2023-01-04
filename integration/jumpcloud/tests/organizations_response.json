@@ -1,0 +1,12 @@
+{
+    "totalCount": 1,
+    "results": [
+        {
+            "_id": "fake_organization",
+            "id": "fake_organization",
+            "displayName": "Laika",
+            "logoUrl": null,
+            "created": "2022-10-28T14:56:42.375Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{% extends 'admin/change_form.html' %}
+{% load i18n admin_urls admin_modify static %}
+
+{% block submit_buttons_bottom %}
+{{ block.super }}
+    {% if show_delete %}
+        <div class="submit-row" style="text-align: center;background: transparent;border: none;">
+            <div style="margin-top: 50px; margin-bottom: 5px">
+                Upon clicking this button, you will delete all the database data and AWS data associated to this organization
+            </div>
+            <input
+                type="submit"
+                value="Delete Organization"
+                name="_delete_organization"
+                style="
+                background-color: #ba2121;"
+            >
+        </div>
+    {% endif %}
+{% endblock submit_buttons_bottom %}

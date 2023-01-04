@@ -1,0 +1,14 @@
+{
+    "count": 1,
+    "value": [
+        {
+            "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+            "name": "Compliance",
+            "url": "https://dev.azure.com/Laika-compliance-test/_apis/projects/dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+            "state": "wellFormed",
+            "revision": 11,
+            "visibility": "private",
+            "lastUpdateTime": "2022-09-23T00:13:30.48Z"
+        }
+    ]
+}

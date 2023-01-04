@@ -1,0 +1,37 @@
+{
+  "data": {
+    "organization": {
+      "name": "autobots",
+      "repositories": {
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHODu-ArA==",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "name": "autobots-web",
+            "owner": {
+              "name": "autobots-user"
+            },
+            "isDisabled": false,
+            "isPrivate": true,
+            "updatedAt": "2021-01-22T18:04:20Z",
+            "createdAt": "2020-01-14T21:48:30Z",
+            "url": "https://github.com/autobots/autobots-web"
+          },
+          {
+            "name": "autobots-app",
+            "owner": {
+              "name": "autobots"
+            },
+            "isDisabled": false,
+            "isPrivate": false,
+            "updatedAt": "2021-01-22T18:04:20Z",
+            "createdAt": "2020-01-14T21:48:30Z",
+            "url": "https://github.com/autobots/autobots-app"
+          }
+        ]
+      }
+    }
+  }
+}

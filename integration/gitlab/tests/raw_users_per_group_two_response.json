@@ -1,0 +1,37 @@
+{
+  "data": {
+    "group": {
+      "groupMembers": {
+        "pageInfo": {
+          "endCursor": "eyJpZCI6Ijg5NzAxNDIifQ",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "user": {
+              "groupMemberships": {
+                "nodes": [
+                  {
+                    "accessLevel": {
+                      "stringValue": "REPORTER"
+                    },
+                    "group": {
+                      "name": "laika-test-two",
+                      "requireTwoFactorAuthentication": false
+                    }
+                  }
+                ]
+              },
+              "id": "gid://gitlab/User/2471396",
+              "name": "jeffrey-group-2",
+              "publicEmail": ""
+            }
+          },
+          {
+            "user": null
+          }
+        ]
+      }
+    }
+  }
+}

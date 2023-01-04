@@ -1,0 +1,158 @@
+[
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/2",
+      "description":"Stories related to the API Server and our Backend",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#67ad36",
+      "name":"API Server",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":2,
+      "show_thermometer":true,
+      "team_id":1,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":2,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/3",
+      "description":"Stories related to Infrastructure",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#512acf",
+      "name":"Infrastructure",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":3,
+      "show_thermometer":true,
+      "team_id":1,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":2,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/6",
+      "description":"When managing a Product Backlog with a separate Workflow, you can use Projects to categorize Stories by product area or feature.",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#ff5555",
+      "name":"Product Area 1",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":6,
+      "show_thermometer":true,
+      "team_id":5,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":0,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/7",
+      "description":"When managing a Product Backlog with a separate Workflow, you can use Projects to categorize Stories by product area or feature.",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#a3c5eb",
+      "name":"Product Area 2",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":7,
+      "show_thermometer":true,
+      "team_id":5,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":0,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/8",
+      "description":"When managing a Product Backlog with a separate Workflow, you can use Projects to categorize Stories by product area or feature.",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#8b78fa",
+      "name":"Product Area 3",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":8,
+      "show_thermometer":true,
+      "team_id":5,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":0,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   },
+   {
+      "app_url":"https://app.shortcut.com/laika-test/project/4",
+      "description":"Stories related to the Web App and our Frontend",
+      "archived":false,
+      "entity_type":"project",
+      "days_to_thermometer":5,
+      "color":"#efb043",
+      "name":"Web App",
+      "start_time":"2020-12-21T19:46:57Z",
+      "updated_at":"2020-12-21T19:46:57Z",
+      "follower_ids":[
+
+      ],
+      "external_id":"None",
+      "id":4,
+      "show_thermometer":true,
+      "team_id":1,
+      "iteration_length":2,
+      "abbreviation":"None",
+      "stats":{
+         "num_stories":4,
+         "num_points":0,
+         "num_related_documents":0
+      },
+      "created_at":"2020-12-21T19:46:57Z"
+   }
+]

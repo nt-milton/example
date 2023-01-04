@@ -1,0 +1,76 @@
+{% load replace_eol_to_line_break %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style type="text/css" media="screen,print">
+        .pb_before {
+            page-break-before: always !important;
+        }
+
+        .pb_after {
+            page-break-after: always !important;
+        }
+        thead {
+            display: table-row-group;
+        }
+        tfoot {
+            display: table-row-group;
+        }
+        body {
+            font-family: Arial !important;
+            line-height: 1.63 !important;
+        }
+        tr, td, th, tbody, thead, tfoot {
+            page-break-inside: avoid !important;
+        }
+    </style>
+    <title>Draft Report</title>
+  </head>
+  <body>
+    <h1 id="mcetoc_1fiubplrmmc" class="pb_before">
+        <span style="font: bold 21px 'Arial'; color: #1e3c57; line-height: 24px;"><strong>Section II: Assertion of {% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}&rsquo;s Management</strong></span>
+    </h1>
+    <p><span style="font-size: 10pt;">We have prepared the accompanying description in Section 3 titled “{{client}}&rsquo;s Description of its {{system_name}} for the period {{review_period}}” (description), based on the criteria for a description of a service organization&rsquo;s system set forth in DC Section 200, 2018 Description Criteria for a Description of a Service Organization&rsquo;ss System in a SOC 2® Report (AICPA, Description Criteria) (description criteria). The description is intended to provide report users with information about the {{system_name}} that may be useful when assessing the risks arising from interactions with {{client}}&rsquo;s system, particularly information about system controls that {{client}} has designed, implemented and operated to provide reasonable assurance that its service commitments and system requirements were achieved based on the trust services criteria relevant to {{TSCs}} (applicable trust services criteria) set forth in TSP Section 100, 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (AICPA, Trust Services Criteria).</span></p>
+
+    <p><span style="font-size: 10pt;">{{client}} uses a subservice organization for data center and colocation services. The description indicates that complementary subservice organization controls that are suitably designed and operating effectively are necessary, along with controls at {{client}}, to achieve {{client}}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{client}}&rsquo;s controls, the applicable trust services criteria, and the types of complementary subservice organization controls assumed in the design of {{client}}&rsquo;s controls. The description does not disclose the actual controls at the subservice organization.</span></p>
+
+    <p><span style="font-size: 10pt;">The description indicates that complementary user entity controls that are suitably designed and operating effectively are necessary, along with controls at {{client}}, to achieve {{client}}&rsquo;s service commitments and system requirements based on the applicable trust services criteria. The description presents {{client}}&rsquo;s controls, the applicable trust services criteria, and the complementary user entity controls assumed in the design of {{client}}&rsquo;s controls.</span></p>
+
+    <p><span style="font-size: 10pt;">We confirm, to the best of our knowledge and belief, that:</span></p>
+    <ul>
+        <li aria-level="1">
+          <span style="font-size: 10pt;">The description presents the {{system_name}}  that was designed and implemented throughout the period {{review_period}}, in accordance with the description criteria.</span>
+        </li>
+        <li aria-level="1">
+          <span style="font-size: 10pt;">The controls stated in the description were suitably designed throughout the period {{review_period}}, to provide reasonable assurance that {{client}}&rsquo;s service commitments and system requirements would be achieved based on the applicable trust services criteria, if its controls operated effectively throughout that period, and if the subservice organization and user entities applied the complementary controls assumed in the design of {{client}}&rsquo;s controls throughout that period.</span>
+        </li>
+        <li aria-level="1">
+          <span style="font-size: 10pt;">The controls stated in the description operated effectively throughout the period {{review_period}}, to provide reasonable assurance that {{client}}&rsquo;s service commitments and system requirements were achieved based on the applicable trust services criteria, if complementary subservice organization controls and complementary user entity controls assumed in the design of {{client}}&rsquo;s controls operated effectively throughout that period.</span>
+        </li>
+        {% if has_qualified_criteria %}
+          <li aria-level="1">
+            <span style="font-size: 10pt;">Except for the effects of the matter described in the following paragraph, the controls stated in the description operated effectively throughout the period {{review_period}}, to provide reasonable assurance that {{client}}&rsquo;s service commitments and system requirements were achieved based on the applicable trust services criteria, if complementary subservice organization controls and complementary user entity controls assumed in the design of {{client}}&rsquo;s controls operated effectively throughout that period.</span>
+          </li>
+        {% endif %}
+    </ul>
+
+    {% if has_qualified_criteria %}
+      <p><span style="font-size: 10pt;">Our description states that changes to software components of the service are authorized, formally documented, tested, reviewed, and approved prior to being implemented in the production environment. However, as noted on page 44 of the tests of controls and results thereof, this control was not operating effectively throughout the period {{review_period}}.</span></p>
+      <p><span style="font-size: 10pt;">This resulted in the nonachievement of Trust Service Criterion 8.1: “The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.” throughout the period {{review_period}}.</span></p>
+    {% endif %}
+
+    {% if not_tested_controls|length > 0 %}
+        <p><span style="font-size: 10pt;">Our description of the {{system_name}} discusses the following {% if not_tested_controls|length > 1%} controls {% else %} control {% endif %} implemented during the period {{review_period}} that {% if not_tested_controls|length > 1%} were {% else %} was {% endif %} not required to operate due to non occurrence of the {% if not_tested_controls|length > 1%} activities {% else %} activity {% endif %}:</span></p>
+        <ul>
+            {% for requirement in not_tested_controls %}
+            <li aria-level="1">
+                <span style="font-size: 10pt;">{{requirement.display_id}}: {{requirement.description}}</span>
+            </li>
+            {% endfor %}
+        </ul>
+        <p><span style="font-size: 10pt;">During the period {{review_period}}, {{client}} did not experience the above control {% if not_tested_controls|length > 1%} activities {% else %} activity {% endif %} that would warrant the operation of the {% if not_tested_controls|length > 1%} controls {% else %} control {% endif %} during the period.</span></p>
+    {% endif %}
+    <p><span style="font-size: 10pt;">{% if company_legal_name %}{{ company_legal_name }}{% else %}<span style="background: yellow;">Company Legal Name</span>{% endif %}</span></p>
+  </body>
+</html>

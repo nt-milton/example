@@ -1,0 +1,33 @@
+{
+      "id": 111111,
+      "account": {
+        "login": "heylaika",
+        "id": 111,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NDA1ODM2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88405836?v=4",
+        "gravatar_id": "",
+        "type": "User",
+        "site_admin": false
+      },
+      "repository_selection": "all",
+      "app_id": 129988,
+      "app_slug": "test-app-laika",
+      "target_id": 88405836,
+      "target_type": "Organization",
+      "permissions": {
+        "actions": "read",
+        "members": "read",
+        "metadata": "read",
+        "pull_requests": "read",
+        "administration": "read",
+        "organization_administration": "read"
+      },
+      "events": [],
+      "created_at": "2021-08-13T15:02:57.000Z",
+      "updated_at": "2021-08-13T15:02:58.000Z",
+      "single_file_name": null,
+      "has_multiple_single_files": false,
+      "single_file_paths": [],
+      "suspended_by": null,
+      "suspended_at": null
+    }

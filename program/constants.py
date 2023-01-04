@@ -1,0 +1,56 @@
+GETTING_STARTED_TIER = 'getting_started'
+NEXT_STEPS_TIER = 'next_steps'
+FINISH_LINE_TIER = 'finish_line'
+
+SUBTASK_COMPLETED_STATUS = 'completed'
+SUBTASK_NOT_APPLICABLE_STATUS = 'not_applicable'
+SUBTASK_IN_PROGRESS_STATUS = 'in_progress'
+SUBTASK_DEFAULT_STATUS = 'not_started'
+
+SUBTASKS_ACTION_ITEMS_STATUS = [SUBTASK_DEFAULT_STATUS, SUBTASK_IN_PROGRESS_STATUS]
+
+SUBTASK_ALL_STATUS = [
+    SUBTASK_COMPLETED_STATUS,
+    SUBTASK_DEFAULT_STATUS,
+    SUBTASK_NOT_APPLICABLE_STATUS,
+]
+
+MAPPED_TASKS_TIERS = {
+    'Getting Started': GETTING_STARTED_TIER,
+    'Next Steps': NEXT_STEPS_TIER,
+    'Finish Line': FINISH_LINE_TIER,
+}
+
+SUBTASK_PRIORITIES = (
+    ('required', 'Required'),
+    ('key', 'Key'),
+    ('recommended', 'Recommended'),
+)
+SUBTASK_PRIORITY_DEFAULT = 'required'
+
+SUBTASK_DOCUMENTATION = 'documentation'
+SUBTASK_POLICY = 'policy'
+SUBTAKS_IMPLEMENTATION = 'implementation'
+
+SUBTASK_GROUP = (
+    (SUBTASK_DOCUMENTATION, 'Documentation'),
+    (SUBTASK_POLICY, 'Policy'),
+    (SUBTAKS_IMPLEMENTATION, 'Implementation'),
+)
+
+SUBTASK_STATUS = (
+    (SUBTASK_COMPLETED_STATUS, 'Completed'),
+    (SUBTASK_NOT_APPLICABLE_STATUS, 'Not Applicable'),
+    (SUBTASK_IN_PROGRESS_STATUS, 'In Progress'),
+    (SUBTASK_DEFAULT_STATUS, 'Not Started'),
+)
+
+TASK_TIERS = (
+    (GETTING_STARTED_TIER, 'Getting Started'),
+    (NEXT_STEPS_TIER, 'Next Steps'),
+    (FINISH_LINE_TIER, 'Finish Line'),
+)
+
+SUBTASK_MONITOR_STATUS_EMPTY = 'Empty'
+SUBTASK_MONITOR_STATUS_NO_RELATED = 'No Monitors Related'
+SUBTASK_MONITOR_STATUS_RELATED = 'Monitors Related'

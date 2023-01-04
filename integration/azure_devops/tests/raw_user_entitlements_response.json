@@ -1,0 +1,118 @@
+{
+    "user": {
+        "subjectKind": "user",
+        "metaType": "member",
+        "domain": "23c84fd4-9e41-423e-a69c-70a30af22ccc",
+        "principalName": "DiegoS@8g0k51.onmicrosoft.com",
+        "mailAddress": "DiegoS@8g0k51.onmicrosoft.com",
+        "origin": "aad",
+        "originId": "76f7d8d5-7d26-454d-8cd5-8e10e880b55d",
+        "displayName": "Diego Siciliani",
+        "_links": {
+            "self": {
+                "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Users/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "memberships": {
+                "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Memberships/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "membershipState": {
+                "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/MembershipStates/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "storageKey": {
+                "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/StorageKeys/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            },
+            "avatar": {
+                "href": "https://dev.azure.com/Laika-compliance-test/_apis/GraphProfile/MemberAvatars/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+            }
+        },
+        "url": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Users/aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux",
+        "descriptor": "aad.OGE2OWNiNzItYWVlNS03YTFlLWI0YTUtNDg0YTU2Y2NhN2Ux"
+    },
+    "extensions": [],
+    "id": "8a69cb72-aee5-6a1e-b4a5-484a56cca7e1",
+    "accessLevel": {
+        "licensingSource": "account",
+        "accountLicenseType": "express",
+        "msdnLicenseType": "none",
+        "licenseDisplayName": "Basic",
+        "status": "active",
+        "statusMessage": "",
+        "assignmentSource": "unknown"
+    },
+    "lastAccessedDate": "2022-09-27T15:31:34.5293952Z",
+    "dateCreated": "2022-09-22T00:59:59.806456Z",
+    "projectEntitlements": [
+        {
+            "projectRef": {
+                "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                "name": "Compliance"
+            },
+            "group": {
+                "groupType": "projectAdministrator",
+                "displayName": "Project Administrators"
+            },
+            "projectPermissionInherited": "inherited",
+            "teamRefs": [],
+            "assignmentSource": "groupRule"
+        }
+    ],
+    "groupAssignments": [
+        {
+            "id": "6bfef685-8a27-4955-a122-173b638faa0e",
+            "group": {
+                "subjectKind": "group",
+                "description": "",
+                "domain": "vstfs:///Framework/IdentityDomain/9104eac7-83b3-4288-bf94-43e934ac13cc",
+                "principalName": "[Laika-compliance-test]\\Custom Group",
+                "mailAddress": null,
+                "origin": "vsts",
+                "originId": "6bfef685-8a27-4955-a122-173b638faa0e",
+                "displayName": "Custom Group",
+                "_links": {
+                    "self": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Groups/vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0"
+                    },
+                    "memberships": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Memberships/vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0"
+                    },
+                    "membershipState": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/MembershipStates/vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0"
+                    },
+                    "storageKey": {
+                        "href": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/StorageKeys/vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0"
+                    }
+                },
+                "url": "https://vssps.dev.azure.com/Laika-compliance-test/_apis/Graph/Groups/vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0",
+                "descriptor": "vssgp.Uy0xLTktMTU1MTM3NDI0NS0zMzU0MDAyNTc3LTMwMTE3NDE3NjItMzIxNDE2NDk2OS04ODM2OTI0OTItMS0zMTg5MTIyODA0LTIyMDQ4MjU5MjYtMjUxMTYwNTE4Mi0xOTY4OTc0OTM0"
+            },
+            "members": null,
+            "licenseRule": {
+                "licensingSource": "account",
+                "accountLicenseType": "stakeholder",
+                "msdnLicenseType": "none",
+                "licenseDisplayName": "Stakeholder",
+                "status": "active",
+                "statusMessage": "",
+                "assignmentSource": "unknown"
+            },
+            "extensionRules": [],
+            "projectEntitlements": [
+                {
+                    "projectRef": {
+                        "id": "dc6f2e94-a5d8-4add-856f-6e4344aa1e95",
+                        "name": "Compliance"
+                    },
+                    "group": {
+                        "groupType": "projectContributor",
+                        "displayName": "Project Contributors"
+                    },
+                    "projectPermissionInherited": "notInherited",
+                    "teamRefs": [],
+                    "assignmentSource": "unknown"
+                }
+            ],
+            "status": "applied",
+            "lastExecuted": "2022-09-27T16:01:09.8423147+00:00"
+        }
+    ]
+}

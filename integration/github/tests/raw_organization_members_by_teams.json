@@ -1,0 +1,36 @@
+{
+  "data": {
+    "organization": {
+      "teams": {
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpMCq2xhaWthLWF1ZGl0zgBI-OA=",
+          "hasNextPage": false
+        },
+        "nodes": [
+          {
+            "name": "Hey Laika",
+            "members": {
+              "nodes": [
+                {
+                  "login": "ronaldzuniga"
+                },
+                {
+                  "login": "juanialt"
+                },
+                {
+                  "login": "Tomas1807"
+                },
+                {
+                  "login": "ottozuniga"
+                },
+                {
+                  "login": "laika_admin_member_1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

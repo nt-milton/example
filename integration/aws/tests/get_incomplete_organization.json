@@ -1,0 +1,11 @@
+{
+    "Id": "232142",
+    "Arn": "test/arn",
+    "FeatureSet": "ALL",
+    "MasterAccountArn": "some-arn",
+    "MasterAccountId": "id73jda3",
+    "MasterAccountEmail": "test@test.com",
+    "AvailablePolicyTypes": [
+        {"Type": "SERVICE_CONTROL_POLICY", "Status": "ENABLED"}
+    ]
+}

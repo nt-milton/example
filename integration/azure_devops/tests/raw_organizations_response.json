@@ -1,0 +1,11 @@
+{
+    "count": 1,
+    "value": [
+        {
+            "accountId": "9104eac7-83b3-4288-bf94-43e934ac13cc",
+            "accountUri": "https://vssps.dev.azure.com:443/Laika-compliance-test/",
+            "accountName": "Laika-compliance-test",
+            "properties": {}
+        }
+    ]
+}

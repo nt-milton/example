@@ -1,0 +1,1917 @@
+{
+  "id": 2034,
+  "name": "Advertising",
+  "vendors": [
+    {
+      "id": 1129,
+      "name": "Pinterest",
+      "description": "Pinterest, Inc. is a social media web and mobile application company.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pinterest.com",
+      "website": "pinterest.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://policy.pinterest.com/en/privacy-policy-preview"
+        }
+      ],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2391, "name": "Social Network" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1903, "name": "Social Bookmarking" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Cloudflare",
+      "description": "Cloudflare, Inc. is an American web infrastructure and website security company, providing content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/cloudflare.com",
+      "website": "cloudflare.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.cloudflare.com/compliance/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.cloudflare.com/privacyshield/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.cloudflare.com/privacyshield/"
+        },
+        {
+          "protocolId": 6,
+          "sourceUrl": "https://www.cloudflare.com/compliance/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.cloudflare.com/gdpr/introduction/"
+        }
+      ],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2322, "name": "Ad Server" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 846,
+      "name": "Swagbucks",
+      "description": "Swagbucks.com is a rewards and loyalty-program operator operated by Prodege LLC, and based in El Segundo, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/swagbucks.com",
+      "website": "swagbucks.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2122, "name": "Virtual Currency" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2206, "name": "Gift Card" }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Doodle",
+      "description": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/doodle.com",
+      "website": "doodle.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2233, "name": "Subscription Service" },
+        { "id": 1808, "name": "Freemium" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2013, "name": "Meeting Software" }
+      ]
+    },
+    {
+      "id": 626,
+      "name": "SimilarWeb",
+      "description": "Grow your market share and website traffic with SimilarWeb's digital market intelligence platform. Compare any website traffic statistics & analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/similarweb.com",
+      "website": "similarweb.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2085, "name": "Business Intelligence" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "GetResponse",
+      "description": "Email marketing from GetResponse. Send email newsletters, campaigns, online surveys and follow-up autoresponders. Simple, easy interface. FREE sign up.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/getresponse.com",
+      "website": "getresponse.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.getresponse.com/legal/privacy-us"
+        }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1993, "name": "Direct Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2038, "name": "Email" }
+      ]
+    },
+    {
+      "id": 609,
+      "name": "WordStream",
+      "description": "Use our free tools and 20-Minute Work Week to create, optimize, manage and measure high-performing paid search and paid social campaigns.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/wordstream.com",
+      "website": "wordstream.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.wordstream.com/privacy-policy "
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.wordstream.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 898,
+      "name": "ConvertKit",
+      "description": "Get the email marketing tools and automation you need to grow your blog and business. Join 25,000+ creators and try ConvertKit today.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/convertkit.com",
+      "website": "convertkit.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://convertkit.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://convertkit.com/privacy" },
+        { "protocolId": 7, "sourceUrl": "https://convertkit.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 2073, "name": "Robotics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 822,
+      "name": "Network Solutions",
+      "description": "com domain name registrar with 6,722,545 registrations as of August 2018.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/networksolutions.com",
+      "website": "networksolutions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2059, "name": "Security" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2468, "name": "SEM" },
+        { "id": 2187, "name": "Web Hosting" },
+        { "id": 2088, "name": "Web Development" }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Tailwind",
+      "description": "Save time scheduling to Pinterest and Instagram, post at the best times for engagement, grow together with Tribes, get more actionable analytics. Start free!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tailwindapp.com",
+      "website": "tailwindapp.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tailwindapp.com/about/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1903, "name": "Social Bookmarking" },
+        { "id": 1835, "name": "Image Recognition" }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Serpstat",
+      "description": "Smart and powerful tool for ✓ Backlinks Analysis ✓ Rank Tracking ✓ Keyword Research ✓ Competitor Analysis ✓ Site Audit.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/serpstat.com",
+      "website": "serpstat.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Vyond",
+      "description": "Vyond is a cloud-based, animated video creation platform owned by GoAnimate, Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/vyond.com",
+      "website": "vyond.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.vyond.com/solutions/enterprise/security/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.vyond.com/company/press/vyond-obtains-privacy-shield-certification-validating-data-protections/"
+        }
+      ],
+      "categories": [
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1824, "name": "Video" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1927, "name": "Language Learning" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2143, "name": "Corporate Training" },
+        { "id": 2111, "name": "Education" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 1092,
+      "name": "Klaviyo",
+      "description": "Klaviyo is a growth marketing platform created for online businesses — featuring powerful marketing automation and a revenue-driving email platform. Klaviyo helps brands understand their customers and build unlimited, real, quality relationships.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/klaviyo.com",
+      "website": "klaviyo.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.klaviyo.com/terms-of-service"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.klaviyo.com/privacy/policy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.klaviyo.com/privacy/policy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://www.klaviyo.com/privacy/dpa" }
+      ],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2043, "name": "Shopping" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 747,
+      "name": "PubMatic",
+      "description": "PubMatic is a digital advertising technology company who empowers premium app developers and publishers to maximize their programmatic advertising business.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pubmatic.com",
+      "website": "pubmatic.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://pubmatic.com/legal/privacy-policy/#privacyshield"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 1050,
+      "name": "Sprinklr",
+      "description": "SMMS: Social media management software for the enterprise. Sprinklr provides enterprise social media marketing and management software including social engagement, social advertising, advocacy marketing, influencer marketing, and customer care through ...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sprinklr.com",
+      "website": "sprinklr.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.sprinklr.com/privacy/" },
+        { "protocolId": 7, "sourceUrl": "https://www.sprinklr.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.sprinklr.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2165, "name": "Social Media Management" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1882, "name": "Blogging Platforms" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1816, "name": "Social CRM" }
+      ]
+    },
+    {
+      "id": 982,
+      "name": "Rubicon Project",
+      "description": "Rubicon Project is an American online advertising technology firm based in Los Angeles, California.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rubiconproject.com",
+      "website": "rubiconproject.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://rubiconproject.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://rubiconproject.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "http://investor.rubiconproject.com/node/9411/html"
+        }
+      ],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 968,
+      "name": "GotPrint",
+      "description": "Get connected with GotPrint's company culture! Please note, page is managed Monday - Friday, 8am-4pm PST. For customer service, please call 877.922.7374  ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/gotprint.com",
+      "website": "gotprint.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1913, "name": "Manufacturing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Unbounce",
+      "description": "Get more leads, sales, and customers with landing pages built just how you want in Unbounce’s drag-and-drop builder.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/unbounce.com",
+      "website": "unbounce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 2042, "name": "Machine Learning" }
+      ]
+    },
+    {
+      "id": 951,
+      "name": "Quantcast",
+      "description": "Quantcast is an American technology company, founded in 2006, that specializes in AI-driven real-time advertising, audience insights and measurement.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/quantcast.com",
+      "website": "quantcast.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.quantcast.com/gdpr/" },
+        { "protocolId": 13, "sourceUrl": "https://www.quantcast.com/gdpr/" }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 694,
+      "name": "Simpli.fi",
+      "description": "Simpli.fi is a comprehensive RTB platform built for localized campaigns. With display, mobile, video, social, and geo-fencing capabilities why trust your programmatic strategy to anyone else?",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/simpli.fi",
+      "website": "simpli.fi",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2408, "name": "Ad Exchange" },
+        { "id": 1959, "name": "Semantic Search" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2061, "name": "Auctions" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Instapage",
+      "description": "Turn your ad clicks into conversions on the only platform designed to create, personalize, & optimize post-click landing pages & experiences at scale.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/instapage.com",
+      "website": "instapage.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://app.instapage.com/route/8161801/?url=wwm.noteflight.com/legal/privacy"
+        },
+        { "protocolId": 1, "sourceUrl": "https://instapage.com/security" },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://app.instapage.com/route/8161801/?url=wwm.noteflight.com/legal/privacy"
+        },
+        { "protocolId": 7, "sourceUrl": "https://instapage.com/gdpr" }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 447,
+      "name": "Sendible",
+      "description": "Manage & amplify multiple brands on social media with Sendible. Streamline how you manage brands - from planning and collaboration to engagement and analytics.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sendible.com",
+      "website": "sendible.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.sendible.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 1818, "name": "Events" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2058, "name": "Contact Management" },
+        { "id": 2106, "name": "SMS" }
+      ]
+    },
+    {
+      "id": 646,
+      "name": "Uberflip",
+      "description": "Uberflip is a Content Experience Platform that enables marketers to create digital experiences with content for every stage of the buyer journey.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/uberflip.com",
+      "website": "uberflip.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1938, "name": "B2B" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Chartbeat",
+      "description": "Improve audience engagement, inform editorial decisions, and increase readership. Chartbeat delivers real-time analytics, content intelligence, and transformative newsroom tools for digital media and publishing companies around the world.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chartbeat.com",
+      "website": "chartbeat.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2198, "name": "Content" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 684,
+      "name": "ThriveHive",
+      "description": "Find out why more than 50,000 businesses rely on our guided marketing and advertising solutions to get found, stand out, and get chosen online.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/thrivehive.com",
+      "website": "thrivehive.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 1849, "name": "Local" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 1981, "name": "Local Advertising" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "UpCity",
+      "description": "At UpCity, we create and empower successful relationships between businesses and B2B service providers. Find your next partner today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/upcity.com",
+      "website": "upcity.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2107, "name": "Network Security" },
+        { "id": 2325, "name": "Ad Network" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "StackAdapt",
+      "description": "StackAdapt is the #1 programmatic native advertising platform helping agencies accelerate customer engagement and acquisition.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/stackadapt.com",
+      "website": "stackadapt.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2076, "name": "Ad Targeting" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 778,
+      "name": "Winmo",
+      "description": "Our advertising database gives you accurate, in-depth profiles on national advertisers and the decision-makers who manage their budgets. Request your free trial today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/winmo.com",
+      "website": "winmo.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2416, "name": "Productivity Tools" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2137, "name": "Predictive Analytics" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1884, "name": "Business Development" }
+      ]
+    },
+    {
+      "id": 930,
+      "name": "Contently",
+      "description": "The highest-rated content marketing solution: expert content strategy, an enterprise content marketing platform, and Global Freelance Talent Network.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/contently.com",
+      "website": "contently.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1998, "name": "Content Creators" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Funnel",
+      "description": "Supports data collection from any marketing or advertising data source and transforms marketing data into automated marketing reports.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/funnel.io",
+      "website": "funnel.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://funnel.io/general-terms-and-conditions"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 897,
+      "name": "dataxu",
+      "description": "Think of dataxu® as your secret weapon. Our industry-leading technology and team of data scientists and support specialists exist to enable you to fully capitalize on the potential of data-powered marketing.    At dataxu®, your business is our business...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/dataxu.com",
+      "website": "dataxu.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2076, "name": "Ad Targeting" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2006, "name": "Data Visualization" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 841,
+      "name": "ReviewTrackers",
+      "description": "ReviewTrackers is an award-winning customer review software company. Get more reviews. Respond to customers. Find insights about the customer experience.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/reviewtrackers.com",
+      "website": "reviewtrackers.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.reviewtrackers.com/terms-service/gdpr-data-processing-addendum/"
+        }
+      ],
+      "categories": [
+        { "id": 2178, "name": "Reputation" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 721,
+      "name": "Kenshoo",
+      "description": "Digital advertising technology platform designed to connect marketers and customers across the leading publishers for search, social and e-commerce.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/kenshoo.com",
+      "website": "kenshoo.com",
+      "vendorToProtocols": [
+        { "protocolId": 2, "sourceUrl": "https://kenshoo.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1890, "name": "Mobile Advertising" },
+        { "id": 1912, "name": "Social Media Advertising" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Datorama",
+      "description": "Datorama is AI-powered marketing intelligence. Make smarter decisions by connecting and acting on all of your marketing data, investments, and KPIs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/datorama.com",
+      "website": "datorama.com",
+      "vendorToProtocols": [
+        { "protocolId": 1, "sourceUrl": "https://datorama.com/security/" },
+        { "protocolId": 11, "sourceUrl": "https://datorama.com/security/" }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2144, "name": "Big Data" }
+      ]
+    },
+    {
+      "id": 886,
+      "name": "Demandbase",
+      "description": "Demandbase is the leader in account-based marketing and offers everything you need to identify, target and close bigger deals with your key accounts.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/demandbase.com",
+      "website": "demandbase.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.demandbase.com/privacy-shield/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.demandbase.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Upfluence",
+      "description": "Upfluence is the smartest influencer marketing platform. Find top influencers. Contact influencers at scale. Manage influencer campaigns, measure results and use Upfluence social listening tool. We also provide content and influencer marketing agency s...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/upfluence.com",
+      "website": "upfluence.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 943,
+      "name": "ReachLocal",
+      "description": "ReachLocal, Inc. is an online marketing and advertising solution provider for small, medium, and large businesses, advertising to consumers in local markets.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/reachlocal.com",
+      "website": "reachlocal.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 597,
+      "name": "RebelMouse",
+      "description": "RebelMouse is a creative agency fueled by a publishing platform with deep technology. We blend product and strategy together to move the needle where it matters most — organic traffic and user growth, conversion to loyalty, and revenue success.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/rebelmouse.com",
+      "website": "rebelmouse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2198, "name": "Content" }
+      ]
+    },
+    {
+      "id": 993,
+      "name": "Skyword",
+      "description": "Skyword offers an enterprise content marketing platform in Skyword360, a global community of storytellers, and industry-leading content marketing services. Skyword powers great brand storytelling that creates lasting connections.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/skyword.com",
+      "website": "skyword.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1959, "name": "Semantic Search" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2102, "name": "Search Engine" },
+        { "id": 2198, "name": "Content" },
+        { "id": 2320, "name": "Content Marketing" }
+      ]
+    },
+    {
+      "id": 739,
+      "name": "Terminus",
+      "description": "With Terminus, B2B professionals can easily start and scale account based marketing programs to increase revenue, improve reporting & beat the competition.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/terminus.com",
+      "website": "terminus.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 818,
+      "name": "Listrak",
+      "description": "Lingkaran Trans Kota Holdings Berhad is the highway concessionaries or Build-Operate-Transfer operator company in Malaysia.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/listrak.com",
+      "website": "listrak.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.listrak.com/general-data-protection-regulation"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.listrak.com/blog/detail/gdpr-why-you-should-cherish-it!"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.listrak.com/general-data-protection-regulation"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.listrak.com/privacy-and-terms/privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1869, "name": "Personalization" },
+        { "id": 1832, "name": "Retail" },
+        { "id": 2321, "name": "B2C" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2106, "name": "SMS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1877, "name": "Digital Media" }
+      ]
+    },
+    {
+      "id": 880,
+      "name": "NewsCred",
+      "description": "NewsCred is the global leader for enterprise content marketing platforms. Our technology and expertise deliver solutions that drive business results for top brands.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/newscred.com",
+      "website": "newscred.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.newscred.com/privacypolicy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.newscred.com/privacypolicy/"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 1945, "name": "Journalism" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 901,
+      "name": "SteelHouse",
+      "description": "Drive new visitors to your site and bring them back to convert across display, mobile, social, and Connected TV — all from a single self-serve online advertising platform.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "steelhouse.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2222, "name": "Real Time" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 973,
+      "name": "LiveIntent",
+      "description": "Transform email into the simplest, most powerful way to resolve identity while driving sales and increasing revenue.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/liveintent.com",
+      "website": "liveintent.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2038, "name": "Email" },
+        { "id": 2047, "name": "Publishing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2324, "name": "Ad Retargeting" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "MediaRadar",
+      "description": "Sales enablement platforms customized for media, ad tech, and agencies that help you close more deals. Get Your Free Demo!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mediaradar.com",
+      "website": "mediaradar.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://mediaradar.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://mediaradar.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2103, "name": "Market Research" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 942,
+      "name": "TrackMaven",
+      "description": "TrackMaven’s marketing analytics platform helps you prove ROI and improve results on 18 digital channels including social, ads, PR, automation, and CRM.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trackmaven.com",
+      "website": "trackmaven.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Chatmeter",
+      "description": "All-In-One Local Brand Management Platform gives enterprises control of Reputation & Local SEO Analytics for Multi-Location Businesses, Chains, & Agencies",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/chatmeter.com",
+      "website": "chatmeter.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2178, "name": "Reputation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "TapClicks",
+      "description": "TapClicks’ TapAnalytics marketing operations platform is focused on marketing workflow, performance analytics, client reporting and data.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tapclicks.com",
+      "website": "tapclicks.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.tapclicks.com/industries/hipaa-compliant-marketing-reporting-analytics/"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.tapclicks.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2088, "name": "Web Development" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 394,
+      "name": "Invoca",
+      "description": "Invoca is an AI-powered call tracking and analytics platform that gives marketers campaign attribution and actionable data from inbound phone calls.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/invoca.com",
+      "website": "invoca.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://blog.invoca.com/gdpr-compliance-and-invoca-call-intelligence/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://blog.invoca.com/gdpr-compliance-and-invoca-call-intelligence/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.invoca.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "NinjaCat",
+      "description": "The leading Unified Marketing Analytics Platform: Data Pipelines, Reporting, Dashboards, Monitoring and Call Tracking built for agencies and media companies. Sign up today for a free demo.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ninjacat.io",
+      "website": "ninjacat.io",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.ninjacat.io/legal/ninjacat-gdpr-data-protection"
+        }
+      ],
+      "categories": [
+        { "id": 2468, "name": "SEM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2062, "name": "SEO" }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Miva",
+      "description": "Miva, Inc. is a privately owned ecommerce shopping cart software and hosting company with headquarters in San Diego, California and a data center in Tampa, Florida.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/miva.com",
+      "website": "miva.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1926, "name": "Web Design" },
+        { "id": 1880, "name": "E-Commerce" }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "OutboundEngine",
+      "description": "We make businesses look great online & keep them in front of their networks to build stronger relationships, uncover new opportunities and drive referrals.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/outboundengine.com",
+      "website": "outboundengine.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 1040,
+      "name": "Retreaver",
+      "description": "Retreaver's inbound call tracking allows you to analyze inbound calls and drive higher conversions. Let's grow your revenue. Learn more from Retreaver today!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/retreaver.com",
+      "website": "retreaver.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" }
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Sigstr",
+      "description": "Sigstr's email signature marketing platform allows you to standardize brand consistency and drive marketing ROI with every employee email sent.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sigstr.com",
+      "website": "sigstr.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2038, "name": "Email" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    },
+    {
+      "id": 623,
+      "name": "ROKT",
+      "description": "Get the max return on investment every time a customer engages your marketing offer using Rokt’s transaction marketing platform.",
+      "isClaimed": false,
+      "logo": null,
+      "website": "rokt.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://rokt.com/privacy-policy/" }
+      ],
+      "categories": [
+        { "id": 2103, "name": "Market Research" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1938, "name": "B2B" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Sotrender",
+      "description": "Sotrender delivers the best solutions for marketing in social media analytics. Metrics, optimization, competitor comparison, and custom recommendations for Facebook, Twitter, Instagram, and YouTube.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/sotrender.com",
+      "website": "sotrender.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2208, "name": "Social Media Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Pathmatics",
+      "description": "Pathmatics digital marketing intelligence platform brings transparency to your competitor's digital ad strategies across social, video, display, and mobile.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/pathmatics.com",
+      "website": "pathmatics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2026, "name": "Advertising Platforms" }
+      ]
+    },
+    {
+      "id": 635,
+      "name": "Jebbit",
+      "description": "Transform mobile traffic into actionable data, using mobile experiences that convert.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jebbit.com",
+      "website": "jebbit.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1871, "name": "Social Media" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "IntelligenceBank",
+      "description": "Digital Asset Management Software, Marketing Operations Software, Online Brand Guidelines, Board & Meeting Governance Tools, DAM Software and GRC Software",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/intelligencebank.com",
+      "website": "intelligencebank.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.intelligencebank.com/security"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2271, "name": "Management Information Systems" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Trumpia",
+      "description": "Trumpia was ranked 46th in Software Companies, 33rd in the Los Angeles Metro Area, 80th in Top 100 California Companies, and 515th overall for the Inc.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/trumpia.com",
+      "website": "trumpia.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1906, "name": "Internet of Things" },
+        { "id": 1812, "name": "Mobile" },
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2096, "name": "CRM" }
+      ]
+    },
+    {
+      "id": 666,
+      "name": "Madison Logic",
+      "description": "Madison Logic is the global leader in Account Based Marketing.    Our B2B marketing technology platform, Activate ABM™, unifies targeted advertising and content syndication with attribution metrics to show measurable return on investment. As the only c...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/madisonlogic.com",
+      "website": "madisonlogic.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1891, "name": "Lead Generation" }
+      ]
+    },
+    {
+      "id": 743,
+      "name": "Market Leader",
+      "description": "A pioneer in lead generation and contact management systems, Market Leader has been helping agents and teams manage, grow, and thrive since 1999.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marketleader.com",
+      "website": "marketleader.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1839, "name": "Real Estate" },
+        { "id": 2385, "name": "Building Material" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1820, "name": "Public Relations" },
+        { "id": 1939, "name": "Brand Marketing" }
+      ]
+    },
+    {
+      "id": 826,
+      "name": "Squiz",
+      "description": "Squiz is a multinational company that first launched in Australia in 1998.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/squiz.net",
+      "website": "squiz.net",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 379,
+      "name": "V12 Data",
+      "description": "As an omnichannel data powerhouse, V12 Data combines rich data assets with robust technology to provide brands with a seamless and connected customer view.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/v12data.com",
+      "website": "v12data.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://v12data.com/v12-datas-us-eu-privacy-shield-principles/"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2429, "name": "Database" },
+        { "id": 2403, "name": "Marketing" }
+      ]
+    },
+    {
+      "id": 859,
+      "name": "IgnitionOne",
+      "description": "Follow us on Twitter @ignitionone!",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ignitionone.com",
+      "website": "ignitionone.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://ignitionone.com/services-policy/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://ignitionone.com/services-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 1877, "name": "Digital Media" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1911, "name": "Test and Measurement" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2104, "name": "Data Integration" },
+        { "id": 2466, "name": "Digital Marketing" }
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "Marchex",
+      "description": "Marchex, Inc. is a Seattle-based public company, founded in 2003, with just under 300 employees.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/marchex.com",
+      "website": "marchex.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.marchex.com/security-and-trust/"
+        }
+      ],
+      "categories": [
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 972,
+      "name": "Telmetrics",
+      "description": "Telmetrics is the call analytics and attribution technology leader with over 25 years of experience supporting large advertising programs. We help marketers increase ROI on direct response ad campaigns by providing tools for call tracking, lead attribu...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/telmetrics.com",
+      "website": "telmetrics.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1925, "name": "Telecommunications" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2146, "name": "Marketing Automation" }
+      ]
+    },
+    {
+      "id": 345,
+      "name": "ResponseTap",
+      "description": "With Intelligent Call Tracking from ResponseTap, you can finally reveal the campaigns, channels and keywords that make your customers pick up the phone. Find out more here.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/responsetap.com",
+      "website": "responsetap.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.responsetap.com/gb/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2449, "name": "Gaming" },
+        { "id": 2305, "name": "Mobile Apps" }
+      ]
+    },
+    {
+      "id": 495,
+      "name": "HG Insights",
+      "description": "HG Insights delivers best in class technographics, giving B2B marketers better insights to analyze markets and deliver precision marketing and sales programs at scale.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hginsights.com",
+      "website": "hginsights.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1891, "name": "Lead Generation" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "Hot Prospector",
+      "description": "Sales software to boost your sales and lead management. Hot Prospector sales team management software increases conversions with automated ringless voicemails, sms, and email drips .",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/hotprospector.com",
+      "website": "hotprospector.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 798,
+      "name": "Connectleader",
+      "description": "ConnectLeader's Sales Engagement Platform helps reach your best leads fast. Get more dials, increase revenue, and consistently exceed sales quota.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/connectleader.com",
+      "website": "connectleader.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.connectleader.com/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2086, "name": "Sales Automation" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2073, "name": "Robotics" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2467, "name": "Sales" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Mobilewalla",
+      "description": "Mobilewalla is the only mobile consumer intelligence platform that observes, captures, and analyzes the behavior of consumers. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/mobilewalla.com",
+      "website": "mobilewalla.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.mobilewalla.com/website-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 1997, "name": "Analytics" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2042, "name": "Machine Learning" },
+        { "id": 2142, "name": "Artificial Intelligence" },
+        { "id": 2144, "name": "Big Data" },
+        { "id": 2281, "name": "DSP" },
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Northplains",
+      "description": "Northplains offers one of the most advanced and trusted digital asset management systems in the industry. Our services provide scalable solutions that empower customers to maintain control of their visual assets to support processes globally while impr...",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/northplains.com",
+      "website": "northplains.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2335, "name": "Computer" },
+        { "id": 2034, "name": "Advertising" }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "MSIGHTS",
+      "description": "MSIGHTS is a cloud platform designed for marketing data transformation and media campaign performance reporting.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/msights.com",
+      "website": "msights.com",
+      "vendorToProtocols": [
+        { "protocolId": 4, "sourceUrl": "https://www.msights.com/privacy" },
+        { "protocolId": 2, "sourceUrl": "https://www.msights.com/privacy" }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1822, "name": "Cloud Data Services" }
+      ]
+    },
+    {
+      "id": 961,
+      "name": "Jelli",
+      "description": "The company was originally established as a provider of interactive music programming for radio stations, in which listeners were able to upvote and downvote songs played by a particular station in real-time.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/jelli.com",
+      "website": "jelli.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 2109, "name": "Broadcasting" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" }
+      ]
+    },
+    {
+      "id": 1199,
+      "name": "SaaS Labs",
+      "description": "We build software products to serve hundreds of thousands of businesses around the world. Most of our products revolve around productivity and business process automation.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/saaslabs.co",
+      "website": "saaslabs.co",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1864, "name": "SaaS" },
+        { "id": 2430, "name": "Angel Investment" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1938, "name": "B2B" }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "CallPage",
+      "description": "CallPage assists you in converting your website visitors into happy customers. Generate sales calls and leads, and move deals faster through the pipeline.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/callpage.io",
+      "website": "callpage.io",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 1951, "name": "Software" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1893, "name": "Customer Service" },
+        { "id": 1880, "name": "E-Commerce" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 1046,
+      "name": "AdHawk",
+      "description": "A mobile app that aggregates a company's total digital marketing data into one easy to read dashboard. ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/tryadhawk.com",
+      "website": "tryadhawk.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.tryadhawk.com/terms" },
+        { "protocolId": 4, "sourceUrl": "https://www.tryadhawk.com/terms" },
+        { "protocolId": 2, "sourceUrl": "https://www.tryadhawk.com/terms" }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 920,
+      "name": "4C",
+      "description": "4C is building the leading self-service platform for brands to execute video-centric marketing and optimize business outcomes. #4CTheFutureofMedia",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/4cinsights.com",
+      "website": "4cinsights.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2338, "name": "TV" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Ceros",
+      "description": "Ceros is an experiential content creation platform that empowers marketers and designers to create engaging, interactive, and immersive content experiences.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/ceros.com",
+      "website": "ceros.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.ceros.com/terms-conditions/"
+        }
+      ],
+      "categories": [
+        { "id": 2320, "name": "Content Marketing" },
+        { "id": 2234, "name": "Graphic Design" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 217,
+      "name": "AppsFlyer",
+      "description": "AppsFlyer is a SaaS mobile marketing analytics and attribution platform, headquartered in Herzilya, Israel.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appsflyer.com",
+      "website": "appsflyer.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 13,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        },
+        {
+          "protocolId": 11,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.appsflyer.com/product/security-and-privacy"
+        },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.appsflyer.com/product/gdpr"
+        },
+        {
+          "protocolId": 1,
+          "sourceUrl": "https://www.appsflyer.com/blog/appsflyer-approach-to-security-and-privacy"
+        }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2195, "name": "Android" },
+        { "id": 2177, "name": "iOS" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1970, "name": "Apps" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 545,
+      "name": "Broadly",
+      "description": "Broadly's software helps your business look great online. Get more positive online reviews, keep negative feedback offline, and attract more customers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/broadly.com",
+      "website": "broadly.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2409, "name": "Consumer Reviews" },
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2178, "name": "Reputation" },
+        { "id": 2171, "name": "Messaging" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1988, "name": "Small and Medium Businesses" },
+        { "id": 1871, "name": "Social Media" }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "BounceX",
+      "description": "Accurately recognize website traffic in real time. Match anonymous visitors to your CRM. Maximize triggered marketing across channels & devices.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bouncex.com",
+      "website": "bouncex.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.bouncex.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.bouncex.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.bouncex.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 392,
+      "name": "BrightLocal",
+      "description": "Over 3,500 Agencies, Marketers & Brands trust BrightLocal for their local SEO Reporting, Citation Building and Reputation Management. 14 Day Free Trial",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brightlocal.com",
+      "website": "brightlocal.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 7,
+          "sourceUrl": "https://www.brightlocal.com/privacy-policy/"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2062, "name": "SEO" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1829, "name": "Consulting" }
+      ]
+    },
+    {
+      "id": 596,
+      "name": "Ace Metrix",
+      "description": "Ace Metrix is a technology company that measures the impact of video advertising and provides the tools and insights to make better creative.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/acemetrix.com",
+      "website": "acemetrix.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2338, "name": "TV" },
+        { "id": 2222, "name": "Real Time" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1997, "name": "Analytics" }
+      ]
+    },
+    {
+      "id": 830,
+      "name": "BurrellesLuce",
+      "description": "Work Smarter With BurrellesLuce WorkFlow... ",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/burrellesluce.com",
+      "website": "burrellesluce.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1879, "name": "Internet" },
+        { "id": 1871, "name": "Social Media" },
+        { "id": 1829, "name": "Consulting" },
+        { "id": 1820, "name": "Public Relations" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 806,
+      "name": "CELUM",
+      "description": "CELUM provides the foundation for the creation, administration, distribution and monetization of content. ✓ Over 800 customers in 35 countries ✓ Analysts tested",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celum.com",
+      "website": "celum.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2467, "name": "Sales" },
+        { "id": 2403, "name": "Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1819, "name": "Enterprise Software" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Appy Pie",
+      "description": "Appy Pie is a mobile app creator released for Android, iOS, Fire OS, Windows Phone, and BlackBerry platforms that allows its users to create and monetize different types of mobile apps.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/appypie.com",
+      "website": "appypie.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.appypie.com/security" },
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.appypie.com/privacy-policy"
+        },
+        {
+          "protocolId": 3,
+          "sourceUrl": "https://www.appypie.com/pricing-plan"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.appypie.com/privacy-policy"
+        },
+        { "protocolId": 1, "sourceUrl": "https://www.appypie.com/security" }
+      ],
+      "categories": [
+        { "id": 2305, "name": "Mobile Apps" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" }
+      ]
+    },
+    {
+      "id": 673,
+      "name": "BrandMaker",
+      "description": "BrandMaker enables the planning, budgeting, execution, and measurement of your marketing efforts. One connected platform to run your marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/brandmaker.com",
+      "website": "brandmaker.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2096, "name": "CRM" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2022, "name": "Cloud Computing" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1864, "name": "SaaS" },
+        { "id": 1817, "name": "Information Technology" }
+      ]
+    },
+    {
+      "id": 861,
+      "name": "AWeber",
+      "description": "Looking for affordable and easy to use email marketing and autoresponder tools? Click here to start your free email marketing trial with AWeber.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/aweber.com",
+      "website": "aweber.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://blog.aweber.com/press/aweber-granted-eu-u-s-privacy-shield-certification"
+        }
+      ],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1894, "name": "Email Marketing" }
+      ]
+    },
+    {
+      "id": 563,
+      "name": "Benchmark",
+      "description": "Email Marketing Service to engage subscribers, nurture leads, send beautiful, responsive emails and track results.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/benchmarkemail.com",
+      "website": "benchmarkemail.com",
+      "vendorToProtocols": [
+        {
+          "protocolId": 4,
+          "sourceUrl": "https://www.benchmarkemail.com/email-marketing/privacy-policy"
+        },
+        {
+          "protocolId": 2,
+          "sourceUrl": "https://www.benchmarkemail.com/email-marketing/privacy-policy"
+        }
+      ],
+      "categories": [
+        { "id": 2466, "name": "Digital Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1819, "name": "Enterprise Software" }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Bluecore",
+      "description": "Double your email revenue with the personalization solution of choice for the world's fastest growing retailers.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/bluecore.com",
+      "website": "bluecore.com",
+      "vendorToProtocols": [
+        { "protocolId": 7, "sourceUrl": "https://www.bluecore.com/privacy/" },
+        { "protocolId": 4, "sourceUrl": "https://www.bluecore.com/privacy/" },
+        { "protocolId": 2, "sourceUrl": "https://www.bluecore.com/privacy/" }
+      ],
+      "categories": [
+        { "id": 2146, "name": "Marketing Automation" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1951, "name": "Software" },
+        { "id": 1939, "name": "Brand Marketing" },
+        { "id": 1894, "name": "Email Marketing" },
+        { "id": 1864, "name": "SaaS" }
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Celtra",
+      "description": "Celtra's Creative Management Platform (CMP) is a cloud-based, self-service software for managing the entire creative lifecycle of digital advertising — improving advertising effectiveness while reducing operational costs.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/celtra.com",
+      "website": "celtra.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2184, "name": "App Marketing" },
+        { "id": 2034, "name": "Advertising" },
+        { "id": 1898, "name": "Information Services" },
+        { "id": 1817, "name": "Information Technology" },
+        { "id": 1812, "name": "Mobile" }
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Atlas",
+      "description": "Atlas Advertiser Suite is a platform that advertisers and agencies use to plan, manage track and optimize digital marketing.",
+      "isClaimed": false,
+      "logo": "https://logo.clearbit.com/atlassolutions.com",
+      "website": "atlassolutions.com",
+      "vendorToProtocols": [],
+      "categories": [
+        { "id": 2034, "name": "Advertising" },
+        { "id": 2026, "name": "Advertising Platforms" },
+        { "id": 1879, "name": "Internet" }
+      ]
+    }
+  ]
+}

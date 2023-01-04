@@ -1,0 +1,155 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "Laika CloudFormation template for AWS Integration",
+  "Metadata": {
+    "AWS::CloudFormation::Interface": {
+      "ParameterGroups": [
+        {
+          "Label": {
+            "default": "IAM Parameters"
+          },
+          "Parameters": ["Account", "STSid","RoleName"]
+        }
+      ],
+      "ParameterLabels": {
+        "Account": {
+          "default": "Laika AWS account Id?"
+        },
+        "STSid": {
+          "default": "Laika External Identity"
+        },
+        "RoleName": {
+          "default": "Laika External Role"
+        }
+      }
+    }
+  },
+  "Parameters": {
+    "Account": {
+      "Description": "AWS account Id",
+      "Type": "String",
+	  "Default": "055979365716"
+    },
+    "STSid": {
+      "Description": "AWS External Identity",
+      "Type": "String",
+	  "Default": "96ac8c99-c5b7-4e9e-a21c-6a3dea489bcc"
+    },
+    "RoleName": {
+      "Description": "AWS External Role",
+      "Type": "String",
+	  "Default": "ECSPipeline-prod-Service-ZQVVFDK-TaskExecutionRole-1OX9U16OEEQUY"
+    }
+  },
+  "Resources": {
+      "LaikaIntegrationRolePolicy": {
+      "Type": "AWS::IAM::ManagedPolicy",
+      "Properties": {
+        "ManagedPolicyName": { "Fn::Sub": "${AWS::StackName}-LaikaIntegrationRolePolicy"},
+        "Path": "/",
+        "PolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Effect": "Allow",
+              "Resource": "*",
+              "Action": [
+                "ecr:DescribeRepositories",
+                "ecr-public:DescribeRepositories",
+                "organizations:Describe*",
+                "organizations:List*",
+                "s3:GetBucket*",
+                "s3:GetEncryptionConfiguration",
+                "s3:List*",
+                "cloudtrail:DescribeTrails",
+                "cloudtrail:GetTrailStatus",
+                "cloudtrail:GetEventSelectors",
+                "autoscaling:Describe*",
+                "cloudwatch:Describe*",
+                "logs:Describe*",
+                "sns:Get*",
+                "sns:List*",
+                "dynamodb:Describe*",
+                "dynamodb:List*",
+                "ec2:Describe*",
+                "iam:Get*",
+                "iam:List*",
+                "kms:Describe*",
+                "kms:List*",
+                "kms:GetKeyRotationStatus",
+                "tag:GetResources",
+                "kinesis:List*",
+                "kinesis:Describe*",
+                "kinesis:Get*",
+                "rds:Describe*",
+                "sqs:ListQueues",
+                "elasticache:Describe*",
+                "guardduty:Describe*",
+                "guardduty:Get*",
+                "guardduty:List*",
+                "redshift:Describe*",
+                "redshift:ViewQueriesInConsole",
+                "secretsmanager:Describe*",
+                "secretsmanager:List*",
+                "serverlessrepo:GetApplication",
+                "securityhub:Get*",
+                "securityhub:List*",
+                "securityhub:Describe*",
+                "config:Get*",
+                "config:Describe*",
+                "config:Deliver*",
+                "config:List*",
+                "config:Select*",
+                "tag:GetTagKeys",
+                "aws-portal:View*",
+                "eks:ListClusters",
+                "eks:DescribeCluster",
+                "ecr:DescribeImages"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "LaikaIntegrationRole": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "ManagedPolicyArns": [
+          { "Ref": "LaikaIntegrationRolePolicy" }
+        ],
+        "AssumeRolePolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": {
+                "AWS": {
+                  "Fn::Join": [
+                    "",
+                    ["arn:aws:iam::", { "Ref": "Account" }, ":role/",{ "Ref": "RoleName" }]
+                  ]
+                }
+              },
+              "Condition": {
+                "StringEquals": {
+                  "sts:ExternalId": {
+                    "Ref": "STSid"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Outputs": {
+    "RoleARN": {
+      "Description": "Laika Role ARN",
+      "Value": {
+        "Fn::GetAtt": ["LaikaIntegrationRole", "Arn"]
+      }
+    }
+  }
+}

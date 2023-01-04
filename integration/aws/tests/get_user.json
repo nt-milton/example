@@ -1,0 +1,9 @@
+{
+    "UserName": "test_user", 
+    "UserId": "AIDAST2AGO7MATBMBE4XF",
+    "is_admin": true,
+    "organization_name": "test-organization-name",
+    "groups": "group1,group2",
+    "email": "test@test.com",
+    "mfa_enabled": true
+}

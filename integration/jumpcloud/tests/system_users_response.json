@@ -1,0 +1,139 @@
+{
+    "totalCount": 2,
+    "results": [
+        {
+            "account_locked": false,
+            "account_locked_date": null,
+            "activated": false,
+            "addresses": [],
+            "allow_public_key": true,
+            "alternateEmail": null,
+            "attributes": [],
+            "company": "",
+            "costCenter": "",
+            "department": "",
+            "description": "",
+            "disableDeviceMaxLoginAttempts": false,
+            "displayname": "",
+            "email": "albertjwilliams.xyz@gmail.com",
+            "employeeIdentifier": null,
+            "employeeType": "",
+            "enable_managed_uid": false,
+            "enable_user_portal_multifactor": false,
+            "external_dn": "",
+            "external_source_type": "",
+            "externally_managed": false,
+            "firstname": "",
+            "jobTitle": "",
+            "lastname": "",
+            "ldap_binding_user": false,
+            "location": "",
+            "managedAppleId": "",
+            "manager": null,
+            "mfa": {
+                "exclusion": false,
+                "configured": false
+            },
+            "middlename": "",
+            "password_never_expires": false,
+            "passwordless_sudo": false,
+            "phoneNumbers": [],
+            "samba_service_user": false,
+            "ssh_keys": [],
+            "state": "ACTIVATED",
+            "sudo": false,
+            "suspended": false,
+            "systemUsername": "",
+            "unix_guid": 5002,
+            "unix_uid": 5002,
+            "username": "testingalbert",
+            "created": "2022-11-11T16:13:52.874Z",
+            "organization": "fake_organization",
+            "password_expired": false,
+            "totp_enabled": false,
+            "_id": "636e74c0f47288bf9efadde7",
+            "id": "636e74c0f47288bf9efadde7",
+            "mfaEnrollment": {
+                "totpStatus": "NOT_ENROLLED",
+                "webAuthnStatus": "NOT_ENROLLED",
+                "pushStatus": "NOT_ENROLLED",
+                "overallStatus": "NOT_ENROLLED"
+            }
+        },
+        {
+            "account_locked": false,
+            "activated": true,
+            "addresses": [
+                {
+                    "type": "work",
+                    "country": "VE",
+                    "_id": "636aa6fd9ae7f1c85e383066"
+                }
+            ],
+            "allow_public_key": true,
+            "alternateEmail": "albert+alternate@heylaika.com",
+            "attributes": [],
+            "company": "Laika",
+            "costCenter": "",
+            "department": "IT",
+            "description": "Testing",
+            "disableDeviceMaxLoginAttempts": false,
+            "displayname": "Albert J. Williams",
+            "email": "albert@heylaika.com",
+            "employeeIdentifier": "Testing 123",
+            "employeeType": "Software Developer",
+            "enable_managed_uid": false,
+            "enable_user_portal_multifactor": false,
+            "external_dn": "",
+            "external_source_type": "",
+            "externally_managed": false,
+            "firstname": "Albert",
+            "jobTitle": "Software Developer",
+            "lastname": "Williams",
+            "ldap_binding_user": false,
+            "location": "Venezuela",
+            "managedAppleId": "",
+            "manager": null,
+            "mfa": {
+                "exclusion": false,
+                "configured": false
+            },
+            "middlename": "J",
+            "password_never_expires": false,
+            "passwordless_sudo": false,
+            "phoneNumbers": [
+                {
+                    "type": "work",
+                    "number": "+584124647226",
+                    "_id": "636aa6fd9ae7f1c85e383067"
+                }
+            ],
+            "samba_service_user": false,
+            "ssh_keys": [],
+            "state": "ACTIVATED",
+            "sudo": false,
+            "suspended": false,
+            "systemUsername": "",
+            "unix_guid": 5001,
+            "unix_uid": 5001,
+            "username": "albert",
+            "created": "2022-11-08T18:59:09.498Z",
+            "organization": "fake_organization",
+            "password_expired": false,
+            "totp_enabled": false,
+            "_id": "636aa6fd9ae7f1c85e383065",
+            "id": "636aa6fd9ae7f1c85e383065",
+            "recoveryEmail": {
+                "address": "albert+alternate@heylaika.com",
+                "verified": false,
+                "verifiedAt": null
+            },
+            "mfaEnrollment": {
+                "totpStatus": "NOT_ENROLLED",
+                "webAuthnStatus": "NOT_ENROLLED",
+                "pushStatus": "NOT_ENROLLED",
+                "overallStatus": "NOT_ENROLLED"
+            }
+        }
+    ]
+}

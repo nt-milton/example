@@ -1,0 +1,9 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#organization(displayName)",
+  "value": [
+    {
+      "@odata.id": "test-id",
+      "displayName": "laika365"
+    }
+  ]
+}
